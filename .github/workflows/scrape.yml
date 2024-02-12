@@ -23,13 +23,17 @@ jobs:
           pip install poetry
           poetry install
   
-      - name: Install Java and Tabula
+      - name: Install Java
         run: |
           sudo apt-get update
           sudo apt-get install -y default-jre
-          pip install tabula-py
   
       - name: Run Scraper
         run: |
           source /opt/venv/bin/activate
           python scrape.py
+      - name: commit files to production
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: scrape
+          push_options: '--force'
