@@ -9,7 +9,8 @@ from enum import Enum
 import tabula
 import os
 import warnings
-warnings.simplefilter(action='ignore', category=FutureWarning)
+
+warnings.simplefilter(action="ignore", category=FutureWarning)
 import pandas as pd
 
 
@@ -137,14 +138,14 @@ def extract_number(row: pd.Series, key: str = "NIF"):
 def parse_singular_debtor(row: pd.Series, step: Step) -> SingularDebtor:
     nif = extract_number(row, "NIF")
     name = extract_string(row, "NOME")
-    
+
     return SingularDebtor(nif=nif, name=name, step=step)
 
 
 def parse_colective_debtor(row: pd.Series, step: Step) -> ColectiveDebtor:
     nipc = extract_number(row, "NIPC")
     name = extract_string(row, "DESIGNAÇÃO")
-    
+
     return ColectiveDebtor(nipc=nipc, name=name, step=step)
 
 
@@ -156,7 +157,6 @@ def parse_data(filepath: str) -> list[SingularDebtor | ColectiveDebtor]:
     dfs = tabula.read_pdf(filepath, pages="all")
 
     df = pd.concat(dfs)
-    
 
     parser = (
         parse_singular_debtor
@@ -209,11 +209,29 @@ def setup():
     os.makedirs(RAW_FILES_PATH, exist_ok=True)
     os.makedirs(JSON_FILES_PATH, exist_ok=True)
 
+def join_files():
+    singular_debtors = []
+    colective_debtors = []
+    for filename in os.listdir(JSON_FILES_PATH):
+        filepath = os.path.join(JSON_FILES_PATH, filename)
+        with open(filepath) as f:
+            if "FS" in filename:
+                singular_debtors.extend(json.load(f))
+            else:
+                colective_debtors.extend(json.load(f))        
+
+    data = {
+        "singular_debtors": singular_debtors,
+        "colective_debtors": colective_debtors
+    }
+    dest = os.path.join(JSON_FILES_PATH, "debtors.json")
+    dump_json(dest, data)
 
 def main():
     setup()
     fetch_data()
     process_files()
+    join_files()
 
 
 if __name__ == "__main__":
