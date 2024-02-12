@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "devedores"
+version = "0.1.0"
+description = ""
+authors = ["Francisco Macedo <franciscovcbm@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11.6"
+pypdf2 = "^3.0.1"
+requests = "^2.31.0"
+pydantic = "^2.6.1"
+tabula-py = "^2.9.0"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.1.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
