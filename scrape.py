@@ -217,7 +217,7 @@ def join_files():
         with open(filepath) as f:
             if "FS" in filename:
                 singular_debtors.extend(json.load(f))
-            else:
+            elif "FC" in filename:
                 colective_debtors.extend(json.load(f))        
 
     data = {
