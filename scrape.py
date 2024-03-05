@@ -29,7 +29,8 @@ class DebtorType(str, Enum):
 
 class Debtor(BaseModel):
     name: str
-    step: str
+    step_text: str
+    step: Step
 
 
 class SingularDebtor(Debtor):
@@ -60,7 +61,7 @@ class NoDataException(Exception):
     pass
 
 
-def get_step(response_content: bytes) -> tuple[str, DebtorType]:
+def get_step(response_content: bytes) -> tuple[str, Step, DebtorType]:
     pdf_file = io.BytesIO(response_content)
     reader = PyPDF2.PdfReader(pdf_file)
     page = reader.pages[0]
@@ -76,17 +77,16 @@ def get_step(response_content: bytes) -> tuple[str, DebtorType]:
             step_text_list[0]
             .lower()
             .replace("devedores de", "")
-            # .replace("€", "")
-            # .replace(".", "")
             .strip()
         )
-        # if "mais de" in step_text:
-        #     step_start = step_text.split("mais de")[-1].strip()
-        #     step = Step(start=int(step_start))
-        # else:
-        #     step_start, step_end = step_text.split(" a ")
-        #     step = Step(start=int(step_start), end=int(step_end))
-        return step_text, debtor_type
+        clean_step_text = step_text.replace("€", "").replace(".", "").strip()
+        if "mais de" in clean_step_text:
+            step_start = clean_step_text.split("mais de")[-1].strip()
+            step = Step(start=int(step_start))
+        else:
+            step_start, step_end = clean_step_text.split(" a ")
+            step = Step(start=int(step_start), end=int(step_end))
+        return step_text, step, debtor_type
 
     raise NoDataException
 
@@ -135,25 +135,25 @@ def extract_number(row: pd.Series, key: str = "NIF"):
     return nif
 
 
-def parse_singular_debtor(row: pd.Series, step: str) -> SingularDebtor:
+def parse_singular_debtor(row: pd.Series, step_text: str, step: Step) -> SingularDebtor:
     nif = extract_number(row, "NIF")
     name = extract_string(row, "NOME")
 
-    return SingularDebtor(nif=nif, name=name, step=step)
+    return SingularDebtor(nif=nif, name=name, step_text=step_text, step=step)
 
 
-def parse_colective_debtor(row: pd.Series, step: str) -> ColectiveDebtor:
+def parse_colective_debtor(row: pd.Series, step_text: str, step: Step) -> ColectiveDebtor:
     nipc = extract_number(row, "NIPC")
     name = extract_string(row, "DESIGNAÇÃO")
 
-    return ColectiveDebtor(nipc=nipc, name=name, step=step)
+    return ColectiveDebtor(nipc=nipc, name=name, step_text=step_text, step=step)
 
 
 def parse_data(filepath: str) -> list[SingularDebtor | ColectiveDebtor]:
     with open(filepath, "rb") as f:
         content = f.read()
 
-    step, debtor_type = get_step(content)
+    step_text, step, debtor_type = get_step(content)
     dfs = tabula.read_pdf(filepath, pages="all")
 
     df = pd.concat(dfs)
@@ -165,7 +165,7 @@ def parse_data(filepath: str) -> list[SingularDebtor | ColectiveDebtor]:
     )
     debtors: list[Debtor] = []
     for _, row in df.iterrows():
-        debtor = parser(row, step)
+        debtor = parser(row,step_text, step)
         debtors.append(debtor)
     return debtors
 
