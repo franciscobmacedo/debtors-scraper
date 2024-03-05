@@ -29,7 +29,7 @@ class DebtorType(str, Enum):
 
 class Debtor(BaseModel):
     name: str
-    step: Step
+    step: str
 
 
 class SingularDebtor(Debtor):
@@ -60,7 +60,7 @@ class NoDataException(Exception):
     pass
 
 
-def get_step(response_content: bytes) -> tuple[Step, DebtorType]:
+def get_step(response_content: bytes) -> tuple[str, DebtorType]:
     pdf_file = io.BytesIO(response_content)
     reader = PyPDF2.PdfReader(pdf_file)
     page = reader.pages[0]
@@ -76,17 +76,17 @@ def get_step(response_content: bytes) -> tuple[Step, DebtorType]:
             step_text_list[0]
             .lower()
             .replace("devedores de", "")
-            .replace("€", "")
-            .replace(".", "")
+            # .replace("€", "")
+            # .replace(".", "")
             .strip()
         )
-        if "mais de" in step_text:
-            step_start = step_text.split("mais de")[-1].strip()
-            step = Step(start=int(step_start))
-        else:
-            step_start, step_end = step_text.split(" a ")
-            step = Step(start=int(step_start), end=int(step_end))
-        return step, debtor_type
+        # if "mais de" in step_text:
+        #     step_start = step_text.split("mais de")[-1].strip()
+        #     step = Step(start=int(step_start))
+        # else:
+        #     step_start, step_end = step_text.split(" a ")
+        #     step = Step(start=int(step_start), end=int(step_end))
+        return step_text, debtor_type
 
     raise NoDataException
 
@@ -135,14 +135,14 @@ def extract_number(row: pd.Series, key: str = "NIF"):
     return nif
 
 
-def parse_singular_debtor(row: pd.Series, step: Step) -> SingularDebtor:
+def parse_singular_debtor(row: pd.Series, step: str) -> SingularDebtor:
     nif = extract_number(row, "NIF")
     name = extract_string(row, "NOME")
 
     return SingularDebtor(nif=nif, name=name, step=step)
 
 
-def parse_colective_debtor(row: pd.Series, step: Step) -> ColectiveDebtor:
+def parse_colective_debtor(row: pd.Series, step: str) -> ColectiveDebtor:
     nipc = extract_number(row, "NIPC")
     name = extract_string(row, "DESIGNAÇÃO")
 
