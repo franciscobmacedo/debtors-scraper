@@ -2,7 +2,7 @@ import json
 import os
 import datetime
 
-from src.config import JSON_FILES_PATH
+from src.config import JSON_FILES_PATH, MAIN_FILE_NAME
 from src.utils import dump_json
 
 
@@ -40,5 +40,5 @@ def join_files():
         "singular_debtors": singular_debtors,
         "colective_debtors": colective_debtors,
     }
-    dest = os.path.join(JSON_FILES_PATH, "debtors.json")
+    dest = os.path.join(JSON_FILES_PATH, MAIN_FILE_NAME)
     dump_json(dest, data)

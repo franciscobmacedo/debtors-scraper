@@ -1,4 +1,3 @@
-import datetime
 from enum import Enum
 from typing import Optional
 
@@ -17,7 +16,6 @@ class DebtorType(str, Enum):
 
 class Debtor(BaseModel):
     name: str
-    step_text: str
     step: Step
 
 
@@ -29,9 +27,7 @@ class ColectiveDebtor(Debtor):
     nipc: int
 
 
-
 class Metadata(BaseModel):
-    step_text: str
     step: Step
     debtor_type: DebtorType
     last_updated: Optional[str] = None

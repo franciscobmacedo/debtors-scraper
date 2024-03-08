@@ -36,7 +36,9 @@ def parse_files():
         dump_json(dest, file_data)
 
 
-def parse_file(filepath: str) -> tuple[list[SingularDebtor | ColectiveDebtor], str | None]:
+def parse_file(
+    filepath: str,
+) -> tuple[list[SingularDebtor | ColectiveDebtor], str | None]:
     with open(filepath, "rb") as f:
         content = f.read()
 
@@ -50,9 +52,7 @@ def parse_file(filepath: str) -> tuple[list[SingularDebtor | ColectiveDebtor], s
         if metadata.debtor_type == DebtorType.SINGULAR
         else parse_colective_debtor
     )
-    debtors = [
-        parser(row, metadata.step_text, metadata.step) for _, row in df.iterrows()
-    ]
+    debtors = [parser(row, metadata.step) for _, row in df.iterrows()]
     return debtors, metadata.last_updated
 
 
@@ -66,16 +66,22 @@ def extract_metadata(content: bytes) -> Metadata:
 
     step_text_list = [t for t in text_lines if "devedores" in t.lower()]
     if step_text_list:
-        step_text = step_text_list[0].lower().replace("devedores de", "").strip()
-        clean_step_text = step_text.replace("€", "").replace(".", "").strip()
-        if "mais de" in clean_step_text:
-            step_start = clean_step_text.split("mais de")[-1].strip()
+        step_text = (
+            step_text_list[0]
+            .lower()
+            .replace("devedores de", "")
+            .strip()
+            .replace("€", "")
+            .replace(".", "")
+            .strip()
+        )
+        if "mais de" in step_text:
+            step_start = step_text.split("mais de")[-1].strip()
             step = Step(start=int(step_start))
         else:
-            step_start, step_end = clean_step_text.split(" a ")
+            step_start, step_end = step_text.split(" a ")
             step = Step(start=int(step_start), end=int(step_end))
         return Metadata(
-            step_text=step_text,
             step=step,
             debtor_type=debtor_type,
             last_updated=last_updated,
@@ -97,17 +103,17 @@ def extract_debtor_type(text_lines: list[str]) -> DebtorType:
     return DebtorType.COLECTIVE
 
 
-def parse_singular_debtor(row: pd.Series, step_text: str, step: Step) -> SingularDebtor:
+def parse_singular_debtor(row: pd.Series, step: Step) -> SingularDebtor:
     nif = extract_number(row, "NIF")
     name = extract_string(row, "NOME")
 
-    return SingularDebtor(nif=nif, name=name, step_text=step_text, step=step)
+    return SingularDebtor(nif=nif, name=name, step=step)
 
 
 def parse_colective_debtor(
-    row: pd.Series, step_text: str, step: Step
+    row: pd.Series, step: Step
 ) -> ColectiveDebtor:
     nipc = extract_number(row, "NIPC")
     name = extract_string(row, "DESIGNAÇÃO")
 
-    return ColectiveDebtor(nipc=nipc, name=name, step_text=step_text, step=step)
+    return ColectiveDebtor(nipc=nipc, name=name, step=step)
