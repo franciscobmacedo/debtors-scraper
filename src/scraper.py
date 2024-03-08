@@ -1,12 +1,7 @@
 import os
 
 import requests
-from src.config import BASE_URL, JSON_FILES_PATH, RAW_FILES_PATH
-
-
-def setup():
-    os.makedirs(RAW_FILES_PATH, exist_ok=True)
-    os.makedirs(JSON_FILES_PATH, exist_ok=True)
+from src.config import BASE_URL, RAW_FILES_PATH
 
 
 def dump_file(filename, content: str):
