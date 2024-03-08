@@ -1,3 +1,4 @@
+
 # Use an official Python runtime as a parent image
 FROM python:3.11-slim
 
@@ -27,4 +28,4 @@ RUN pip install tabula-py
 
 
 # Run app.py when the container launches
-CMD ["python", "scrape.py"]
+CMD ["python", "run.py"]

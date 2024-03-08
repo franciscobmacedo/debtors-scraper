@@ -39,7 +39,7 @@ jobs:
       - name: Run Scraper
         run: |
           source /opt/venv/bin/activate
-          python scrape.py
+          python run.py
       - name: commit files to production
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
