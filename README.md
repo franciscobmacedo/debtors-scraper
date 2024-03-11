@@ -1,4 +1,4 @@
-# Devedores Scraper
+# Debtors Scraper
 
 The Portuguese Tax Authority holds a list of all of it's debtors, from singular individuals to colective entities here:
 
@@ -12,9 +12,13 @@ Everyday, github actions run the scraper and update the main [json file](./data/
 
 https://debtors.fmacedo.com
 
-The code for the frontend can be found [here](https://github.com/franciscobmacedo/devedores).
+The code for the frontend can be found [here](https://github.com/franciscobmacedo/debtors).
 
 The entire platform runs free of charge, using github actions to update the backend service, github to serve the json data and cloudflare pages to host the frontend.
+## Contributing
+
+Contributions are welcome.  Feel free to open an issue or submit a pull request. If you're not sure where to start, mention me in the comments!
+
 
 ## Installation
 
