@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-03-11",
+  "last_updated": "2024-03-12",
   "debtors": [
     {
       "name": "A - MMM SOCIEDADE IMOBILIARIA LDA",
@@ -10498,14 +10498,6 @@
       "nipc": 502634324
     },
     {
-      "name": "GIROGEST UNIPESSOAL LDA",
-      "step": {
-        "start": 100001,
-        "end": 500000
-      },
-      "nipc": 513464395
-    },
-    {
       "name": "GIROPOL - UTENS\u00cdLIOS POLIMENTO LDA- EM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 100001,
@@ -15112,6 +15104,14 @@
         "end": 500000
       },
       "nipc": 500652090
+    },
+    {
+      "name": "MANUEL PEDRO MARTHA & IRM\u00c3OS LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 500879877
     },
     {
       "name": "MANUEL PEREIRA - EXPLORA\u00c7\u00c3O FLORESTAL LDA",
@@ -24720,6 +24720,14 @@
         "end": 500000
       },
       "nipc": 508876346
+    },
+    {
+      "name": "TRIANGULO LUNAR - TRANSPORTES UNIPESSOAL LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 515738123
     },
     {
       "name": "TRIAR COMERCIO E INDUSTRIA DE EQUIPAMENTOS LDA",
