@@ -1,7 +1,9 @@
 import json
+
+import pytest
+
 from src.exceptions import NoDataException
 from src.joiner import join_files
-import pytest
 
 
 def test_join_files(tmp_path):

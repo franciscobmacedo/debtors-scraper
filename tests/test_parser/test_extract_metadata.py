@@ -1,8 +1,9 @@
-from src.parser import extract_metadata
+import pytest
+
 from src.exceptions import NoDataException
 from src.models import Metadata, Step
+from src.parser import extract_metadata
 from tests.fixtures.pdf_generator import generate_test_pdf
-import pytest
 
 
 def test_extract_metadata_with_step_range():

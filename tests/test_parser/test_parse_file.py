@@ -1,7 +1,8 @@
-from src.parser import parse_file
-from src.models import DebtorType, SingularDebtor, ColectiveDebtor, Metadata, Step
-from src.exceptions import NoDataException
 import pytest
+
+from src.exceptions import NoDataException
+from src.models import ColectiveDebtor, DebtorType, Metadata, SingularDebtor, Step
+from src.parser import parse_file
 from tests.fixtures.pdf_generator import generate_test_pdf
 
 

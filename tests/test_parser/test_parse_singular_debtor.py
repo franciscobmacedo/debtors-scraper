@@ -1,5 +1,6 @@
 import pandas as pd
 import pytest
+
 from src.models import SingularDebtor, Step
 from src.parser import parse_singular_debtor
 

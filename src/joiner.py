@@ -1,9 +1,9 @@
-import os
 import datetime
+import os
 
-from src.utils import dump_json, load_json
-from src.models import DebtorsData
 from src.exceptions import NoDataException
+from src.models import DebtorsData
+from src.utils import dump_json, load_json
 
 
 def join_files(directory: str, destination_file: str) -> DebtorsData:

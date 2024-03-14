@@ -1,6 +1,7 @@
 import pandas as pd
 import pytest
-from src.models import Step, ColectiveDebtor
+
+from src.models import ColectiveDebtor, Step
 from src.parser import parse_colective_debtor
 
 

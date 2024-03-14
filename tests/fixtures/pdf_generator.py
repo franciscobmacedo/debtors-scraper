@@ -1,9 +1,9 @@
 from io import BytesIO
-from reportlab.lib.pagesizes import letter
-from reportlab.platypus import SimpleDocTemplate, Paragraph
-from reportlab.lib.styles import getSampleStyleSheet
-from reportlab.platypus import Table, TableStyle
+
 from reportlab.lib import colors
+from reportlab.lib.pagesizes import letter
+from reportlab.lib.styles import getSampleStyleSheet
+from reportlab.platypus import Paragraph, SimpleDocTemplate, Table, TableStyle
 
 
 def generate_test_pdf(header_lines: list[str], table_data: list[list[str]] = []):
@@ -18,11 +18,15 @@ def generate_test_pdf(header_lines: list[str], table_data: list[list[str]] = [])
 
     if table_data:
         table = Table(table_data)
-        table_style = TableStyle([('TEXTCOLOR',(0,0),(-1,-1),colors.black),
-                       ('VALIGN',(0,0),(-1,-1),'TOP'),
-                       ('LINEBELOW',(0,0),(-1,-1),1,colors.black),
-                       ('BOX',(0,0),(-1,-1),1,colors.black),
-                       ('BOX',(0,0),(0,-1),1,colors.black)])
+        table_style = TableStyle(
+            [
+                ("TEXTCOLOR", (0, 0), (-1, -1), colors.black),
+                ("VALIGN", (0, 0), (-1, -1), "TOP"),
+                ("LINEBELOW", (0, 0), (-1, -1), 1, colors.black),
+                ("BOX", (0, 0), (-1, -1), 1, colors.black),
+                ("BOX", (0, 0), (0, -1), 1, colors.black),
+            ]
+        )
         table.setStyle(table_style)
         flowables.append(table)
 

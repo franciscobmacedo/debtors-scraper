@@ -1,8 +1,7 @@
-from src.config import setup
-from src.scraper import Scraper
-from src.parser import parse_files
+from src.config import BASE_URL, JSON_FILES_PATH, MAIN_FILE_NAME, RAW_FILES_PATH, setup
 from src.joiner import join_files
-from src.config import BASE_URL, RAW_FILES_PATH, JSON_FILES_PATH, MAIN_FILE_NAME
+from src.parser import parse_files
+from src.scraper import Scraper
 
 
 def main():

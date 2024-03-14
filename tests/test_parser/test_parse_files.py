@@ -1,4 +1,6 @@
-from src.parser import parse_files
+import json
+
+from src.exceptions import NoDataException
 from src.models import (
     ColectiveDebtor,
     DebtorType,
@@ -6,8 +8,7 @@ from src.models import (
     SingularDebtor,
     Step,
 )
-import json
-from src.exceptions import NoDataException
+from src.parser import parse_files
 
 
 def test_parse_files_with_singular_debtors(mocker, tmp_path):

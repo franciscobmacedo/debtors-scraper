@@ -2,11 +2,12 @@ import os
 
 import requests
 
+
 class Scraper:
     def __init__(self, base_url: str, dest_dir: str):
         self.base_url = base_url
         self.dest_dir = dest_dir
-            
+
     def dump_file(self, filename, content: str):
         filepath = os.path.join(self.dest_dir, filename)
         with open(filepath, "wb") as f:
@@ -22,7 +23,6 @@ class Scraper:
                 break
             self.dump_file(filename, response.content)
             count += 1
-
 
     def fetch_data(self):
         self.fetch_file_data("listaFS{n}.pdf")

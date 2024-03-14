@@ -1,18 +1,19 @@
 import io
 import os
-
 import warnings
+
 import pypdf
 import tabula
+
 from src.exceptions import NoDataException
 from src.models import (
     ColectiveDebtor,
-    DebtorType,
-    SingularDebtor,
-    Step,
-    Metadata,
-    SingularDebtorsData,
     ColectiveDebtorsData,
+    DebtorType,
+    Metadata,
+    SingularDebtor,
+    SingularDebtorsData,
+    Step,
 )
 from src.utils import dump_json, extract_number, extract_string
 
@@ -69,7 +70,7 @@ def extract_metadata(content: bytes) -> Metadata:
         with open("test.txt", "wb") as f:
             f.write(content)
     pdf_file = io.BytesIO(content)
-    
+
     reader = pypdf.PdfReader(pdf_file)
     if len(reader.pages) == 0:
         raise NoDataException
