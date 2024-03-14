@@ -1,0 +1,78 @@
+name: Main workflow
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.11
+
+      - name: Install dependencies
+        run: |
+          python -m venv /opt/venv
+          source /opt/venv/bin/activate
+          pip install poetry
+          poetry install
+
+      - name: Install Java
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y default-jre
+
+      - name: Run Scraper
+        run: |
+          source /opt/venv/bin/activate
+          poetry run pytest
+
+  scrape:
+    runs-on: ubuntu-latest
+    needs:
+      - test
+
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.11
+
+      - name: Install dependencies
+        run: |
+          python -m venv /opt/venv
+          source /opt/venv/bin/activate
+          pip install poetry
+          poetry install
+
+      - name: Install Java
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y default-jre
+
+      - name: Run Scraper
+        run: |
+          source /opt/venv/bin/activate
+          python run.py
+      - name: commit files to production
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: scrape
+          push_options: "--force"
