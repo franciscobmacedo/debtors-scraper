@@ -66,11 +66,7 @@ def parse_file(
 
 
 def extract_metadata(content: bytes) -> Metadata:
-    if not os.path.exists("test.txt"):
-        with open("test.txt", "wb") as f:
-            f.write(content)
     pdf_file = io.BytesIO(content)
-
     reader = pypdf.PdfReader(pdf_file)
     if len(reader.pages) == 0:
         raise NoDataException
