@@ -1,11 +1,9 @@
 import io
 import os
-import datetime
 
 import warnings
-import PyPDF2
+import pypdf
 import tabula
-from src.config import JSON_FILES_PATH, RAW_FILES_PATH
 from src.exceptions import NoDataException
 from src.models import (
     ColectiveDebtor,
@@ -13,6 +11,8 @@ from src.models import (
     SingularDebtor,
     Step,
     Metadata,
+    SingularDebtorsData,
+    ColectiveDebtorsData,
 )
 from src.utils import dump_json, extract_number, extract_string
 
@@ -20,31 +20,39 @@ warnings.simplefilter(action="ignore", category=FutureWarning)
 import pandas as pd
 
 
-def parse_files():
-    for filename in os.listdir(RAW_FILES_PATH):
-        source = os.path.join(RAW_FILES_PATH, filename)
-        dest = os.path.join(JSON_FILES_PATH, filename.replace(".pdf", ".json"))
+def parse_files(source_dir: str, dest_dir: str):
+    for filename in os.listdir(source_dir):
+        source = os.path.join(source_dir, filename)
+        dest = os.path.join(dest_dir, filename.replace(".pdf", ".json"))
         try:
-            debtors, last_updated = parse_file(source)
+            debtors, metadata = parse_file(source)
         except NoDataException:
             continue
 
-        file_data = {
-            "last_updated": last_updated,
-            "debtors": [d.model_dump() for d in debtors],
-        }
-        dump_json(dest, file_data)
+        if metadata.debtor_type == DebtorType.SINGULAR:
+            data = SingularDebtorsData(
+                last_updated=metadata.last_updated,
+                debtors=debtors,
+            )
+        else:
+            data = ColectiveDebtorsData(
+                last_updated=metadata.last_updated,
+                debtors=debtors,
+            )
+
+        dump_json(dest, data.model_dump())
 
 
 def parse_file(
     filepath: str,
-) -> tuple[list[SingularDebtor | ColectiveDebtor], str | None]:
+) -> tuple[list[SingularDebtor | ColectiveDebtor], Metadata]:
     with open(filepath, "rb") as f:
         content = f.read()
 
     metadata = extract_metadata(content)
     dfs = tabula.read_pdf(filepath, pages="all")
-
+    if not dfs:
+        raise NoDataException(f"No debtos data found in the file {filepath}")
     df = pd.concat(dfs)
 
     parser = (
@@ -53,12 +61,18 @@ def parse_file(
         else parse_colective_debtor
     )
     debtors = [parser(row, metadata.step) for _, row in df.iterrows()]
-    return debtors, metadata.last_updated
+    return debtors, metadata
 
 
 def extract_metadata(content: bytes) -> Metadata:
+    if not os.path.exists("test.txt"):
+        with open("test.txt", "wb") as f:
+            f.write(content)
     pdf_file = io.BytesIO(content)
-    reader = PyPDF2.PdfReader(pdf_file)
+    
+    reader = pypdf.PdfReader(pdf_file)
+    if len(reader.pages) == 0:
+        raise NoDataException
     page = reader.pages[0]
     text_lines = page.extract_text().split("\n")
     last_updated = extract_last_updated(text_lines)
@@ -110,9 +124,7 @@ def parse_singular_debtor(row: pd.Series, step: Step) -> SingularDebtor:
     return SingularDebtor(nif=nif, name=name, step=step)
 
 
-def parse_colective_debtor(
-    row: pd.Series, step: Step
-) -> ColectiveDebtor:
+def parse_colective_debtor(row: pd.Series, step: Step) -> ColectiveDebtor:
     nipc = extract_number(row, "NIPC")
     name = extract_string(row, "DESIGNAÇÃO")
 

@@ -6,6 +6,10 @@ def dump_json(file: str, data: dict | list):
     with open(file, "w") as f:
         json.dump(data, f, indent=2)
 
+def load_json(file: str) -> dict | list:
+    with open(file, "r") as f:
+        return json.load(f)
+
 
 def try_int(value: str):
     try:
