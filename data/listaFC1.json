@@ -19513,14 +19513,6 @@
       "nipc": 503029068
     },
     {
-      "name": "CENTRO DE EDUCA\u00c7\u00c3O FISICA O.T., LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 502190183
-    },
-    {
       "name": "CENTRO EMPRESARIAL DOS CARVALHOS LDA",
       "step": {
         "start": 10000,
@@ -48321,20 +48313,20 @@
       "nipc": 504319264
     },
     {
+      "name": "HIPERFIRST - COMERCIO DE MATERIAIS DE CONSTRU\u00c7\u00c3O UNIPESSOAL\rLDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 508068533
+    },
+    {
       "name": "HIPERFUS\u00c3O - FABRICA\u00c7\u00c3O E COMERCIO DE CAL\u00c7ADO UNIPESSOAL\rLDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 507693418
-    },
-    {
-      "name": "HIPERIMAGEM - IMAGEM E PUBLICIDADE, UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510208940
     },
     {
       "name": "HIPERPEVID\u00c9M - SUPERMERCADOS, S.A. - EM LIQUIDA\u00c7\u00c3O",
@@ -65401,14 +65393,6 @@
       "nipc": 504550586
     },
     {
-      "name": "MANUEL MAGALHAES SILVA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 501216812
-    },
-    {
       "name": "MANUEL MARQUES SERRADOR LDA",
       "step": {
         "start": 10000,
@@ -81215,14 +81199,6 @@
         "end": 50000
       },
       "nipc": 508863007
-    },
-    {
-      "name": "PELOT\u00c3O DE DESAFIOS UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514492775
     },
     {
       "name": "PENAFORT SOC GESTORA DE PARTICIPACOES SOCIAIS SA",
@@ -99937,14 +99913,6 @@
       "nipc": 501333860
     },
     {
-      "name": "SPORT LISBOA E FUSETA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 501139281
-    },
-    {
       "name": "SPORTMMCAR, UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -114753,5 +114721,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-03-13"
+  "last_updated": "2024-03-14"
 }
