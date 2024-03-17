@@ -50545,14 +50545,6 @@
       "nipc": 501780955
     },
     {
-      "name": "IMPEX - IMPORTADORA E EXPORTADORA S A",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 980474892
-    },
-    {
       "name": "IMPLACAVEL SURPRESA - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -67921,12 +67913,12 @@
       "nipc": 502628634
     },
     {
-      "name": "MATRICULAS E ACESSORIOS AUTO DE A A Z LDA",
+      "name": "MATRIBRAGA - COM\u00c9RCIO DE MATERIAIS DE CONSTRU\u00c7\u00c3O,\rUNIPESSOAL, LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 510513905
+      "nipc": 505814285
     },
     {
       "name": "MATRIZBASTIDOR - INDUSTRIA TEXTIL LDA",
@@ -83377,14 +83369,6 @@
       "nipc": 514844205
     },
     {
-      "name": "PLENTY HOME, S.A.",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 507795717
-    },
-    {
       "name": "PLENTYWORLD - LDA",
       "step": {
         "start": 10000,
@@ -88983,6 +88967,14 @@
         "end": 50000
       },
       "nipc": 508953243
+    },
+    {
+      "name": "REHI REPRESENTA\u00c7\u00c3O DE EQUIPAMENTOS HOTELEIROS E INDUSTRIAIS\rUNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 507245148
     },
     {
       "name": "REI DOS AZULEJOS - J CHULA & FILHOS LDA",
@@ -114673,5 +114665,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-03-15"
+  "last_updated": "2024-03-16"
 }
