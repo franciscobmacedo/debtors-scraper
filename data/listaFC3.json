@@ -24353,6 +24353,14 @@
       "nipc": 508637074
     },
     {
+      "name": "TRADITION AVAILABLE - LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 514116692
+    },
+    {
       "name": "TRAJE POSTO CONFEC\u00c7\u00c3O DE VESTUARIO LDA",
       "step": {
         "start": 100001,
@@ -26449,5 +26457,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2024-03-19"
+  "last_updated": "2024-03-20"
 }

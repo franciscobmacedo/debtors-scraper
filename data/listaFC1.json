@@ -18417,6 +18417,14 @@
       "nipc": 506977242
     },
     {
+      "name": "CASA DA GARE IMOBILIARIA S A",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 506716392
+    },
+    {
       "name": "CASA DA MORNA RESTAURA\u00c7\u00c3O LDA",
       "step": {
         "start": 10000,
@@ -103825,14 +103833,6 @@
       "nipc": 509952925
     },
     {
-      "name": "THESYS - TECNOLOGIAS ENERGETICAS PORTUGUESAS, UNIPESSOAL,\rLDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509330436
-    },
-    {
       "name": "THIRTEEN PINETREES - IMOBILIARIA UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -114641,5 +114641,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-03-19"
+  "last_updated": "2024-03-20"
 }
