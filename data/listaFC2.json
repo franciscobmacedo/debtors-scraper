@@ -8393,6 +8393,14 @@
       "nipc": 507952570
     },
     {
+      "name": "ESPA\u00c7O ABSTRATO - IM\u00d3VEIS, S.A.",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 508571332
+    },
+    {
       "name": "ESPELHO FELIZ UNIPESSOAL LDA",
       "step": {
         "start": 50001,
@@ -18393,14 +18401,6 @@
       "nipc": 505558319
     },
     {
-      "name": "PALADARES DA QUINTA - RESTAURA\u00c7\u00c3O, EVENTOS E HOTELARIA, LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 509042864
-    },
-    {
       "name": "PALAVRA TRIUNFO - MEDIA\u00c7\u00c3O IMOBILIARIA UNIPESSOAL LDA",
       "step": {
         "start": 50001,
@@ -22273,14 +22273,6 @@
       "nipc": 506450830
     },
     {
-      "name": "SOC AGRICOLA GAMA MENDONCA SA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 500412898
-    },
-    {
       "name": "SOC AGRICOLA HERDADE DA CABROEIRA, SAG LDA",
       "step": {
         "start": 50001,
@@ -25865,5 +25857,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2024-03-20"
+  "last_updated": "2024-03-21"
 }
