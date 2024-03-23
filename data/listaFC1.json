@@ -25953,6 +25953,14 @@
       "nipc": 501914269
     },
     {
+      "name": "COZINHA COM ALMA, UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 513392157
+    },
+    {
       "name": "COZINHA FESTIVA - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -33943,14 +33951,6 @@
         "end": 50000
       },
       "nipc": 516380320
-    },
-    {
-      "name": "EPOCA ORIGINAL - AUTOMOVEIS UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514987413
     },
     {
       "name": "EPOCADESTAQUE - UNIPESSOAL LDA",
@@ -88121,14 +88121,6 @@
       "nipc": 514270535
     },
     {
-      "name": "REALCESKEMA, LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514047135
-    },
-    {
       "name": "REALIDADES EM SINTONIA UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -95999,14 +95991,6 @@
         "end": 50000
       },
       "nipc": 504347985
-    },
-    {
-      "name": "SERVIALL,LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 507168127
     },
     {
       "name": "SERVIBASTOTUR UNIPESSOAL LDA",
@@ -114641,5 +114625,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-03-21"
+  "last_updated": "2024-03-22"
 }
