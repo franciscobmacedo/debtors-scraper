@@ -7905,6 +7905,14 @@
       "nipc": 506418278
     },
     {
+      "name": "EMPMIL INSTALACOES TECNICAS ESPECIAIS LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 502595590
+    },
+    {
       "name": "EMPOLIS EMPRESA DE PROMO\u00c7\u00c3O IMOBILIARIA DE LEIRIA SA - EM\rLIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 100001,
@@ -8265,12 +8273,12 @@
       "nipc": 505402742
     },
     {
-      "name": "ESCOLA DE CONDU\u00c7\u00c3O ROTA DA ESTRELA UNIPESSOAL LDA",
+      "name": "ESCOLA DE CONDU\u00c7\u00c3O VIEIRA PORTO LDA",
       "step": {
         "start": 100001,
         "end": 500000
       },
-      "nipc": 505024683
+      "nipc": 505860104
     },
     {
       "name": "ESCOLA DE CONDU\u00c7\u00c3O VIEIRA-FOZ LDA",
@@ -26449,5 +26457,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2024-03-22"
+  "last_updated": "2024-03-23"
 }
