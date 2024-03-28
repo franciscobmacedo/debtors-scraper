@@ -25,7 +25,7 @@ Contributions are welcome.  Feel free to open an issue or submit a pull request.
 1. Clone the repository:
 
     ```shell
-    git clone https://github.com/franciscomacedo/devedores-scraper.git
+    git clone https://github.com/franciscomacedo/debtors-scraper.git
     ```
 
 2. Install the required dependencies:
@@ -39,7 +39,7 @@ Contributions are welcome.  Feel free to open an issue or submit a pull request.
 1. Navigate to the project directory:
 
     ```shell
-    cd devedores-scraper
+    cd debtors-scraper
     ```
 
 2. Run the `run.py` script:
