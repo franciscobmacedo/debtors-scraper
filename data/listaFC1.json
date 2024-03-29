@@ -55289,14 +55289,6 @@
       "nipc": 503699616
     },
     {
-      "name": "JOCARCI CONFEC\u00c7\u00d5ES LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 506095185
-    },
-    {
       "name": "JOCEFRAMADA LDA",
       "step": {
         "start": 10000,
@@ -65375,6 +65367,14 @@
         "end": 50000
       },
       "nipc": 502971509
+    },
+    {
+      "name": "MANUEL \u00d3SCAR DIAS OLIVEIRA - REPARA\u00c7\u00c3O DE VE\u00cdCULOS\rAUTOM\u00d3VEIS, SOCIEDADE UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 504898140
     },
     {
       "name": "MANUEL PINTO VIEIRA - CONSTRU\u00c7\u00d5ES LDA, EM LIQUIDA\u00c7\u00c3O",
@@ -84255,14 +84255,6 @@
         "end": 50000
       },
       "nipc": 514331054
-    },
-    {
-      "name": "POSITIVE LAYERS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513686363
     },
     {
       "name": "POSITIVE PYRAMID UNIPESSOAL LDA",
@@ -114537,5 +114529,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-03-27"
+  "last_updated": "2024-03-28"
 }
