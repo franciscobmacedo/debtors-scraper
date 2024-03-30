@@ -8673,14 +8673,6 @@
       "nipc": 504579614
     },
     {
-      "name": "EUROSALVADOR, LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 510847706
-    },
-    {
       "name": "EUROTAMEGA SOC COMERCIAL DE IMPORTACOES E EXPORTACOES\rEQUIPAMENTOS SERVICOS DO TAMEGA LDA",
       "step": {
         "start": 50001,
@@ -25569,14 +25561,6 @@
       "nipc": 506462811
     },
     {
-      "name": "WORLDSERV ENGENHARIA S A",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 515064645
-    },
-    {
       "name": "WPT UNIPESSOAL LDA",
       "step": {
         "start": 50001,
@@ -25841,5 +25825,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2024-03-28"
+  "last_updated": "2024-03-29"
 }
