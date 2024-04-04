@@ -23425,14 +23425,6 @@
       "nipc": 512095671
     },
     {
-      "name": "CONSTRU\u00c7\u00c3O CIVIL - SIM\u00c3O & VIEIRA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 512104760
-    },
-    {
       "name": "CONSTRU\u00c7\u00c3O CIVIL A P P J UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -38519,14 +38511,6 @@
         "end": 50000
       },
       "nipc": 508768454
-    },
-    {
-      "name": "FASTENOUGH - ALUGUER DE VEICULOS MOTORIZADOS UNIPESSOAL\rLDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514158425
     },
     {
       "name": "FATIA DIVERTIDA - UNIPESSOAL LDA",
@@ -96353,14 +96337,6 @@
       "nipc": 510636748
     },
     {
-      "name": "SILABAS E PALPITES UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515931209
-    },
-    {
       "name": "SILABAVAN\u00c7ADA - HIGIENE E LIMPEZA UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -114497,5 +114473,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-04-02"
+  "last_updated": "2024-04-03"
 }

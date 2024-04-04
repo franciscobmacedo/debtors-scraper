@@ -19969,6 +19969,14 @@
       "nipc": 513364897
     },
     {
+      "name": "QUIMICA\u00c7OR LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 512108757
+    },
+    {
       "name": "QUIMINASA PRODUTOS QUIMICOS LDA - EM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 50001,
@@ -25817,5 +25825,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2024-04-02"
+  "last_updated": "2024-04-03"
 }
