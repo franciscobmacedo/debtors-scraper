@@ -1,6 +1,14 @@
 {
   "debtors": [
     {
+      "name": "A CUNHA OLIVEIRA & FILHOS LDA",
+      "step": {
+        "start": 5000000,
+        "end": null
+      },
+      "nipc": 504979701
+    },
+    {
       "name": "ADIVINHABILITY UNIPESSOAL LDA",
       "step": {
         "start": 5000000,
@@ -39,6 +47,14 @@
         "end": null
       },
       "nipc": 514641070
+    },
+    {
+      "name": "BOAVISTA FUTEBOL CLUBE FUTEBOL SAD",
+      "step": {
+        "start": 5000000,
+        "end": null
+      },
+      "nipc": 505111780
     },
     {
       "name": "CARLOS GUILHERME MENDON\u00c7A - COMERCIO DE OURO E OURIVESARIA\rLDA",
@@ -103,6 +119,22 @@
         "end": null
       },
       "nipc": 510225047
+    },
+    {
+      "name": "KRONING INFORMATICA LDA",
+      "step": {
+        "start": 5000000,
+        "end": null
+      },
+      "nipc": 504149962
+    },
+    {
+      "name": "L ROCHA REPRESENTACOES LDA",
+      "step": {
+        "start": 5000000,
+        "end": null
+      },
+      "nipc": 501047883
     },
     {
       "name": "LACAPAINT - ESTAMPARIA LDA",
@@ -185,6 +217,14 @@
       "nipc": 513419608
     },
     {
+      "name": "SUZIDATA EQUIPAMENTOS ELECTRONICOS LDA",
+      "step": {
+        "start": 5000000,
+        "end": null
+      },
+      "nipc": 503824844
+    },
+    {
       "name": "SWEATBUSINESS L.DA - EM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 5000000,
@@ -217,5 +257,5 @@
       "nipc": 980088542
     }
   ],
-  "last_updated": "2024-04-03"
+  "last_updated": "2024-04-04"
 }
