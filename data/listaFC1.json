@@ -39345,6 +39345,14 @@
       "nipc": 513741240
     },
     {
+      "name": "FATSPORT - IND\u00daSTRIA DE CAL\u00c7ADO, UNIPESSOAL LDA - EM\rLIQUIDA\u00c7\u00c3O",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 506283178
+    },
+    {
       "name": "FAUSTO ANTONIO FERNANDES  SOARES LDA",
       "step": {
         "start": 10000,
@@ -62121,6 +62129,14 @@
       "nipc": 509537987
     },
     {
+      "name": "L-LOGISTICS SOCIEDADE UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 515339628
+    },
+    {
       "name": "LM COR UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -66415,14 +66431,6 @@
         "end": 50000
       },
       "nipc": 501216812
-    },
-    {
-      "name": "MANUEL MARQUES SERRADOR LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 503147397
     },
     {
       "name": "MANUEL MARTINS - SERVI\u00c7OS DE ENGENHARIA LDA",
@@ -82297,14 +82305,6 @@
       "nipc": 514074159
     },
     {
-      "name": "PEDRO MIGUEL CARVALHO TEIXEIRA - ATELIER DE CARPINTARIA\rUNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514921528
-    },
-    {
       "name": "PEDRO MIGUEL GON\u00c7ALVES UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -90425,14 +90425,6 @@
       "nipc": 508953243
     },
     {
-      "name": "REHI REPRESENTA\u00c7\u00c3O DE EQUIPAMENTOS HOTELEIROS E INDUSTRIAIS\rUNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 507245148
-    },
-    {
       "name": "REI DOS AZULEJOS - J CHULA & FILHOS LDA",
       "step": {
         "start": 10000,
@@ -93751,14 +93743,6 @@
         "end": 50000
       },
       "nipc": 510896413
-    },
-    {
-      "name": "RUBEN MORAIS UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513707700
     },
     {
       "name": "RUBEN VENTURA - LUZ E PLADUR UNIPESSOAL LDA",
@@ -116497,5 +116481,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-04-08"
+  "last_updated": "2024-04-09"
 }
