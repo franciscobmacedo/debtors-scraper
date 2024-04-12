@@ -14569,14 +14569,6 @@
       "nipc": 505338890
     },
     {
-      "name": "BRAGA & BRAGA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 507503252
-    },
-    {
       "name": "BRAGA & CAMPO LDA",
       "step": {
         "start": 10000,
@@ -39241,20 +39233,20 @@
       "nipc": 515134902
     },
     {
+      "name": "FATIAS MEDIATICAS UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 513825975
+    },
+    {
       "name": "FATILOBRA - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 507327357
-    },
-    {
-      "name": "FATIMA & MARCOS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510382207
     },
     {
       "name": "FATIMA ANDRADE - CONFEC\u00c7\u00d5ES LDA",
@@ -47127,14 +47119,6 @@
         "end": 50000
       },
       "nipc": 512097526
-    },
-    {
-      "name": "GREEN CHAMPION UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515117102
     },
     {
       "name": "GREEN CONTROVERSY LDA",
@@ -66431,6 +66415,14 @@
         "end": 50000
       },
       "nipc": 501216812
+    },
+    {
+      "name": "MANUEL MARQUES SERRADOR LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 503147397
     },
     {
       "name": "MANUEL MARTINS - SERVI\u00c7OS DE ENGENHARIA LDA",
@@ -92457,14 +92449,6 @@
       "nipc": 514004444
     },
     {
-      "name": "RITMOS INTEMPORAIS UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515764477
-    },
-    {
       "name": "RITMOS IRREVERENTES UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -116497,5 +116481,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-04-10"
+  "last_updated": "2024-04-11"
 }

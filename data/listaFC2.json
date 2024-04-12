@@ -3889,14 +3889,6 @@
       "nipc": 507071280
     },
     {
-      "name": "CAPITALMOURA - INVESTIMENTOS IMOBILI\u00c1RIOS LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 504309986
-    },
-    {
       "name": "CAPITULO QUADRADO - UNIPESSOAL LDA",
       "step": {
         "start": 50001,
@@ -22857,6 +22849,14 @@
       "nipc": 503500364
     },
     {
+      "name": "SOLIDO DISTINTO - UNIPESSOAL LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 514779624
+    },
+    {
       "name": "SOLU\u00c7\u00d5ES HA MUITAS - SERVI\u00c7OS DE CONTABILIDADE LDA",
       "step": {
         "start": 50001,
@@ -26145,5 +26145,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2024-04-10"
+  "last_updated": "2024-04-11"
 }
