@@ -11089,14 +11089,6 @@
       "nipc": 509417558
     },
     {
-      "name": "GRIGORE BITCA - CONSTRU\u00c7\u00d5ES UNIPESSOAL LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 513405062
-    },
-    {
       "name": "GRILO GAMA - ARQUITECTURA ENGENHARIA E INFRA-ESTRUTURA\rUNIPESSOAL LDA",
       "step": {
         "start": 50001,
@@ -13959,6 +13951,14 @@
         "end": 100000
       },
       "nipc": 503570419
+    },
+    {
+      "name": "LA - COMPONENTES PARA CAL\u00c7ADO LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 513261907
     },
     {
       "name": "LAB D - OFICINA DE DESIGN LDA",
@@ -20585,6 +20585,14 @@
       "nipc": 512094004
     },
     {
+      "name": "REALSECOND UNIPESSOAL LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 514541784
+    },
+    {
       "name": "REBEL VELOCITY UNIPESSOAL LDA",
       "step": {
         "start": 50001,
@@ -23313,6 +23321,14 @@
       "nipc": 515014214
     },
     {
+      "name": "SWEET DEFINED, LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 513283293
+    },
+    {
       "name": "SWEET SUBLIME UNIPESSOAL LDA-EM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 50001,
@@ -24079,6 +24095,14 @@
         "end": 100000
       },
       "nipc": 509611885
+    },
+    {
+      "name": "TRA\u00c7OS E REGA\u00c7OS - UNIPESSOAL LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 514733993
     },
     {
       "name": "TRA\u00c7OS E TRAPUZ - COM\u00c9RCIO E IND\u00daSTRIA T\u00caXTEIS LDA",
@@ -26145,5 +26169,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2024-04-11"
+  "last_updated": "2024-04-12"
 }
