@@ -1529,14 +1529,6 @@
       "nipc": 510122078
     },
     {
-      "name": "ACROSSUGAR - UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510754830
-    },
-    {
       "name": "ACTIL ACTIVIDADES HOTELEIRAS LDA",
       "step": {
         "start": 10000,
@@ -3279,6 +3271,14 @@
         "end": 50000
       },
       "nipc": 508930308
+    },
+    {
+      "name": "ALARMEDIA EQUIPAMENTOS DE SEGURAN\u00c7A ELECTRONICA LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 503816272
     },
     {
       "name": "ALARMESUL SISTEMAS E SERVICOS SEGURANCA LDA",
@@ -116329,5 +116329,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-04-20"
+  "last_updated": "2024-04-21"
 }
