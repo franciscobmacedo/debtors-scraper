@@ -37265,14 +37265,6 @@
       "nipc": 510672221
     },
     {
-      "name": "EXITOS DINAMICOS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515196762
-    },
-    {
       "name": "EXITOTECLA UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -49047,14 +49039,6 @@
         "end": 50000
       },
       "nipc": 504319264
-    },
-    {
-      "name": "HIPERFIRST - COMERCIO DE MATERIAIS DE CONSTRU\u00c7\u00c3O UNIPESSOAL\rLDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 508068533
     },
     {
       "name": "HIPERFUS\u00c3O - FABRICA\u00c7\u00c3O E COMERCIO DE CAL\u00c7ADO UNIPESSOAL\rLDA",
@@ -68953,20 +68937,20 @@
       "nipc": 510671993
     },
     {
+      "name": "MATRIZCALCULO - UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 510570267
+    },
+    {
       "name": "MATRIZDETALHE UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 510539424
-    },
-    {
-      "name": "MATRIZROLANTE - LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510446779
     },
     {
       "name": "MATRIZVOLTAGE - LDA",
@@ -69031,14 +69015,6 @@
         "end": 50000
       },
       "nipc": 510824790
-    },
-    {
-      "name": "MAXIMA VIRTUDE - FABRICA\u00c7\u00c3O DE CAL\u00c7ADO UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515697974
     },
     {
       "name": "MAXIMINO BARBOSA NUNES BESSA LDA",
@@ -69175,14 +69151,6 @@
         "end": 50000
       },
       "nipc": 507400178
-    },
-    {
-      "name": "MC - DIVINO UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513497498
     },
     {
       "name": "MC FOGO-REDE DE INCENDIOS SOCIEDADE UNIPESSOAL LDA",
@@ -80065,14 +80033,6 @@
       "nipc": 510107117
     },
     {
-      "name": "PANIFICADORA PAIVAS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 500897395
-    },
-    {
       "name": "PANIS FRANCE - PANIFICA\u00c7\u00c3O E PASTELARIA LDA",
       "step": {
         "start": 10000,
@@ -82751,14 +82711,6 @@
         "end": 50000
       },
       "nipc": 505627370
-    },
-    {
-      "name": "PERFEITALERTA - UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509639879
     },
     {
       "name": "PERFICER MANUTEN\u00c7\u00c3O INDUSTRIAL SA",
@@ -90287,14 +90239,6 @@
         "end": 50000
       },
       "nipc": 503795348
-    },
-    {
-      "name": "REGULAMERITO - LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510779069
     },
     {
       "name": "REGULVECTOR - LDA",
@@ -116313,5 +116257,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-04-24"
+  "last_updated": "2024-04-25"
 }
