@@ -28649,14 +28649,6 @@
       "nipc": 513132945
     },
     {
-      "name": "DELICIOUSIMPACT - UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510924689
-    },
-    {
       "name": "DELIFOOD - SERVI\u00c7OS LDA",
       "step": {
         "start": 10000,
@@ -73145,6 +73137,14 @@
       "nipc": 502284021
     },
     {
+      "name": "MOVIMAUTO-AUTOMOVEIS UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 510938272
+    },
+    {
       "name": "MOVING OUTDOOR LDA",
       "step": {
         "start": 10000,
@@ -97689,14 +97689,6 @@
       "nipc": 515056634
     },
     {
-      "name": "SHADOW DIAGRAM - UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514727098
-    },
-    {
       "name": "SHARING EVOLUTION UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -116257,5 +116249,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-04-30"
+  "last_updated": "2024-05-01"
 }
