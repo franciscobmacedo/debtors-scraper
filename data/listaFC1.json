@@ -2481,14 +2481,6 @@
       "nipc": 504567900
     },
     {
-      "name": "AGENCIA FUNERARIA NOSSA SENHORA DOS MONTES ERMOS\rUNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 506355055
-    },
-    {
       "name": "AGENCIA FUNERARIA S\u00c3O ROQUE UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -10679,14 +10671,6 @@
         "end": 50000
       },
       "nipc": 508248094
-    },
-    {
-      "name": "ATLETICO VOLEIBOL CLUBE",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 508150337
     },
     {
       "name": "ATM - TORNEADOS DE MADEIRA UNIPESSOAL LDA",
@@ -37305,14 +37289,6 @@
       "nipc": 514256230
     },
     {
-      "name": "EXPERT PERCENTAGE SERVI\u00c7OS DE MANUTEN\u00c7\u00c3O INDUSTRIAL\rUNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515407399
-    },
-    {
       "name": "EXPERTLUCRO - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -39495,6 +39471,14 @@
         "end": 50000
       },
       "nipc": 514868953
+    },
+    {
+      "name": "FEARLESS PROPOSAL - UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 514495197
     },
     {
       "name": "FEARLESS SUNDAY UNIPESSOAL LDA",
@@ -45385,14 +45369,6 @@
       "nipc": 510270182
     },
     {
-      "name": "GIRLS & JOKERS UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514643382
-    },
-    {
       "name": "GISELA ARAUJO UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -49033,12 +49009,12 @@
       "nipc": 504319264
     },
     {
-      "name": "HIPERFUS\u00c3O - FABRICA\u00c7\u00c3O E COMERCIO DE CAL\u00c7ADO UNIPESSOAL\rLDA",
+      "name": "HIPERFIRST - COMERCIO DE MATERIAIS DE CONSTRU\u00c7\u00c3O UNIPESSOAL\rLDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 507693418
+      "nipc": 508068533
     },
     {
       "name": "HIPERIMAGEM - IMAGEM E PUBLICIDADE, UNIPESSOAL LDA",
@@ -68945,12 +68921,12 @@
       "nipc": 510539424
     },
     {
-      "name": "MATRIZVOLTAGE - LDA",
+      "name": "MATRIZROLANTE - LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 513526110
+      "nipc": 510446779
     },
     {
       "name": "MAURICIO ANTONIO PIMENTA UNIPESSOAL LDA",
@@ -113185,14 +113161,6 @@
       "nipc": 514627115
     },
     {
-      "name": "VIOLANTE & ORTIZ LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515572144
-    },
-    {
       "name": "VIOLETAS SUAVES - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -116249,5 +116217,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-05-02"
+  "last_updated": "2024-05-03"
 }
