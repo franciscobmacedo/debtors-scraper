@@ -10209,6 +10209,14 @@
       "nipc": 510753698
     },
     {
+      "name": "FRUTAS ELVINO UNIPESSOAL LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 507612833
+    },
+    {
       "name": "FRUTIDAMENTE - COMERCIO DE FRUTA UNIPESSOAL LDA",
       "step": {
         "start": 50001,
@@ -10335,6 +10343,14 @@
         "end": 100000
       },
       "nipc": 501407464
+    },
+    {
+      "name": "GABTUT - SOCIEDADE TURISTICA E IMOBILI\u00c1RIA LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 504619730
     },
     {
       "name": "GACAN COMERCIO DE PRODUTOS PARA ANIMAIS LDA",
@@ -26121,5 +26137,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2024-05-03"
+  "last_updated": "2024-05-04"
 }
