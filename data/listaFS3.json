@@ -609,6 +609,14 @@
       "nif": 207879621
     },
     {
+      "name": "ALBINO ESTEVES FERREIRA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nif": 133014720
+    },
+    {
       "name": "ALBINO JORGE DOS SANTOS TAVARES",
       "step": {
         "start": 50001,
@@ -12297,14 +12305,6 @@
       "nif": 204189250
     },
     {
-      "name": "JOAQUIM FERREIRA DE ANDRADE",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nif": 145942112
-    },
-    {
       "name": "JOAQUIM FIGUEIREDO DOS REIS",
       "step": {
         "start": 50001,
@@ -14190,7 +14190,7 @@
         "start": 50001,
         "end": 100000
       },
-      "nif": 192409948
+      "nif": 158362411
     },
     {
       "name": "JOSE GOMES DA SILVA",
@@ -14198,7 +14198,7 @@
         "start": 50001,
         "end": 100000
       },
-      "nif": 158362411
+      "nif": 192409948
     },
     {
       "name": "JOSE GON\u00c7ALVES LOPES",
@@ -27377,5 +27377,5 @@
       "nif": 296250406
     }
   ],
-  "last_updated": "2024-05-08"
+  "last_updated": "2024-05-09"
 }
