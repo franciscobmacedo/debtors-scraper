@@ -9897,6 +9897,14 @@
       "nipc": 502418443
     },
     {
+      "name": "FLUFFY EMBRACE LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 514377054
+    },
+    {
       "name": "FLUFFY TIME UNIPESSOAL LDA",
       "step": {
         "start": 50001,
@@ -14671,6 +14679,14 @@
         "end": 100000
       },
       "nipc": 513343741
+    },
+    {
+      "name": "L-LOGISTICS SOCIEDADE UNIPESSOAL LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 515339628
     },
     {
       "name": "LMES - CONSTRU\u00c7\u00d5ES LDA",
@@ -26361,5 +26377,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2024-05-11"
+  "last_updated": "2024-05-12"
 }
