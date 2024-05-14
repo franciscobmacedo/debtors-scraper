@@ -8497,6 +8497,14 @@
       "nipc": 513021019
     },
     {
+      "name": "ESFERAMILENAR - LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 515091529
+    },
+    {
       "name": "ESMASPEL COSM\u00c9TICOS, LDA",
       "step": {
         "start": 50001,
@@ -26377,5 +26385,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2024-05-12"
+  "last_updated": "2024-05-13"
 }
