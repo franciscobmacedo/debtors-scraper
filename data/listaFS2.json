@@ -8097,14 +8097,6 @@
       "nif": 184630045
     },
     {
-      "name": "CARLOS MANUEL DE AGUIAR VALENTE DE ALMEIDA",
-      "step": {
-        "start": 25001,
-        "end": 50000
-      },
-      "nif": 146648005
-    },
-    {
       "name": "CARLOS MANUEL DE JESUS VENDEIRINHO",
       "step": {
         "start": 25001,
@@ -15591,6 +15583,14 @@
         "end": 50000
       },
       "nif": 180824139
+    },
+    {
+      "name": "ISABEL DA CONCEI\u00c7\u00c3O RIBEIRO MARQUES",
+      "step": {
+        "start": 25001,
+        "end": 50000
+      },
+      "nif": 196776333
     },
     {
       "name": "ISABEL DE LURDES CARVALHO CUNHA",
@@ -25025,6 +25025,14 @@
       "nif": 261123106
     },
     {
+      "name": "MAGDA FARDILHA SA",
+      "step": {
+        "start": 25001,
+        "end": 50000
+      },
+      "nif": 219181381
+    },
+    {
       "name": "MAGDA SOFIA TEIXEIRA VELOSO",
       "step": {
         "start": 25001,
@@ -27838,7 +27846,7 @@
         "start": 25001,
         "end": 50000
       },
-      "nif": 140722602
+      "nif": 157133540
     },
     {
       "name": "MARIA DA CONCEI\u00c7\u00c3O FERREIRA DOS SANTOS",
@@ -27846,7 +27854,7 @@
         "start": 25001,
         "end": 50000
       },
-      "nif": 157133540
+      "nif": 140722602
     },
     {
       "name": "MARIA DA CONCEI\u00c7\u00c3O FERREIRA SOARES DE BRITO",
@@ -29463,14 +29471,6 @@
         "end": 50000
       },
       "nif": 142937525
-    },
-    {
-      "name": "MARIA HELENA MENDON\u00c7A DA SILVA RENTE",
-      "step": {
-        "start": 25001,
-        "end": 50000
-      },
-      "nif": 124683231
     },
     {
       "name": "MARIA IDALINA DE GOUVEIA",
@@ -40049,5 +40049,5 @@
       "nif": 238733874
     }
   ],
-  "last_updated": "2024-05-14"
+  "last_updated": "2024-05-15"
 }
