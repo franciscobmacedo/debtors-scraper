@@ -5281,14 +5281,6 @@
       "nipc": 501782427
     },
     {
-      "name": "CONFEC\u00c7\u00d5ES CARLOS ALBERTO ANTUNES FERNANDES & FILHOS LDA",
-      "step": {
-        "start": 100001,
-        "end": 500000
-      },
-      "nipc": 509315224
-    },
-    {
       "name": "CONFEC\u00c7\u00d5ES DE EVA & MANUEL SOARES LDA",
       "step": {
         "start": 100001,
@@ -8273,12 +8265,12 @@
       "nipc": 501605584
     },
     {
-      "name": "EPC - ESTUDO PROJETO CRIA\u00c7\u00c3O - CONSTRU\u00c7\u00c3O CIVIL LDA",
+      "name": "EPB EMPRESA PRODUTORA BLOCOS LDA",
       "step": {
         "start": 100001,
         "end": 500000
       },
-      "nipc": 514192275
+      "nipc": 501680250
     },
     {
       "name": "EPOCA INTEMPORAL LDA",
@@ -12991,6 +12983,14 @@
         "end": 500000
       },
       "nipc": 502584297
+    },
+    {
+      "name": "J. SAMPAIO & IRM\u00c3O, LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 501160523
     },
     {
       "name": "J V M CONSTRUCOES E EMPREITADAS LDA",
@@ -27009,5 +27009,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2024-05-18"
+  "last_updated": "2024-05-19"
 }
