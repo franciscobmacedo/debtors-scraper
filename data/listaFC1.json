@@ -20673,14 +20673,6 @@
       "nipc": 506645177
     },
     {
-      "name": "CHURRASQUEIRA AMORES, UNIPESSOAL, LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514225807
-    },
-    {
       "name": "CHURRASQUEIRA CENTRAL DA SAUDADE ACTIVIDADES HOTELEIRAS\rLDA",
       "step": {
         "start": 10000,
@@ -49753,20 +49745,20 @@
       "nipc": 509565727
     },
     {
+      "name": "HMB - SOCIEDADE DE INVESTIMENTOS IMOBILI\u00c1RIOS S.A. - EM\rLIQUIDA\u00c7\u00c3O",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 503502790
+    },
+    {
       "name": "HMP - MADEIRAS S A",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 510894690
-    },
-    {
-      "name": "HN CONTINHAS CONTABILIDADE UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 505875608
     },
     {
       "name": "HN NAILS SOLUTIONS LDA",
@@ -117705,5 +117697,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-05-20"
+  "last_updated": "2024-05-21"
 }
