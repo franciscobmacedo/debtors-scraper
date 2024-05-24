@@ -8633,14 +8633,6 @@
       "nipc": 505921090
     },
     {
-      "name": "ETAPAS AVULSO LDA",
-      "step": {
-        "start": 100001,
-        "end": 500000
-      },
-      "nipc": 515397849
-    },
-    {
       "name": "ETECLDA ESCRITORIO TECNICO ENGENHARIA CIVIL LDA",
       "step": {
         "start": 100001,
@@ -23465,14 +23457,6 @@
       "nipc": 513333649
     },
     {
-      "name": "SPORTING CLUBE OLHANENSE FUTEBOL SAD",
-      "step": {
-        "start": 100001,
-        "end": 500000
-      },
-      "nipc": 510729363
-    },
-    {
       "name": "SPOTLIGHT LTD",
       "step": {
         "start": 100001,
@@ -27009,5 +26993,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2024-05-22"
+  "last_updated": "2024-05-23"
 }
