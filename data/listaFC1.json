@@ -28729,14 +28729,6 @@
       "nipc": 514279001
     },
     {
-      "name": "DECIMALWAVE - UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515006580
-    },
-    {
       "name": "DECIMETRICA LDA",
       "step": {
         "start": 10000,
@@ -39617,12 +39609,12 @@
       "nipc": 508768454
     },
     {
-      "name": "FATIA DIVERTIDA - UNIPESSOAL LDA",
+      "name": "FASTENOUGH - ALUGUER DE VEICULOS MOTORIZADOS UNIPESSOAL\rLDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 514766166
+      "nipc": 514158425
     },
     {
       "name": "FATIAS DE CORTESIA -  LDA",
@@ -49761,12 +49753,12 @@
       "nipc": 509057527
     },
     {
-      "name": "HOLCAN ESTATES LTD",
+      "name": "HOJE 100FALTA - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 980066115
+      "nipc": 513953078
     },
     {
       "name": "HOME CAMPOS - CONSTRU\u00c7\u00d5ES UNIPESSOAL LDA",
@@ -69689,12 +69681,12 @@
       "nipc": 510570267
     },
     {
-      "name": "MATRIZROLANTE - LDA",
+      "name": "MATRIZDETALHE UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 510446779
+      "nipc": 510539424
     },
     {
       "name": "MATRIZVOLTAGE - LDA",
@@ -95849,6 +95841,14 @@
       "nipc": 514942380
     },
     {
+      "name": "SAGORRO - MONTAGENS DE AR CONDICIONADO E REDES DE INC\u00caNDIO,\rUNIPESSOAL LDA - EM LIQUIDA\u00c7\u00c3O",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 505846640
+    },
+    {
       "name": "SAGRERA POLYMERS PORTUGAL UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -117593,5 +117593,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-05-25"
+  "last_updated": "2024-05-26"
 }
