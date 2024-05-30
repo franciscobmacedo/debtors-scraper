@@ -25097,14 +25097,6 @@
       "nipc": 504002945
     },
     {
-      "name": "CONSTRU\u00c7\u00d5ES VALE DE CAMINHOS UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 508394325
-    },
-    {
       "name": "CONSTRU\u00c7\u00d5ES VALE DO PAVIA UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -39609,20 +39601,20 @@
       "nipc": 514158425
     },
     {
+      "name": "FATIA DIVERTIDA - UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 514766166
+    },
+    {
       "name": "FATIAS DE CORTESIA -  LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 515134902
-    },
-    {
-      "name": "FATIAS MEDIATICAS UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513825975
     },
     {
       "name": "FATILOBRA - UNIPESSOAL LDA",
@@ -49753,12 +49745,12 @@
       "nipc": 513953078
     },
     {
-      "name": "HOME CAMPOS - CONSTRU\u00c7\u00d5ES UNIPESSOAL LDA",
+      "name": "HOLCAN ESTATES LTD",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 509567266
+      "nipc": 980066115
     },
     {
       "name": "HOME FRAME LDA",
@@ -103249,14 +103241,6 @@
       "nipc": 514407476
     },
     {
-      "name": "SUCESSORES DE JOSE PAZ RODRIGUES PEREIRA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 900678607
-    },
-    {
       "name": "SUCITESA PORTUGAL - SOCIEDADE IBERICA DE PRODUTOS QUIMICOS S\rA",
       "step": {
         "start": 10000,
@@ -105265,12 +105249,12 @@
       "nipc": 503771961
     },
     {
-      "name": "TEIXEIRA & VAKARCS LDA",
+      "name": "TEIXEIRA & SALGADO LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 510242081
+      "nipc": 503215279
     },
     {
       "name": "TEIXEIRA ALVES CONSTRU\u00c7\u00d5ES LDA",
@@ -117561,5 +117545,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-05-28"
+  "last_updated": "2024-05-29"
 }
