@@ -20830,7 +20830,7 @@
         "start": 25001,
         "end": 50000
       },
-      "nif": 131158058
+      "nif": 124315992
     },
     {
       "name": "JOSE GOMES",
@@ -20838,7 +20838,7 @@
         "start": 25001,
         "end": 50000
       },
-      "nif": 124315992
+      "nif": 131158058
     },
     {
       "name": "JOSE GOMES BARBOSA",
@@ -25743,6 +25743,14 @@
         "end": 50000
       },
       "nif": 160114870
+    },
+    {
+      "name": "MANUEL FERNANDO VIEIRA DOS REIS",
+      "step": {
+        "start": 25001,
+        "end": 50000
+      },
+      "nif": 192674811
     },
     {
       "name": "MANUEL FERREIRA DA SILVA",
@@ -30727,14 +30735,6 @@
         "end": 50000
       },
       "nif": 113568355
-    },
-    {
-      "name": "MARIA ZITA MADUREIRA DE FREITAS",
-      "step": {
-        "start": 25001,
-        "end": 50000
-      },
-      "nif": 158716973
     },
     {
       "name": "MARIA ZITA TEIXEIRA RODRIGUES DE ARAG\u00c3O",
@@ -38321,6 +38321,14 @@
       "nif": 203725085
     },
     {
+      "name": "TELMO RUI FERREIRA FONTES",
+      "step": {
+        "start": 25001,
+        "end": 50000
+      },
+      "nif": 206178883
+    },
+    {
       "name": "TERESA ALDINA CORREIA MONTEIRO DE MOURA",
       "step": {
         "start": 25001,
@@ -39977,5 +39985,5 @@
       "nif": 238733874
     }
   ],
-  "last_updated": "2024-05-29"
+  "last_updated": "2024-05-30"
 }
