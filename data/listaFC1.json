@@ -4577,14 +4577,6 @@
       "nipc": 506500250
     },
     {
-      "name": "ALGARVAPART LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513798978
-    },
-    {
       "name": "ALGARVE AIR & SOLAR LDA",
       "step": {
         "start": 10000,
@@ -88417,14 +88409,6 @@
       "nipc": 513471944
     },
     {
-      "name": "PRESTIGIO DO P\u00c3O, SOCIEDADE UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 504396846
-    },
-    {
       "name": "PRESTIGIO LIVRE LDA",
       "step": {
         "start": 10000,
@@ -107809,6 +107793,14 @@
       "nipc": 513118209
     },
     {
+      "name": "TESOURO SIMB\u00d3LICO - COM\u00c9RCIO DE OURIVESARIA E JOALHERIA,\rUNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 508757797
+    },
+    {
       "name": "TESTA VALOR - CONSULTORIA LDA",
       "step": {
         "start": 10000,
@@ -119289,5 +119281,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-06-11"
+  "last_updated": "2024-06-12"
 }
