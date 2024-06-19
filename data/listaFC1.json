@@ -19377,14 +19377,6 @@
       "nipc": 510381073
     },
     {
-      "name": "CASCATEMAYPOLE - LAR DE IDOSOS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514974389
-    },
-    {
       "name": "CASEIRO & SEIXAS LDA",
       "step": {
         "start": 10000,
@@ -49385,14 +49377,6 @@
       "nipc": 514122420
     },
     {
-      "name": "HELDER CUNHA INDUSTRIA DE PANIFICA\u00c7\u00c3O UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 506020320
-    },
-    {
       "name": "HELDER JOSE OLIVEIRA UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -51423,14 +51407,6 @@
         "end": 50000
       },
       "nipc": 501859519
-    },
-    {
-      "name": "ICT INDUSTRIA DE CARNES DO TEJO LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 505624249
     },
     {
       "name": "ICV ISAIAS CABRAL DE VIVEIROS SOCIEDADE UNIPESSOAL LDA",
@@ -106753,20 +106729,20 @@
       "nipc": 507488393
     },
     {
+      "name": "TEIXEIRA & REIS SOC PROMOTORA DE INVESTIMENTOS IMOBILIARIOS\rLDA - SOC EM LIQUIDA\u00c7\u00c3O",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 503771961
+    },
+    {
       "name": "TEIXEIRA & SALGADO LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 503215279
-    },
-    {
-      "name": "TEIXEIRA & VAKARCS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510242081
     },
     {
       "name": "TEIXEIRA ALVES CONSTRU\u00c7\u00d5ES LDA",
@@ -115545,14 +115521,6 @@
       "nipc": 501693157
     },
     {
-      "name": "VIDRARIA BAZAR COMERCIO VIDROS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 502141077
-    },
-    {
       "name": "VIDRARIA DA GANDRA LDA",
       "step": {
         "start": 10000,
@@ -119201,5 +119169,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-06-17"
+  "last_updated": "2024-06-18"
 }
