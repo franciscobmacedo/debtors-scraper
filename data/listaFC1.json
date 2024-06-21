@@ -54737,14 +54737,6 @@
       "nipc": 510889522
     },
     {
-      "name": "ITRACOMA - MATERIAIS E CONSTRU\u00c7\u00d5ES LDA - EM LIQUIDA\u00c7\u00c3O",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 500565163
-    },
-    {
       "name": "IUR, RENT A CAR LDA",
       "step": {
         "start": 10000,
@@ -67897,6 +67889,14 @@
       "nipc": 513733833
     },
     {
+      "name": "MANUEL LOPES & IRM\u00c3O LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 504550586
+    },
+    {
       "name": "MANUEL MAGALHAES SILVA LDA",
       "step": {
         "start": 10000,
@@ -73815,14 +73815,6 @@
         "end": 50000
       },
       "nipc": 503967203
-    },
-    {
-      "name": "MOLDUGUARDA COMERCIO DE VIDRO E MOLDURAS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 506306461
     },
     {
       "name": "MOLDURA DE ESBO\u00c7OS UNIPESSOAL LDA",
@@ -94239,14 +94231,6 @@
         "end": 50000
       },
       "nipc": 514471573
-    },
-    {
-      "name": "RISCAS E FITAS UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510391737
     },
     {
       "name": "RISCAS PROTAGONISTAS - UNIPESSOAL LDA",
@@ -119129,5 +119113,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-06-19"
+  "last_updated": "2024-06-20"
 }
