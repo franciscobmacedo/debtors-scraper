@@ -53393,6 +53393,14 @@
       "nipc": 513277447
     },
     {
+      "name": "INOVAMOLDE, UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 508740959
+    },
+    {
       "name": "INOVANDO - METALURGICA LDA",
       "step": {
         "start": 10000,
@@ -98601,14 +98609,6 @@
       "nipc": 514470011
     },
     {
-      "name": "SEGMENTO URBANO ARQUITECTURA, ENGENHARIA E CONSTRU\u00c7\u00c3O,\rLDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 507569989
-    },
-    {
       "name": "SEGMENTOS E FORMAS LDA",
       "step": {
         "start": 10000,
@@ -118657,14 +118657,6 @@
       "nipc": 509707750
     },
     {
-      "name": "ZIT - ZEN IND\u00daSTRIA DE TINTAS, LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514354844
-    },
-    {
       "name": "ZIZANIA - PADARIA PASTELARIA LDA",
       "step": {
         "start": 10000,
@@ -118823,14 +118815,6 @@
         "end": 50000
       },
       "nipc": 510111009
-    },
-    {
-      "name": "100 TRAS-OS-MONTES LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 508561191
     },
     {
       "name": "100BUROCRACIAS - CONSULTORIA LDA",
@@ -119097,5 +119081,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-06-24"
+  "last_updated": "2024-06-25"
 }
