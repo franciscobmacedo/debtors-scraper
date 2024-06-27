@@ -53393,14 +53393,6 @@
       "nipc": 513277447
     },
     {
-      "name": "INOVAMOLDE, UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 508740959
-    },
-    {
       "name": "INOVANDO - METALURGICA LDA",
       "step": {
         "start": 10000,
@@ -73649,6 +73641,14 @@
       "nipc": 514301538
     },
     {
+      "name": "MOEDAVIRTUAL - INFORM\u00c1TICA, LIMITADA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 509442048
+    },
+    {
       "name": "MOEL CONSULTING, LDA",
       "step": {
         "start": 10000,
@@ -91199,14 +91199,6 @@
         "end": 50000
       },
       "nipc": 510603130
-    },
-    {
-      "name": "RASGOGELO LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514157321
     },
     {
       "name": "RASGOS MAGNETICOS - LDA",
@@ -119081,5 +119073,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-06-25"
+  "last_updated": "2024-06-26"
 }
