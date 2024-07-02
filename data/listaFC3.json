@@ -23497,6 +23497,14 @@
       "nipc": 513567801
     },
     {
+      "name": "SOLIDO DISTINTO - UNIPESSOAL LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 514779624
+    },
+    {
       "name": "S\u00d3LIDO ESPA\u00c7O - CONSTRU\u00c7\u00c3O CIVIL, UNIPESSOAL LDA - EM\rLIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 100001,
@@ -27337,5 +27345,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2024-06-30"
+  "last_updated": "2024-07-01"
 }
