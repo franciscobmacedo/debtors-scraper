@@ -13817,14 +13817,6 @@
       "nipc": 507197429
     },
     {
-      "name": "JOSE MANUEL COSTA RODRIGUES CONSTRU\u00c7\u00d5ES UNIPESSOAL LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 507008685
-    },
-    {
       "name": "JOSE MARIA & PINTO LDA",
       "step": {
         "start": 50001,
@@ -15247,6 +15239,14 @@
         "end": 100000
       },
       "nipc": 506578100
+    },
+    {
+      "name": "LUIS CARLOS & MATIAS GEST\u00c3O DE CONDOMINIOS LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 506019560
     },
     {
       "name": "LUIS EDUARDO BARBOSA UNIPESSOAL LDA",
@@ -22025,14 +22025,6 @@
       "nipc": 508018153
     },
     {
-      "name": "SALGADO & VAZ LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 503751227
-    },
-    {
       "name": "SALPICOS LUNARES - LAVANDARIAS INDUSTRIAIS LDA",
       "step": {
         "start": 50001,
@@ -26705,5 +26697,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2024-07-01"
+  "last_updated": "2024-07-02"
 }
