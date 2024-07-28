@@ -2881,14 +2881,6 @@
       "nipc": 512075298
     },
     {
-      "name": "BELONG2SUCCESS - LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 513053603
-    },
-    {
       "name": "BENJAMIM MARQUES CONSTRU\u00c7\u00d5ES LDA",
       "step": {
         "start": 50001,
@@ -23889,14 +23881,6 @@
       "nipc": 507645448
     },
     {
-      "name": "SUPERDECADA POSTOS DE ABASTECIMENTO UNIPESSOAL LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 509533086
-    },
-    {
       "name": "SUPERMERCADO PAULO MARTINS UNIPESSOAL LDA",
       "step": {
         "start": 50001,
@@ -26897,5 +26881,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2024-07-26"
+  "last_updated": "2024-07-27"
 }
