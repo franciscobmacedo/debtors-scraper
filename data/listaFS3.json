@@ -3049,14 +3049,6 @@
       "nif": 189849088
     },
     {
-      "name": "ANTONIO LOPES BAIOA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nif": 133874664
-    },
-    {
       "name": "ANTONIO LOPES DA SILVA",
       "step": {
         "start": 50001,
@@ -3222,7 +3214,7 @@
         "start": 50001,
         "end": 100000
       },
-      "nif": 192575015
+      "nif": 175162948
     },
     {
       "name": "ANTONIO MANUEL MARQUES GON\u00c7ALVES",
@@ -3230,7 +3222,7 @@
         "start": 50001,
         "end": 100000
       },
-      "nif": 175162948
+      "nif": 192575015
     },
     {
       "name": "ANTONIO MANUEL MARTINS FERREIRA",
@@ -12247,6 +12239,14 @@
         "end": 100000
       },
       "nif": 240510380
+    },
+    {
+      "name": "JO\u00c3O PEDRO RAMOS FERNANDES",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nif": 184879582
     },
     {
       "name": "JO\u00c3O PEDRO RELVA RIBEIRO",
@@ -27817,5 +27817,5 @@
       "nif": 296250406
     }
   ],
-  "last_updated": "2024-07-27"
+  "last_updated": "2024-07-28"
 }
