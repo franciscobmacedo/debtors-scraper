@@ -11289,14 +11289,6 @@
       "nipc": 507488520
     },
     {
-      "name": "GROUP MW - WOOD MANUFACTURING LDA",
-      "step": {
-        "start": 100001,
-        "end": 500000
-      },
-      "nipc": 514359463
-    },
-    {
       "name": "GROWING DEMAND - UNIPESSOAL LDA",
       "step": {
         "start": 100001,
@@ -27409,5 +27401,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2024-08-08"
+  "last_updated": "2024-08-09"
 }
