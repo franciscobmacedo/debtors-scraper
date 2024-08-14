@@ -11393,14 +11393,6 @@
       "nipc": 510406327
     },
     {
-      "name": "GRUPO PATAMAR CORP - SUCURSAL EM PORTUGAL",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 980471877
-    },
-    {
       "name": "GSGUIA UNIPESSOAL LDA",
       "step": {
         "start": 50001,
@@ -17215,6 +17207,14 @@
         "end": 100000
       },
       "nipc": 503814105
+    },
+    {
+      "name": "MOEDAVIRTUAL - INFORM\u00c1TICA, LIMITADA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 509442048
     },
     {
       "name": "MOFELARTE COMERCIO DE MOVEIS LDA",
@@ -26873,5 +26873,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2024-08-12"
+  "last_updated": "2024-08-13"
 }
