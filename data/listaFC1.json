@@ -28841,14 +28841,6 @@
       "nipc": 502894580
     },
     {
-      "name": "DAVID MIMOSO UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 516075217
-    },
-    {
       "name": "DAVID MOREIRA SILVA E FILHOS SA EM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 10000,
@@ -50473,20 +50465,20 @@
       "nipc": 507397800
     },
     {
+      "name": "HJ MULTISERVI\u00c7OS-UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 513069984
+    },
+    {
       "name": "HL - MEDIA\u00c7\u00c3O DE SEGUROS LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 513575839
-    },
-    {
-      "name": "HM PRODUTOS DE MANUTEN\u00c7\u00c3O UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509565727
     },
     {
       "name": "HMB - SOCIEDADE DE INVESTIMENTOS IMOBILI\u00c1RIOS S.A. - EM\rLIQUIDA\u00c7\u00c3O",
@@ -53383,6 +53375,14 @@
         "end": 50000
       },
       "nipc": 507895703
+    },
+    {
+      "name": "INFORPOVOA 2 UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 513440313
     },
     {
       "name": "INFORQUINT\u00c3, ASSIST\u00caNCIA ELECTR\u00d3NICA E INFORM\u00c1TICA LDA",
@@ -70745,12 +70745,12 @@
       "nipc": 510671993
     },
     {
-      "name": "MATRIZDETALHE UNIPESSOAL LDA",
+      "name": "MATRIZCALCULO - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 510539424
+      "nipc": 510570267
     },
     {
       "name": "MATRIZROLANTE - LDA",
@@ -107073,12 +107073,12 @@
       "nipc": 507488393
     },
     {
-      "name": "TEIXEIRA & SALGADO LDA",
+      "name": "TEIXEIRA & REIS SOC PROMOTORA DE INVESTIMENTOS IMOBILIARIOS\rLDA - SOC EM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 503215279
+      "nipc": 503771961
     },
     {
       "name": "TEIXEIRA & VAKARCS LDA",
@@ -119585,5 +119585,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-08-16"
+  "last_updated": "2024-08-17"
 }
