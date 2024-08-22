@@ -21089,14 +21089,6 @@
       "nipc": 501856862
     },
     {
-      "name": "CIDADE 21 LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509287549
-    },
-    {
       "name": "CIDADE 24 - MEDIA\u00c7\u00c3O IMOBILIARIA UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -43857,14 +43849,6 @@
       "nipc": 506124185
     },
     {
-      "name": "FRANCO & CARVALHO, LDA.",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 501160701
-    },
-    {
       "name": "FRAN\u00c7OIS VERMORGEN UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -50481,12 +50465,12 @@
       "nipc": 513575839
     },
     {
-      "name": "HMB - SOCIEDADE DE INVESTIMENTOS IMOBILI\u00c1RIOS S.A. - EM\rLIQUIDA\u00c7\u00c3O",
+      "name": "HM PRODUTOS DE MANUTEN\u00c7\u00c3O UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 503502790
+      "nipc": 509565727
     },
     {
       "name": "HMP - MADEIRAS S A",
@@ -70753,12 +70737,12 @@
       "nipc": 510570267
     },
     {
-      "name": "MATRIZROLANTE - LDA",
+      "name": "MATRIZDETALHE UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 510446779
+      "nipc": 510539424
     },
     {
       "name": "MATRIZVOLTAGE - LDA",
@@ -75167,14 +75151,6 @@
         "end": 50000
       },
       "nipc": 510180922
-    },
-    {
-      "name": "MS RENDAS E BORDADOS T\u00caXTEIS, UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514755768
     },
     {
       "name": "MSCTC - CONSULTING TRAINING & TECHNOLOGIES UNIPESSOAL LDA",
@@ -107081,20 +107057,20 @@
       "nipc": 503771961
     },
     {
+      "name": "TEIXEIRA & SALGADO LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 503215279
+    },
+    {
       "name": "TEIXEIRA & VAKARCS LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 510242081
-    },
-    {
-      "name": "TEIXEIRA ALVES CONSTRU\u00c7\u00d5ES LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 504228161
     },
     {
       "name": "TEIXEIRA E ADELIO LDA EM LIQUIDA\u00c7\u00c3O",
@@ -119585,5 +119561,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-08-20"
+  "last_updated": "2024-08-21"
 }
