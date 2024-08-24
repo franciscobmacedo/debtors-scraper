@@ -48601,14 +48601,6 @@
       "nipc": 508623766
     },
     {
-      "name": "GUADICANALIZA\u00c7\u00d5ES UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 508945585
-    },
-    {
       "name": "GUALDINO E NEVES LDA",
       "step": {
         "start": 10000,
@@ -70745,20 +70737,20 @@
       "nipc": 510539424
     },
     {
+      "name": "MATRIZROLANTE - LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 510446779
+    },
+    {
       "name": "MATRIZVOLTAGE - LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 513526110
-    },
-    {
-      "name": "MAURICIO ANTONIO PIMENTA UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515635480
     },
     {
       "name": "MAURO CONSTANTINO AUTOMOVEIS UNIPESSOAL LDA",
@@ -107073,12 +107065,12 @@
       "nipc": 510242081
     },
     {
-      "name": "TEIXEIRA E ADELIO LDA EM LIQUIDA\u00c7\u00c3O",
+      "name": "TEIXEIRA ALVES CONSTRU\u00c7\u00d5ES LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 500818908
+      "nipc": 504228161
     },
     {
       "name": "TEIXEIRA SOUSA & PERES LDA",
@@ -119561,5 +119553,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-08-22"
+  "last_updated": "2024-08-23"
 }
