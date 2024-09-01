@@ -10929,14 +10929,6 @@
       "nipc": 506223884
     },
     {
-      "name": "ASYSTWAY CONSULTORES ASSOCIADOS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513271988
-    },
-    {
       "name": "AT PATRICKS - RESTAURA\u00c7\u00c3O UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -40375,6 +40367,14 @@
         "end": 50000
       },
       "nipc": 505993694
+    },
+    {
+      "name": "FAMOPLA FABRICA PORTUGUESA MOLDES PARA PLASTICO LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 500109079
     },
     {
       "name": "FAMOSOMIMOSO - LEIT\u00c3O ASSADO UNIPESSOAL LDA",
@@ -71881,14 +71881,6 @@
       "nipc": 502628634
     },
     {
-      "name": "MATRIBRAGA - COM\u00c9RCIO DE MATERIAIS DE CONSTRU\u00c7\u00c3O,\rUNIPESSOAL, LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 505814285
-    },
-    {
       "name": "MATRICULAS E ACESSORIOS AUTO DE A A Z LDA",
       "step": {
         "start": 10000,
@@ -87681,14 +87673,6 @@
       "nipc": 508957168
     },
     {
-      "name": "PIXELTRIUMPH - CONFE\u00c7\u00d5ES, LDA.",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515914207
-    },
-    {
       "name": "PIZA EXPRESSO - COMERCIO DE PIZARIA LDA - EM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 10000,
@@ -90463,14 +90447,6 @@
         "end": 50000
       },
       "nipc": 510883222
-    },
-    {
-      "name": "PRODIGYVOICE - CONSTRU\u00c7\u00c3O CIVIL UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513556192
     },
     {
       "name": "PRODPICTURE PORTUGAL PRODUCTIONS S A",
@@ -121489,5 +121465,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-08-30"
+  "last_updated": "2024-08-31"
 }
