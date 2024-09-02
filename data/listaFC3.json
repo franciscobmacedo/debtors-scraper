@@ -16577,6 +16577,14 @@
       "nipc": 505307618
     },
     {
+      "name": "MECANIDRAULICA - AMBIENTE E METALOMECANICA S A",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 503547107
+    },
+    {
       "name": "MECANOPLASTICO-INDUSTRIA DE MOLDES E PLASTICOS LDA",
       "step": {
         "start": 100001,
@@ -27777,5 +27785,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2024-08-31"
+  "last_updated": "2024-09-01"
 }
