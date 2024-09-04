@@ -1353,14 +1353,6 @@
       "nipc": 510543553
     },
     {
-      "name": "ACNETO TEXTEIS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513249966
-    },
-    {
       "name": "ACONCARPE COMERCIO DE MATERIAL DE CARPINTARIA LDA",
       "step": {
         "start": 10000,
@@ -32385,14 +32377,6 @@
       "nipc": 500087652
     },
     {
-      "name": "DONDOQU\u00cdMICA - IMPERMEABILIZA\u00c7\u00d5ES E ISOLAMENTOS LDA - EM\rLIQUIDA\u00c7\u00c3O",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 501435689
-    },
-    {
       "name": "DONNA VIAGEM LDA",
       "step": {
         "start": 10000,
@@ -51241,20 +51225,20 @@
       "nipc": 507693418
     },
     {
+      "name": "HIPERIMAGEM - IMAGEM E PUBLICIDADE, UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 510208940
+    },
+    {
       "name": "HIPERPEVID\u00c9M - SUPERMERCADOS, S.A. - EM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 509806333
-    },
-    {
-      "name": "HIPICARGO EQUIPAMENTOS PARA TRANSPORTES LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 503497398
     },
     {
       "name": "HIPOLITO REIS CONTABILIDADE INFORMATICA E SERVICOS LDA",
@@ -52567,14 +52551,6 @@
         "end": 50000
       },
       "nipc": 508211379
-    },
-    {
-      "name": "IDEIAS APRAZIVEIS II LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513936157
     },
     {
       "name": "IDEIAS ASSINADAS - CONSTRU\u00c7\u00c3O E ENGENHARIA CIVIL, S.A.",
@@ -71881,6 +71857,14 @@
       "nipc": 505814285
     },
     {
+      "name": "MATRICULAS E ACESSORIOS AUTO DE A A Z LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 510513905
+    },
+    {
       "name": "MATRIZBASTIDOR - INDUSTRIA TEXTIL LDA",
       "step": {
         "start": 10000,
@@ -71911,14 +71895,6 @@
         "end": 50000
       },
       "nipc": 510446779
-    },
-    {
-      "name": "MATRIZVOLTAGE - LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513526110
     },
     {
       "name": "MAURICIO ANTONIO PIMENTA UNIPESSOAL LDA",
@@ -87633,14 +87609,6 @@
       "nipc": 514103604
     },
     {
-      "name": "PITADAS MAGICAS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514719842
-    },
-    {
       "name": "PITORESCA VANTAGEM - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -94935,6 +94903,14 @@
         "end": 50000
       },
       "nipc": 513020608
+    },
+    {
+      "name": "RESTAURANTE RAMIRES - UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 508870526
     },
     {
       "name": "RESTAURANTE REGIONAL TRINTA E NOVE LDA",
@@ -121449,5 +121425,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-09-02"
+  "last_updated": "2024-09-03"
 }
