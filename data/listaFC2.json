@@ -3497,6 +3497,14 @@
       "nipc": 514916885
     },
     {
+      "name": "BRILHOCATITA ACABAMENTOS TEXTEIS UNIPESSOAL LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 513982957
+    },
+    {
       "name": "BRINDELIVRE, LDA",
       "step": {
         "start": 50001,
@@ -27185,14 +27193,6 @@
       "nipc": 505007576
     },
     {
-      "name": "4SDM PERFORMANCE UNIPESSOAL LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 515561533
-    },
-    {
       "name": "8 ETERNITY DENTAL CENTER, LDA",
       "step": {
         "start": 50001,
@@ -27201,5 +27201,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2024-09-11"
+  "last_updated": "2024-09-12"
 }

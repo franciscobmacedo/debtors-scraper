@@ -11633,14 +11633,6 @@
       "nipc": 506794652
     },
     {
-      "name": "AUTO JAIME PEDREGAL UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514690291
-    },
-    {
       "name": "AUTO JO\u00c3O BISPO - REPARA\u00c7\u00c3O DE AUTOM\u00d3VEIS, UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -15743,14 +15735,6 @@
         "end": 50000
       },
       "nipc": 509081045
-    },
-    {
-      "name": "BRILHOCATITA ACABAMENTOS TEXTEIS UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513982957
     },
     {
       "name": "BRILHOCORAL - UNIPESSOAL LDA",
@@ -32367,6 +32351,14 @@
         "end": 50000
       },
       "nipc": 507898281
+    },
+    {
+      "name": "DOODLE - CRIATIVIDADE EMPRESARIAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 508942330
     },
     {
       "name": "DORIVA FABRICA DE CAL\u00c7ADO LDA",
@@ -51233,6 +51225,14 @@
       "nipc": 506684814
     },
     {
+      "name": "HITZEMANN & SAMPAIO UNIPESSOAL LTDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 500134944
+    },
+    {
       "name": "HIX PH - PRODUTOS DE HIGIENE LDA - SOCIEDADE EM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 10000,
@@ -51247,14 +51247,6 @@
         "end": 50000
       },
       "nipc": 507397800
-    },
-    {
-      "name": "HJ MULTISERVI\u00c7OS-UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513069984
     },
     {
       "name": "HL - MEDIA\u00c7\u00c3O DE SEGUROS LDA",
@@ -98761,6 +98753,14 @@
       "nipc": 500238278
     },
     {
+      "name": "SAGITTAL IMOBILIARIA ADMINISTRACAO E PRESTACAO DE SERVICOS\rLDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 503957259
+    },
+    {
       "name": "SAGO UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -121329,5 +121329,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-09-11"
+  "last_updated": "2024-09-12"
 }

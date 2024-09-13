@@ -27737,6 +27737,14 @@
       "nipc": 508118360
     },
     {
+      "name": "4SDM PERFORMANCE UNIPESSOAL LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 515561533
+    },
+    {
       "name": "4THEM UNIPESSOAL LDA",
       "step": {
         "start": 100001,
@@ -27777,5 +27785,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2024-09-11"
+  "last_updated": "2024-09-12"
 }
