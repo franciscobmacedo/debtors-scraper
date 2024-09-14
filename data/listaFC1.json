@@ -44953,14 +44953,6 @@
       "nipc": 504641220
     },
     {
-      "name": "FRILUMA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515479039
-    },
-    {
       "name": "FRINCH, UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -51249,20 +51241,20 @@
       "nipc": 507397800
     },
     {
+      "name": "HJ MULTISERVI\u00c7OS-UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 513069984
+    },
+    {
       "name": "HL - MEDIA\u00c7\u00c3O DE SEGUROS LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 513575839
-    },
-    {
-      "name": "HM PRODUTOS DE MANUTEN\u00c7\u00c3O UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509565727
     },
     {
       "name": "HMB - SOCIEDADE DE INVESTIMENTOS IMOBILI\u00c1RIOS S.A. - EM\rLIQUIDA\u00c7\u00c3O",
@@ -64511,14 +64503,6 @@
         "end": 50000
       },
       "nipc": 507264126
-    },
-    {
-      "name": "LISCORA COMERCIO COMBUSTIVEIS E REPARACOES LIZ LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 500303770
     },
     {
       "name": "LISDRINK LDA",
@@ -121329,5 +121313,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-09-12"
+  "last_updated": "2024-09-13"
 }
