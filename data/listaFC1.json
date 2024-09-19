@@ -40753,14 +40753,6 @@
       "nipc": 514766166
     },
     {
-      "name": "FATIAS DE CORTESIA -  LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515134902
-    },
-    {
       "name": "FATIAS MEDIATICAS UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -51241,12 +51233,12 @@
       "nipc": 513575839
     },
     {
-      "name": "HMB - SOCIEDADE DE INVESTIMENTOS IMOBILI\u00c1RIOS S.A. - EM\rLIQUIDA\u00c7\u00c3O",
+      "name": "HM PRODUTOS DE MANUTEN\u00c7\u00c3O UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 503502790
+      "nipc": 509565727
     },
     {
       "name": "HMP - MADEIRAS S A",
@@ -106905,14 +106897,6 @@
       "nipc": 500582939
     },
     {
-      "name": "SUPERNOVA - LABORAT\u00d3RIOS DERMOCOSM\u00c9TICOS,LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 503997196
-    },
-    {
       "name": "SUPERPEVIDEM SUPERMERCADOS SA",
       "step": {
         "start": 10000,
@@ -108569,20 +108553,20 @@
       "nipc": 507488393
     },
     {
+      "name": "TEIXEIRA & REIS SOC PROMOTORA DE INVESTIMENTOS IMOBILIARIOS\rLDA - SOC EM LIQUIDA\u00c7\u00c3O",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 503771961
+    },
+    {
       "name": "TEIXEIRA & SALGADO LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 503215279
-    },
-    {
-      "name": "TEIXEIRA & VAKARCS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510242081
     },
     {
       "name": "TEIXEIRA ALVES CONSTRU\u00c7\u00d5ES LDA",
@@ -121273,5 +121257,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-09-17"
+  "last_updated": "2024-09-18"
 }
