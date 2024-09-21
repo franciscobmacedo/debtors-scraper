@@ -2369,14 +2369,6 @@
       "nipc": 503454370
     },
     {
-      "name": "AFS - ADVANCED FUEL SOLUTIONS S A",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510245390
-    },
-    {
       "name": "AFS - AGENCIA FUNERARIA DA SOBREDA LDA",
       "step": {
         "start": 10000,
@@ -3295,14 +3287,6 @@
         "end": 50000
       },
       "nipc": 510649211
-    },
-    {
-      "name": "ALANDIS ALEXANDRA & ANABELA COMERCIO E DISTRIBUICAO DE\rBENS DE CONSUMO LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 502998369
     },
     {
       "name": "ALANO DUARTE UNIPESSOAL LDA",
@@ -72617,14 +72601,6 @@
       "nipc": 509774105
     },
     {
-      "name": "MELHORES CUIDADOS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514485868
-    },
-    {
       "name": "MELHORES DESTINOS - TRANSPORTES LDA",
       "step": {
         "start": 10000,
@@ -101609,6 +101585,14 @@
       "nipc": 514967498
     },
     {
+      "name": "SEVEN GOLD - EVENTOS UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 510282733
+    },
+    {
       "name": "SEVEN MOTEL TURISMO LDA",
       "step": {
         "start": 10000,
@@ -106481,14 +106465,6 @@
       "nipc": 513573275
     },
     {
-      "name": "SUCESSO TRANSVERSAL UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514868686
-    },
-    {
       "name": "SUCESSOGENGIBRE - DISTRIBUI\u00c7\u00c3O E REPRESENTA\u00c7\u00c3O UNIPESSOAL\rLDA",
       "step": {
         "start": 10000,
@@ -108569,12 +108545,12 @@
       "nipc": 503215279
     },
     {
-      "name": "TEIXEIRA ALVES CONSTRU\u00c7\u00d5ES LDA",
+      "name": "TEIXEIRA & VAKARCS LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 504228161
+      "nipc": 510242081
     },
     {
       "name": "TEIXEIRA E ADELIO LDA EM LIQUIDA\u00c7\u00c3O",
@@ -121257,5 +121233,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-09-19"
+  "last_updated": "2024-09-20"
 }
