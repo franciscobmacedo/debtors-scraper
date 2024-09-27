@@ -1,6 +1,14 @@
 {
   "debtors": [
     {
+      "name": "A CUNHA OLIVEIRA & FILHOS LDA",
+      "step": {
+        "start": 5000000,
+        "end": null
+      },
+      "nipc": 504979701
+    },
+    {
       "name": "ADIVINHABILITY UNIPESSOAL LDA",
       "step": {
         "start": 5000000,
@@ -105,6 +113,22 @@
       "nipc": 510225047
     },
     {
+      "name": "KRONING INFORMATICA LDA",
+      "step": {
+        "start": 5000000,
+        "end": null
+      },
+      "nipc": 504149962
+    },
+    {
+      "name": "L ROCHA REPRESENTACOES LDA",
+      "step": {
+        "start": 5000000,
+        "end": null
+      },
+      "nipc": 501047883
+    },
+    {
       "name": "LACAPAINT - ESTAMPARIA LDA",
       "step": {
         "start": 5000000,
@@ -185,6 +209,14 @@
       "nipc": 513419608
     },
     {
+      "name": "SUZIDATA EQUIPAMENTOS ELECTRONICOS LDA",
+      "step": {
+        "start": 5000000,
+        "end": null
+      },
+      "nipc": 503824844
+    },
+    {
       "name": "SWEATBUSINESS L.DA - EM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 5000000,
@@ -217,5 +249,5 @@
       "nipc": 980088542
     }
   ],
-  "last_updated": "2024-09-25"
+  "last_updated": "2024-09-26"
 }
