@@ -7441,14 +7441,6 @@
       "nipc": 513728309
     },
     {
-      "name": "ANGULO INFINITO UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509898050
-    },
-    {
       "name": "\u00c2NGULO OSCILANTE, SOCIEDADE DE MEDIA\u00c7\u00c3O IMOBILI\u00c1RIA,\rUNIPESSOAL, LDA.",
       "step": {
         "start": 10000,
@@ -46025,14 +46017,6 @@
       "nipc": 510414214
     },
     {
-      "name": "GADGETEXIGENT - UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514650885
-    },
-    {
       "name": "GADGETPATAMAR UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -51601,20 +51585,20 @@
       "nipc": 513069984
     },
     {
+      "name": "HL - MEDIA\u00c7\u00c3O DE SEGUROS LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 513575839
+    },
+    {
       "name": "HM PRODUTOS DE MANUTEN\u00c7\u00c3O UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 509565727
-    },
-    {
-      "name": "HMB - SOCIEDADE DE INVESTIMENTOS IMOBILI\u00c1RIOS S.A. - EM\rLIQUIDA\u00c7\u00c3O",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 503502790
     },
     {
       "name": "HMP - MADEIRAS S A",
@@ -72249,6 +72233,14 @@
       "nipc": 510446779
     },
     {
+      "name": "MATRIZVOLTAGE - LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 513526110
+    },
+    {
       "name": "MAURICIO ANTONIO PIMENTA UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -72271,14 +72263,6 @@
         "end": 50000
       },
       "nipc": 515215830
-    },
-    {
-      "name": "MAXIBYTE COMERCIALIZA\u00c7\u00c3O E GEST\u00c3O DE SISTEMAS INFORMATICOS\rUNIP LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 504957490
     },
     {
       "name": "MAXICOZ DESIGN INTERIORES LDA",
@@ -109897,14 +109881,6 @@
       "nipc": 514717300
     },
     {
-      "name": "TERESA RIBEIRO DERMOCOSM\u00c9TICA E PRODUTOS NATURAIS,\rUNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 507511611
-    },
-    {
       "name": "TERLAFTUR, S.A.",
       "step": {
         "start": 10000,
@@ -122001,5 +121977,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-10-01"
+  "last_updated": "2024-10-02"
 }
