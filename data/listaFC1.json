@@ -2593,14 +2593,6 @@
       "nipc": 510752276
     },
     {
-      "name": "AGGREGATE VOLUME UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513980644
-    },
-    {
       "name": "AGICONF CONFEC\u00c7\u00d5ES TEXTEIS LDA",
       "step": {
         "start": 10000,
@@ -53177,14 +53169,6 @@
       "nipc": 502684828
     },
     {
-      "name": "ILHA DOCE - GELATARIA, CAFETARIA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 504549898
-    },
-    {
       "name": "ILH\u00c3OTECH - PRODUTOS E SERVI\u00c7OS TECNICOS LDA",
       "step": {
         "start": 10000,
@@ -72265,12 +72249,12 @@
       "nipc": 515215830
     },
     {
-      "name": "MAXICOZ DESIGN INTERIORES LDA",
+      "name": "MAXIBYTE COMERCIALIZA\u00c7\u00c3O E GEST\u00c3O DE SISTEMAS INFORMATICOS\rUNIP LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 506910776
+      "nipc": 504957490
     },
     {
       "name": "MAXIDIAS UNIPESSOAL LDA",
@@ -94751,14 +94735,6 @@
         "end": 50000
       },
       "nipc": 507060814
-    },
-    {
-      "name": "RENATA FIGUEIREDO UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513824081
     },
     {
       "name": "RENATO ALBERTO RIBEIRO UNIPESSOAL LDA",
@@ -121977,5 +121953,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-10-02"
+  "last_updated": "2024-10-03"
 }
