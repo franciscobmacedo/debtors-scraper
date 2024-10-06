@@ -1457,14 +1457,6 @@
       "nif": 194785238
     },
     {
-      "name": "ALFREDO JOSE CLEMENTE GALV\u00c3O",
-      "step": {
-        "start": 25001,
-        "end": 50000
-      },
-      "nif": 152380353
-    },
-    {
       "name": "ALFREDO JOSE FERREIRA PACHECO",
       "step": {
         "start": 25001,
@@ -7687,6 +7679,14 @@
         "end": 50000
       },
       "nif": 204430836
+    },
+    {
+      "name": "CARLOS ALBERTO MARTINS RAMALHO",
+      "step": {
+        "start": 25001,
+        "end": 50000
+      },
+      "nif": 121916960
     },
     {
       "name": "CARLOS ALBERTO MOTA SILVA",
@@ -20646,7 +20646,7 @@
         "start": 25001,
         "end": 50000
       },
-      "nif": 168601532
+      "nif": 241740754
     },
     {
       "name": "JOSE CARLOS PEREIRA DA SILVA",
@@ -20654,7 +20654,7 @@
         "start": 25001,
         "end": 50000
       },
-      "nif": 241740754
+      "nif": 168601532
     },
     {
       "name": "JOSE CARLOS PEREIRA GON\u00c7ALVES",
@@ -40833,5 +40833,5 @@
       "nif": 238733874
     }
   ],
-  "last_updated": "2024-10-04"
+  "last_updated": "2024-10-05"
 }
