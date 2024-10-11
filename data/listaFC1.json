@@ -42761,6 +42761,14 @@
       "nipc": 500256551
     },
     {
+      "name": "FIGURA CURIOSA LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 513525700
+    },
+    {
       "name": "FIGURA MAIOR-CONSTRU\u00c7\u00d5ES UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -51601,12 +51609,12 @@
       "nipc": 510479367
     },
     {
-      "name": "HNT - CONTABILIDADE E SERVI\u00c7OS LDA",
+      "name": "HOBBY IMPORT, LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 508851351
+      "nipc": 509057527
     },
     {
       "name": "HOJE 100FALTA - UNIPESSOAL LDA",
@@ -61471,14 +61479,6 @@
         "end": 50000
       },
       "nipc": 504256610
-    },
-    {
-      "name": "JULIO F REIS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 505401797
     },
     {
       "name": "JULIO GON\u00c7ALVES PEREIRA - CARPINTARIA UNIPESSOAL LDA",
@@ -99153,6 +99153,14 @@
       "nipc": 503033073
     },
     {
+      "name": "SADOPINTA PINTURAS NA CONSTRU\u00c7\u00c3O CIVIL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 503384291
+    },
+    {
       "name": "SAERCON LDA",
       "step": {
         "start": 10000,
@@ -121889,5 +121897,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-10-09"
+  "last_updated": "2024-10-10"
 }
