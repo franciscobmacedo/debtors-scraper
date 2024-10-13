@@ -26609,14 +26609,6 @@
       "nipc": 501069445
     },
     {
-      "name": "COORDENADA SINGULAR - LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515629278
-    },
-    {
       "name": "COORDENADAS E ARGUMENTOS LDA",
       "step": {
         "start": 10000,
@@ -34655,6 +34647,14 @@
         "end": 50000
       },
       "nipc": 507713702
+    },
+    {
+      "name": "ELEMENTOS  TELAS SA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 508686016
     },
     {
       "name": "ELEMENTOS DECIMAIS - CONSTRU\u00c7\u00d5ES UNIPESSOAL LDA",
@@ -86945,14 +86945,6 @@
       "nipc": 510443370
     },
     {
-      "name": "PETALASORBITA UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513102744
-    },
-    {
       "name": "PETALSPASSION UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -99153,6 +99145,14 @@
       "nipc": 513964754
     },
     {
+      "name": "SAFE START - UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 507820223
+    },
+    {
       "name": "SAFE VALUE - CONSULTORIA DE GEST\u00c3O LDA",
       "step": {
         "start": 10000,
@@ -99167,14 +99167,6 @@
         "end": 50000
       },
       "nipc": 505884445
-    },
-    {
-      "name": "SAGICORAL - ACABAMENTOS DE EDIF\u00cdCIOS, UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 508644135
     },
     {
       "name": "SAGILDA SABOES GARANTIA INDUSTRIAL LDA",
@@ -121841,5 +121833,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-10-11"
+  "last_updated": "2024-10-12"
 }
