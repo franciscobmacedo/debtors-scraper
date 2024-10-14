@@ -7369,6 +7369,14 @@
       "nipc": 502495944
     },
     {
+      "name": "DINIZ & CRUZ SGPS S A",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 506449327
+    },
+    {
       "name": "DIOGO ALEXANDRE FERNANDES UNIPESSOAL LDA",
       "step": {
         "start": 100001,
@@ -8593,12 +8601,12 @@
       "nipc": 509323766
     },
     {
-      "name": "ERA FUTURA - CONSTRU\u00c7\u00d5ES UNIPESSOAL LDA",
+      "name": "ERECEBE - IND\u00daSTRIA DE CONFEC\u00c7\u00d5ES TEXTEIS S.A.",
       "step": {
         "start": 100001,
         "end": 500000
       },
-      "nipc": 507761987
+      "nipc": 504467301
     },
     {
       "name": "ERGOPUL CONSTRU\u00c7\u00d5ES E OBRAS PUBLICAS LDA",
@@ -9415,6 +9423,14 @@
         "end": 500000
       },
       "nipc": 502759836
+    },
+    {
+      "name": "FAMOPLA FABRICA PORTUGUESA MOLDES PARA PLASTICO LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 500109079
     },
     {
       "name": "FAMOSAP ADMINISTRA\u00c7\u00c3O DE IMOVEIS S A",
@@ -27849,5 +27865,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2024-10-12"
+  "last_updated": "2024-10-13"
 }
