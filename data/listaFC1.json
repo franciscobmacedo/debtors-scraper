@@ -50929,14 +50929,6 @@
       "nipc": 505009293
     },
     {
-      "name": "HERAN\u00c7A RURAL - AGRICULTURA, PECU\u00c1RIA E TURISMO, UNIPESSOAL\rLDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509615597
-    },
-    {
       "name": "HERBA AMICA COMERCIO DE REMEDIOS NATURAIS E M N S R M LDA",
       "step": {
         "start": 10000,
@@ -51609,20 +51601,20 @@
       "nipc": 509567266
     },
     {
+      "name": "HOME FRAME LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 514542802
+    },
+    {
       "name": "HOME SOLUTIONS MEDIA\u00c7\u00c3O IMOBILIARIA LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 507144597
-    },
-    {
-      "name": "HOMEGHARB SOCIEDADE DE MEDIA\u00c7\u00c3O IMOBILIARIA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510365795
     },
     {
       "name": "HOMESERIES LDA",
@@ -99145,12 +99137,12 @@
       "nipc": 500238278
     },
     {
-      "name": "SAGO UNIPESSOAL LDA",
+      "name": "SAGITTAL IMOBILIARIA ADMINISTRACAO E PRESTACAO DE SERVICOS\rLDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 514942380
+      "nipc": 503957259
     },
     {
       "name": "SAGORRO - MONTAGENS DE AR CONDICIONADO E REDES DE INC\u00caNDIO,\rUNIPESSOAL LDA - EM LIQUIDA\u00c7\u00c3O",
@@ -121769,5 +121761,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-10-21"
+  "last_updated": "2024-10-22"
 }
