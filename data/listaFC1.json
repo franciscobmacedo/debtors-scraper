@@ -2881,14 +2881,6 @@
       "nipc": 510206786
     },
     {
-      "name": "AGROCONDEIXA - VENDA E REPARA\u00c7\u00c3O DE M\u00c1QUINAS E REBOQUES\rLDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 504823078
-    },
-    {
       "name": "AGROECA COMERCIO MAQUINAS AGRICOLAS LDA",
       "step": {
         "start": 10000,
@@ -3295,14 +3287,6 @@
         "end": 50000
       },
       "nipc": 510649211
-    },
-    {
-      "name": "ALANDIS ALEXANDRA & ANABELA COMERCIO E DISTRIBUICAO DE\rBENS DE CONSUMO LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 502998369
     },
     {
       "name": "ALANO DUARTE UNIPESSOAL LDA",
@@ -34799,6 +34783,14 @@
         "end": 50000
       },
       "nipc": 509877770
+    },
+    {
+      "name": "ELISABETE DIAS UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 514989459
     },
     {
       "name": "ELISABETE INES UNIPESSOAL LDA",
@@ -121761,5 +121753,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-10-22"
+  "last_updated": "2024-10-23"
 }
