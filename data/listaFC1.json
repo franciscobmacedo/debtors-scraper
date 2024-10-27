@@ -2865,14 +2865,6 @@
       "nipc": 506457419
     },
     {
-      "name": "AGRO VIEIRA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 512038066
-    },
-    {
       "name": "AGROCEREAIS - COMERCIO DE PRODUTOS AGRICOLAS UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -3287,6 +3279,14 @@
         "end": 50000
       },
       "nipc": 510649211
+    },
+    {
+      "name": "ALANDIS ALEXANDRA & ANABELA COMERCIO E DISTRIBUICAO DE\rBENS DE CONSUMO LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 502998369
     },
     {
       "name": "ALANO DUARTE UNIPESSOAL LDA",
@@ -26055,14 +26055,6 @@
         "end": 50000
       },
       "nipc": 508147476
-    },
-    {
-      "name": "CONSTRUPOSTA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 507858417
     },
     {
       "name": "CONSTRURIGOR LDA",
@@ -56609,14 +56601,6 @@
       "nipc": 514237309
     },
     {
-      "name": "J GAROUPA - EMPREENDIMENTOS IMOBILIARIOS UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 512095256
-    },
-    {
       "name": "J GON\u00c7ALVES & GON\u00c7ALVES LDA",
       "step": {
         "start": 10000,
@@ -69377,14 +69361,6 @@
       "nipc": 507126564
     },
     {
-      "name": "MANUEL LEIT\u00c3O PEREIRA UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513733833
-    },
-    {
       "name": "MANUEL LOPES & IRM\u00c3O LDA",
       "step": {
         "start": 10000,
@@ -76103,14 +76079,6 @@
         "end": 50000
       },
       "nipc": 503310271
-    },
-    {
-      "name": "MOTA & GUIMAR\u00c3ES - INVESTIMENTOS IMOBILIARIOS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509667554
     },
     {
       "name": "MOTA & ROCHA FABRICA\u00c7\u00c3O DE CAL\u00c7ADO LDA",
@@ -99129,6 +99097,14 @@
       "nipc": 501591516
     },
     {
+      "name": "SAIQ SOCIEDADE DE AUTOMATIZA\u00c7\u00c3O INSTRUMENTA\u00c7\u00c3O E\rQUALIDADE LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 504028677
+    },
+    {
       "name": "SAITEDAQUI CONSULTADORIA PARA OS NEGOCIOS E GEST\u00c3O LDA",
       "step": {
         "start": 10000,
@@ -108935,14 +108911,6 @@
         "end": 50000
       },
       "nipc": 507488393
-    },
-    {
-      "name": "TEIXEIRA & REIS SOC PROMOTORA DE INVESTIMENTOS IMOBILIARIOS\rLDA - SOC EM LIQUIDA\u00c7\u00c3O",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 503771961
     },
     {
       "name": "TEIXEIRA & SALGADO LDA",
@@ -121705,5 +121673,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-10-25"
+  "last_updated": "2024-10-26"
 }
