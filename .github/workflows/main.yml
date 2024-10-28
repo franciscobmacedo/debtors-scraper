@@ -2,7 +2,7 @@ name: Main workflow
 
 on:
   schedule:
-    - cron: "45 * * * *"
+    - cron: "*/6 * * * *"
   push:
     branches:
       - main
