@@ -21881,14 +21881,6 @@
       "nipc": 509483887
     },
     {
-      "name": "CHUVA DE SUCESSOS UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509056806
-    },
-    {
       "name": "CHUVA-A-SOLTA - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -52735,14 +52727,6 @@
         "end": 50000
       },
       "nipc": 506721302
-    },
-    {
-      "name": "HIPERBAT - COM\u00c9RCIO DE BATERIAS E AUTOR\u00c1DIOS, SOCIEDADE\rUNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 504319264
     },
     {
       "name": "HIPERFIRST - COMERCIO DE MATERIAIS DE CONSTRU\u00c7\u00c3O UNIPESSOAL\rLDA",
@@ -92457,14 +92441,6 @@
       "nipc": 500839050
     },
     {
-      "name": "PRELIS PRE FABRICADOS LIS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 500737240
-    },
-    {
       "name": "PREMIUM PRATO - ESPA\u00c7OS DE RESTAURA\u00c7\u00c3O UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -102089,20 +102065,20 @@
       "nipc": 508348170
     },
     {
+      "name": "SALPICOS DE PUBLICIDADE, LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 508512310
+    },
+    {
       "name": "SALPICOS REBELDES UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 514355930
-    },
-    {
-      "name": "SALSICHARIA S\u00c3O VITOR LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 507438647
     },
     {
       "name": "SALTAPREGO UNIPESSOAL LDA",
@@ -125225,5 +125201,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-10-30"
+  "last_updated": "2024-10-31"
 }
