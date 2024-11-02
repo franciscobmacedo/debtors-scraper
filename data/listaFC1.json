@@ -28921,14 +28921,6 @@
       "nipc": 510546765
     },
     {
-      "name": "CRUZAMIL - TECELAGEM LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514796111
-    },
-    {
       "name": "CRUZAMISSIVA - S A",
       "step": {
         "start": 10000,
@@ -52729,20 +52721,20 @@
       "nipc": 506721302
     },
     {
+      "name": "HIPERBAT - COM\u00c9RCIO DE BATERIAS E AUTOR\u00c1DIOS, SOCIEDADE\rUNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 504319264
+    },
+    {
       "name": "HIPERFIRST - COMERCIO DE MATERIAIS DE CONSTRU\u00c7\u00c3O UNIPESSOAL\rLDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 508068533
-    },
-    {
-      "name": "HIPERFUS\u00c3O - FABRICA\u00c7\u00c3O E COMERCIO DE CAL\u00c7ADO UNIPESSOAL\rLDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 507693418
     },
     {
       "name": "HIPERIMAGEM - IMAGEM E PUBLICIDADE, UNIPESSOAL LDA",
@@ -87185,14 +87177,6 @@
       "nipc": 514938277
     },
     {
-      "name": "PAULO AZEVEDO & AZEVEDO LDA SOCIEDADE EM LIQUIDA\u00c7\u00c3O",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 506349314
-    },
-    {
       "name": "PAULO BARATA & MANUEL MARTINS LDA",
       "step": {
         "start": 10000,
@@ -102079,6 +102063,14 @@
         "end": 50000
       },
       "nipc": 514355930
+    },
+    {
+      "name": "SALSICHARIA S\u00c3O VITOR LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 507438647
     },
     {
       "name": "SALTAPREGO UNIPESSOAL LDA",
@@ -125201,5 +125193,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-10-31"
+  "last_updated": "2024-11-01"
 }
