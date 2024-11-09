@@ -6977,6 +6977,14 @@
       "nipc": 513500790
     },
     {
+      "name": "DANILCAR COMERCIO RAMO AUTOMOVEL LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 501451544
+    },
+    {
       "name": "DANSHAPE CONSTRU\u00c7\u00d5ES SA - SOC EM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 100001,
@@ -8625,12 +8633,12 @@
       "nipc": 514192275
     },
     {
-      "name": "EPOCA INTEMPORAL LDA",
+      "name": "EPORIPAL EMPRESA PORTUGUESA IMPORTA\u00c7\u00c3O PRODUTOS AGRICOLAS\rLDA",
       "step": {
         "start": 100001,
         "end": 500000
       },
-      "nipc": 513424822
+      "nipc": 503457876
     },
     {
       "name": "EQUIFUTURO - M\u00c1QUINAS E EQUIPAMENTOS PARA A CONSTRU\u00c7\u00c3O\rCIVIL, SOCIEDADE UNIPESSOAL LDA",
@@ -28097,5 +28105,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2024-11-07"
+  "last_updated": "2024-11-08"
 }
