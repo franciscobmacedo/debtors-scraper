@@ -24985,14 +24985,6 @@
       "nipc": 513116443
     },
     {
-      "name": "TEMPOGARANTIDO LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 514526491
-    },
-    {
       "name": "TEMPOLIMPO - MULTISERVI\u00c7OS UNIPESSOAL LDA",
       "step": {
         "start": 50001,
@@ -27537,5 +27529,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2024-11-08"
+  "last_updated": "2024-11-09"
 }

@@ -2305,14 +2305,6 @@
       "nipc": 513927239
     },
     {
-      "name": "MAGNOMERIDIANO UNIPESSOAL LDA",
-      "step": {
-        "start": 500001,
-        "end": 1000000
-      },
-      "nipc": 510865470
-    },
-    {
       "name": "MAJESTIBOOTS UNIPESSOAL LDA",
       "step": {
         "start": 500001,
@@ -2703,14 +2695,6 @@
         "end": 1000000
       },
       "nipc": 516372068
-    },
-    {
-      "name": "PALME II - COMERCIALIZA\u00c7\u00c3O DE CART\u00d5ES DE DESCONTO S.A.",
-      "step": {
-        "start": 500001,
-        "end": 1000000
-      },
-      "nipc": 503364908
     },
     {
       "name": "PALOSMIM - COMERCIO DE MADEIRAS UNIPESSOAL LDA",
@@ -3769,5 +3753,5 @@
       "nipc": 510669280
     }
   ],
-  "last_updated": "2024-11-08"
+  "last_updated": "2024-11-09"
 }

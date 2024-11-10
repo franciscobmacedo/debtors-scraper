@@ -10313,14 +10313,6 @@
       "nipc": 503806889
     },
     {
-      "name": "ARRANCA RAPIDO UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509123066
-    },
-    {
       "name": "ARRANJE ESPA\u00c7O - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -16815,14 +16807,6 @@
         "end": 50000
       },
       "nipc": 506811638
-    },
-    {
-      "name": "BURGAU HOLIDAYS CONSTRU\u00c7\u00d5ES S A",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 507194519
     },
     {
       "name": "BURGER PLATE - RESTAURANTES LDA",
@@ -40537,14 +40521,6 @@
       "nipc": 504361090
     },
     {
-      "name": "F O - INDUSTRIA DE CAL\u00c7ADO UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515577618
-    },
-    {
       "name": "F O B - PRODUTOS ORTOPEDICOS E MEDICINAIS UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -45039,14 +45015,6 @@
         "end": 50000
       },
       "nipc": 507647009
-    },
-    {
-      "name": "FONSECA SANTOS & RALHA LDA - SOCIEDADE EM LIQUIDA\u00c7\u00c3O",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 501513779
     },
     {
       "name": "FONSEPEREIRA SOC PORTUGUESA REPRESENTACOES LDA",
@@ -52721,6 +52689,14 @@
       "nipc": 509806333
     },
     {
+      "name": "HIPICARGO EQUIPAMENTOS PARA TRANSPORTES LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 503497398
+    },
+    {
       "name": "HIPOLITO REIS CONTABILIDADE INFORMATICA E SERVICOS LDA",
       "step": {
         "start": 10000,
@@ -52743,14 +52719,6 @@
         "end": 50000
       },
       "nipc": 510410030
-    },
-    {
-      "name": "HISPANO ATLANTICO IMOBILIARIA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 506684814
     },
     {
       "name": "HISPANOTEX - SERVI\u00c7OS DE LIMPEZA, UNIPESSOAL LDA",
@@ -71191,6 +71159,14 @@
         "end": 50000
       },
       "nipc": 509647790
+    },
+    {
+      "name": "MANUEL LEIT\u00c3O & ISABEL LUDOVICO - SOCIEDADE DE SOLICITADORES\rRL",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 507126564
     },
     {
       "name": "MANUEL LEIT\u00c3O PEREIRA UNIPESSOAL LDA",
@@ -125145,5 +125121,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-11-08"
+  "last_updated": "2024-11-09"
 }
