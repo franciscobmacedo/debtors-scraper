@@ -6633,6 +6633,14 @@
       "nipc": 502431067
     },
     {
+      "name": "COUTO SERENO UNIPESSOAL LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 505727587
+    },
+    {
       "name": "COVELCO COMPRA E VENDA IMOVEIS LDA",
       "step": {
         "start": 100001,
@@ -8625,12 +8633,12 @@
       "nipc": 501680250
     },
     {
-      "name": "EPC - ESTUDO PROJETO CRIA\u00c7\u00c3O - CONSTRU\u00c7\u00c3O CIVIL LDA",
+      "name": "EPOCA INTEMPORAL LDA",
       "step": {
         "start": 100001,
         "end": 500000
       },
-      "nipc": 514192275
+      "nipc": 513424822
     },
     {
       "name": "EPORIPAL EMPRESA PORTUGUESA IMPORTA\u00c7\u00c3O PRODUTOS AGRICOLAS\rLDA",
@@ -28113,5 +28121,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2024-11-09"
+  "last_updated": "2024-11-10"
 }
