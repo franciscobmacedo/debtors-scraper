@@ -7361,14 +7361,6 @@
       "nipc": 515129003
     },
     {
-      "name": "DESFILAR SIMBOLOS - LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 514086300
-    },
-    {
       "name": "DESFILE ATREVIDO - UNIPESSOAL LDA",
       "step": {
         "start": 50001,
@@ -27529,5 +27521,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2024-11-11"
+  "last_updated": "2024-11-12"
 }
