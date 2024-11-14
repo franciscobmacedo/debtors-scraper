@@ -39617,6 +39617,14 @@
       "nif": 264033264
     },
     {
+      "name": "JENIFA PERPETUA",
+      "step": {
+        "start": 7500,
+        "end": 25000
+      },
+      "nif": 234982470
+    },
+    {
       "name": "JENILSON SOARES SANTOS",
       "step": {
         "start": 7500,
@@ -43502,7 +43510,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 187135576
+      "nif": 137956568
     },
     {
       "name": "JOAQUIM DA SILVA SOUSA",
@@ -43510,7 +43518,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 137956568
+      "nif": 187135576
     },
     {
       "name": "JOAQUIM DA SILVA VILAS BOAS",
@@ -43582,14 +43590,6 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 144834057
-    },
-    {
-      "name": "JOAQUIM DE SOUSA",
-      "step": {
-        "start": 7500,
-        "end": 25000
-      },
       "nif": 186157908
     },
     {
@@ -43599,6 +43599,14 @@
         "end": 25000
       },
       "nif": 158720245
+    },
+    {
+      "name": "JOAQUIM DE SOUSA",
+      "step": {
+        "start": 7500,
+        "end": 25000
+      },
+      "nif": 144834057
     },
     {
       "name": "JOAQUIM DE SOUSA MELO",
@@ -43622,7 +43630,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 164944265
+      "nif": 171411714
     },
     {
       "name": "JOAQUIM DOS SANTOS MONTEIRO",
@@ -43630,7 +43638,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 171411714
+      "nif": 164944265
     },
     {
       "name": "JOAQUIM DUARTE DE OLIVEIRA",
@@ -98921,5 +98929,5 @@
       "nif": 249574888
     }
   ],
-  "last_updated": "2024-11-12"
+  "last_updated": "2024-11-13"
 }

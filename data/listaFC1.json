@@ -18593,14 +18593,6 @@
       "nipc": 515114014
     },
     {
-      "name": "CARAVELA PORTATIL - LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514783362
-    },
-    {
       "name": "CARBER DEMOLI\u00c7\u00d5ES TERRAPLANAGENS E OBRAS PUBLICAS LDA",
       "step": {
         "start": 10000,
@@ -65449,14 +65441,6 @@
       "nipc": 509789757
     },
     {
-      "name": "LEQUE DE MEDIDAS UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 508664179
-    },
-    {
       "name": "LEROY & BRAND\u00c3O NEG\u00d3CIOS, LDA",
       "step": {
         "start": 10000,
@@ -99849,6 +99833,14 @@
       "nipc": 513273980
     },
     {
+      "name": "ROMANUS IMOBILIARIA SA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 503324701
+    },
+    {
       "name": "ROM\u00c3O & FERREIRA LDA EM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 10000,
@@ -101687,6 +101679,14 @@
         "end": 50000
       },
       "nipc": 502111550
+    },
+    {
+      "name": "SADOFOGO EQUIPAMENTO PROTEC\u00c7\u00c3O E SEGURAN\u00c7A UNIPESSOAL\rLDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 503033073
     },
     {
       "name": "SADOPINTA PINTURAS NA CONSTRU\u00c7\u00c3O CIVIL LDA",
@@ -104767,14 +104767,6 @@
         "end": 50000
       },
       "nipc": 514967498
-    },
-    {
-      "name": "SEVEN GOLD - EVENTOS UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510282733
     },
     {
       "name": "SEVEN INVISION UNIPESSOAL LDA",
@@ -125089,5 +125081,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-11-12"
+  "last_updated": "2024-11-13"
 }

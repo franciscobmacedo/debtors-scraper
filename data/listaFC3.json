@@ -18985,14 +18985,6 @@
       "nipc": 509801072
     },
     {
-      "name": "ORSISA EMPRESA TECNICA CONSTRUCOES LDA",
-      "step": {
-        "start": 100001,
-        "end": 500000
-      },
-      "nipc": 501205470
-    },
-    {
       "name": "OS GRAFICOS GRACA DESIGN E COMUNICACAO LDA",
       "step": {
         "start": 100001,
@@ -21377,14 +21369,6 @@
       "nipc": 502400730
     },
     {
-      "name": "RAMOS  VALE SOC DE GEST\u00c3O IMOBILIARIA LDA",
-      "step": {
-        "start": 100001,
-        "end": 500000
-      },
-      "nipc": 503434604
-    },
-    {
       "name": "RAMOS CATARINO S A",
       "step": {
         "start": 100001,
@@ -23319,6 +23303,14 @@
         "end": 500000
       },
       "nipc": 504545302
+    },
+    {
+      "name": "SEVEN GOLD - EVENTOS UNIPESSOAL LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 510282733
     },
     {
       "name": "SEVIKACOS - LDA",
@@ -28121,5 +28113,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2024-11-12"
+  "last_updated": "2024-11-13"
 }
