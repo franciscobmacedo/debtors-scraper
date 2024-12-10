@@ -737,14 +737,6 @@
       "nipc": 504543172
     },
     {
-      "name": "AGROAPOIO CONSTRUCAO MANUTENCAO ESPACOS VERDES LDA",
-      "step": {
-        "start": 100001,
-        "end": 500000
-      },
-      "nipc": 502646306
-    },
-    {
       "name": "AGRODOMUS SOC AGRICOLA E IMOBILIARIA SA",
       "step": {
         "start": 100001,
@@ -8633,20 +8625,20 @@
       "nipc": 513086250
     },
     {
+      "name": "ENIEME ESTUDIO ARTES GRAFICAS LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 501646612
+    },
+    {
       "name": "ENIGMATICONCLUSION UNIPESSOAL LDA",
       "step": {
         "start": 100001,
         "end": 500000
       },
       "nipc": 514968192
-    },
-    {
-      "name": "ENJOY SLICE UNIPESSOAL LDA",
-      "step": {
-        "start": 100001,
-        "end": 500000
-      },
-      "nipc": 513053565
     },
     {
       "name": "ENORMEPISTA-CONSTRU\u00c7\u00c3O CIVIL,LDA",
@@ -28417,5 +28409,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2024-12-08"
+  "last_updated": "2024-12-09"
 }
