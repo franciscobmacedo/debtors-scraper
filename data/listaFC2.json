@@ -7769,14 +7769,6 @@
       "nipc": 504138545
     },
     {
-      "name": "DIRK SILL UNIPESSOAL LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 516707850
-    },
-    {
       "name": "DISCO HIT S LDA",
       "step": {
         "start": 50001,
@@ -8543,6 +8535,14 @@
         "end": 100000
       },
       "nipc": 508537045
+    },
+    {
+      "name": "ELISABETE DIAS UNIPESSOAL LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 514989459
     },
     {
       "name": "ELITEMODEL DESPORTO E MODELISMO LDA",
@@ -27865,5 +27865,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2024-12-11"
+  "last_updated": "2024-12-12"
 }
