@@ -100273,14 +100273,6 @@
       "nipc": 507724925
     },
     {
-      "name": "RICARDO JORGE DA ROCHA OLIVEIRA UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513162437
-    },
-    {
       "name": "RICARDO JORGE NEVES UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -103857,20 +103849,20 @@
       "nipc": 513112880
     },
     {
+      "name": "SALADFILMS LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 510925952
+    },
+    {
       "name": "SALEBOX, UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 510141951
-    },
-    {
-      "name": "SALEMA METAIS DO NORTE LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 500460965
     },
     {
       "name": "SALERO DECORA\u00c7\u00c3O DE INTERIORES LDA EM LIQUIDA\u00c7\u00c3O",
@@ -108215,6 +108207,14 @@
         "end": 50000
       },
       "nipc": 507963296
+    },
+    {
+      "name": "SITUBEL -SOCIEDADE INDUSTRIAL DE MANUTEN\u00c7\u00d5ES EM TUBAGENS\rELECTRICIDADE E CONSTRU\u00c7\u00c3O LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 509872875
     },
     {
       "name": "SIX STYLE - CONFEC\u00c7\u00d5ES T\u00caXTEIS, UNIPESSOAL LDA - SOCIEDADE EM\rLIQUIDA\u00c7\u00c3O",
@@ -127473,5 +127473,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-12-16"
+  "last_updated": "2024-12-17"
 }
