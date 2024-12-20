@@ -21441,14 +21441,6 @@
       "nipc": 514676736
     },
     {
-      "name": "CENARIO CUBICO - UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513224327
-    },
-    {
       "name": "CENARIO DESTEMIDO UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -26271,14 +26263,6 @@
         "end": 50000
       },
       "nipc": 504100475
-    },
-    {
-      "name": "CONSTRU\u00c7\u00d5ES CARLOS ABREU CONSTRU\u00c7\u00c3O E REPARA\u00c7\u00c3O DE\rEDIFICIOS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 505688514
     },
     {
       "name": "CONSTRU\u00c7\u00d5ES CARLOS ALBERTO PINTO UNIPESSOAL LDA",
@@ -31865,14 +31849,6 @@
       "nipc": 510931545
     },
     {
-      "name": "DETALHE SOLENE - DESIGN INTERIORES LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515960373
-    },
-    {
       "name": "DETALHEBASTIDOR - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -33903,14 +33879,6 @@
         "end": 50000
       },
       "nipc": 510460445
-    },
-    {
-      "name": "DORSAL MOVEIS MODERNOS E DECORACOES LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 501272801
     },
     {
       "name": "DORUFOGO COMERCIO DE MATERIAIS DE CONSTRU\u00c7\u00c3O UNIPESSOAL\rLDA",
@@ -53801,12 +53769,12 @@
       "nipc": 509565727
     },
     {
-      "name": "HMP - MADEIRAS S A",
+      "name": "HMB - SOCIEDADE DE INVESTIMENTOS IMOBILI\u00c1RIOS S.A. - EM\rLIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 510894690
+      "nipc": 503502790
     },
     {
       "name": "HN CONTINHAS CONTABILIDADE UNIPESSOAL LDA",
@@ -103865,12 +103833,12 @@
       "nipc": 506855090
     },
     {
-      "name": "SALGADO & FREITAS LDA - EM LIQUIDA\u00c7\u00c3O",
+      "name": "SALGADO & COELHO IMPORTA\u00c7\u00c3O E EXPORTA\u00c7\u00c3O LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 502982985
+      "nipc": 503315451
     },
     {
       "name": "SALGADO & PAIVA RIBEIRO LD",
@@ -127457,5 +127425,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-12-18"
+  "last_updated": "2024-12-19"
 }
