@@ -36729,14 +36729,6 @@
       "nipc": 515679712
     },
     {
-      "name": "ELEMENTOS EPICOS - LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515931527
-    },
-    {
       "name": "ELENCO DE SUCESSO - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -100553,14 +100545,6 @@
       "nipc": 510020356
     },
     {
-      "name": "RENOVA ESPA\u00c7O UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510198767
-    },
-    {
       "name": "RENOVA\u00c7\u00c3O DO PEQUENO - SERVI\u00c7OS DE AGRICULTURA UNIPESSOAL\rLDA",
       "step": {
         "start": 10000,
@@ -105345,6 +105329,14 @@
       "nipc": 505132281
     },
     {
+      "name": "SAL E A\u00c7UCAR - ORGANIZA\u00c7\u00c3O DE EVENTOS LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 507860195
+    },
+    {
       "name": "SALADA DE PALAVRAS - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -105359,14 +105351,6 @@
         "end": 50000
       },
       "nipc": 510925952
-    },
-    {
-      "name": "SALEBOX, UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510141951
     },
     {
       "name": "SALEMA METAIS DO NORTE LDA",
@@ -110417,6 +110401,14 @@
       "nipc": 503696331
     },
     {
+      "name": "SOC CONSTRUCOES SANTOS E FILHOS LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 502422750
+    },
+    {
       "name": "SOC CORTICEIRA BATISTA & IRM\u00c3OS LDA",
       "step": {
         "start": 10000,
@@ -110767,14 +110759,6 @@
         "end": 50000
       },
       "nipc": 505793938
-    },
-    {
-      "name": "SOCIEDADE DE DESENVOLVIMENTO AGRO - TURISTICO S A",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 502856920
     },
     {
       "name": "SOCIEDADE DE INDUSTRIAS TEXTEIS DO NORTE - SITENOR S A - EM\rLIQUIDA\u00c7\u00c3O",
@@ -112207,14 +112191,6 @@
         "end": 50000
       },
       "nipc": 500419876
-    },
-    {
-      "name": "SOUSA FONTES-UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510942130
     },
     {
       "name": "SOUSA GOMES & PINHEIRO LDA",
@@ -115849,6 +115825,14 @@
       "nipc": 503771961
     },
     {
+      "name": "TEIXEIRA & SALGADO LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 503215279
+    },
+    {
       "name": "TEIXEIRA & VAKARCS LDA",
       "step": {
         "start": 10000,
@@ -115871,14 +115855,6 @@
         "end": 50000
       },
       "nipc": 500818908
-    },
-    {
-      "name": "TEIXEIRA SOUSA & PERES LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 502742879
     },
     {
       "name": "TEJOINOX UNIPESSOAL LDA",
@@ -129257,5 +129233,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-12-30"
+  "last_updated": "2024-12-31"
 }
