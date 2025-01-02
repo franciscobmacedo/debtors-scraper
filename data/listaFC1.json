@@ -67401,14 +67401,6 @@
       "nipc": 507256280
     },
     {
-      "name": "LEIRIDIDATICA 2 LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513194401
-    },
-    {
       "name": "LEIRIKAFFES UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -108441,14 +108433,6 @@
       "nipc": 510751938
     },
     {
-      "name": "SEVENPROGRESS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509297870
-    },
-    {
       "name": "SEVERINO & FREITAS LDA",
       "step": {
         "start": 10000,
@@ -115857,12 +115841,12 @@
       "nipc": 500818908
     },
     {
-      "name": "TEJOINOX UNIPESSOAL LDA",
+      "name": "TEIXEIRA SOUSA & PERES LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 508316375
+      "nipc": 502742879
     },
     {
       "name": "TEKNER UNIPESSOAL LDA",
@@ -120079,14 +120063,6 @@
         "end": 50000
       },
       "nipc": 500989273
-    },
-    {
-      "name": "TRANSPORTES J & J MARQUES LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514073853
     },
     {
       "name": "TRANSPORTES J C LDA",
@@ -129233,5 +129209,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2024-12-31"
+  "last_updated": "2025-01-01"
 }

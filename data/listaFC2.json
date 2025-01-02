@@ -2425,14 +2425,6 @@
       "nipc": 513296735
     },
     {
-      "name": "ATTIAS GROUP SA SUCURSAL",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 980410550
-    },
-    {
       "name": "ATTRACTIVE RAINBOW UNIPESSOAL LDA",
       "step": {
         "start": 50001,
@@ -15001,14 +14993,6 @@
       "nipc": 505241730
     },
     {
-      "name": "LAMB - TRUCKS UNIPESSOAL LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 513779540
-    },
-    {
       "name": "LAN\u00c7ARPRESTIGIO- COMERCIO DE PELES E COUROS LDA",
       "step": {
         "start": 50001,
@@ -15199,6 +15183,14 @@
         "end": 100000
       },
       "nipc": 502585986
+    },
+    {
+      "name": "LEIRIDIDATICA 2 LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 513194401
     },
     {
       "name": "LEIRIGRAFE TECNOLOGIA E COMPOSI\u00c7\u00c3O GRAFICA LDA",
@@ -23673,6 +23665,14 @@
       "nipc": 508719992
     },
     {
+      "name": "SEVENPROGRESS LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 509297870
+    },
+    {
       "name": "SEYRAMEDIS-MATERIAL MEDICO GERIATRICO E HOSPITALAR LDA",
       "step": {
         "start": 50001,
@@ -26177,6 +26177,14 @@
       "nipc": 507075536
     },
     {
+      "name": "TRANSPORTES J & J MARQUES LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 514073853
+    },
+    {
       "name": "TRANSPORTES JCARLOS UNIPESSOAL LDA",
       "step": {
         "start": 50001,
@@ -26519,14 +26527,6 @@
         "end": 100000
       },
       "nipc": 507920554
-    },
-    {
-      "name": "TRIUNFANTENREDO - UNIPESSOAL LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 510719864
     },
     {
       "name": "TRIWAY - ENGENHARIA E CONSTRU\u00c7\u00c3O, LDA",
@@ -28057,5 +28057,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2024-12-31"
+  "last_updated": "2025-01-01"
 }

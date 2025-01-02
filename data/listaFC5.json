@@ -1353,6 +1353,14 @@
       "nipc": 509885586
     },
     {
+      "name": "ILUSTRE PRATICA UNIPESSOAL LDA",
+      "step": {
+        "start": 1000001,
+        "end": 5000000
+      },
+      "nipc": 514975903
+    },
+    {
       "name": "IMEDIATEPOPEIA UNIPESSOAL LDA",
       "step": {
         "start": 1000001,
@@ -2593,5 +2601,5 @@
       "nipc": 507644336
     }
   ],
-  "last_updated": "2024-12-31"
+  "last_updated": "2025-01-01"
 }
