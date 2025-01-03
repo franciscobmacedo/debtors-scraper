@@ -8345,6 +8345,14 @@
       "nipc": 508719410
     },
     {
+      "name": "EDGAR DOUGLAS DE LAGOS SOCIEDADE DE MEDIA\u00c7\u00c3O IMOBILIARIA\rUNIPESSOAL LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 505837242
+    },
+    {
       "name": "EDGETUR-SOCIEDADE UNIPESSOAL LDA",
       "step": {
         "start": 50001,
@@ -16071,6 +16079,14 @@
         "end": 100000
       },
       "nipc": 510626670
+    },
+    {
+      "name": "LUSOWONDER LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 508109809
     },
     {
       "name": "LUSTOSA MOVEIS LDA",
@@ -24233,14 +24249,6 @@
       "nipc": 502351136
     },
     {
-      "name": "SOCIEDADE AGRO-PECUARIA DE S\u00c3O BENTO DO AMEIXIAL LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 507000641
-    },
-    {
       "name": "SOCIEDADE AGRO-PECUARIA QUINTA DA ALAGOA LDA",
       "step": {
         "start": 50001,
@@ -28057,5 +28065,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2025-01-01"
+  "last_updated": "2025-01-02"
 }
