@@ -38297,6 +38297,14 @@
       "nif": 239655540
     },
     {
+      "name": "ION GONTA",
+      "step": {
+        "start": 7500,
+        "end": 25000
+      },
+      "nif": 262448785
+    },
+    {
       "name": "ION MARIAN UDREA",
       "step": {
         "start": 7500,
@@ -43630,7 +43638,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 187135576
+      "nif": 137956568
     },
     {
       "name": "JOAQUIM DA SILVA SOUSA",
@@ -43638,7 +43646,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 137956568
+      "nif": 187135576
     },
     {
       "name": "JOAQUIM DA SILVA VILAS BOAS",
@@ -43710,14 +43718,6 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 144834057
-    },
-    {
-      "name": "JOAQUIM DE SOUSA",
-      "step": {
-        "start": 7500,
-        "end": 25000
-      },
       "nif": 186157908
     },
     {
@@ -43727,6 +43727,14 @@
         "end": 25000
       },
       "nif": 158720245
+    },
+    {
+      "name": "JOAQUIM DE SOUSA",
+      "step": {
+        "start": 7500,
+        "end": 25000
+      },
+      "nif": 144834057
     },
     {
       "name": "JOAQUIM DELGADO SILVESTRE",
@@ -48518,7 +48526,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 188327070
+      "nif": 193697653
     },
     {
       "name": "JOSE CARLOS DA SILVA MENDES",
@@ -48526,7 +48534,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 193697653
+      "nif": 188327070
     },
     {
       "name": "JOSE CARLOS DA SILVA MOTA",
@@ -49126,7 +49134,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 249208318
+      "nif": 147403090
     },
     {
       "name": "JOSE CORREIA DA SILVA",
@@ -49134,7 +49142,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 147403090
+      "nif": 249208318
     },
     {
       "name": "JOSE CORREIA FILIPE",
@@ -52046,7 +52054,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 187486891
+      "nif": 220096279
     },
     {
       "name": "JOSE MANUEL GON\u00c7ALVES PEREIRA",
@@ -52054,7 +52062,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 220096279
+      "nif": 187486891
     },
     {
       "name": "JOSE MANUEL GOUVEIA DE CARVALHO",
@@ -60214,7 +60222,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 180123220
+      "nif": 130737941
     },
     {
       "name": "MANUEL ANTONIO MARTINS FERREIRA",
@@ -60222,7 +60230,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 130737941
+      "nif": 180123220
     },
     {
       "name": "MANUEL ANTONIO MOREIRA MARQUES",
@@ -99169,5 +99177,5 @@
       "nif": 249574888
     }
   ],
-  "last_updated": "2025-01-02"
+  "last_updated": "2025-01-03"
 }
