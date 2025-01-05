@@ -73969,6 +73969,14 @@
       "nipc": 500612064
     },
     {
+      "name": "MAR A SUL - AGENCIA DE VIAGENS LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 503986550
+    },
+    {
       "name": "MAR A VISTA ACTIVIDADES HOTELEIRAS UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -100055,14 +100063,6 @@
         "end": 50000
       },
       "nipc": 514073357
-    },
-    {
-      "name": "REGUENGO MADEIRAS MADEIRAS E MATERIAIS DE CONSTRU\u00c7\u00c3O DO\rREGUENGO LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 503795348
     },
     {
       "name": "REHI REPRESENTA\u00c7\u00c3O DE EQUIPAMENTOS HOTELEIROS E INDUSTRIAIS\rUNIPESSOAL LDA",
@@ -129177,5 +129177,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2025-01-03"
+  "last_updated": "2025-01-04"
 }
