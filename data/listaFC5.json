@@ -545,20 +545,20 @@
       "nipc": 509416942
     },
     {
+      "name": "CENARIOGESTUAL - LDA",
+      "step": {
+        "start": 1000001,
+        "end": 5000000
+      },
+      "nipc": 509938507
+    },
+    {
       "name": "CHALLENGER INDUSTRIA DE CONFECCOES LDA",
       "step": {
         "start": 1000001,
         "end": 5000000
       },
       "nipc": 501312447
-    },
-    {
-      "name": "CHEAPTRADE DI DISTRIBUI\u00c7\u00c3O DE EQUIPAMENTO INFORMATICO LDA",
-      "step": {
-        "start": 1000001,
-        "end": 5000000
-      },
-      "nipc": 507191625
     },
     {
       "name": "CHUT - COOPERATIVA HABITACIONAL UNI\u00c3O DOS TRABALHADORES\rCRL",
@@ -1489,6 +1489,14 @@
       "nipc": 510521347
     },
     {
+      "name": "JUPITERDYNASTY UNIPESSOAL LDA",
+      "step": {
+        "start": 1000001,
+        "end": 5000000
+      },
+      "nipc": 514583991
+    },
+    {
       "name": "KEEPDEAL UNIPESSOAL LDA",
       "step": {
         "start": 1000001,
@@ -1801,6 +1809,14 @@
       "nipc": 507865332
     },
     {
+      "name": "NOGUEIRA TEIXEIRA E OLIVEIRA LDA",
+      "step": {
+        "start": 1000001,
+        "end": 5000000
+      },
+      "nipc": 502025000
+    },
+    {
       "name": "NORSOLDA - MONTAGENS E REPARA\u00c7\u00d5ES INDUSTRIAIS, UNIPESSOAL\rLDA",
       "step": {
         "start": 1000001,
@@ -2039,6 +2055,14 @@
         "end": 5000000
       },
       "nipc": 503366358
+    },
+    {
+      "name": "PRIVATE SPEED LDA",
+      "step": {
+        "start": 1000001,
+        "end": 5000000
+      },
+      "nipc": 514940190
     },
     {
       "name": "PRIVATELIFE SA",
@@ -2281,6 +2305,14 @@
       "nipc": 504124935
     },
     {
+      "name": "SOTRAPEX - TRANSPORTES RODOVI\u00c1RIOS, EXPORTA\u00c7\u00c3O IMPORTA\u00c7\u00c3O\rDE CEREAIS, UNIPESSOAL, LDA",
+      "step": {
+        "start": 1000001,
+        "end": 5000000
+      },
+      "nipc": 507834496
+    },
+    {
       "name": "SOUTOCORK S A",
       "step": {
         "start": 1000001,
@@ -2343,6 +2375,14 @@
         "end": 5000000
       },
       "nipc": 513420061
+    },
+    {
+      "name": "SURPRISEDYNASTY - UNIPESSOAL LDA",
+      "step": {
+        "start": 1000001,
+        "end": 5000000
+      },
+      "nipc": 514599740
     },
     {
       "name": "SUZIDATA EQUIPAMENTOS ELECTRONICOS LDA",
@@ -2601,5 +2641,5 @@
       "nipc": 507644336
     }
   ],
-  "last_updated": "2025-01-04"
+  "last_updated": "2025-02-03"
 }
