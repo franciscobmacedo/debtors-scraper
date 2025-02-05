@@ -31881,14 +31881,6 @@
       "nipc": 510636691
     },
     {
-      "name": "DEBATE MARCANTE - LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514031042
-    },
-    {
       "name": "DECABERN - DECAPAGEM PINTURA E LIMPEZAS INDUSTRIAIS\rUNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -55625,12 +55617,12 @@
       "nipc": 504319264
     },
     {
-      "name": "HIPERFUS\u00c3O - FABRICA\u00c7\u00c3O E COMERCIO DE CAL\u00c7ADO UNIPESSOAL\rLDA",
+      "name": "HIPERFIRST - COMERCIO DE MATERIAIS DE CONSTRU\u00c7\u00c3O UNIPESSOAL\rLDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 507693418
+      "nipc": 508068533
     },
     {
       "name": "HIPERIMAGEM - IMAGEM E PUBLICIDADE, UNIPESSOAL LDA",
@@ -75713,14 +75705,6 @@
       "nipc": 506718824
     },
     {
-      "name": "MARCEL AUGUSTO VICTORIO & VOGELSANGER LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 516090402
-    },
-    {
       "name": "MARCEL CENTRAL ALUGADORA MAQUINAS ESTOMBARENSE LDA",
       "step": {
         "start": 10000,
@@ -78063,6 +78047,14 @@
         "end": 50000
       },
       "nipc": 513501274
+    },
+    {
+      "name": "MATRIZBASTIDOR - INDUSTRIA TEXTIL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 510671993
     },
     {
       "name": "MATRIZCALCULO - UNIPESSOAL LDA",
@@ -107481,6 +107473,14 @@
       "nipc": 503033073
     },
     {
+      "name": "SADOPINTA PINTURAS NA CONSTRU\u00c7\u00c3O CIVIL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 503384291
+    },
+    {
       "name": "SAERCON LDA",
       "step": {
         "start": 10000,
@@ -107503,14 +107503,6 @@
         "end": 50000
       },
       "nipc": 509518265
-    },
-    {
-      "name": "SAFE HOUSE - MEDIA\u00c7\u00c3O IMOBILI\u00c1RIA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 504836625
     },
     {
       "name": "SAFE HOUSE STORAGE LDA",
@@ -112233,14 +112225,6 @@
       "nipc": 507281314
     },
     {
-      "name": "SIZE COMERCIO DE VESTUARIO LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 506166791
-    },
-    {
       "name": "SKINWAY PORTUGAL LDA",
       "step": {
         "start": 10000,
@@ -113199,14 +113183,6 @@
         "end": 50000
       },
       "nipc": 504489895
-    },
-    {
-      "name": "SOCIEDADE HOTELEIRA S\u00c3O LOUREN\u00c7O, S.A.",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 501727094
     },
     {
       "name": "SOCIEDADE INDUSTRIAL DE CARNES DA ARR\u00c1BIDA S.A.",
@@ -131969,5 +131945,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2025-02-03"
+  "last_updated": "2025-02-04"
 }
