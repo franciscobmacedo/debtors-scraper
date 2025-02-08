@@ -50809,14 +50809,6 @@
       "nipc": 514928840
     },
     {
-      "name": "GERA\u00c7\u00c3O PRUDENTE - LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515111082
-    },
-    {
       "name": "GERA\u00c7\u00c3O RECORD UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -82049,6 +82041,14 @@
       "nipc": 505792532
     },
     {
+      "name": "MONTEIROS & LAMAS LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 501176519
+    },
+    {
       "name": "MONTEIROS E CORREIA LDA",
       "step": {
         "start": 10000,
@@ -101399,14 +101399,6 @@
         "end": 50000
       },
       "nipc": 516811908
-    },
-    {
-      "name": "REASON PANOPLY - LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514592397
     },
     {
       "name": "REBEL ADRENALINE LDA",
@@ -131929,5 +131921,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2025-02-06"
+  "last_updated": "2025-02-07"
 }
