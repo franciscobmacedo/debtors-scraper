@@ -33129,14 +33129,6 @@
       "nipc": 515948179
     },
     {
-      "name": "DETALHIMAGINARIO - LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510845290
-    },
-    {
       "name": "DETALHOP\u00c7\u00c3O - CONSTRU\u00c7\u00c3O CIVIL LDA",
       "step": {
         "start": 10000,
@@ -40871,14 +40863,6 @@
         "end": 50000
       },
       "nipc": 514306912
-    },
-    {
-      "name": "ETAPA SEQUENCIAL - UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513762256
     },
     {
       "name": "ETAPA SUPLENTE - UNIPESSOAL LDA",
@@ -51729,14 +51713,6 @@
       "nipc": 507464150
     },
     {
-      "name": "GLOBALSEVEN LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510934889
-    },
-    {
       "name": "GLOBALTELNOR UNIPESSOAL LDA - EM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 10000,
@@ -55625,20 +55601,20 @@
       "nipc": 510208940
     },
     {
+      "name": "HIPERPEVID\u00c9M - SUPERMERCADOS, S.A. - EM LIQUIDA\u00c7\u00c3O",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 509806333
+    },
+    {
       "name": "HIPICARGO EQUIPAMENTOS PARA TRANSPORTES LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 503497398
-    },
-    {
-      "name": "HIPOLITO REIS CONTABILIDADE INFORMATICA E SERVICOS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 501106359
     },
     {
       "name": "HIPOMARTINS METALOMECANICA UNIPESSOAL LDA",
@@ -89145,14 +89121,6 @@
       "nipc": 506718042
     },
     {
-      "name": "OS HORTINHAS - RESTAURA\u00c7\u00c3O LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 516886738
-    },
-    {
       "name": "OS MARQUESES EXPLORACAO HOTELARIA LDA",
       "step": {
         "start": 10000,
@@ -98383,14 +98351,6 @@
         "end": 50000
       },
       "nipc": 514553790
-    },
-    {
-      "name": "PROGRESSOPTIONS UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515040002
     },
     {
       "name": "PROJECTAREA PROJECTOS E CONSTRU\u00c7\u00d5ES UNIPESSOAL LDA",
@@ -112225,6 +112185,14 @@
       "nipc": 506166791
     },
     {
+      "name": "SKINWAY PORTUGAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 510610889
+    },
+    {
       "name": "SKOPOS GEST\u00c3O DE EDIFICIOS LDA",
       "step": {
         "start": 10000,
@@ -112255,14 +112223,6 @@
         "end": 50000
       },
       "nipc": 513439773
-    },
-    {
-      "name": "SKYLIMIT EXTREME ENGENHARIA TELECOMUNICA\u00c7\u00d5ES INFORMATICA\rE MULTIMEDIA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 508257379
     },
     {
       "name": "SLAVI INDUSTRIA E COMERCIO DE SOLDADURA LDA",
@@ -131921,5 +131881,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2025-02-10"
+  "last_updated": "2025-02-11"
 }

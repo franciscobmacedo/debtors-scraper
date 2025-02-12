@@ -3457,14 +3457,6 @@
       "nipc": 510295355
     },
     {
-      "name": "B\u00d3NUSMIST\u00c9RIO UNIPESSOAL LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 510510477
-    },
-    {
       "name": "BOOMERANG SOCIEDADE IMOBILIARIA LDA",
       "step": {
         "start": 50001,
@@ -11775,6 +11767,14 @@
         "end": 100000
       },
       "nipc": 514386525
+    },
+    {
+      "name": "GLOBALSEVEN LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 510934889
     },
     {
       "name": "GLOBALTECTOS CONSTRU\u00c7\u00c3O CIVIL LDA",
@@ -20585,14 +20585,6 @@
       "nipc": 503451967
     },
     {
-      "name": "PCBC - PORTUGAL CONSULTING AND BUSINESS COMPANY, UNIPESSOAL,\rLDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 514926546
-    },
-    {
       "name": "PCP-PROJECTOS DE COMUNICA\u00c7\u00c3O E PUBLICIDADE S A",
       "step": {
         "start": 50001,
@@ -28553,5 +28545,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2025-02-10"
+  "last_updated": "2025-02-11"
 }
