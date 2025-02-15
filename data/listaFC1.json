@@ -40465,14 +40465,6 @@
       "nipc": 507273648
     },
     {
-      "name": "ESTIMA DIARIA - SERVI\u00c7OS DE LIMPEZA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 508672473
-    },
-    {
       "name": "ESTIMATIVA ELEMENTAR CONSTRU\u00c7\u00c3O LDA",
       "step": {
         "start": 10000,
@@ -46879,14 +46871,6 @@
         "end": 50000
       },
       "nipc": 515161985
-    },
-    {
-      "name": "FLAVIO AGUDO UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509752187
     },
     {
       "name": "FLAVIO COSTA UNIPESSOAL LDA",
@@ -55609,20 +55593,20 @@
       "nipc": 510410030
     },
     {
+      "name": "HISPANO ATLANTICO IMOBILIARIA LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 506684814
+    },
+    {
       "name": "HISPANOTEX - SERVI\u00c7OS DE LIMPEZA, UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 504064916
-    },
-    {
-      "name": "HITZEMANN & SAMPAIO UNIPESSOAL LTDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 500134944
     },
     {
       "name": "HIX PH - PRODUTOS DE HIGIENE LDA - SOCIEDADE EM LIQUIDA\u00c7\u00c3O",
@@ -80127,6 +80111,14 @@
         "end": 50000
       },
       "nipc": 513895973
+    },
+    {
+      "name": "MICROCHAMP - MICROGRANULADOS DE CHAMPANHE LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 509784445
     },
     {
       "name": "MICROTEC-SISTEMAS DE INFORMATICA, LDA - EM LIQUIDA\u00c7\u00c3O",
@@ -112193,6 +112185,14 @@
       "nipc": 503574651
     },
     {
+      "name": "SLEEP CONFORT - COLCH\u00d5ES ORTOPEDICOS E MEDICINAIS LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 513013024
+    },
+    {
       "name": "SLICEPROPOSAL - LDA",
       "step": {
         "start": 10000,
@@ -131825,5 +131825,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2025-02-13"
+  "last_updated": "2025-02-14"
 }
