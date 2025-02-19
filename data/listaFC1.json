@@ -23401,6 +23401,14 @@
       "nipc": 500833265
     },
     {
+      "name": "CIMAR FABRICA DE CARRO\u00c7ARIAS E BASCULANTES SA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 500703582
+    },
+    {
       "name": "CIMBERTRANS TRANSPORTES E EQUIPAMENTOS LDA",
       "step": {
         "start": 10000,
@@ -28111,6 +28119,14 @@
         "end": 50000
       },
       "nipc": 509856748
+    },
+    {
+      "name": "CONSTRU\u00c7\u00d5ES 13 DE MAIO LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 507766725
     },
     {
       "name": "CONSTRU\u00c7\u00d5ES 20 MIL UNIPESSOAL LDA",
@@ -55601,14 +55617,6 @@
       "nipc": 504064916
     },
     {
-      "name": "HITZEMANN & SAMPAIO UNIPESSOAL LTDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 500134944
-    },
-    {
       "name": "HIX PH - PRODUTOS DE HIGIENE LDA - SOCIEDADE EM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 10000,
@@ -55623,6 +55631,14 @@
         "end": 50000
       },
       "nipc": 507397800
+    },
+    {
+      "name": "HJ MULTISERVI\u00c7OS-UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 513069984
     },
     {
       "name": "HL - MEDIA\u00c7\u00c3O DE SEGUROS LDA",
@@ -72327,14 +72343,6 @@
         "end": 50000
       },
       "nipc": 514721685
-    },
-    {
-      "name": "LUXPROJECTS, S.A.",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509645623
     },
     {
       "name": "LUXTRO MATERIAIS PARA ESPECTACULO LDA",
@@ -107553,6 +107561,14 @@
       "nipc": 500460965
     },
     {
+      "name": "SALERO DECORA\u00c7\u00c3O DE INTERIORES LDA EM LIQUIDA\u00c7\u00c3O",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 506855090
+    },
+    {
       "name": "SALGADO & COELHO IMPORTA\u00c7\u00c3O E EXPORTA\u00c7\u00c3O LDA",
       "step": {
         "start": 10000,
@@ -112615,6 +112631,14 @@
         "end": 50000
       },
       "nipc": 501846573
+    },
+    {
+      "name": "SOC CONSTRU\u00c7\u00d5ES A PERFEITA LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 505053772
     },
     {
       "name": "SOC CONSTRUCOES DOMINGOS FERREIRA LDA",
@@ -131793,5 +131817,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2025-02-17"
+  "last_updated": "2025-02-18"
 }
