@@ -9945,6 +9945,14 @@
       "nipc": 506690709
     },
     {
+      "name": "ARCINHO IMOBILIARIA LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 507207300
+    },
+    {
       "name": "ARCO IRIS - LIMPEZAS LDA",
       "step": {
         "start": 10000,
@@ -48969,14 +48977,6 @@
       "nipc": 509738940
     },
     {
-      "name": "FROZEN TIME - UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 516096478
-    },
-    {
       "name": "FRUITS FOR YOU INC - SUCURSAL EM PORTUGAL",
       "step": {
         "start": 10000,
@@ -74969,14 +74969,6 @@
       "nipc": 501216812
     },
     {
-      "name": "MANUEL MAIO COSTA UNIPESSOAL LIMITADA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 516919415
-    },
-    {
       "name": "MANUEL MARQUES SERRADOR LDA",
       "step": {
         "start": 10000,
@@ -89007,14 +88999,6 @@
         "end": 50000
       },
       "nipc": 508349338
-    },
-    {
-      "name": "ORTOBORG - PRODUTOS ORTOP\u00c9DICOS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 508229456
     },
     {
       "name": "ORTOEXPO - ORTOPEDIA E SAUDE LDA",
@@ -107553,12 +107537,12 @@
       "nipc": 502982985
     },
     {
-      "name": "SALIENTELOGIO LDA",
+      "name": "SALGADO & PAIVA RIBEIRO LD",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 515261513
+      "nipc": 505643707
     },
     {
       "name": "SALINECTAR-REPRESENTA\u00c7\u00d5ES UNIPESSOAL LDA",
@@ -112617,12 +112601,12 @@
       "nipc": 501948163
     },
     {
-      "name": "SOC CONSTRUCOES QUINTA DO MARACHIQUE LDA",
+      "name": "SOC CONSTRUCOES F CALISTO RODRIGUES LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 500877211
+      "nipc": 501139680
     },
     {
       "name": "SOC CONSTRUCOES QUINTANS LDA",
@@ -120719,6 +120703,14 @@
         "end": 50000
       },
       "nipc": 507656350
+    },
+    {
+      "name": "TOVIL TOSEL VIDROS PARA ILUMICACAO LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 501246258
     },
     {
       "name": "TP GRANITOS LDA",
@@ -131761,5 +131753,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2025-02-21"
+  "last_updated": "2025-02-22"
 }
