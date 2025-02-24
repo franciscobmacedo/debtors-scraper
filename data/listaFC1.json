@@ -19753,14 +19753,6 @@
       "nipc": 505342774
     },
     {
-      "name": "CARCOREST, LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 504267795
-    },
-    {
       "name": "CARDELF LDA",
       "step": {
         "start": 10000,
@@ -55625,20 +55617,20 @@
       "nipc": 507397800
     },
     {
+      "name": "HJ MULTISERVI\u00c7OS-UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 513069984
+    },
+    {
       "name": "HL - MEDIA\u00c7\u00c3O DE SEGUROS LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 513575839
-    },
-    {
-      "name": "HM PRODUTOS DE MANUTEN\u00c7\u00c3O UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509565727
     },
     {
       "name": "HMB - SOCIEDADE DE INVESTIMENTOS IMOBILI\u00c1RIOS S.A. - EM\rLIQUIDA\u00c7\u00c3O",
@@ -75425,14 +75417,6 @@
       "nipc": 507658272
     },
     {
-      "name": "MAR CHEIO LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 505509717
-    },
-    {
       "name": "MAR DE JUPITER - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -87319,14 +87303,6 @@
         "end": 50000
       },
       "nipc": 506158764
-    },
-    {
-      "name": "ODILIA CRUZ LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509366562
     },
     {
       "name": "ODISSEIA DO FUTURO MEDIA AGENCIA DE PUBLICIDADE LDA",
@@ -107545,20 +107521,20 @@
       "nipc": 505643707
     },
     {
+      "name": "SALIENTELOGIO LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 515261513
+    },
+    {
       "name": "SALINECTAR-REPRESENTA\u00c7\u00d5ES UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 510064230
-    },
-    {
-      "name": "SALINENSE CONSTRU\u00c7\u00d5ES LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 505558823
     },
     {
       "name": "SALIU BELA UNIPESSOAL LDA",
@@ -112609,20 +112585,20 @@
       "nipc": 501139680
     },
     {
+      "name": "SOC CONSTRUCOES QUINTA DO MARACHIQUE LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 500877211
+    },
+    {
       "name": "SOC CONSTRUCOES QUINTANS LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 502115688
-    },
-    {
-      "name": "SOC CONSTRUCOES RODA E SOUSA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 502135018
     },
     {
       "name": "SOC CONSTRU\u00c7\u00d5ES RODRIGUES & MANIQUE LDA",
@@ -131753,5 +131729,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2025-02-22"
+  "last_updated": "2025-02-23"
 }
