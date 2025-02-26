@@ -42849,14 +42849,6 @@
       "nipc": 504119290
     },
     {
-      "name": "F SIM\u00d5ES E SIM\u00d5ES LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 512010463
-    },
-    {
       "name": "F TELES INDUSTRIA DE MOBILIARIO LDA",
       "step": {
         "start": 10000,
@@ -55633,12 +55625,12 @@
       "nipc": 513575839
     },
     {
-      "name": "HMB - SOCIEDADE DE INVESTIMENTOS IMOBILI\u00c1RIOS S.A. - EM\rLIQUIDA\u00c7\u00c3O",
+      "name": "HM PRODUTOS DE MANUTEN\u00c7\u00c3O UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 503502790
+      "nipc": 509565727
     },
     {
       "name": "HMP - MADEIRAS S A",
@@ -107537,20 +107529,20 @@
       "nipc": 510064230
     },
     {
+      "name": "SALINENSE CONSTRU\u00c7\u00d5ES LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 505558823
+    },
+    {
       "name": "SALIU BELA UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 514395397
-    },
-    {
-      "name": "SALKIKA UNIPESSOAL LDA EM LIQUIDA\u00c7\u00c3O",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510462227
     },
     {
       "name": "SALMING PORTUGAL, LDA.",
@@ -112601,20 +112593,20 @@
       "nipc": 502115688
     },
     {
+      "name": "SOC CONSTRUCOES RODA E SOUSA LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 502135018
+    },
+    {
       "name": "SOC CONSTRU\u00c7\u00d5ES RODRIGUES & MANIQUE LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 503696331
-    },
-    {
-      "name": "SOC CONSTRUCOES SANTOS E FILHOS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 502422750
     },
     {
       "name": "SOC CORTICEIRA BATISTA & IRM\u00c3OS LDA",
@@ -131729,5 +131721,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2025-02-24"
+  "last_updated": "2025-02-25"
 }
