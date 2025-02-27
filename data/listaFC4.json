@@ -553,6 +553,14 @@
       "nipc": 505788934
     },
     {
+      "name": "CARLOS SOUSA E BRITO E ASSOCIADOS SOC ADVOGADOS",
+      "step": {
+        "start": 500001,
+        "end": 1000000
+      },
+      "nipc": 501346228
+    },
+    {
       "name": "CASA PAPEL COMERCIO PAPEL LDA",
       "step": {
         "start": 500001,
@@ -2457,14 +2465,6 @@
       "nipc": 501243542
     },
     {
-      "name": "MEIXO CONSTRU\u00c7\u00d5ES UNIPESSOAL LDA",
-      "step": {
-        "start": 500001,
-        "end": 1000000
-      },
-      "nipc": 506860884
-    },
-    {
       "name": "MERCIPOLIO - CONSTRU\u00c7\u00d5ES UNIPESSOAL LDA",
       "step": {
         "start": 500001,
@@ -3905,5 +3905,5 @@
       "nipc": 510669280
     }
   ],
-  "last_updated": "2025-02-25"
+  "last_updated": "2025-02-26"
 }

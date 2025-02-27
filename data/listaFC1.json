@@ -81633,14 +81633,6 @@
       "nipc": 508388325
     },
     {
-      "name": "MOMENTOS D PLATINA UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 516973010
-    },
-    {
       "name": "MOMENTOS DIVERTIDOS - PISCINAS UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -85983,14 +85975,6 @@
         "end": 50000
       },
       "nipc": 508562694
-    },
-    {
-      "name": "NUMARC - HOLDING, UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509311385
     },
     {
       "name": "NUMERAMPER - PRESTA\u00c7\u00c3O DE SERVI\u00c7OS LDA",
@@ -90599,14 +90583,6 @@
         "end": 50000
       },
       "nipc": 502479043
-    },
-    {
-      "name": "P\u00c3O DO PAI - PADARIA E PASTELARIA UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 507076125
     },
     {
       "name": "P\u00c3O NA CABE\u00c7A SOCIEDADE DE HOTELARIA LDA",
@@ -107545,6 +107521,14 @@
       "nipc": 514395397
     },
     {
+      "name": "SALKIKA UNIPESSOAL LDA EM LIQUIDA\u00c7\u00c3O",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 510462227
+    },
+    {
       "name": "SALMING PORTUGAL, LDA.",
       "step": {
         "start": 10000,
@@ -112607,6 +112591,14 @@
         "end": 50000
       },
       "nipc": 503696331
+    },
+    {
+      "name": "SOC CONSTRUCOES SANTOS E FILHOS LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 502422750
     },
     {
       "name": "SOC CORTICEIRA BATISTA & IRM\u00c3OS LDA",
@@ -118135,14 +118127,6 @@
         "end": 50000
       },
       "nipc": 508316375
-    },
-    {
-      "name": "TEKNER UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515029246
     },
     {
       "name": "TELAS & LAPELAS - UNIPESSOAL LDA",
@@ -131721,5 +131705,5 @@
       "nipc": 513620320
     }
   ],
-  "last_updated": "2025-02-25"
+  "last_updated": "2025-02-26"
 }
