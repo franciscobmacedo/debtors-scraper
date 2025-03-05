@@ -49929,14 +49929,6 @@
       "nipc": 506432130
     },
     {
-      "name": "FULLPHONE LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514737360
-    },
-    {
       "name": "FULLSPORT ALUGUER E COMERCIO DE EQUIPAMENTOS PARA EVENTOS\rDESPORTIVOS UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -79167,6 +79159,14 @@
         "end": 50000
       },
       "nipc": 510671993
+    },
+    {
+      "name": "MATRIZCALCULO - UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 510570267
     },
     {
       "name": "MATRIZDETALHE UNIPESSOAL LDA",
@@ -109321,6 +109321,14 @@
       "nipc": 505558823
     },
     {
+      "name": "SALIU BELA UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 514395397
+    },
+    {
       "name": "SALKIKA UNIPESSOAL LDA EM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 10000,
@@ -114393,20 +114401,20 @@
       "nipc": 502134577
     },
     {
+      "name": "SOC COMERCIAL TEXTIL DE LUIS MARTINS E ANDRADE LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 501846573
+    },
+    {
       "name": "SOC CONSTRU\u00c7\u00d5ES A PERFEITA LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 505053772
-    },
-    {
-      "name": "SOC CONSTRUCOES DOMINGOS FERREIRA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 501242392
     },
     {
       "name": "SOC CONSTRUCOES E OBRAS PUBLICAS J PINTO E FILHOS LDA",
@@ -133953,5 +133961,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-03-03"
+  "last_updated": "2025-03-04"
 }
