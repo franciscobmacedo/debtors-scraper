@@ -112153,14 +112153,6 @@
       "nipc": 504846949
     },
     {
-      "name": "SERRAVIZ - AGR\u00cdCOLA DA SERRA DO VARIZ, LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 503799475
-    },
-    {
       "name": "SERRINHACONSTRU\u00c7\u00d5ES, LDA",
       "step": {
         "start": 10000,
@@ -113489,14 +113481,6 @@
       "nipc": 513247823
     },
     {
-      "name": "SINAIS ITINERANTES UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514061790
-    },
-    {
       "name": "SINAL DIRECTO AUTOMOVEIS UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -114417,20 +114401,20 @@
       "nipc": 505053772
     },
     {
+      "name": "SOC CONSTRUCOES DOMINGOS FERREIRA LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 501242392
+    },
+    {
       "name": "SOC CONSTRUCOES E OBRAS PUBLICAS J PINTO E FILHOS LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 501948163
-    },
-    {
-      "name": "SOC CONSTRUCOES F CALISTO RODRIGUES LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 501139680
     },
     {
       "name": "SOC CONSTRUCOES QUINTA DO MARACHIQUE LDA",
@@ -133953,5 +133937,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-03-05"
+  "last_updated": "2025-03-06"
 }
