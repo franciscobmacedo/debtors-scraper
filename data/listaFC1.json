@@ -16425,14 +16425,6 @@
       "nipc": 508219574
     },
     {
-      "name": "BONUSCOTTON UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513036245
-    },
-    {
       "name": "BONUSDELIRIO - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -18279,14 +18271,6 @@
         "end": 50000
       },
       "nipc": 513040145
-    },
-    {
-      "name": "BUSSOLARRAPIDAMENTE TRANSPORTES RODOVI\u00c1RIOS, UNIPESSOAL\rLDA.",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 507345916
     },
     {
       "name": "BUSSOLAS E CORAIS - TRABALHO TEMPORARIO LDA",
@@ -35689,14 +35673,6 @@
       "nipc": 500087652
     },
     {
-      "name": "DONDOQU\u00cdMICA - IMPERMEABILIZA\u00c7\u00d5ES E ISOLAMENTOS LDA - EM\rLIQUIDA\u00c7\u00c3O",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 501435689
-    },
-    {
       "name": "DONISTRONIS UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -45879,6 +45855,14 @@
         "end": 50000
       },
       "nipc": 501694943
+    },
+    {
+      "name": "FERNANDO ALVES SOUSA - COM\u00c9RCIO DE VE\u00cdCULOS AUTOM\u00d3VEIS,\rUNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 504660012
     },
     {
       "name": "FERNANDO ALVES UNIPESSOAL LDA",
@@ -56407,14 +56391,6 @@
         "end": 50000
       },
       "nipc": 508068533
-    },
-    {
-      "name": "HIPERFUS\u00c3O - FABRICA\u00c7\u00c3O E COMERCIO DE CAL\u00c7ADO UNIPESSOAL\rLDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 507693418
     },
     {
       "name": "HIPERIMAGEM - IMAGEM E PUBLICIDADE, UNIPESSOAL LDA",
@@ -114417,6 +114393,14 @@
       "nipc": 501948163
     },
     {
+      "name": "SOC CONSTRUCOES F CALISTO RODRIGUES LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 501139680
+    },
+    {
       "name": "SOC CONSTRUCOES QUINTA DO MARACHIQUE LDA",
       "step": {
         "start": 10000,
@@ -133937,5 +133921,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-03-06"
+  "last_updated": "2025-03-07"
 }
