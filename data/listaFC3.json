@@ -7145,6 +7145,14 @@
       "nipc": 505914824
     },
     {
+      "name": "DADIVA SEGUINTE CORTE E COSTURA UNIPESSOAL LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 509602657
+    },
+    {
       "name": "DAI XING XU ARTIGOS DE BAZAR LDA",
       "step": {
         "start": 100001,
@@ -8985,12 +8993,12 @@
       "nipc": 509323766
     },
     {
-      "name": "EQUILIMP - EQUIPAMENTOS DE LIMPEZA, S.A.",
+      "name": "ERA FUTURA - CONSTRU\u00c7\u00d5ES UNIPESSOAL LDA",
       "step": {
         "start": 100001,
         "end": 500000
       },
-      "nipc": 503235008
+      "nipc": 507761987
     },
     {
       "name": "ERECEBE - IND\u00daSTRIA DE CONFEC\u00c7\u00d5ES TEXTEIS S.A.",
@@ -24145,6 +24153,14 @@
       "nipc": 508000920
     },
     {
+      "name": "SELECTANGULO INVESTIMENTOS E TECNOLOGIAS LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 509075258
+    },
+    {
       "name": "SELECTANSWER - LDA",
       "step": {
         "start": 100001,
@@ -29417,5 +29433,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2025-03-12"
+  "last_updated": "2025-03-13"
 }
