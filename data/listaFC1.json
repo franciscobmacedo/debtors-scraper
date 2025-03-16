@@ -13217,14 +13217,6 @@
       "nipc": 501487930
     },
     {
-      "name": "AUTONOMIA DOURADA - LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 516728393
-    },
-    {
       "name": "AUTOPASSION PT UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -35649,6 +35641,14 @@
       "nipc": 500087652
     },
     {
+      "name": "DONDOQU\u00cdMICA - IMPERMEABILIZA\u00c7\u00d5ES E ISOLAMENTOS LDA - EM\rLIQUIDA\u00c7\u00c3O",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 501435689
+    },
+    {
       "name": "DONISTRONIS UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -55161,14 +55161,6 @@
       "nipc": 506873498
     },
     {
-      "name": "HAIRTORE COMERCIO DE COSMETICOS UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 506080773
-    },
-    {
       "name": "HANDIBA CONSTRU\u00c7\u00c3O CIVIL UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -56361,20 +56353,20 @@
       "nipc": 510208940
     },
     {
+      "name": "HIPERPEVID\u00c9M - SUPERMERCADOS, S.A. - EM LIQUIDA\u00c7\u00c3O",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 509806333
+    },
+    {
       "name": "HIPICARGO EQUIPAMENTOS PARA TRANSPORTES LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 503497398
-    },
-    {
-      "name": "HIPOLITO REIS CONTABILIDADE INFORMATICA E SERVICOS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 501106359
     },
     {
       "name": "HIPOMARTINS METALOMECANICA UNIPESSOAL LDA",
@@ -117617,14 +117609,6 @@
       "nipc": 514407476
     },
     {
-      "name": "SUCESSOSINGELO UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514899271
-    },
-    {
       "name": "SUCITESA PORTUGAL - SOCIEDADE IBERICA DE PRODUTOS QUIMICOS S\rA",
       "step": {
         "start": 10000,
@@ -133753,5 +133737,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-03-14"
+  "last_updated": "2025-03-15"
 }
