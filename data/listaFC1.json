@@ -104465,14 +104465,6 @@
       "nipc": 509087345
     },
     {
-      "name": "RESTAURANTE A HERDADE LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 503002100
-    },
-    {
       "name": "RESTAURANTE A MARGARIDA LDA",
       "step": {
         "start": 10000,
@@ -113703,6 +113695,14 @@
         "end": 50000
       },
       "nipc": 508724988
+    },
+    {
+      "name": "SKYBLUE SHOES - COMERCIO DE CAL\u00c7ADO UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 514006862
     },
     {
       "name": "SKYBOAT UNIPESSOAL LDA",
@@ -133737,5 +133737,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-03-15"
+  "last_updated": "2025-03-16"
 }
