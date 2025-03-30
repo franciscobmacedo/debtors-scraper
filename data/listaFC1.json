@@ -55433,6 +55433,14 @@
       "nipc": 513072330
     },
     {
+      "name": "H & N ALEGRIA - TRANSPORTES LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 509720862
+    },
+    {
       "name": "H A HABITACAO ALGARVIA LDA",
       "step": {
         "start": 10000,
@@ -57041,12 +57049,12 @@
       "nipc": 501106359
     },
     {
-      "name": "HIPOMARTINS METALOMECANICA UNIPESSOAL LDA",
+      "name": "HIPOTESES REGULARES UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 505072777
+      "nipc": 516761650
     },
     {
       "name": "HIRSIKONTI - SOCIEDADE DE CONSTRU\u00c7\u00d5ES LDA",
@@ -66767,14 +66775,6 @@
         "end": 50000
       },
       "nipc": 506469328
-    },
-    {
-      "name": "JOSE ESPIRITO SANTO UNIPESSOAL LDA - EM LIQUIDA\u00c7\u00c3O",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 506013464
     },
     {
       "name": "JOSE F S AMADO LDA",
@@ -90193,14 +90193,6 @@
       "nipc": 508278368
     },
     {
-      "name": "OLHAR DE CLASSE UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509646042
-    },
-    {
       "name": "OLHAR O ATLANTICO SOCIEDADE UNIPESOAL LDA",
       "step": {
         "start": 10000,
@@ -110737,6 +110729,14 @@
       "nipc": 505643707
     },
     {
+      "name": "SALIENTELOGIO LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 515261513
+    },
+    {
       "name": "SALINECTAR-REPRESENTA\u00c7\u00d5ES UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -110751,14 +110751,6 @@
         "end": 50000
       },
       "nipc": 505558823
-    },
-    {
-      "name": "SALIU BELA UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514395397
     },
     {
       "name": "SALKIKA UNIPESSOAL LDA EM LIQUIDA\u00c7\u00c3O",
@@ -121639,14 +121631,6 @@
         "end": 50000
       },
       "nipc": 503771961
-    },
-    {
-      "name": "TEIXEIRA & SALGADO LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 503215279
     },
     {
       "name": "TEIXEIRA & VAKARCS LDA",
@@ -135705,5 +135689,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-03-28"
+  "last_updated": "2025-03-29"
 }
