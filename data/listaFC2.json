@@ -5329,6 +5329,14 @@
       "nipc": 509391680
     },
     {
+      "name": "CIVINEC - ENGENHARIA E CONSTRU\u00c7\u00c3O CIVIL UNIPESSOAL LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 508787327
+    },
+    {
       "name": "CLANUEL EMPRESA DE ACABAMENTOS DE CONSTRU\u00c7\u00c3O CIVIL\rUNIPESSOAL LDA",
       "step": {
         "start": 50001,
@@ -18553,14 +18561,6 @@
       "nipc": 515483958
     },
     {
-      "name": "MONTEIRO E CANAVARRO SA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 500588996
-    },
-    {
       "name": "MONTEIRO E RAMOS LDA",
       "step": {
         "start": 50001,
@@ -28889,5 +28889,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2025-04-01"
+  "last_updated": "2025-04-02"
 }

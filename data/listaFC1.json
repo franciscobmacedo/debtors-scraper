@@ -14857,14 +14857,6 @@
       "nipc": 504301110
     },
     {
-      "name": "BEAUTIFUL HOUSE, UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513931244
-    },
-    {
       "name": "BEAUTY A\u00c7ORES LDA",
       "step": {
         "start": 10000,
@@ -84217,6 +84209,14 @@
       "nipc": 507394631
     },
     {
+      "name": "MONTEIRO E CANAVARRO SA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 500588996
+    },
+    {
       "name": "MONTEIRO SAMPAIO FABRICA\u00c7\u00c3O CAL\u00c7ADO LDA",
       "step": {
         "start": 10000,
@@ -115849,20 +115849,20 @@
       "nipc": 505053772
     },
     {
-      "name": "SOC CONSTRUCOES DOMINGOS FERREIRA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 501242392
-    },
-    {
       "name": "SOC CONSTRUCOES E OBRAS PUBLICAS J PINTO E FILHOS LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 501948163
+    },
+    {
+      "name": "SOC CONSTRUCOES F CALISTO RODRIGUES LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 501139680
     },
     {
       "name": "SOC CONSTRUCOES QUINTA DO MARACHIQUE LDA",
@@ -131481,14 +131481,6 @@
       "nipc": 501693157
     },
     {
-      "name": "VIDMEIR UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 516022636
-    },
-    {
       "name": "VIDRARIA DA GANDRA LDA",
       "step": {
         "start": 10000,
@@ -135665,5 +135657,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-04-01"
+  "last_updated": "2025-04-02"
 }
