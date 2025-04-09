@@ -24057,6 +24057,14 @@
       "nipc": 515033138
     },
     {
+      "name": "CIRCULO CITADINO UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 513847715
+    },
+    {
       "name": "CIRCULO DE AROMAS UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -73663,14 +73671,6 @@
         "end": 50000
       },
       "nipc": 502791772
-    },
-    {
-      "name": "LUIS MM PEREIRA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513026894
     },
     {
       "name": "LUIS NARCISO FELIX LDA",
@@ -135593,5 +135593,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-04-07"
+  "last_updated": "2025-04-08"
 }
