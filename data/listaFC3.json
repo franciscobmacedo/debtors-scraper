@@ -4913,6 +4913,14 @@
       "nipc": 505166070
     },
     {
+      "name": "CENTRO COMERCIAL VILARINHO LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 502016671
+    },
+    {
       "name": "CENTRO DE MASSAGEM E RECUPERA\u00c7\u00c3O ORIENTAL DO PORTO LDA",
       "step": {
         "start": 100001,
@@ -8985,12 +8993,12 @@
       "nipc": 503235008
     },
     {
-      "name": "ERA FUTURA - CONSTRU\u00c7\u00d5ES UNIPESSOAL LDA",
+      "name": "ERECEBE - IND\u00daSTRIA DE CONFEC\u00c7\u00d5ES TEXTEIS S.A.",
       "step": {
         "start": 100001,
         "end": 500000
       },
-      "nipc": 507761987
+      "nipc": 504467301
     },
     {
       "name": "ERGIMETAL LDA",
@@ -29425,5 +29433,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2025-04-08"
+  "last_updated": "2025-04-09"
 }
