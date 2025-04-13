@@ -12377,6 +12377,14 @@
       "nipc": 513260609
     },
     {
+      "name": "ATTIAS GROUP SA SUCURSAL",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 980410550
+    },
+    {
       "name": "AUDICIO BARROS - CONSTRU\u00c7\u00d5ES UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -36681,6 +36689,14 @@
       "nipc": 508454522
     },
     {
+      "name": "DUNGARVAN PROPERTIES LLC",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 980327954
+    },
+    {
       "name": "DUNIL CONFECCOES LDA",
       "step": {
         "start": 10000,
@@ -57057,20 +57073,20 @@
       "nipc": 513575839
     },
     {
-      "name": "HM PRODUTOS DE MANUTEN\u00c7\u00c3O UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509565727
-    },
-    {
       "name": "HMB - SOCIEDADE DE INVESTIMENTOS IMOBILI\u00c1RIOS S.A. - EM\rLIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 503502790
+    },
+    {
+      "name": "HMP - MADEIRAS S A",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 510894690
     },
     {
       "name": "HN CONTINHAS CONTABILIDADE UNIPESSOAL LDA",
@@ -69111,14 +69127,6 @@
         "end": 50000
       },
       "nipc": 503530964
-    },
-    {
-      "name": "LA - COMPONENTES PARA CAL\u00c7ADO LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513261907
     },
     {
       "name": "LA BOULANGERIE DO SOL UNIPESSOAL LDA",
@@ -110441,14 +110449,6 @@
       "nipc": 514942380
     },
     {
-      "name": "SAGORRO - MONTAGENS DE AR CONDICIONADO E REDES DE INC\u00caNDIO,\rUNIPESSOAL LDA - EM LIQUIDA\u00c7\u00c3O",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 505846640
-    },
-    {
       "name": "SAGRERA POLYMERS PORTUGAL UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -115161,14 +115161,6 @@
       "nipc": 507963296
     },
     {
-      "name": "SIX STYLE - CONFEC\u00c7\u00d5ES T\u00caXTEIS, UNIPESSOAL LDA - SOCIEDADE EM\rLIQUIDA\u00c7\u00c3O",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 507281314
-    },
-    {
       "name": "SIZE COMERCIO DE VESTUARIO LDA",
       "step": {
         "start": 10000,
@@ -115183,6 +115175,14 @@
         "end": 50000
       },
       "nipc": 510610889
+    },
+    {
+      "name": "SKOPOS GEST\u00c3O DE EDIFICIOS LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 506197670
     },
     {
       "name": "SKRITTA-MATERIAL DIDACTICO LDA",
@@ -135505,5 +135505,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-04-11"
+  "last_updated": "2025-04-12"
 }

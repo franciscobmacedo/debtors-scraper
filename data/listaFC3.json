@@ -2545,14 +2545,6 @@
       "nipc": 510252052
     },
     {
-      "name": "ATTIAS GROUP SA SUCURSAL",
-      "step": {
-        "start": 100001,
-        "end": 500000
-      },
-      "nipc": 980410550
-    },
-    {
       "name": "ATUALODISSEIA LDA",
       "step": {
         "start": 100001,
@@ -8993,12 +8985,12 @@
       "nipc": 503235008
     },
     {
-      "name": "ERECEBE - IND\u00daSTRIA DE CONFEC\u00c7\u00d5ES TEXTEIS S.A.",
+      "name": "ERA FUTURA - CONSTRU\u00c7\u00d5ES UNIPESSOAL LDA",
       "step": {
         "start": 100001,
         "end": 500000
       },
-      "nipc": 504467301
+      "nipc": 507761987
     },
     {
       "name": "ERGIMETAL LDA",
@@ -29433,5 +29425,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2025-04-11"
+  "last_updated": "2025-04-12"
 }
