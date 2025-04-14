@@ -8857,6 +8857,14 @@
       "nipc": 514069295
     },
     {
+      "name": "ENON - COMERCIALIZA\u00c7\u00c3O DE ENERGIA E SERVI\u00c7OS, S.A.",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 509782426
+    },
+    {
       "name": "ENORMEPISTA-CONSTRU\u00c7\u00c3O CIVIL,LDA",
       "step": {
         "start": 100001,
@@ -8985,12 +8993,12 @@
       "nipc": 503235008
     },
     {
-      "name": "ERA FUTURA - CONSTRU\u00c7\u00d5ES UNIPESSOAL LDA",
+      "name": "ERECEBE - IND\u00daSTRIA DE CONFEC\u00c7\u00d5ES TEXTEIS S.A.",
       "step": {
         "start": 100001,
         "end": 500000
       },
-      "nipc": 507761987
+      "nipc": 504467301
     },
     {
       "name": "ERGIMETAL LDA",
@@ -29425,5 +29433,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2025-04-12"
+  "last_updated": "2025-04-13"
 }
