@@ -50841,6 +50841,14 @@
       "nipc": 515530166
     },
     {
+      "name": "FYI LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 508588693
+    },
+    {
       "name": "F2H-SERRALHARIAS LDA",
       "step": {
         "start": 10000,
@@ -52607,14 +52615,6 @@
         "end": 50000
       },
       "nipc": 505287471
-    },
-    {
-      "name": "GINFRAGUI - CONFEC\u00c7\u00c3O UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515604321
     },
     {
       "name": "GINGILTECNICA LDA",
@@ -54881,14 +54881,6 @@
       "nipc": 500130914
     },
     {
-      "name": "GROWFLOWER - UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509883222
-    },
-    {
       "name": "GRUCONOR LEYSA LDA",
       "step": {
         "start": 10000,
@@ -57073,20 +57065,20 @@
       "nipc": 503502790
     },
     {
+      "name": "HMP - MADEIRAS S A",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 510894690
+    },
+    {
       "name": "HN CONTINHAS CONTABILIDADE UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 505875608
-    },
-    {
-      "name": "HN NAILS SOLUTIONS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509509975
     },
     {
       "name": "HNOS PI\u00d1OS Y BORGES SL - SUCURSAL EM PORTUGAL",
@@ -79945,20 +79937,20 @@
       "nipc": 505814285
     },
     {
+      "name": "MATRICULAS E ACESSORIOS AUTO DE A A Z LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 510513905
+    },
+    {
       "name": "MATRIZ - CENTRO DE ESTUDOS UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 510399053
-    },
-    {
-      "name": "MATRIZ CELESTIAL - UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515170356
     },
     {
       "name": "MATRIZ ESTRIDENTE - UNIPESSOAL LDA",
@@ -87239,14 +87231,6 @@
         "end": 50000
       },
       "nipc": 504996355
-    },
-    {
-      "name": "N.J.D. - PROJECTOS DE CONSTRU\u00c7\u00c3O, S.A. - SOCIEDADE EM LIQUIDA\u00c7\u00c3O",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 505569094
     },
     {
       "name": "NJP GEST\u00c3O E INVESTIMENTOS SA",
@@ -135433,5 +135417,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-04-22"
+  "last_updated": "2025-04-23"
 }

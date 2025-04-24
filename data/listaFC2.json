@@ -11457,14 +11457,6 @@
       "nipc": 504080806
     },
     {
-      "name": "FYI LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 508588693
-    },
-    {
       "name": "G M C C MATERIAIS DE CONSTRUCAO E SERVICOS LDA",
       "step": {
         "start": 50001,
@@ -15391,14 +15383,6 @@
         "end": 100000
       },
       "nipc": 507142934
-    },
-    {
-      "name": "L 20 CONFECCOES LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 503570419
     },
     {
       "name": "LA - COMPONENTES PARA CAL\u00c7ADO LDA",
@@ -28849,5 +28833,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2025-04-22"
+  "last_updated": "2025-04-23"
 }
