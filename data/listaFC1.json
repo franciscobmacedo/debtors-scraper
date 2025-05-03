@@ -41,14 +41,6 @@
       "nipc": 505303205
     },
     {
-      "name": "A A M J PADARIA E PASTELARIA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 507570898
-    },
-    {
       "name": "A B DESIGNERS ASSOCIADOS LDA",
       "step": {
         "start": 10000,
@@ -57081,20 +57073,20 @@
       "nipc": 980401658
     },
     {
+      "name": "HNR - ENGENHARIA E REABILITA\u00c7\u00c3O LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 510479367
+    },
+    {
       "name": "HNT - CONTABILIDADE E SERVI\u00c7OS LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 508851351
-    },
-    {
-      "name": "HOBBY IMPORT, LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509057527
     },
     {
       "name": "HOJE 100FALTA - UNIPESSOAL LDA",
@@ -124833,14 +124825,6 @@
       "nipc": 508075696
     },
     {
-      "name": "TRANSGON\u00c7ALVES -TRANSPORTES, UNIPESSOAL, LDA - EM\rLIQUIDA\u00c7\u00c3O.",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 504398849
-    },
-    {
       "name": "TRANSGRAZINA TRANSPORTES LDA",
       "step": {
         "start": 10000,
@@ -126183,14 +126167,6 @@
         "end": 50000
       },
       "nipc": 505339196
-    },
-    {
-      "name": "TRANSPORTES NEGRELOS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 506922391
     },
     {
       "name": "TRANSPORTES NEVES & COSTA LDA",
@@ -135385,5 +135361,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-05-01"
+  "last_updated": "2025-05-02"
 }
