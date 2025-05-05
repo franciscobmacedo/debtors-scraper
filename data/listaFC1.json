@@ -25673,14 +25673,6 @@
       "nipc": 515535257
     },
     {
-      "name": "COLINA 56 - CONSTRU\u00c7\u00d5ES UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509275770
-    },
-    {
       "name": "COLINAS DO RIO LDA",
       "step": {
         "start": 10000,
@@ -57089,6 +57081,14 @@
       "nipc": 508851351
     },
     {
+      "name": "HOBBY IMPORT, LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 509057527
+    },
+    {
       "name": "HOJE 100FALTA - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -57111,14 +57111,6 @@
         "end": 50000
       },
       "nipc": 514757078
-    },
-    {
-      "name": "HOME CAMPOS - CONSTRU\u00c7\u00d5ES UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509567266
     },
     {
       "name": "HOME ETERNITY, MOBILI\u00c1RIO, UNIPESSOAL LDA",
@@ -135337,5 +135329,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-05-03"
+  "last_updated": "2025-05-04"
 }
