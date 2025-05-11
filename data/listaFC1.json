@@ -3121,14 +3121,6 @@
       "nipc": 502211636
     },
     {
-      "name": "AGRILASGAA UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510723225
-    },
-    {
       "name": "AGRI-LEMA PRODU\u00c7\u00d5ES AGRICOLAS UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -12447,14 +12439,6 @@
         "end": 50000
       },
       "nipc": 509383742
-    },
-    {
-      "name": "ATRIBUTOS D HONRA, LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515891118
     },
     {
       "name": "ATRIBUTOS VAIDOSOS - UNIPESSOAL LDA",
@@ -36377,12 +36361,12 @@
       "nipc": 507982460
     },
     {
-      "name": "DONA VESTE UNIPESSOAL LDA",
+      "name": "DON SABOR SOCIEDADE UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 513450459
+      "nipc": 508266394
     },
     {
       "name": "DONAK CAL\u00c7ADOS UNIPESSOAL LDA",
@@ -61185,14 +61169,6 @@
       "nipc": 507067002
     },
     {
-      "name": "INFINITAFIGURA - UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513965246
-    },
-    {
       "name": "INFINITOCEANO LDA",
       "step": {
         "start": 10000,
@@ -81001,20 +80977,20 @@
       "nipc": 510513905
     },
     {
+      "name": "MATRILAGO MATERIAIS DE CONSTRU\u00c7\u00c3O LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 505728958
+    },
+    {
       "name": "MATRIZ - CENTRO DE ESTUDOS UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 510399053
-    },
-    {
-      "name": "MATRIZ CELESTIAL - UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515170356
     },
     {
       "name": "MATRIZ ESTRIDENTE - UNIPESSOAL LDA",
@@ -111881,6 +111857,14 @@
       "nipc": 514395397
     },
     {
+      "name": "SALKIKA UNIPESSOAL LDA EM LIQUIDA\u00c7\u00c3O",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 510462227
+    },
+    {
       "name": "SALMING PORTUGAL, LDA.",
       "step": {
         "start": 10000,
@@ -127689,14 +127673,6 @@
       "nipc": 504486233
     },
     {
-      "name": "TRANSPORTES MOREIRA & ROCHA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 504852841
-    },
-    {
       "name": "TRANSPORTES MUNIQUE INVICTO LDA",
       "step": {
         "start": 10000,
@@ -137065,5 +137041,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-05-09"
+  "last_updated": "2025-05-10"
 }
