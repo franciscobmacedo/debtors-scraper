@@ -8561,6 +8561,14 @@
       "nipc": 501252754
     },
     {
+      "name": "ELECTROIMA COMERCIO REPARACAO ELECTRODOMESTICOS LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 502017139
+    },
+    {
       "name": "ELECTROLIMPA EMPRESA TECNICA DE LIMPEZAS LDA",
       "step": {
         "start": 100001,
@@ -9001,12 +9009,12 @@
       "nipc": 501680250
     },
     {
-      "name": "EPC - ESTUDO PROJETO CRIA\u00c7\u00c3O - CONSTRU\u00c7\u00c3O CIVIL LDA",
+      "name": "EPOCA COMPLETA - UNIPESSOAL LDA",
       "step": {
         "start": 100001,
         "end": 500000
       },
-      "nipc": 514192275
+      "nipc": 516008544
     },
     {
       "name": "EPOCA INTEMPORAL LDA",
@@ -29633,5 +29641,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2025-05-12"
+  "last_updated": "2025-05-13"
 }
