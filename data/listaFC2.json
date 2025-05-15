@@ -8457,14 +8457,6 @@
       "nipc": 504571648
     },
     {
-      "name": "DSX-CONSULTRADE LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 510424244
-    },
-    {
       "name": "DTC - DISCOUNT TRAVEL CARD LDA",
       "step": {
         "start": 50001,
@@ -29033,5 +29025,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2025-05-13"
+  "last_updated": "2025-05-14"
 }

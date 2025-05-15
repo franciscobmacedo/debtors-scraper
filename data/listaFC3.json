@@ -6993,14 +6993,6 @@
       "nipc": 510736513
     },
     {
-      "name": "CRITERIOS TRANQUILOS LDA",
-      "step": {
-        "start": 100001,
-        "end": 500000
-      },
-      "nipc": 515667641
-    },
-    {
       "name": "CRITERIUM SISTEMAS INFORMATICOS SA",
       "step": {
         "start": 100001,
@@ -8135,6 +8127,14 @@
         "end": 500000
       },
       "nipc": 510735126
+    },
+    {
+      "name": "DSX-CONSULTRADE LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 510424244
     },
     {
       "name": "DUALPOL - INDUSTRIA DE PRODUTOS METALICOS LDA",
@@ -29641,5 +29641,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2025-05-13"
+  "last_updated": "2025-05-14"
 }
