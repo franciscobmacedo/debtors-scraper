@@ -110849,14 +110849,6 @@
       "nipc": 505090333
     },
     {
-      "name": "RUSTIC DETERMINATION - UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 516001558
-    },
-    {
       "name": "RUSTICA TRAVESSIA - RESTAURA\u00c7\u00c3O LDA",
       "step": {
         "start": 10000,
@@ -111543,6 +111535,14 @@
         "end": 50000
       },
       "nipc": 506123669
+    },
+    {
+      "name": "SAFARI DOS NUMEROS - UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 509518265
     },
     {
       "name": "SAFE HOUSE - MEDIA\u00c7\u00c3O IMOBILI\u00c1RIA LDA",
@@ -116985,12 +116985,12 @@
       "nipc": 505053772
     },
     {
-      "name": "SOC CONSTRUCOES E OBRAS PUBLICAS J PINTO E FILHOS LDA",
+      "name": "SOC CONSTRUCOES DOMINGOS FERREIRA LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 501948163
+      "nipc": 501242392
     },
     {
       "name": "SOC CONSTRUCOES F CALISTO RODRIGUES LDA",
@@ -136929,5 +136929,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-05-15"
+  "last_updated": "2025-05-16"
 }
