@@ -89473,14 +89473,6 @@
       "nipc": 509749291
     },
     {
-      "name": "NUMEROS CLINICOS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515250180
-    },
-    {
       "name": "NUMEROS COM VIDA-CONSULTORIA E GEST\u00c3O LDA",
       "step": {
         "start": 10000,
@@ -126257,14 +126249,6 @@
       "nipc": 504236555
     },
     {
-      "name": "TRANSFUEL TRANSPORTES LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 502626003
-    },
-    {
       "name": "TRANSGATINHOS UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -136929,5 +136913,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-05-16"
+  "last_updated": "2025-05-17"
 }
