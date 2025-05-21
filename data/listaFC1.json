@@ -37857,6 +37857,14 @@
       "nipc": 505592320
     },
     {
+      "name": "EDCM - COSTURA, UNIPESSOAL, LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 513099972
+    },
+    {
       "name": "EDELWEISS - TECNOLOGIAS DE INFORMA\u00c7\u00c3O UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -57777,20 +57785,20 @@
       "nipc": 503502790
     },
     {
-      "name": "HMP - MADEIRAS S A",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510894690
-    },
-    {
       "name": "HN CONTINHAS CONTABILIDADE UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 505875608
+    },
+    {
+      "name": "HN NAILS SOLUTIONS LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 509509975
     },
     {
       "name": "HNOS PI\u00d1OS Y BORGES SL - SUCURSAL EM PORTUGAL",
@@ -72385,14 +72393,6 @@
       "nipc": 508571863
     },
     {
-      "name": "LINES UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515218871
-    },
-    {
       "name": "LINEVES & ROCHA - TRANSPORTES NACIONAIS E INTERNACIONAIS, S.A.",
       "step": {
         "start": 10000,
@@ -79727,14 +79727,6 @@
         "end": 50000
       },
       "nipc": 513392050
-    },
-    {
-      "name": "MARIO & MIGUEL COMERCIO DE EQUIPAMENTO HOTELEIRO E\rESCRITORIO LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 506020720
     },
     {
       "name": "MARIO ALBERTO SOARES DA SILVA UNIPESSOAL LDA",
@@ -111521,14 +111513,6 @@
       "nipc": 509144934
     },
     {
-      "name": "SAFARI ACTIVIDADES HOTELEIRAS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 506123669
-    },
-    {
       "name": "SAFARI DOS NUMEROS - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -116961,14 +116945,6 @@
       "nipc": 502134577
     },
     {
-      "name": "SOC COMERCIAL TEXTIL DE LUIS MARTINS E ANDRADE LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 501846573
-    },
-    {
       "name": "SOC CONSTRU\u00c7\u00d5ES A PERFEITA LDA",
       "step": {
         "start": 10000,
@@ -116983,6 +116959,14 @@
         "end": 50000
       },
       "nipc": 501242392
+    },
+    {
+      "name": "SOC CONSTRUCOES E OBRAS PUBLICAS J PINTO E FILHOS LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 501948163
     },
     {
       "name": "SOC CONSTRUCOES F CALISTO RODRIGUES LDA",
@@ -122775,6 +122759,14 @@
         "end": 50000
       },
       "nipc": 503771961
+    },
+    {
+      "name": "TEIXEIRA & SALGADO LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 503215279
     },
     {
       "name": "TEIXEIRA & VAKARCS LDA",
@@ -136913,5 +136905,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-05-19"
+  "last_updated": "2025-05-20"
 }
