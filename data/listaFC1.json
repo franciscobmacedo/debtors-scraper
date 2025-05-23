@@ -24289,14 +24289,6 @@
       "nipc": 515033138
     },
     {
-      "name": "CIRCULO CITADINO UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513847715
-    },
-    {
       "name": "CIRCULO DE AROMAS UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -36359,14 +36351,6 @@
         "end": 50000
       },
       "nipc": 500087652
-    },
-    {
-      "name": "DONDOQU\u00cdMICA - IMPERMEABILIZA\u00c7\u00d5ES E ISOLAMENTOS LDA - EM\rLIQUIDA\u00c7\u00c3O",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 501435689
     },
     {
       "name": "DONISTRONIS UNIPESSOAL LDA",
@@ -57777,20 +57761,20 @@
       "nipc": 503502790
     },
     {
+      "name": "HMP - MADEIRAS S A",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 510894690
+    },
+    {
       "name": "HN CONTINHAS CONTABILIDADE UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 505875608
-    },
-    {
-      "name": "HN NAILS SOLUTIONS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509509975
     },
     {
       "name": "HNOS PI\u00d1OS Y BORGES SL - SUCURSAL EM PORTUGAL",
@@ -93897,14 +93881,6 @@
       "nipc": 509901395
     },
     {
-      "name": "PALMRIO INVESTIMENTOS IMOBILIARIOS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 506687082
-    },
-    {
       "name": "PALPITATEMPO TRANSPORTES LDA",
       "step": {
         "start": 10000,
@@ -116961,6 +116937,14 @@
       "nipc": 501948163
     },
     {
+      "name": "SOC CONSTRUCOES F CALISTO RODRIGUES LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 501139680
+    },
+    {
       "name": "SOC CONSTRUCOES QUINTA DO MARACHIQUE LDA",
       "step": {
         "start": 10000,
@@ -122751,6 +122735,14 @@
         "end": 50000
       },
       "nipc": 503215279
+    },
+    {
+      "name": "TEIXEIRA & VAKARCS LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 510242081
     },
     {
       "name": "TEIXEIRA ALVES CONSTRU\u00c7\u00d5ES LDA",
@@ -136881,5 +136873,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-05-21"
+  "last_updated": "2025-05-22"
 }

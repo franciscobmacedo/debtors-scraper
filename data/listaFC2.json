@@ -5329,6 +5329,14 @@
       "nipc": 509204147
     },
     {
+      "name": "CIRCULO CITADINO UNIPESSOAL LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 513847715
+    },
+    {
       "name": "CITRIPOR COOP DE CITRINOS DE PORTUGAL CRL",
       "step": {
         "start": 50001,
@@ -29025,5 +29033,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2025-05-21"
+  "last_updated": "2025-05-22"
 }
