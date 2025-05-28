@@ -108777,14 +108777,6 @@
       "nipc": 514602848
     },
     {
-      "name": "ROBUSTVARIABLE LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514654910
-    },
-    {
       "name": "ROCHA & FERREIRA LDA",
       "step": {
         "start": 10000,
@@ -134737,14 +134729,6 @@
       "nipc": 509926533
     },
     {
-      "name": "WAVECARE, SOCIEDADE UNIPESSOAL, LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513555188
-    },
-    {
       "name": "WAVELIST - ASSESSORIA DE GEST\u00c3O UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -136841,5 +136825,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-05-26"
+  "last_updated": "2025-05-27"
 }
