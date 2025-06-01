@@ -53689,14 +53689,6 @@
       "nipc": 515682381
     },
     {
-      "name": "GLOBEREPAIR LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 500590133
-    },
-    {
       "name": "GLOBIREGUA - CONSTRU\u00c7\u00c3O CIVIL UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -57769,12 +57761,12 @@
       "nipc": 509509975
     },
     {
-      "name": "HNR - ENGENHARIA E REABILITA\u00c7\u00c3O LDA",
+      "name": "HNOS PI\u00d1OS Y BORGES SL - SUCURSAL EM PORTUGAL",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 510479367
+      "nipc": 980401658
     },
     {
       "name": "HNT - CONTABILIDADE E SERVI\u00c7OS LDA",
@@ -136753,5 +136745,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-05-30"
+  "last_updated": "2025-05-31"
 }
