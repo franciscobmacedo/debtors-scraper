@@ -45342,7 +45342,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 187135576
+      "nif": 137956568
     },
     {
       "name": "JOAQUIM DA SILVA SOUSA",
@@ -45350,7 +45350,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 137956568
+      "nif": 187135576
     },
     {
       "name": "JOAQUIM DA SILVA VILAS BOAS",
@@ -45438,6 +45438,14 @@
         "start": 7500,
         "end": 25000
       },
+      "nif": 186157908
+    },
+    {
+      "name": "JOAQUIM DE SOUSA",
+      "step": {
+        "start": 7500,
+        "end": 25000
+      },
       "nif": 144834057
     },
     {
@@ -45447,14 +45455,6 @@
         "end": 25000
       },
       "nif": 158720245
-    },
-    {
-      "name": "JOAQUIM DE SOUSA",
-      "step": {
-        "start": 7500,
-        "end": 25000
-      },
-      "nif": 186157908
     },
     {
       "name": "JOAQUIM DELGADO SILVESTRE",
@@ -50326,7 +50326,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 188327070
+      "nif": 193697653
     },
     {
       "name": "JOSE CARLOS DA SILVA MENDES",
@@ -50334,7 +50334,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 193697653
+      "nif": 188327070
     },
     {
       "name": "JOSE CARLOS DA SILVA MOTA",
@@ -56070,7 +56070,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 192967614
+      "nif": 150328095
     },
     {
       "name": "JOSE TEIXEIRA",
@@ -56078,7 +56078,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 150328095
+      "nif": 192967614
     },
     {
       "name": "JOSE TEIXEIRA BOTELHO",
@@ -59878,7 +59878,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 126906491
+      "nif": 220093091
     },
     {
       "name": "LUIS FILIPE DA COSTA RIBEIRO",
@@ -59886,7 +59886,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 220093091
+      "nif": 126906491
     },
     {
       "name": "LUIS FILIPE DA ENCARNA\u00c7\u00c3O RAMOS",
@@ -60022,7 +60022,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 199284075
+      "nif": 211830593
     },
     {
       "name": "LUIS FILIPE GON\u00c7ALVES FERREIRA",
@@ -60030,7 +60030,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 211830593
+      "nif": 199284075
     },
     {
       "name": "LUIS FILIPE GON\u00c7ALVES FIALHO",
@@ -60199,14 +60199,6 @@
         "end": 25000
       },
       "nif": 211153087
-    },
-    {
-      "name": "LUIS FILIPE OLIVEIRA DA COSTA",
-      "step": {
-        "start": 7500,
-        "end": 25000
-      },
-      "nif": 215558219
     },
     {
       "name": "LUIS FILIPE PAIS CORREIA DA SILVA",
@@ -103201,5 +103193,5 @@
       "nif": 249574888
     }
   ],
-  "last_updated": "2025-05-31"
+  "last_updated": "2025-06-01"
 }

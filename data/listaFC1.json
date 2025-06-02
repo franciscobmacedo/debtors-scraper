@@ -58305,6 +58305,14 @@
       "nipc": 508869366
     },
     {
+      "name": "HRNS UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 510708358
+    },
+    {
       "name": "HSL - CLIMATIZA\u00c7\u00c3O E ENERGIAS RENOV\u00c1VEIS, UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -74775,14 +74783,6 @@
         "end": 50000
       },
       "nipc": 501350799
-    },
-    {
-      "name": "LUSITANIANCE CONSTRU\u00c7\u00c3O LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514854626
     },
     {
       "name": "LUSITANO FUTEBOL CLUBE",
@@ -136745,5 +136745,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-05-31"
+  "last_updated": "2025-06-01"
 }
