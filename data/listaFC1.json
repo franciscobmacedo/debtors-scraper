@@ -11409,6 +11409,14 @@
       "nipc": 510815596
     },
     {
+      "name": "ARTIGO INDEFENIDO UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 508651239
+    },
+    {
       "name": "ARTIMEL PRODU\u00c7\u00d5ES AGRICOLAS LDA",
       "step": {
         "start": 10000,
@@ -18215,14 +18223,6 @@
         "end": 50000
       },
       "nipc": 513307222
-    },
-    {
-      "name": "BTACTICAL UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 517054183
     },
     {
       "name": "BTN - SERVI\u00c7OS COMERCIAIS LDA",
@@ -108585,14 +108585,6 @@
       "nipc": 513752684
     },
     {
-      "name": "ROACTOS CONSTRUCAO CIVIL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 502231599
-    },
-    {
       "name": "ROAD 24 - AUTO ASSISTANCE SERVICE LDA",
       "step": {
         "start": 10000,
@@ -111497,12 +111489,12 @@
       "nipc": 513112880
     },
     {
-      "name": "SALEBOX, UNIPESSOAL LDA",
+      "name": "SALADFILMS LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 510141951
+      "nipc": 510925952
     },
     {
       "name": "SALEMA METAIS DO NORTE LDA",
@@ -116209,12 +116201,12 @@
       "nipc": 507281314
     },
     {
-      "name": "SKINWAY PORTUGAL LDA",
+      "name": "SIZE COMERCIO DE VESTUARIO LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 510610889
+      "nipc": 506166791
     },
     {
       "name": "SKOPOS GEST\u00c3O DE EDIFICIOS LDA",
@@ -136713,5 +136705,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-06-03"
+  "last_updated": "2025-06-04"
 }
