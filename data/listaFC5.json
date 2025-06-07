@@ -705,6 +705,14 @@
       "nipc": 510374158
     },
     {
+      "name": "COSMIKSFERA RECICLAGEM DE METAIS UNIPESSOAL LDA",
+      "step": {
+        "start": 1000001,
+        "end": 5000000
+      },
+      "nipc": 508996384
+    },
+    {
       "name": "COSMOBONUS - UNIPESSOAL LDA",
       "step": {
         "start": 1000001,
@@ -1929,6 +1937,14 @@
       "nipc": 507479866
     },
     {
+      "name": "P A C T PRODUTOS PARA ANALISE E CONTROLE DE TRAFEGO LDA",
+      "step": {
+        "start": 1000001,
+        "end": 5000000
+      },
+      "nipc": 503016152
+    },
+    {
       "name": "PALETE DE ESTRELAS COMERCIO DE MADEIRAS LDA",
       "step": {
         "start": 1000001,
@@ -2673,5 +2689,5 @@
       "nipc": 507644336
     }
   ],
-  "last_updated": "2025-06-04"
+  "last_updated": "2025-06-06"
 }
