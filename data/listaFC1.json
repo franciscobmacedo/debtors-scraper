@@ -4121,14 +4121,6 @@
       "nipc": 516091328
     },
     {
-      "name": "ALCAN\u00c7APARCELA UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510661122
-    },
-    {
       "name": "ALCANCE ACROBATICO - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -37111,6 +37103,14 @@
         "end": 50000
       },
       "nipc": 501435689
+    },
+    {
+      "name": "DONETODAY LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 515399680
     },
     {
       "name": "DONISTRONIS UNIPESSOAL LDA",
@@ -84881,14 +84881,6 @@
       "nipc": 514021837
     },
     {
-      "name": "MIGUEL ALMEIDA ENCARNA\u00c7\u00c3O UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515318574
-    },
-    {
       "name": "MIGUEL ALMEIDA RODRIGUES - TRANSPORTES UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -95345,14 +95337,6 @@
       "nipc": 507337913
     },
     {
-      "name": "PAISAGEM DE PALAVRAS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 507914864
-    },
-    {
       "name": "PAISAGEM NUMERICA LDA",
       "step": {
         "start": 10000,
@@ -102447,14 +102431,6 @@
         "end": 50000
       },
       "nipc": 515531626
-    },
-    {
-      "name": "POSITIVE EMBRACE LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515486981
     },
     {
       "name": "POSITIVE FOLLOWERS - SOLU\u00c7\u00d5ES GRAFICAS UNIPESSOAL LDA",
@@ -119161,14 +119137,6 @@
       "nipc": 501846573
     },
     {
-      "name": "SOC CONSTRU\u00c7\u00d5ES A PERFEITA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 505053772
-    },
-    {
       "name": "SOC CONSTRUCOES DOMINGOS FERREIRA LDA",
       "step": {
         "start": 10000,
@@ -119807,14 +119775,6 @@
         "end": 50000
       },
       "nipc": 507932820
-    },
-    {
-      "name": "SODISSIPALED LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514671149
     },
     {
       "name": "SOENERGIA MONTAGENS ELECTRICAS LDA",
@@ -130753,14 +130713,6 @@
       "nipc": 502778652
     },
     {
-      "name": "TRIBO DAS PALAVRAS COMUNICA\u00c7\u00c3O E MARKETING UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510815545
-    },
-    {
       "name": "TRIBOPLATINA CONSTRU\u00c7\u00d5ES, UNIPESSOAL, LDA",
       "step": {
         "start": 10000,
@@ -130783,14 +130735,6 @@
         "end": 50000
       },
       "nipc": 508998972
-    },
-    {
-      "name": "TRIBUTO CINTILANTE UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514939818
     },
     {
       "name": "TRICARPO - SOCIEDADE DE INVESTIMENTO IMOBILIARIO LDA",
@@ -139465,5 +139409,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-06-12"
+  "last_updated": "2025-06-13"
 }
