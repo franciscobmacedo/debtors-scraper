@@ -67377,14 +67377,6 @@
       "nipc": 503896292
     },
     {
-      "name": "JOBEA CONFEC\u00c7\u00d5ES UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 507061985
-    },
-    {
       "name": "JOBOX SERVI\u00c7OS DE MANUTEN\u00c7\u00c3O AUTOMOVEL UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -81775,6 +81767,14 @@
         "end": 50000
       },
       "nipc": 500185271
+    },
+    {
+      "name": "MARQUES E CONCEICAO LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 501772880
     },
     {
       "name": "MARQUES E JOSE MARIA LDA",
@@ -137801,14 +137801,6 @@
       "nipc": 508000254
     },
     {
-      "name": "WIP - TECHNOLOGY CENTRE LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 516189204
-    },
-    {
       "name": "WIRETEL LDA",
       "step": {
         "start": 10000,
@@ -139409,5 +139401,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-06-13"
+  "last_updated": "2025-06-14"
 }
