@@ -4993,14 +4993,6 @@
       "nipc": 505166070
     },
     {
-      "name": "CENTRO COMERCIAL VILARINHO LDA",
-      "step": {
-        "start": 100001,
-        "end": 500000
-      },
-      "nipc": 502016671
-    },
-    {
       "name": "CENTRO DE MASSAGEM E RECUPERA\u00c7\u00c3O ORIENTAL DO PORTO LDA",
       "step": {
         "start": 100001,
@@ -8993,20 +8985,20 @@
       "nipc": 509782426
     },
     {
+      "name": "ENORMEPISTA-CONSTRU\u00c7\u00c3O CIVIL,LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 508762995
+    },
+    {
       "name": "ENSEADA, IMPRESS\u00c3O DIGITAL, UNIPESSOAL, LDA - EM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 100001,
         "end": 500000
       },
       "nipc": 512048940
-    },
-    {
-      "name": "ENSINO DA CONDU\u00c7\u00c3O AUTO - IPS UNIPESSOAL LDA",
-      "step": {
-        "start": 100001,
-        "end": 500000
-      },
-      "nipc": 508005574
     },
     {
       "name": "ENTRELINHA INDUSTRIA DE CAL\u00c7ADO UNIPESSOAL LDA",
@@ -29801,5 +29793,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2025-06-16"
+  "last_updated": "2025-06-17"
 }

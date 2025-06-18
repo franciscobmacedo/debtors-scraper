@@ -2793,14 +2793,6 @@
       "nipc": 506158454
     },
     {
-      "name": "AGENCIA FUNERARIA FRANCO BATISTA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510361781
-    },
-    {
       "name": "AGENCIA FUNERARIA JULIO PAN\u00c3O LDA",
       "step": {
         "start": 10000,
@@ -23639,6 +23631,14 @@
         "end": 50000
       },
       "nipc": 500060916
+    },
+    {
+      "name": "CENTRO COMERCIAL VILARINHO LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 502016671
     },
     {
       "name": "CENTRO DE BELEZA VIEIRA CABELEIREIROS TRATAMENTOS E\rPRODUTOS LDA",
@@ -71753,14 +71753,6 @@
       "nipc": 508929539
     },
     {
-      "name": "LANASKAS ATELIER DE METAIS UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515957453
-    },
-    {
       "name": "LAN\u00c7A & BAI\u00c3O LDA",
       "step": {
         "start": 10000,
@@ -89745,14 +89737,6 @@
       "nipc": 505002280
     },
     {
-      "name": "NEXTEQUATION LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510201660
-    },
-    {
       "name": "NF - TEXTEIS UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -90519,14 +90503,6 @@
         "end": 50000
       },
       "nipc": 505611260
-    },
-    {
-      "name": "NORTELA UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510163203
     },
     {
       "name": "NORTEOESTE ALUMINIOS LDA",
@@ -139401,5 +139377,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-06-16"
+  "last_updated": "2025-06-17"
 }
