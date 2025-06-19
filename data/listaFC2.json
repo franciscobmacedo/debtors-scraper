@@ -5537,6 +5537,14 @@
       "nipc": 505977443
     },
     {
+      "name": "CLIPATMED II S A",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 508119138
+    },
+    {
       "name": "CLITORRE CLINICA MEDICA E ENFERMAGEM LDA",
       "step": {
         "start": 50001,
@@ -19537,14 +19545,6 @@
       "nipc": 502492465
     },
     {
-      "name": "NOSOLID, LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 510038280
-    },
-    {
       "name": "NOTAS DE CAXEMIRA CONFEC\u00c7\u00d5ES LDA",
       "step": {
         "start": 50001,
@@ -20143,6 +20143,14 @@
         "end": 100000
       },
       "nipc": 504069640
+    },
+    {
+      "name": "OLIJAFA - CONSTRU\u00c7\u00c3O CIVIL UNIPESSOAL LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 507639073
     },
     {
       "name": "OLITRATEX TRABALHOS TEXTEIS UNIPESSOAL LDA",
@@ -29233,5 +29241,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2025-06-17"
+  "last_updated": "2025-06-18"
 }
