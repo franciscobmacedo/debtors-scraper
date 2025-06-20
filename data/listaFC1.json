@@ -3433,14 +3433,6 @@
       "nipc": 506688372
     },
     {
-      "name": "AIRES SIM\u00d5ES CONSTRU\u00c7\u00d5ES LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 506604357
-    },
-    {
       "name": "AJACTO INDUSTRIA ARTIGOS METALICOS E VEICULOS MOTORIZADOS\rSA",
       "step": {
         "start": 10000,
@@ -17895,14 +17887,6 @@
         "end": 50000
       },
       "nipc": 513003622
-    },
-    {
-      "name": "BRIGHTSCOPE - LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 516658107
     },
     {
       "name": "BRILHANTAROMA - LDA",
@@ -58881,6 +58865,14 @@
       "nipc": 513069984
     },
     {
+      "name": "HL - MEDIA\u00c7\u00c3O DE SEGUROS LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 513575839
+    },
+    {
       "name": "HM PRODUTOS DE MANUTEN\u00c7\u00c3O UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -58919,14 +58911,6 @@
         "end": 50000
       },
       "nipc": 509509975
-    },
-    {
-      "name": "HNOS PI\u00d1OS Y BORGES SL - SUCURSAL EM PORTUGAL",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 980401658
     },
     {
       "name": "HNR - ENGENHARIA E REABILITA\u00c7\u00c3O LDA",
@@ -82505,14 +82489,6 @@
       "nipc": 510399053
     },
     {
-      "name": "MATRIZ CELESTIAL - UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515170356
-    },
-    {
       "name": "MATRIZ ESTRIDENTE - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -89551,14 +89527,6 @@
         "end": 50000
       },
       "nipc": 507620151
-    },
-    {
-      "name": "NEVES ANTUNES UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514995645
     },
     {
       "name": "NEVES DUARTE E GARCIA SOC CONSTRUCOES LDA",
@@ -113753,14 +113721,6 @@
       "nipc": 500460965
     },
     {
-      "name": "SALERO DECORA\u00c7\u00c3O DE INTERIORES LDA EM LIQUIDA\u00c7\u00c3O",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 506855090
-    },
-    {
       "name": "SALGADO & COELHO IMPORTA\u00c7\u00c3O E EXPORTA\u00c7\u00c3O LDA",
       "step": {
         "start": 10000,
@@ -119095,6 +119055,14 @@
         "end": 50000
       },
       "nipc": 501846573
+    },
+    {
+      "name": "SOC CONSTRU\u00c7\u00d5ES A PERFEITA LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 505053772
     },
     {
       "name": "SOC CONSTRUCOES DOMINGOS FERREIRA LDA",
@@ -139345,5 +139313,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-06-18"
+  "last_updated": "2025-06-19"
 }
