@@ -72497,14 +72497,6 @@
       "nipc": 509600034
     },
     {
-      "name": "LEGUAPIONEIRA TRANSPORTES E COMERCIO LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510000606
-    },
-    {
       "name": "LEGUAS COLONIAIS - LDA",
       "step": {
         "start": 10000,
@@ -82489,6 +82481,14 @@
       "nipc": 510399053
     },
     {
+      "name": "MATRIZ CELESTIAL - UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 515170356
+    },
+    {
       "name": "MATRIZ ESTRIDENTE - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -92447,14 +92447,6 @@
         "end": 50000
       },
       "nipc": 508449774
-    },
-    {
-      "name": "OEGA ORGANIZA\u00c7\u00c3O DE ENCOMENDAS E GEST\u00c3O DE ARMAZENS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 506483770
     },
     {
       "name": "OFELIA & CORREIA LDA",
@@ -113721,6 +113713,14 @@
       "nipc": 500460965
     },
     {
+      "name": "SALERO DECORA\u00c7\u00c3O DE INTERIORES LDA EM LIQUIDA\u00c7\u00c3O",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 506855090
+    },
+    {
       "name": "SALGADO & COELHO IMPORTA\u00c7\u00c3O E EXPORTA\u00c7\u00c3O LDA",
       "step": {
         "start": 10000,
@@ -113735,14 +113735,6 @@
         "end": 50000
       },
       "nipc": 502982985
-    },
-    {
-      "name": "SALGADO & PAIVA RIBEIRO LD",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 505643707
     },
     {
       "name": "SALIENTELOGIO LDA",
@@ -125399,14 +125391,6 @@
         "end": 50000
       },
       "nipc": 510093639
-    },
-    {
-      "name": "TEMPO PINTADO UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 516451219
     },
     {
       "name": "TEMPO SAFIRA AGRICULTURA UNIPESSOAL LDA",
@@ -139313,5 +139297,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-06-20"
+  "last_updated": "2025-06-21"
 }
