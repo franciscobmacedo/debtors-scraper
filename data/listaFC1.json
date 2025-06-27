@@ -41145,14 +41145,6 @@
       "nipc": 515324582
     },
     {
-      "name": "EPOCA HONESTA - UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 516380320
-    },
-    {
       "name": "EPOCA IDEAL - INVESTIMENTOS SA",
       "step": {
         "start": 10000,
@@ -58905,20 +58897,20 @@
       "nipc": 509509975
     },
     {
+      "name": "HNOS PI\u00d1OS Y BORGES SL - SUCURSAL EM PORTUGAL",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 980401658
+    },
+    {
       "name": "HNR - ENGENHARIA E REABILITA\u00c7\u00c3O LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 510479367
-    },
-    {
-      "name": "HNT - CONTABILIDADE E SERVI\u00c7OS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 508851351
     },
     {
       "name": "HOBBY IMPORT, LDA",
@@ -113729,12 +113721,12 @@
       "nipc": 505643707
     },
     {
-      "name": "SALIENTORBIT UNIPESSOAL LDA",
+      "name": "SALIENTELOGIO LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 515619795
+      "nipc": 515261513
     },
     {
       "name": "SALINECTAR-REPRESENTA\u00c7\u00d5ES UNIPESSOAL LDA",
@@ -139273,5 +139265,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-06-25"
+  "last_updated": "2025-06-26"
 }
