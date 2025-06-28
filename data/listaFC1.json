@@ -1713,14 +1713,6 @@
       "nipc": 510602568
     },
     {
-      "name": "ACSANTARELLI UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 516001272
-    },
-    {
       "name": "ACTIKIDS ACTIVIDADES DESPORTIVAS LDA",
       "step": {
         "start": 10000,
@@ -39785,14 +39777,6 @@
       "nipc": 509890393
     },
     {
-      "name": "ELISMARC - COMERCIO DE BEBIDAS E OUTROS PRODUTOS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515571202
-    },
-    {
       "name": "ELISSON DE CARVALHO UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -47927,14 +47911,6 @@
         "end": 50000
       },
       "nipc": 505742063
-    },
-    {
-      "name": "FERNANDO CHAGAS CARDOSO UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514107910
     },
     {
       "name": "FERNANDO COLA\u00c7O CONSTRU\u00c7OES LDA",
@@ -58911,6 +58887,14 @@
         "end": 50000
       },
       "nipc": 510479367
+    },
+    {
+      "name": "HNT - CONTABILIDADE E SERVI\u00c7OS LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 508851351
     },
     {
       "name": "HOBBY IMPORT, LDA",
@@ -113729,6 +113713,14 @@
       "nipc": 515261513
     },
     {
+      "name": "SALIENTORBIT UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 515619795
+    },
+    {
       "name": "SALINECTAR-REPRESENTA\u00c7\u00d5ES UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -118479,14 +118471,6 @@
         "end": 50000
       },
       "nipc": 510610889
-    },
-    {
-      "name": "SKOPOS GEST\u00c3O DE EDIFICIOS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 506197670
     },
     {
       "name": "SKRITTA-MATERIAL DIDACTICO LDA",
@@ -139265,5 +139249,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-06-26"
+  "last_updated": "2025-06-27"
 }
