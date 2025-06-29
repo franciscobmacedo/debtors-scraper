@@ -2105,14 +2105,6 @@
       "nipc": 509989993
     },
     {
-      "name": "ADESCO ASSOC DE DESENVOLVIMENTO COMUNITARIO",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 503260150
-    },
-    {
       "name": "ADG & ZDG LDA",
       "step": {
         "start": 10000,
@@ -3911,14 +3903,6 @@
         "end": 50000
       },
       "nipc": 513678387
-    },
-    {
-      "name": "ALBINO E FERNANDO DIAS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 502098899
     },
     {
       "name": "ALBINO E SOUSA PIRRACO LDA",
@@ -51313,14 +51297,6 @@
       "nipc": 514050489
     },
     {
-      "name": "FRASMEX CONFECCOES LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 503614629
-    },
-    {
       "name": "FRAZOLIMPA PACHECO UNIPESSOAL LDA - SOC EM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 10000,
@@ -65609,14 +65585,6 @@
       "nipc": 516718983
     },
     {
-      "name": "JANELAS PALADINAS - LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515843539
-    },
-    {
       "name": "JANGADA LENDARIA - LDA",
       "step": {
         "start": 10000,
@@ -70863,14 +70831,6 @@
         "end": 50000
       },
       "nipc": 514847697
-    },
-    {
-      "name": "KIOSKE DA AGUA - TRATAMENTO DE AGUAS UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513907483
     },
     {
       "name": "KIRMAT LDA",
@@ -118473,6 +118433,14 @@
       "nipc": 510610889
     },
     {
+      "name": "SKOPOS GEST\u00c3O DE EDIFICIOS LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 506197670
+    },
+    {
       "name": "SKRITTA-MATERIAL DIDACTICO LDA",
       "step": {
         "start": 10000,
@@ -118503,14 +118471,6 @@
         "end": 50000
       },
       "nipc": 508257379
-    },
-    {
-      "name": "SLAMTUR - TRANSPORTES E LOGISTICA UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514660155
     },
     {
       "name": "SLAVI INDUSTRIA E COMERCIO DE SOLDADURA LDA",
@@ -127559,14 +127519,6 @@
         "end": 50000
       },
       "nipc": 507656350
-    },
-    {
-      "name": "TP GRANITOS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 503722863
     },
     {
       "name": "TPACK - CONSUMIVEIS PARA EMBALAGEM UNIPESSOAL LDA",
@@ -139249,5 +139201,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-06-27"
+  "last_updated": "2025-06-28"
 }
