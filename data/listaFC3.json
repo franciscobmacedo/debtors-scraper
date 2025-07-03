@@ -4329,6 +4329,14 @@
       "nipc": 502949104
     },
     {
+      "name": "CAPITALMOURA, HOTEL MANAGEMENT, S.A.",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 502544759
+    },
+    {
       "name": "CAPITALUX - CONFEC\u00c7\u00c3O, UNIPESSOAL LDA - EM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 100001,
@@ -4953,6 +4961,14 @@
       "nipc": 506308170
     },
     {
+      "name": "CELIA SILVIA & SERGIO LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 505660920
+    },
+    {
       "name": "CELOSMALHAS LDA",
       "step": {
         "start": 100001,
@@ -5399,6 +5415,14 @@
         "end": 500000
       },
       "nipc": 506845680
+    },
+    {
+      "name": "COCHICHO LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 501226028
     },
     {
       "name": "COCIVIN CONSTRU\u00c7\u00c3O CIVIL INTERNACIONAL LDA",
@@ -8969,14 +8993,6 @@
       "nipc": 514069295
     },
     {
-      "name": "ENON - COMERCIALIZA\u00c7\u00c3O DE ENERGIA E SERVI\u00c7OS, S.A.",
-      "step": {
-        "start": 100001,
-        "end": 500000
-      },
-      "nipc": 509782426
-    },
-    {
       "name": "ENORMEPISTA-CONSTRU\u00c7\u00c3O CIVIL,LDA",
       "step": {
         "start": 100001,
@@ -8991,6 +9007,14 @@
         "end": 500000
       },
       "nipc": 512048940
+    },
+    {
+      "name": "ENSINO DA CONDU\u00c7\u00c3O AUTO - IPS UNIPESSOAL LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 508005574
     },
     {
       "name": "ENTRELINHA INDUSTRIA DE CAL\u00c7ADO UNIPESSOAL LDA",
@@ -10359,6 +10383,14 @@
         "end": 500000
       },
       "nipc": 500857172
+    },
+    {
+      "name": "FERNANDO ALPOIM MARTINS UNIPESSOAL LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 508007003
     },
     {
       "name": "FERNANDO ARAUJO COSTA ANDRADE LDA",
@@ -29785,5 +29817,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2025-07-01"
+  "last_updated": "2025-07-02"
 }
