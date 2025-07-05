@@ -27745,6 +27745,14 @@
       "nipc": 503205516
     },
     {
+      "name": "CONFEITARIA SORTIBOLO LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 504857061
+    },
+    {
       "name": "CONFEITARIAS CUNHA & FREITAS LDA",
       "step": {
         "start": 10000,
@@ -43631,14 +43639,6 @@
         "end": 50000
       },
       "nipc": 502120908
-    },
-    {
-      "name": "EURO-OL\u00cdMPICA III - SOCIEDADE IMOBILI\u00c1RIA S.A.",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 504994760
     },
     {
       "name": "EUROPA MINHA - CONSTRU\u00c7\u00d5ES LDA",
@@ -82649,14 +82649,6 @@
       "nipc": 513548548
     },
     {
-      "name": "MBJS - RESTAURA\u00c7\u00c3O E SIMILARES LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 508704774
-    },
-    {
       "name": "MBP RESTAURA\u00c7\u00c3O LDA",
       "step": {
         "start": 10000,
@@ -98495,6 +98487,14 @@
         "end": 50000
       },
       "nipc": 514492775
+    },
+    {
+      "name": "PEMISA IMPORTA\u00c7\u00c3O E EXPORTA\u00c7\u00c3O LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 507575180
     },
     {
       "name": "PENAFORT SOC GESTORA DE PARTICIPACOES SOCIAIS SA",
@@ -139121,5 +139121,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-07-03"
+  "last_updated": "2025-07-04"
 }
