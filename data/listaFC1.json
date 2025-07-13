@@ -38529,14 +38529,6 @@
       "nipc": 505592320
     },
     {
-      "name": "EDCM - COSTURA, UNIPESSOAL, LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513099972
-    },
-    {
       "name": "EDELWEISS - TECNOLOGIAS DE INFORMA\u00c7\u00c3O UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -61727,14 +61719,6 @@
         "end": 50000
       },
       "nipc": 514861452
-    },
-    {
-      "name": "INCOGNITKINGDOM UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514931175
     },
     {
       "name": "INCOGNITLEVEL UNIPESSOAL LDA",
@@ -101417,14 +101401,6 @@
       "nipc": 508301785
     },
     {
-      "name": "POLISEPOPEIA - COMPRA VENDA E GEST\u00c3O IMOBILIARIA UNIPESSOAL\rLDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510242286
-    },
-    {
       "name": "POLISFRONTEIRA- CONSTRU\u00c7\u00d5ES UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -112473,6 +112449,14 @@
       "nipc": 508926033
     },
     {
+      "name": "RUI SOUSA SOARES UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 510403794
+    },
+    {
       "name": "RUI TAM FERREIRA UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -118839,14 +118823,6 @@
         "end": 50000
       },
       "nipc": 502134577
-    },
-    {
-      "name": "SOC COMERCIAL TEXTIL DE LUIS MARTINS E ANDRADE LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 501846573
     },
     {
       "name": "SOC CONSTRU\u00c7\u00d5ES A PERFEITA LDA",
@@ -139049,5 +139025,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-07-11"
+  "last_updated": "2025-07-12"
 }

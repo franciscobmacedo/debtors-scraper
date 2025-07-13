@@ -8417,6 +8417,14 @@
       "nipc": 504781472
     },
     {
+      "name": "EDCM - COSTURA, UNIPESSOAL, LDA",
+      "step": {
+        "start": 100001,
+        "end": 500000
+      },
+      "nipc": 513099972
+    },
+    {
       "name": "EDIFICAMOR - CONSTRU\u00c7\u00d5ES UNIPESSOAL LIMITADA - EM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 100001,
@@ -8985,12 +8993,12 @@
       "nipc": 513053565
     },
     {
-      "name": "ENN - ELECTRODOMESTICOS UNIPESSOAL LDA",
+      "name": "ENON - COMERCIALIZA\u00c7\u00c3O DE ENERGIA E SERVI\u00c7OS, S.A.",
       "step": {
         "start": 100001,
         "end": 500000
       },
-      "nipc": 514069295
+      "nipc": 509782426
     },
     {
       "name": "ENORMEPISTA-CONSTRU\u00c7\u00c3O CIVIL,LDA",
@@ -18031,14 +18039,6 @@
         "end": 500000
       },
       "nipc": 507262891
-    },
-    {
-      "name": "METALONORTE S A - EM LIQUIDA\u00c7\u00c3O",
-      "step": {
-        "start": 100001,
-        "end": 500000
-      },
-      "nipc": 504786911
     },
     {
       "name": "METALPLATINIUM COMERCIO E RECICLAGEM DE METAIS LDA",
@@ -29809,5 +29809,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2025-07-11"
+  "last_updated": "2025-07-12"
 }
