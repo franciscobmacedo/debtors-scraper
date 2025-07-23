@@ -12945,14 +12945,6 @@
       "nipc": 509790623
     },
     {
-      "name": "AUTENTIMATERIA UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515760404
-    },
-    {
       "name": "AUTENTYABILITY - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -81969,14 +81961,6 @@
       "nipc": 508978564
     },
     {
-      "name": "MASTERDREAM - DIGITAL MOVIE LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510666280
-    },
-    {
       "name": "MASTERLAR - COM\u00c9RCIO DE ARTIGOS PARA O LAR LDA - SOCIEDADE\rEM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 10000,
@@ -113345,20 +113329,20 @@
       "nipc": 505132281
     },
     {
+      "name": "SAL E A\u00c7UCAR - ORGANIZA\u00c7\u00c3O DE EVENTOS LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 507860195
+    },
+    {
       "name": "SALADA DE PALAVRAS - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 513112880
-    },
-    {
-      "name": "SALADFILMS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510925952
     },
     {
       "name": "SALEBOX, UNIPESSOAL LDA",
@@ -138849,5 +138833,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-07-21"
+  "last_updated": "2025-07-22"
 }
