@@ -55577,14 +55577,6 @@
       "nipc": 505552175
     },
     {
-      "name": "GO2PRE4ASSISTENTE, LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 506383903
-    },
-    {
       "name": "GO3R S GEST\u00c3O DE RESIDUOS LDA",
       "step": {
         "start": 10000,
@@ -115729,14 +115721,6 @@
       "nipc": 514541750
     },
     {
-      "name": "SENTIDO DESTEMIDO - UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513678255
-    },
-    {
       "name": "SENTIDO LITORAL LDA",
       "step": {
         "start": 10000,
@@ -138833,5 +138817,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-07-22"
+  "last_updated": "2025-07-23"
 }
