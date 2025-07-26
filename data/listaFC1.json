@@ -8089,14 +8089,6 @@
       "nipc": 513453636
     },
     {
-      "name": "ANGELA FERREIRA TEIXEIRA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513698647
-    },
-    {
       "name": "ANGELA GOMES LOPES UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -58545,20 +58537,20 @@
       "nipc": 508068533
     },
     {
+      "name": "HIPERFUS\u00c3O - FABRICA\u00c7\u00c3O E COMERCIO DE CAL\u00c7ADO UNIPESSOAL\rLDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 507693418
+    },
+    {
       "name": "HIPERIMAGEM - IMAGEM E PUBLICIDADE, UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 510208940
-    },
-    {
-      "name": "HIPERPEVID\u00c9M - SUPERMERCADOS, S.A. - EM LIQUIDA\u00c7\u00c3O",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509806333
     },
     {
       "name": "HIPICARGO EQUIPAMENTOS PARA TRANSPORTES LDA",
@@ -60967,6 +60959,14 @@
         "end": 50000
       },
       "nipc": 505959232
+    },
+    {
+      "name": "IMODULCE - IMOBILIARIA LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 502472618
     },
     {
       "name": "IMOFIGUEIROINTER - SOCIEDADE DE GEST\u00c3O IMOBILIARIA LDA",
@@ -68695,14 +68695,6 @@
         "end": 50000
       },
       "nipc": 503539732
-    },
-    {
-      "name": "JOSE GOMES MAIA - CABE\u00c7A DE CASAL DA HERAN\u00c7A DE",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 742777634
     },
     {
       "name": "JOSE GOMES S A",
@@ -113329,12 +113321,12 @@
       "nipc": 513112880
     },
     {
-      "name": "SALEBOX, UNIPESSOAL LDA",
+      "name": "SALADFILMS LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 510141951
+      "nipc": 510925952
     },
     {
       "name": "SALEMA METAIS DO NORTE LDA",
@@ -137809,14 +137801,6 @@
       "nipc": 513367799
     },
     {
-      "name": "YELLOW FANTASY UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514478578
-    },
-    {
       "name": "YELLOW LIZARD - UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -138801,5 +138785,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-07-24"
+  "last_updated": "2025-07-25"
 }
