@@ -52945,14 +52945,6 @@
       "nipc": 504509020
     },
     {
-      "name": "GARANTEPOTENCIAL - MEDIA\u00c7\u00c3O IMOBILIARIA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514290013
-    },
-    {
       "name": "GARANTIA EXTRA - ASSISTENCIA TECNICA AUTOMOVEL LDA",
       "step": {
         "start": 10000,
@@ -58553,20 +58545,20 @@
       "nipc": 510208940
     },
     {
+      "name": "HIPERPEVID\u00c9M - SUPERMERCADOS, S.A. - EM LIQUIDA\u00c7\u00c3O",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 509806333
+    },
+    {
       "name": "HIPICARGO EQUIPAMENTOS PARA TRANSPORTES LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 503497398
-    },
-    {
-      "name": "HIPOLITO REIS CONTABILIDADE INFORMATICA E SERVICOS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 501106359
     },
     {
       "name": "HIPOMARTINS METALOMECANICA UNIPESSOAL LDA",
@@ -93201,14 +93193,6 @@
       "nipc": 504116134
     },
     {
-      "name": "OPIMPORTA 2 ACABAMENTO GRAFICO E CARTONAGEM LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 516950940
-    },
-    {
       "name": "OPINI\u00c3O DE TOPO - CONSULTADORIA LDA",
       "step": {
         "start": 10000,
@@ -93287,6 +93271,14 @@
         "end": 50000
       },
       "nipc": 510703283
+    },
+    {
+      "name": "OPTICA M\u00c9DICA SEIXOALVO, UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 503641928
     },
     {
       "name": "OPTICA NOVA DO CARVALHIDO UNIPESSOAL LDA",
@@ -113329,6 +113321,14 @@
       "nipc": 510925952
     },
     {
+      "name": "SALEBOX, UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 510141951
+    },
+    {
       "name": "SALEMA METAIS DO NORTE LDA",
       "step": {
         "start": 10000,
@@ -113343,14 +113343,6 @@
         "end": 50000
       },
       "nipc": 506855090
-    },
-    {
-      "name": "SALGADO & COELHO IMPORTA\u00c7\u00c3O E EXPORTA\u00c7\u00c3O LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 503315451
     },
     {
       "name": "SALGADO & FREITAS LDA - EM LIQUIDA\u00c7\u00c3O",
@@ -138785,5 +138777,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-07-25"
+  "last_updated": "2025-07-26"
 }
