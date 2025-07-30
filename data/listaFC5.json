@@ -2201,6 +2201,14 @@
       "nipc": 515322989
     },
     {
+      "name": "SAFIRAMAGNETICA UNIPESSOAL LDA",
+      "step": {
+        "start": 1000001,
+        "end": 5000000
+      },
+      "nipc": 510566081
+    },
+    {
       "name": "SAMETAIS COMERCIO SUCATA LDA",
       "step": {
         "start": 1000001,
@@ -2673,5 +2681,5 @@
       "nipc": 507644336
     }
   ],
-  "last_updated": "2025-07-27"
+  "last_updated": "2025-07-29"
 }

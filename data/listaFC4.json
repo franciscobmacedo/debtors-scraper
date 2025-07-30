@@ -3153,6 +3153,14 @@
       "nipc": 504753614
     },
     {
+      "name": "REFINADATEXTURA, LDA",
+      "step": {
+        "start": 500001,
+        "end": 1000000
+      },
+      "nipc": 509117554
+    },
+    {
       "name": "REGRAS DO JOGO- EVENTOS LDA",
       "step": {
         "start": 500001,
@@ -4009,5 +4017,5 @@
       "nipc": 510669280
     }
   ],
-  "last_updated": "2025-07-27"
+  "last_updated": "2025-07-29"
 }
