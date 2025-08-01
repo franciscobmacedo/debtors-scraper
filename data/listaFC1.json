@@ -50905,14 +50905,6 @@
       "nipc": 505765713
     },
     {
-      "name": "FORTUNA E FILHOS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 500118361
-    },
-    {
       "name": "FORTUNA MAR SOC DE SERVICOS DE ABASTECIMENTO LDA",
       "step": {
         "start": 10000,
@@ -58889,20 +58881,20 @@
       "nipc": 510208940
     },
     {
+      "name": "HIPERPEVID\u00c9M - SUPERMERCADOS, S.A. - EM LIQUIDA\u00c7\u00c3O",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 509806333
+    },
+    {
       "name": "HIPICARGO EQUIPAMENTOS PARA TRANSPORTES LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 503497398
-    },
-    {
-      "name": "HIPOLITO REIS CONTABILIDADE INFORMATICA E SERVICOS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 501106359
     },
     {
       "name": "HIPOMARTINS METALOMECANICA UNIPESSOAL LDA",
@@ -132713,14 +132705,6 @@
       "nipc": 513538909
     },
     {
-      "name": "UPBRAGA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513144196
-    },
-    {
       "name": "UPPER - PROMO\u00c7\u00c3O E VENDAS, SOCIEDADE UNIPESSOAL, LDA",
       "step": {
         "start": 10000,
@@ -139745,5 +139729,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-07-30"
+  "last_updated": "2025-07-31"
 }
