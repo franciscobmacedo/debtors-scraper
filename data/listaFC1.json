@@ -12185,14 +12185,6 @@
       "nipc": 515512087
     },
     {
-      "name": "ASSUNTURBANO CONSTRU\u00c7\u00d5ES UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513235639
-    },
-    {
       "name": "ASTEDENTAL ASSISTENCIA TECNICA A EQUIPAMENTOS DENTARIOS\rLDA",
       "step": {
         "start": 10000,
@@ -40345,14 +40337,6 @@
       "nipc": 513867163
     },
     {
-      "name": "EMOX - EQUIPAMENTOS PARA A INDUSTRIA ALIMENTAR UNIPESSOAL\rLDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515420328
-    },
-    {
       "name": "EMPENHO CRISTALINO LDA",
       "step": {
         "start": 10000,
@@ -58889,20 +58873,20 @@
       "nipc": 510208940
     },
     {
+      "name": "HIPERPEVID\u00c9M - SUPERMERCADOS, S.A. - EM LIQUIDA\u00c7\u00c3O",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 509806333
+    },
+    {
       "name": "HIPICARGO EQUIPAMENTOS PARA TRANSPORTES LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 503497398
-    },
-    {
-      "name": "HIPOLITO REIS CONTABILIDADE INFORMATICA E SERVICOS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 501106359
     },
     {
       "name": "HIPOMARTINS METALOMECANICA UNIPESSOAL LDA",
@@ -139745,5 +139729,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-08-04"
+  "last_updated": "2025-08-05"
 }
