@@ -2265,6 +2265,14 @@
       "nipc": 504182544
     },
     {
+      "name": "ARTIGO INDEFENIDO UNIPESSOAL LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 508651239
+    },
+    {
       "name": "ARTOS - EMPRESA DE TRABALHO TEMPORARIO LDA",
       "step": {
         "start": 50001,
@@ -5607,6 +5615,14 @@
         "end": 100000
       },
       "nipc": 505087308
+    },
+    {
+      "name": "COCHICHO LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 501226028
     },
     {
       "name": "COCN - CONSTRU\u00c7\u00d5ES OBRAS E CONTRATOS DO NORTE SA - EM\rLIQUIDA\u00c7\u00c3O",
@@ -29201,5 +29217,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2025-08-12"
+  "last_updated": "2025-08-13"
 }

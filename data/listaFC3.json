@@ -5433,14 +5433,6 @@
       "nipc": 506845680
     },
     {
-      "name": "COCHICHO LDA",
-      "step": {
-        "start": 100001,
-        "end": 500000
-      },
-      "nipc": 501226028
-    },
-    {
       "name": "COCIVIN CONSTRU\u00c7\u00c3O CIVIL INTERNACIONAL LDA",
       "step": {
         "start": 100001,
@@ -8993,12 +8985,12 @@
       "nipc": 514968192
     },
     {
-      "name": "ENN - ELECTRODOMESTICOS UNIPESSOAL LDA",
+      "name": "ENJOY SLICE UNIPESSOAL LDA",
       "step": {
         "start": 100001,
         "end": 500000
       },
-      "nipc": 514069295
+      "nipc": 513053565
     },
     {
       "name": "ENON - COMERCIALIZA\u00c7\u00c3O DE ENERGIA E SERVI\u00c7OS, S.A.",
@@ -29873,5 +29865,5 @@
       "nipc": 507203119
     }
   ],
-  "last_updated": "2025-08-12"
+  "last_updated": "2025-08-13"
 }
