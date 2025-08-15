@@ -25777,14 +25777,6 @@
       "nipc": 513107568
     },
     {
-      "name": "STATUSADVICE LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 510078753
-    },
-    {
       "name": "STATUSITINERANTE UNIPESSOAL LDA",
       "step": {
         "start": 50001,
@@ -29217,5 +29209,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2025-08-13"
+  "last_updated": "2025-08-14"
 }

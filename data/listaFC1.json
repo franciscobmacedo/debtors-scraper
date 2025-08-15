@@ -57441,6 +57441,14 @@
       "nipc": 504699393
     },
     {
+      "name": "HABISERVE - CONSTRU\u00c7\u00d5ES NORTE LIMITADA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 501118004
+    },
+    {
       "name": "HABISILVA CONSTRUCOES LDA",
       "step": {
         "start": 10000,
@@ -88953,14 +88961,6 @@
       "nipc": 515388505
     },
     {
-      "name": "NATHALIE & BRUNO - ATIVIDADES DE MEDIA\u00c7\u00c3O IMOBILIARIA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515946818
-    },
-    {
       "name": "NATURADMIRA\u00c7\u00c3O PRODUTOS NATURAIS LDA",
       "step": {
         "start": 10000,
@@ -100679,14 +100679,6 @@
         "end": 50000
       },
       "nipc": 514103604
-    },
-    {
-      "name": "PITORESCA VANTAGEM - UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514050373
     },
     {
       "name": "PIUS EUGEN RUCKSTUHL  HIROFUMI TAKISHITA UNIPESSOAL LDA",
@@ -118673,14 +118665,6 @@
       "nipc": 501703837
     },
     {
-      "name": "SIRIUS, SERVI\u00c7O INDUSTRIAL DE LIMPEZA, UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 503290360
-    },
-    {
       "name": "SISALVI ACESSORIOS PARA CAIXILHARIA DE ALUMINIO LDA",
       "step": {
         "start": 10000,
@@ -118793,20 +118777,20 @@
       "nipc": 506197670
     },
     {
+      "name": "SKRITTA-MATERIAL DIDACTICO LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 508724988
+    },
+    {
       "name": "SKYBLUE SHOES - COMERCIO DE CAL\u00c7ADO UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 514006862
-    },
-    {
-      "name": "SKYBOAT UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 513439773
     },
     {
       "name": "SKYLIMIT EXTREME ENGENHARIA TELECOMUNICA\u00c7\u00d5ES INFORMATICA\rE MULTIMEDIA LDA",
@@ -120577,14 +120561,6 @@
       "nipc": 503810959
     },
     {
-      "name": "SOMARBIA LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 516741799
-    },
-    {
       "name": "SOMARMISTERIOS - SERVI\u00c7OS E FORMA\u00c7\u00c3O LDA",
       "step": {
         "start": 10000,
@@ -122159,6 +122135,14 @@
         "end": 50000
       },
       "nipc": 517692945
+    },
+    {
+      "name": "STATUSADVICE LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 510078753
     },
     {
       "name": "STATUSALFA - UNIPESSOAL LDA",
@@ -139593,5 +139577,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-08-13"
+  "last_updated": "2025-08-14"
 }
