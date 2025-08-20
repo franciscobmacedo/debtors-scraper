@@ -13529,14 +13529,6 @@
       "nipc": 506602427
     },
     {
-      "name": "AUTOINDEPENDENCIA, AUTOMOVEIS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 504228480
-    },
-    {
       "name": "AUTOJOSS COMERCIO E REPARA\u00c7\u00c3O DE VEICULOS AUTOMOVEIS\rUNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -37121,14 +37113,6 @@
       "nipc": 500087652
     },
     {
-      "name": "DONDOQU\u00cdMICA - IMPERMEABILIZA\u00c7\u00d5ES E ISOLAMENTOS LDA - EM\rLIQUIDA\u00c7\u00c3O",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 501435689
-    },
-    {
       "name": "DONETODAY LDA",
       "step": {
         "start": 10000,
@@ -58889,20 +58873,20 @@
       "nipc": 504064916
     },
     {
+      "name": "HITZEMANN & SAMPAIO UNIPESSOAL LTDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 500134944
+    },
+    {
       "name": "HIX PH - PRODUTOS DE HIGIENE LDA - SOCIEDADE EM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 507397843
-    },
-    {
-      "name": "HIX SA SEGURAN\u00c7A ALIMENTAR LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 507397800
     },
     {
       "name": "HJ MULTISERVI\u00c7OS-UNIPESSOAL LDA",
@@ -74303,14 +74287,6 @@
         "end": 50000
       },
       "nipc": 500166994
-    },
-    {
-      "name": "LITTLE WITCH CLEAN - PRESTA\u00c7\u00c3O DE SERVI\u00c7OS UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 515464414
     },
     {
       "name": "LITTLEHAMOTON ESCOLA LINGUAS LDA",
@@ -102265,14 +102241,6 @@
       "nipc": 503897809
     },
     {
-      "name": "PORTFISH - SERVI\u00c7OS TRANSFORMA\u00c7\u00c3O CONGELADOS, UNIPESSOAL,\rLDA.",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509075592
-    },
-    {
       "name": "PORTFISH IMPORTA\u00c7\u00c3O E EXPORTA\u00c7\u00c3O LDA",
       "step": {
         "start": 10000,
@@ -118783,6 +118751,14 @@
         "end": 50000
       },
       "nipc": 503574651
+    },
+    {
+      "name": "SLEEP CONFORT - COLCH\u00d5ES ORTOPEDICOS E MEDICINAIS LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 513013024
     },
     {
       "name": "SLICEPROPOSAL - LDA",
@@ -139545,5 +139521,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-08-18"
+  "last_updated": "2025-08-19"
 }
