@@ -52585,6 +52585,14 @@
       "nipc": 515530166
     },
     {
+      "name": "FYI LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 508588693
+    },
+    {
       "name": "F2H-SERRALHARIAS LDA",
       "step": {
         "start": 10000,
@@ -58881,12 +58889,12 @@
       "nipc": 507397843
     },
     {
-      "name": "HIX SA SEGURAN\u00c7A ALIMENTAR LDA",
+      "name": "HJ MULTISERVI\u00c7OS-UNIPESSOAL LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 507397800
+      "nipc": 513069984
     },
     {
       "name": "HL - MEDIA\u00c7\u00c3O DE SEGUROS LDA",
@@ -61023,14 +61031,6 @@
         "end": 50000
       },
       "nipc": 502993944
-    },
-    {
-      "name": "IMASCAN IMAGENS MEDICAS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 506485714
     },
     {
       "name": "IMBASISCONS - CONSTRU\u00c7\u00d5ES, LDA",
@@ -139513,5 +139513,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-08-20"
+  "last_updated": "2025-08-21"
 }

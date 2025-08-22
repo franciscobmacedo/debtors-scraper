@@ -63430,7 +63430,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 130737941
+      "nif": 180123220
     },
     {
       "name": "MANUEL ANTONIO MARTINS FERREIRA",
@@ -63438,7 +63438,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 180123220
+      "nif": 130737941
     },
     {
       "name": "MANUEL ANTONIO MOREIRA MARQUES",
@@ -64142,7 +64142,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 137571925
+      "nif": 143827812
     },
     {
       "name": "MANUEL DA SILVA FERREIRA",
@@ -64150,7 +64150,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 143827812
+      "nif": 137571925
     },
     {
       "name": "MANUEL DA SILVA MADUREIRA",
@@ -64334,7 +64334,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 183368541
+      "nif": 175157286
     },
     {
       "name": "MANUEL DIAS DA COSTA",
@@ -64342,7 +64342,7 @@
         "start": 7500,
         "end": 25000
       },
-      "nif": 175157286
+      "nif": 183368541
     },
     {
       "name": "MANUEL DIAS DE CARVALHO",
@@ -65527,6 +65527,14 @@
         "end": 25000
       },
       "nif": 164623914
+    },
+    {
+      "name": "MANUEL MARIA DE SOUSA E HOLSTEIN",
+      "step": {
+        "start": 7500,
+        "end": 25000
+      },
+      "nif": 154594725
     },
     {
       "name": "MANUEL MARIA FERNANDES DE CASTRO",
@@ -94785,14 +94793,6 @@
       "nif": 184571472
     },
     {
-      "name": "RUI PAULO MARTINS MONTEIRO",
-      "step": {
-        "start": 7500,
-        "end": 25000
-      },
-      "nif": 187156891
-    },
-    {
       "name": "RUI PAULO PAIVA MONTEIRO",
       "step": {
         "start": 7500,
@@ -101689,14 +101689,6 @@
       "nif": 244066248
     },
     {
-      "name": "VICTOR ALBERTO BARQUINHA TAVARES SEQUEIRA",
-      "step": {
-        "start": 7500,
-        "end": 25000
-      },
-      "nif": 190687690
-    },
-    {
       "name": "VICTOR AMILCAR PIMENTEL ALVES",
       "step": {
         "start": 7500,
@@ -104529,5 +104521,5 @@
       "nif": 249574888
     }
   ],
-  "last_updated": "2025-08-20"
+  "last_updated": "2025-08-21"
 }

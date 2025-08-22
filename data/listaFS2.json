@@ -14401,6 +14401,14 @@
       "nif": 185625223
     },
     {
+      "name": "FRANCISCO MANUEL LUSITANO GRANADEIRO",
+      "step": {
+        "start": 25001,
+        "end": 50000
+      },
+      "nif": 105479152
+    },
+    {
       "name": "FRANCISCO MANUEL XASTRE",
       "step": {
         "start": 25001,
@@ -22358,7 +22366,7 @@
         "start": 25001,
         "end": 50000
       },
-      "nif": 131158058
+      "nif": 124315992
     },
     {
       "name": "JOSE GOMES",
@@ -22366,7 +22374,7 @@
         "start": 25001,
         "end": 50000
       },
-      "nif": 124315992
+      "nif": 131158058
     },
     {
       "name": "JOSE GOMES BARBOSA",
@@ -28015,14 +28023,6 @@
         "end": 50000
       },
       "nif": 121128784
-    },
-    {
-      "name": "MANUEL MARIA DE SOUSA E HOLSTEIN",
-      "step": {
-        "start": 25001,
-        "end": 50000
-      },
-      "nif": 154594725
     },
     {
       "name": "MANUEL MARIO LEITE DA COSTA",
@@ -42745,5 +42745,5 @@
       "nif": 238733874
     }
   ],
-  "last_updated": "2025-08-20"
+  "last_updated": "2025-08-21"
 }
