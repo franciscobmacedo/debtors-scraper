@@ -889,14 +889,6 @@
       "nipc": 505428199
     },
     {
-      "name": "ABADORIO GADOS UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514055375
-    },
-    {
       "name": "ABASTFROTA TRANSPORTES LDA",
       "step": {
         "start": 10000,
@@ -58889,6 +58881,14 @@
       "nipc": 507397800
     },
     {
+      "name": "HJ MULTISERVI\u00c7OS-UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 513069984
+    },
+    {
       "name": "HL - MEDIA\u00c7\u00c3O DE SEGUROS LDA",
       "step": {
         "start": 10000,
@@ -58903,14 +58903,6 @@
         "end": 50000
       },
       "nipc": 509565727
-    },
-    {
-      "name": "HMB - SOCIEDADE DE INVESTIMENTOS IMOBILI\u00c1RIOS S.A. - EM\rLIQUIDA\u00c7\u00c3O",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 503502790
     },
     {
       "name": "HMP - MADEIRAS S A",
@@ -139505,5 +139497,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-08-22"
+  "last_updated": "2025-08-23"
 }
