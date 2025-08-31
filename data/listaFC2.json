@@ -27881,6 +27881,14 @@
       "nipc": 504546872
     },
     {
+      "name": "UNINCAP - UNIPESSOAL, LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 502875372
+    },
+    {
       "name": "UNIR SONHOS II LDA",
       "step": {
         "start": 50001,
@@ -29297,5 +29305,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2025-08-29"
+  "last_updated": "2025-08-30"
 }
