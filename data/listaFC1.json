@@ -15297,14 +15297,6 @@
       "nipc": 509127355
     },
     {
-      "name": "BEE ACTION MARKETING BELOW THE LINE LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 506870456
-    },
-    {
       "name": "BEE CONSULTING LDA",
       "step": {
         "start": 10000,
@@ -37121,20 +37113,20 @@
       "nipc": 509676472
     },
     {
+      "name": "DOMUS CONNECT SOLU\u00c7\u00d5ES DE DOMOTICA UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 507394844
+    },
+    {
       "name": "DOMUS MAGNIFICA LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 507732120
-    },
-    {
-      "name": "DOMUS MAJSTRO LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514261048
     },
     {
       "name": "DOMUS SERVICO DE MANUTENCAO E LIMPEZA LDA",
@@ -58913,12 +58905,12 @@
       "nipc": 504319264
     },
     {
-      "name": "HIPERFUS\u00c3O - FABRICA\u00c7\u00c3O E COMERCIO DE CAL\u00c7ADO UNIPESSOAL\rLDA",
+      "name": "HIPERFIRST - COMERCIO DE MATERIAIS DE CONSTRU\u00c7\u00c3O UNIPESSOAL\rLDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 507693418
+      "nipc": 508068533
     },
     {
       "name": "HIPERIMAGEM - IMAGEM E PUBLICIDADE, UNIPESSOAL LDA",
@@ -139881,5 +139873,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-09-06"
+  "last_updated": "2025-09-07"
 }
