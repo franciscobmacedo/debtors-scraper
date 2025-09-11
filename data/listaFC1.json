@@ -25817,14 +25817,6 @@
       "nipc": 506053288
     },
     {
-      "name": "CLOUDBRAIN - LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514531584
-    },
-    {
       "name": "CLOVERPRESS LDA",
       "step": {
         "start": 10000,
@@ -64679,14 +64671,6 @@
         "end": 50000
       },
       "nipc": 504469886
-    },
-    {
-      "name": "J. A. RODRIGUES DE FREITAS, UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 506816877
     },
     {
       "name": "J A S & SANTOS MONTAGEM DE DIVISORIAS E TECTOS FALSOS LDA",
@@ -139865,5 +139849,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-09-09"
+  "last_updated": "2025-09-10"
 }
