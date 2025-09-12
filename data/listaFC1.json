@@ -8665,14 +8665,6 @@
       "nipc": 500312400
     },
     {
-      "name": "ANTONIO AUGUSTO SECRETARIO UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510092705
-    },
-    {
       "name": "ANTONIO BOTA E VALENTE LD - EM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 10000,
@@ -37121,20 +37113,20 @@
       "nipc": 507732120
     },
     {
+      "name": "DOMUS MAJSTRO LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 514261048
+    },
+    {
       "name": "DOMUS SERVICO DE MANUTENCAO E LIMPEZA LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 503348856
-    },
-    {
-      "name": "DOMUSP HARMA LDA - EM LIQUIDA\u00c7\u00c3O",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 507982460
     },
     {
       "name": "DON SABOR SOCIEDADE UNIPESSOAL LDA",
@@ -59583,14 +59575,6 @@
         "end": 50000
       },
       "nipc": 514870281
-    },
-    {
-      "name": "HOUSE MASTER ESTUDOS E PROJECTOS IMOBILIARIOS LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 504584022
     },
     {
       "name": "HOUSE S & IDEAS - INVESTMENTS UNIPESSOAL LDA",
@@ -139849,5 +139833,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-09-10"
+  "last_updated": "2025-09-11"
 }
