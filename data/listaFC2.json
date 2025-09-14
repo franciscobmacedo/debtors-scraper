@@ -7217,14 +7217,6 @@
       "nipc": 501824839
     },
     {
-      "name": "CPNEUS LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 508846706
-    },
-    {
       "name": "CPT - COMPANHIA PORTUGUESA DE TRANSPORTES LDA",
       "step": {
         "start": 50001,
@@ -12263,14 +12255,6 @@
         "end": 100000
       },
       "nipc": 509888062
-    },
-    {
-      "name": "GON\u00c7ALVES & AMARO LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 508261180
     },
     {
       "name": "GONCALVES SANTOS E SOUSA LDA",
@@ -25769,14 +25753,6 @@
       "nipc": 514464780
     },
     {
-      "name": "SPLENDID SQUARE, UNIPESSOAL, LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 514074388
-    },
-    {
       "name": "SPORT VAG UNIPESSOAL LDA",
       "step": {
         "start": 50001,
@@ -29337,5 +29313,5 @@
       "nipc": 513135235
     }
   ],
-  "last_updated": "2025-09-12"
+  "last_updated": "2025-09-13"
 }

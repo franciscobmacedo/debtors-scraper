@@ -31369,6 +31369,14 @@
       "nipc": 506277500
     },
     {
+      "name": "CPNEUS LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 508846706
+    },
+    {
       "name": "CR - MANUTEN\u00c7\u00c3O F\u00cdSICA, UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -37105,20 +37113,20 @@
       "nipc": 507732120
     },
     {
-      "name": "DOMUS MAJSTRO LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514261048
-    },
-    {
       "name": "DOMUS SERVICO DE MANUTENCAO E LIMPEZA LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 503348856
+    },
+    {
+      "name": "DOMUSP HARMA LDA - EM LIQUIDA\u00c7\u00c3O",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 507982460
     },
     {
       "name": "DON SABOR SOCIEDADE UNIPESSOAL LDA",
@@ -55513,6 +55521,14 @@
       "nipc": 514130601
     },
     {
+      "name": "GON\u00c7ALVES & AMARO LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 508261180
+    },
+    {
       "name": "GON\u00c7ALVES & NETO, UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -58873,20 +58889,20 @@
       "nipc": 507693418
     },
     {
-      "name": "HIPERIMAGEM - IMAGEM E PUBLICIDADE, UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510208940
-    },
-    {
       "name": "HIPERPEVID\u00c9M - SUPERMERCADOS, S.A. - EM LIQUIDA\u00c7\u00c3O",
       "step": {
         "start": 10000,
         "end": 50000
       },
       "nipc": 509806333
+    },
+    {
+      "name": "HIPICARGO EQUIPAMENTOS PARA TRANSPORTES LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 503497398
     },
     {
       "name": "HIPOLITO REIS CONTABILIDADE INFORMATICA E SERVICOS LDA",
@@ -95169,14 +95185,6 @@
       "nipc": 509898548
     },
     {
-      "name": "PADARIA PASTELARIA O DOCE DA PONTE LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 508856329
-    },
-    {
       "name": "PADARIAS REUNIDAS FEIRA NOVA LDA",
       "step": {
         "start": 10000,
@@ -106409,14 +106417,6 @@
       "nipc": 509736750
     },
     {
-      "name": "R SANCHES - REBOQUES LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 510085105
-    },
-    {
       "name": "R 2 M ELECTROTECNIA LDA",
       "step": {
         "start": 10000,
@@ -114081,12 +114081,12 @@
       "nipc": 504028677
     },
     {
-      "name": "SAITEDAQUI CONSULTADORIA PARA OS NEGOCIOS E GEST\u00c3O LDA",
+      "name": "SAIRFCAR SOC COMERCIAL PE\u00c7AS E ACESSORIOS AUTO UNIPESSOAL\rLDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 505132281
+      "nipc": 504120140
     },
     {
       "name": "SAL E A\u00c7UCAR - ORGANIZA\u00c7\u00c3O DE EVENTOS LDA",
@@ -119521,12 +119521,12 @@
       "nipc": 501139680
     },
     {
-      "name": "SOC CONSTRUCOES QUINTANS LDA",
+      "name": "SOC CONSTRUCOES QUINTA DO MARACHIQUE LDA",
       "step": {
         "start": 10000,
         "end": 50000
       },
-      "nipc": 502115688
+      "nipc": 500877211
     },
     {
       "name": "SOC CONSTRUCOES RODA E SOUSA LDA",
@@ -139785,5 +139785,5 @@
       "nipc": 513689303
     }
   ],
-  "last_updated": "2025-09-12"
+  "last_updated": "2025-09-13"
 }
