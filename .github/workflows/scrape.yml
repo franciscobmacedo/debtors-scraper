@@ -24,9 +24,16 @@ jobs:
       - name: Run Segurança Social scraper
         run: uv run ss_scraper.py
 
+      - name: Enrich new companies from Racius
+        # only once the one-time backfill has finished, to avoid racing it
+        run: |
+          if [ -f data/companies/.backfill-done ]; then
+            uv run racius_scraper.py --limit 300
+          fi
+
       - name: Commit updated data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: scrape
-          file_pattern: data/debtors.json data/ss-debtors.json
+          file_pattern: data/debtors.json data/ss-debtors.json data/companies
           commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
