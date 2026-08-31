@@ -41,6 +41,20 @@
   "cae_desc": "SGPS não financeiras",
   "atividade": "No âmbito de SGPS não financeiras"
  },
+ "511201044": {
+  "checked": "2026-08-31",
+  "slug": "jose-oliver-comercio-de-artigos-para-decoracao-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "José & Oliver - Comércio de Artigos Para Decoração Lda, Em Liquidação",
+  "morada": "Vivenda Maria Baeta, Caixa Postal 171/ 172, São Lourenço 8135-027 Almancil",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 150.000,00",
+  "concelho": "Loulé",
+  "distrito": "Faro",
+  "cae": "46494",
+  "cae_desc": "Outro comércio por grosso de bens de consumo",
+  "atividade": "No âmbito de Outro comércio por grosso de bens de consumo"
+ },
  "511201109": {
   "checked": "2026-08-31",
   "slug": "sidonio-simao-goncalves-construcao-civil-e-obras-publicas-lda-em-liquidacao",
@@ -55,6 +69,34 @@
   "cae_desc": "Construção de edifícios",
   "atividade": "No âmbito de Construção de edifícios"
  },
+ "511203276": {
+  "checked": "2026-08-31",
+  "slug": "jose-vieira-abreu-lda",
+  "estado": "Em Atividade",
+  "nome": "José Vieira & Abreu Lda",
+  "morada": "Lugar do Meio - Porta 5",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Funchal",
+  "distrito": "Madeira",
+  "cae": "25120",
+  "cae_desc": "Portas e janelas em metal",
+  "atividade": "No âmbito de Portas e janelas em metal"
+ },
+ "511203322": {
+  "checked": "2026-08-31",
+  "slug": "mascoto-spinola-associados-administracao-e-gestao-imobiliaria-lda",
+  "estado": "Em Atividade",
+  "nome": "Mascôto Spínola & Associados - Administração e Gestão Imobiliária Lda",
+  "morada": "Rua dos Aranhas, N. 53, 3 - Sala H-São Pedro 9000-013 Funchal",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 36.000,00",
+  "concelho": "Funchal",
+  "distrito": "Madeira",
+  "cae": "41100",
+  "cae_desc": "Desenvolvimento de projectos de edifícios",
+  "atividade": "No âmbito de Desenvolvimento de projectos de edifícios"
+ },
  "511203470": {
   "checked": "2026-08-31",
   "slug": "caniconstroi-ii-construcao-civil-lda",
@@ -68,6 +110,31 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios",
   "atividade": "No âmbito de Construção de edifícios"
+ },
+ "511203543": {
+  "checked": "2026-08-31",
+  "slug": "celestino-martins-instalacoes-electricas-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Celestino Martins - Instalações Eléctricas, Unipessoal Lda",
+  "morada": "Caminho das Quebradas de Cima, 15",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Funchal",
+  "distrito": "Madeira",
+  "cae": "43210",
+  "cae_desc": "Instalação eléctrica",
+  "atividade": "No âmbito de Instalação eléctrica"
+ },
+ "511204850": {
+  "checked": "2026-08-31",
+  "slug": "irmaos-reis-lda",
+  "estado": "Encerrada",
+  "nome": "Irmãos Reis Lda",
+  "morada": "Caminho do Poço Caminho, N 4 9350-235 Ribeira Brava",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Ribeira Brava",
+  "distrito": "Madeira"
  },
  "511206305": {
   "checked": "2026-08-31",
@@ -122,6 +189,62 @@
   "cae_desc": "Pintura e colocação de vidros",
   "atividade": "No âmbito de Pintura e colocação de vidros"
  },
+ "511211627": {
+  "checked": "2026-08-31",
+  "slug": "marco-andrade-construcoes-unipessoal-lda",
+  "estado": "Em Insolvência",
+  "nome": "Marco Andrade - Construções, Unipessoal Lda",
+  "morada": "Pinheiro - Caramanchão 9200-073 Machico",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Machico",
+  "distrito": "Madeira",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
+ },
+ "511211775": {
+  "checked": "2026-08-31",
+  "slug": "velha-diversao-night-club-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Velha Diversão - Night Club, Unipessoal Lda",
+  "morada": "Rampa do Corpo Santo, N 2",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Funchal",
+  "distrito": "Madeira",
+  "cae": "56305",
+  "cae_desc": "Estabelecimentos de bebidas com espaço de dança",
+  "atividade": "No âmbito de Estabelecimentos de bebidas com espaço de dança"
+ },
+ "511211961": {
+  "checked": "2026-08-31",
+  "slug": "emanuel-silva-comercio-de-automoveis-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Emanuel Silva - Comércio de Automóveis, Unipessoal Lda",
+  "morada": "Rua Padre António Rodrigues Diniz Henriques, N 48, Moradias São Francisco",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Câmara de Lobos",
+  "distrito": "Madeira",
+  "cae": "45110",
+  "cae_desc": "Automóveis ligeiros",
+  "atividade": "No âmbito de Automóveis ligeiros"
+ },
+ "511212780": {
+  "checked": "2026-08-31",
+  "slug": "entre-mar-e-ilhas-construcoes-civis-limitada",
+  "estado": "Encerrada",
+  "nome": "Entre Mar e Ilhas - Construções Civis Limitada",
+  "morada": "Rua do Salão, Nº 31, 1º F, Edifício Vista Atlântico II 9100-023 Santa Cruz",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Santa Cruz",
+  "distrito": "Madeira",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
+ },
  "511213310": {
   "checked": "2026-08-31",
   "slug": "celestino-viveiros-pinturas-e-estucagem-unipessoal-lda",
@@ -175,6 +298,47 @@
   "cae_desc": "Outras obras de carpintaria para a construção",
   "atividade": "No âmbito de Outras obras de carpintaria para a construção"
  },
+ "511218508": {
+  "checked": "2026-08-31",
+  "slug": "daniel-rodrigues-abreu-da-silva-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Daniel Rodrigues Abreu da Silva, Unipessoal Lda",
+  "morada": "São João",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Ribeira Brava",
+  "distrito": "Madeira",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
+ "511219636": {
+  "checked": "2026-08-31",
+  "slug": "fardias-confeccoes-e-representacoes-vestuario-limitada",
+  "estado": "Em Atividade",
+  "nome": "Fardias - Confecções e Representações Vestuário Limitada",
+  "morada": "Rua do Bom Jesus, Edifício Europa, Loja Duzentos e Oito, 2.º",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Funchal",
+  "distrito": "Madeira",
+  "cae": "14120",
+  "cae_desc": "Confecção de vestuário de trabalho",
+  "atividade": "No âmbito de Confecção de vestuário de trabalho"
+ },
+ "511220537": {
+  "checked": "2026-08-31",
+  "slug": "dantonio-bar-snack-bar-restaurante-similares-de-hotelaria-lda",
+  "estado": "Em Atividade",
+  "nome": "D'antónio - Bar, Snack Bar, Restaurante, Similares de Hotelaria Lda",
+  "morada": "Est Eng João Abel Vieira 75-A",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Santa Cruz",
+  "distrito": "Madeira",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais",
+  "atividade": "No âmbito de Restaurantes tradicionais"
+ },
  "511221673": {
   "checked": "2026-08-31",
   "slug": "marmores-reis-simao-lda",
@@ -214,6 +378,62 @@
   "cae": "43310",
   "cae_desc": "Estucagem",
   "atividade": "No âmbito de Estucagem"
+ },
+ "511226152": {
+  "checked": "2026-08-31",
+  "slug": "joao-azevedo-santos-construcao-civil-e-obras-publicas-unipessoal-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "João Azevedo Santos - Construção Civil e Obras Publicas, Unipessoal Lda - Em Liquidação",
+  "morada": "Caminho da Levada do Pico Nº 1 - Águas Mansas - Camacha 9135-090 Camacha - Santa Cruz",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 56.000,00",
+  "concelho": "Santa Cruz",
+  "distrito": "Madeira",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
+ },
+ "511227272": {
+  "checked": "2026-08-31",
+  "slug": "vernilobos-pintura-envernizamento-estucagem-e-lacagem-lda",
+  "estado": "Encerrada",
+  "nome": "Vernilobos - Pintura, Envernizamento, Estucagem e Lacagem Lda",
+  "morada": "Estrada Engenheiro Abel Vieira, Edifício Ci, Fracção B 9125-097 Santa Cruz",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Santa Cruz",
+  "distrito": "Madeira",
+  "cae": "43340",
+  "cae_desc": "Pintura e colocação de vidros",
+  "atividade": "No âmbito de Pintura e colocação de vidros"
+ },
+ "511227647": {
+  "checked": "2026-08-31"
+ },
+ "511227957": {
+  "checked": "2026-08-31",
+  "slug": "spiam-sociedade-profissional-de-impermiabilizacoes-asfalticas-da-madeira-lda",
+  "estado": "Em Insolvência",
+  "nome": "Spiam - Sociedade Profissional de Impermiabilizações Asfalticas da Madeira Lda",
+  "morada": "Levada da Corujeira-Caminho dos Tornos, 3-Monte",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Funchal",
+  "distrito": "Madeira",
+  "cae": "43992",
+  "cae_desc": "Outras actividades especializadas de construção diversas",
+  "atividade": "No âmbito de Outras actividades especializadas de construção diversas"
+ },
+ "511228864": {
+  "checked": "2026-08-31",
+  "slug": "restaurantes-monumental-sociedade-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Restaurantes Monumental - Sociedade Unipessoal Lda",
+  "morada": "Estrada Monumental, 314 B 9000 Funchal",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Funchal",
+  "distrito": "Madeira"
  },
  "511229321": {
   "checked": "2026-08-31",
@@ -256,6 +476,34 @@
   "cae": "49410",
   "cae_desc": "Transportes rodoviários de mercadorias"
  },
+ "511233558": {
+  "checked": "2026-08-31",
+  "slug": "auto-pinheiro-de-campanario-comercio-de-pecas-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Auto-Pinheiro de Campanário - Comércio de Peças, Unipessoal Lda",
+  "morada": "Rua da Figueira Preta, 9, 1.º Andar",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Funchal",
+  "distrito": "Madeira",
+  "cae": "45200",
+  "cae_desc": "Manutenção e reparação",
+  "atividade": "No âmbito de Manutenção e reparação"
+ },
+ "511233973": {
+  "checked": "2026-08-31",
+  "slug": "cafe-inn-lda",
+  "estado": "Em Atividade",
+  "nome": "Café Inn Lda",
+  "morada": "Rua Tenente Coronel Sarmento, Residências Costas do Sol Iv, Cv Menos 2. 9000-020 Funchal",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Funchal",
+  "distrito": "Madeira",
+  "cae": "56301",
+  "cae_desc": "Cafés",
+  "atividade": "No âmbito de Cafés"
+ },
  "511234090": {
   "checked": "2026-08-31",
   "slug": "canistuque-construcao-civil-lda-em-liquidacao",
@@ -269,6 +517,19 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios",
   "atividade": "No âmbito de Construção de edifícios"
+ },
+ "511234678": {
+  "checked": "2026-08-31",
+  "slug": "serklean-facility-services-lda",
+  "estado": "Em Atividade",
+  "nome": "Serklean, Facility Services, Lda",
+  "morada": "Rua Nova Vale da Ajuda Nº 24 9000-720 Funchal",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 82.000,00",
+  "concelho": "Funchal",
+  "distrito": "Madeira",
+  "cae": "81210",
+  "cae_desc": "Actividades de limpeza geral em edifícios"
  },
  "511235852": {
   "checked": "2026-08-31",
@@ -284,6 +545,20 @@
   "cae_desc": "Vestuário para adultos",
   "atividade": "No âmbito de Vestuário para adultos"
  },
+ "511236085": {
+  "checked": "2026-08-31",
+  "slug": "metalopestana-construcoes-metalicas-lda",
+  "estado": "Em Atividade",
+  "nome": "Metalopestana - Construções Metálicas Lda",
+  "morada": "Caminho da Cova Funda, Fracção B 9135-356 Camacha",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Santa Cruz",
+  "distrito": "Madeira",
+  "cae": "25120",
+  "cae_desc": "Portas e janelas em metal",
+  "atividade": "No âmbito de Portas e janelas em metal"
+ },
  "511237197": {
   "checked": "2026-08-31",
   "slug": "joao-quintino-construcoes-unipessoal-lda",
@@ -297,6 +572,90 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios",
   "atividade": "No âmbito de Construção de edifícios"
+ },
+ "511237804": {
+  "checked": "2026-08-31",
+  "slug": "nelson-c-abreu-construcoes-unipessoal-limitada",
+  "estado": "Em Atividade",
+  "nome": "Nelson C. Abreu - Construções, Unipessoal, Limitada",
+  "morada": "À Ribeira Grande, Bloco 5, 3. Esquerdo",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Funchal",
+  "distrito": "Madeira",
+  "cae": "43330",
+  "cae_desc": "Revestimento de pavimentos e de paredes",
+  "atividade": "No âmbito de Revestimento de pavimentos e de paredes"
+ },
+ "511239866": {
+  "checked": "2026-08-31",
+  "slug": "madpinta-pintura-e-construcao-civil-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Madpinta - Pintura e Construção Civil Lda - Em Liquidação",
+  "morada": "Caminho do Passeio, N. 80",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Funchal",
+  "distrito": "Madeira",
+  "cae": "43340",
+  "cae_desc": "Pintura e colocação de vidros",
+  "atividade": "No âmbito de Pintura e colocação de vidros"
+ },
+ "511240597": {
+  "checked": "2026-08-31",
+  "slug": "loja-santos-lda",
+  "estado": "Em Atividade",
+  "nome": "Loja & Santos Lda",
+  "morada": "Caminho das Romeiras-Beco D0 Freitas N 2",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Funchal",
+  "distrito": "Madeira",
+  "cae": "96022",
+  "cae_desc": "Institutos de beleza",
+  "atividade": "No âmbito de Institutos de beleza"
+ },
+ "511241283": {
+  "checked": "2026-08-31",
+  "slug": "south-madeira-hotels-and-inns-exploracao-hoteleira-lda",
+  "estado": "Em Insolvência",
+  "nome": "South Madeira Hotels And Inns - Exploração Hoteleira Lda",
+  "morada": "Rua do Sabão, 53",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Funchal",
+  "distrito": "Madeira",
+  "cae": "55116",
+  "cae_desc": "Hotéis apartamentos",
+  "atividade": "No âmbito de Hotéis apartamentos"
+ },
+ "511243804": {
+  "checked": "2026-08-31",
+  "slug": "rgm-sociedade-de-restauracao-e-bar-lda",
+  "estado": "Em Atividade",
+  "nome": "Rgm - Sociedade de Restauração e Bar Lda",
+  "morada": "Sítio dos Maroços",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Machico",
+  "distrito": "Madeira",
+  "cae": "56302",
+  "cae_desc": "Bares",
+  "atividade": "No âmbito de Bares"
+ },
+ "511249179": {
+  "checked": "2026-08-31",
+  "slug": "arlindo-freitas-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Arlindo Freitas, Unipessoal, Lda",
+  "morada": "Rua da Casa Branca, N 70, Edficio Costa do Sol I, Bloco 1-H",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Funchal",
+  "distrito": "Madeira",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais",
+  "atividade": "No âmbito de Restaurantes tradicionais"
  },
  "511249721": {
   "checked": "2026-08-31",
@@ -312,6 +671,20 @@
   "cae_desc": "Transportes rodoviários de mercadorias",
   "atividade": "No âmbito de Transportes rodoviários de mercadorias"
  },
+ "511251874": {
+  "checked": "2026-08-31",
+  "slug": "predimassa-construcoes-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Predimassa - Construções, Unipessoal Lda",
+  "morada": "Estrada do Brasileiro, N 55 9325-143 Jardim da Serra",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Câmara de Lobos",
+  "distrito": "Madeira",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
+ },
  "511256183": {
   "checked": "2026-08-31",
   "slug": "construcoes-irmaos-jardim-lda",
@@ -325,6 +698,20 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
  },
+ "511256744": {
+  "checked": "2026-08-31",
+  "slug": "dupes-gestao-de-projectos-e-obras-lda",
+  "estado": "Em Atividade",
+  "nome": "Dupes - Gestão de Projectos e Obras Lda",
+  "morada": "Rua Major Reis Gomes, Nº 22, 1º Andar 9000 Funchal",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 98.000,00",
+  "concelho": "Funchal",
+  "distrito": "Madeira",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
+ },
  "511256787": {
   "checked": "2026-08-31",
   "slug": "clearview-homes-consultoria-e-projectos-lda",
@@ -337,6 +724,20 @@
   "distrito": "Madeira",
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
+ },
+ "511257929": {
+  "checked": "2026-08-31",
+  "slug": "melo-rafael-montagens-e-reparacoes-de-equipamentos-hoteleiros-lda",
+  "estado": "Em Atividade",
+  "nome": "Melo & Rafael - Montagens e Reparações de Equipamentos Hoteleiros Lda",
+  "morada": "Estrada do Aeroporto, Nº 140, 1 º Piso 9060-382 Funchal",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 41.000,00",
+  "concelho": "Funchal",
+  "distrito": "Madeira",
+  "cae": "33200",
+  "cae_desc": "Instalação de máquinas e de equipamentos industriais",
+  "atividade": "No âmbito de Instalação de máquinas e de equipamentos industriais"
  },
  "511258828": {
   "checked": "2026-08-31",
@@ -352,6 +753,19 @@
   "cae_desc": "Construção de edifícios",
   "atividade": "No âmbito de Construção de edifícios"
  },
+ "511260296": {
+  "checked": "2026-08-31",
+  "slug": "jh-gomes-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Jh Gomes, Unipessoal Lda",
+  "morada": "Ladeira da Marinheira 9325-078 Câmara de Lobos",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Câmara de Lobos",
+  "distrito": "Madeira",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
  "511261675": {
   "checked": "2026-08-31",
   "slug": "m-r-almeida-unipessoal-lda",
@@ -365,6 +779,19 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios",
   "atividade": "No âmbito de Construção de edifícios"
+ },
+ "511262604": {
+  "checked": "2026-08-31",
+  "slug": "madalgar-construcoes-unipessoal-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Madalgar - Construções, Unipessoal Lda - Em Liquidação",
+  "morada": "Estrada João Gonçalves Zarco, Edifício Villas do Sol, 2 H 9125-216 Caniço",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 35.000,00",
+  "concelho": "Santa Cruz",
+  "distrito": "Madeira",
+  "cae": "68100",
+  "cae_desc": "Compra e venda de bens imobiliários"
  },
  "511263210": {
   "checked": "2026-08-31",
@@ -380,6 +807,20 @@
   "cae_desc": "Outras actividades de diversão e recreativas",
   "atividade": "No âmbito de Outras actividades de diversão e recreativas"
  },
+ "511263724": {
+  "checked": "2026-08-31",
+  "slug": "canecas-bar-unipessoal-lda-sociedade-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Canecas Bar, Unipessoal Lda - Sociedade Em Liquidação",
+  "morada": "Complexo Balnear da Praia Formosa 9000-106 Funchal",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Funchal",
+  "distrito": "Madeira",
+  "cae": "56107",
+  "cae_desc": "Restaurantes",
+  "atividade": "No âmbito de Restaurantes"
+ },
  "511264704": {
   "checked": "2026-08-31",
   "slug": "edds-unipessoal-lda",
@@ -388,6 +829,32 @@
   "morada": "Rua Cidade Oakland 8-A Porta 4 - Urbanização do Faial 9060-070 Funchal",
   "forma": "Sociedade Unipessoal",
   "capital": "€ 120.000,00",
+  "concelho": "Funchal",
+  "distrito": "Madeira",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
+ "511267452": {
+  "checked": "2026-08-31",
+  "slug": "rasante-construcoes-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Rasante - Construções, Unipessoal Lda",
+  "morada": "Rua Raúl Brandão, N 14 9020-224 Funchal",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Funchal",
+  "distrito": "Madeira",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
+ "511268220": {
+  "checked": "2026-08-31",
+  "slug": "projeflan-construcoes-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Projeflan - Construções, Unipessoal Lda",
+  "morada": "Rua da Cooperativa Agrícola do Funchal, bloco D, fracção Dz, 6 Andar 9000 Funchal",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
   "concelho": "Funchal",
   "distrito": "Madeira",
   "cae": "41200",
@@ -405,6 +872,19 @@
   "distrito": "Madeira",
   "cae": "71120",
   "cae_desc": "Engenharia e técnicas afins"
+ },
+ "511274602": {
+  "checked": "2026-08-31",
+  "slug": "blex-tec-comercio-servicos-e-construcao-civil-lda-zona-franca-da-madeira",
+  "estado": "Encerrada",
+  "nome": "Blex-Tec - Comércio, Serviços e Construção Civil, Lda (Zona Franca da Madeira)",
+  "morada": "Edifício Marina Club, Avenida Arriaga, N. 73-1. Andar, Sala 105 9004-533 Funchal",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Funchal",
+  "distrito": "Madeira",
+  "cae": "70220",
+  "cae_desc": "Outras actividades de consultoria para os negócios e a gestão"
  },
  "511277008": {
   "checked": "2026-08-31",
@@ -470,5 +950,31 @@
   "distrito": "Madeira",
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
+ },
+ "511283601": {
+  "checked": "2026-08-31",
+  "slug": "deterclean-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Deterclean, Unipessoal Lda",
+  "morada": "Rua da Árvore, Edifício Avenida, Bloco B, Apartamento 3 Ck 4800-056 Guimarães",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Machico",
+  "distrito": "Madeira",
+  "cae": "46442",
+  "cae_desc": "Produtos de limpeza"
+ },
+ "511284918": {
+  "checked": "2026-08-31",
+  "slug": "teleactiva-corporate-ii-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Teleactiva Corporate II, Lda - Em Liquidação",
+  "morada": "Praceta da Juventude 6, 2.º Andar, Quinta do Conde 3 2975-339 Sesimbra",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Sesimbra",
+  "distrito": "Setúbal",
+  "cae": "61200",
+  "cae_desc": "Telecomunicações sem fio"
  }
 }

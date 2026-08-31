@@ -1,4 +1,31 @@
 {
+ "504300199": {
+  "checked": "2026-08-31",
+  "slug": "calcadas-do-centro-unipessoal-lda-sociedade-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Calçadas do Centro, Unipessoal Lda - Sociedade Em Liquidação",
+  "morada": "R.de Santo António N 222 - Ribeira de Antanhol - Antanhol 3040-588 Coimbra",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Coimbra",
+  "distrito": "Coimbra",
+  "cae": "43330",
+  "cae_desc": "Revestimento de pavimentos e de paredes",
+  "atividade": "No âmbito de Revestimento de pavimentos e de paredes"
+ },
+ "504301110": {
+  "checked": "2026-08-31",
+  "slug": "beatriz-da-silva-bregieiro-filho-lda",
+  "estado": "Em Atividade",
+  "nome": "Beatriz da Silva Bregieiro & Filho Lda",
+  "morada": "R Almirante Reis N 69-2 Drt 3100-443 Pombal",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 75.000,00",
+  "concelho": "Pombal",
+  "distrito": "Leiria",
+  "cae": "49410",
+  "cae_desc": "Transportes rodoviários de mercadorias"
+ },
  "504301160": {
   "checked": "2026-08-31",
   "slug": "transceleste-transportes-rodoviarios-de-mercadorias-lda",
@@ -34,6 +61,19 @@
   "capital": "Não disponível",
   "concelho": "Maia",
   "distrito": "Porto"
+ },
+ "504301411": {
+  "checked": "2026-08-31",
+  "slug": "a-bela-rocha-transformacao-de-marmores-e-granitos-lda",
+  "estado": "Encerrada",
+  "nome": "A Bela Rocha - Transformação de Mármores e Granitos Lda",
+  "morada": "Rua de Alcobaça, Nº 18 - Cumeira de Baixo 2460-718 Aljubarrota",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Alcobaça",
+  "distrito": "Leiria",
+  "cae": "23703",
+  "cae_desc": "Artigos de granito e de rochas"
  },
  "504301942": {
   "checked": "2026-08-31",
@@ -153,6 +193,19 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
  },
+ "504309986": {
+  "checked": "2026-08-31",
+  "slug": "capitalmoura-investimentos-imobiliarios-lda",
+  "estado": "Em Atividade",
+  "nome": "Capitalmoura - Investimentos Imobiliários Lda",
+  "morada": "Av do Parque, Empreend Mouragolf - Vilamoura 8125-404 Quarteira",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 80.000,00",
+  "concelho": "Loulé",
+  "distrito": "Faro",
+  "cae": "10840",
+  "cae_desc": "Condimentos e temperos - fabricantes"
+ },
  "504311255": {
   "checked": "2026-08-31",
   "slug": "publicasul-sociedade-de-construcoes-lda",
@@ -169,6 +222,20 @@
  },
  "504311336": {
   "checked": "2026-08-31"
+ },
+ "504311573": {
+  "checked": "2026-08-31",
+  "slug": "calciarte-construcoes-lda",
+  "estado": "Encerrada",
+  "nome": "Calciarte - Construções, Lda",
+  "morada": "Rua D. João II, Edifício Armador, Nº 14 B, 8365-130 Armação de Pera",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Silves",
+  "distrito": "Faro",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
  },
  "504312251": {
   "checked": "2026-08-31",
@@ -272,6 +339,20 @@
   "nome": "Bas?Cur - Confecções, Lda",
   "forma": "Sociedade por Quotas",
   "capital": "Não disponível"
+ },
+ "504318381": {
+  "checked": "2026-08-31",
+  "slug": "carlos-a-graca-vale-lda",
+  "estado": "Em Atividade",
+  "nome": "Carlos A. Graça Vale Lda",
+  "morada": "Rua do Pinheiro 3460-260 Tondela",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Tondela",
+  "distrito": "Viseu",
+  "cae": "95220",
+  "cae_desc": "Reparação de Electrodomésticos",
+  "atividade": "No âmbito de Reparação de Electrodomésticos"
  },
  "504318748": {
   "checked": "2026-08-31",
@@ -422,6 +503,19 @@
   "cae": "43290",
   "cae_desc": "Outras instalações em construções",
   "atividade": "No âmbito de Outras instalações em construções"
+ },
+ "504328972": {
+  "checked": "2026-08-31",
+  "slug": "a-g-l-p-climatizacao-tecnica-sociedade-unipessoal-limitada",
+  "estado": "Em Atividade",
+  "nome": "A. G. L. P. - Climatização Técnica, Sociedade Unipessoal, Limitada",
+  "morada": "Rua de S. Tiago, Nº 653, Bloco 2, 3.º Esquerdo 4805 Ronfe",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Guimarães",
+  "distrito": "Braga",
+  "cae": "43222",
+  "cae_desc": "Instalação de climatização"
  },
  "504330594": {
   "checked": "2026-08-31",
@@ -612,6 +706,20 @@
   "distrito": "Braga",
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
+ },
+ "504342576": {
+  "checked": "2026-08-31",
+  "slug": "barbofer-calcado-lda",
+  "estado": "Em Atividade",
+  "nome": "Barbofer Calçado Lda",
+  "morada": "Rio 4610-591 Torrados",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Felgueiras",
+  "distrito": "Porto",
+  "cae": "15201",
+  "cae_desc": "Calçado - fabricantes",
+  "atividade": "No âmbito de Calçado - fabricantes"
  },
  "504342797": {
   "checked": "2026-08-31",
@@ -851,6 +959,33 @@
   "concelho": "Cinfães",
   "distrito": "Viseu"
  },
+ "504350684": {
+  "checked": "2026-08-31",
+  "slug": "adriano-sampaio-carvalho-unipessoal-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Adriano Sampaio Carvalho, Unipessoal, Lda - Em Liquidação",
+  "morada": "Campas 4610-255 Felgueiras",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 19.952,00",
+  "concelho": "Felgueiras",
+  "distrito": "Porto",
+  "cae": "17212",
+  "cae_desc": "Outras embalagens de papel e de cartão"
+ },
+ "504350781": {
+  "checked": "2026-08-31",
+  "slug": "alcina-alves-filhos-lda",
+  "estado": "Em Atividade",
+  "nome": "Alcina Alves & Filhos Lda",
+  "morada": "R Alcaide Faria 79-B 4100 Porto",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Porto",
+  "distrito": "Porto",
+  "cae": "14190",
+  "cae_desc": "Confecção de outros artigos e acessórios de vestuário",
+  "atividade": "No âmbito de Confecção de outros artigos e acessórios de vestuário"
+ },
  "504351354": {
   "checked": "2026-08-31",
   "slug": "a-f-santos-filhos-construcoes-e-obras-publicas-lda-em-liquidacao",
@@ -960,6 +1095,17 @@
   "cae_desc": "Confecção de outro vestuário exterior em série",
   "atividade": "No âmbito de Confecção de outro vestuário exterior em série"
  },
+ "504360230": {
+  "checked": "2026-08-31",
+  "slug": "construcoes-ponto-azul-lda",
+  "estado": "Em Atividade",
+  "nome": "Construções Ponto Azul, Lda",
+  "morada": "Paços de Ferreira",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Paços de Ferreira",
+  "distrito": "Porto"
+ },
  "504360310": {
   "checked": "2026-08-31",
   "slug": "paulo-fadario-lda",
@@ -1014,6 +1160,20 @@
   "cae": "47784",
   "cae_desc": "Outros produtos novos"
  },
+ "504362348": {
+  "checked": "2026-08-31",
+  "slug": "dom-garrafao-comercio-de-bebidas-alcoolicas-unipessoal-lda",
+  "estado": "Em Insolvência",
+  "nome": "Dom Garrafão, Comércio de Bebidas Alcoólicas Unipessoal Lda",
+  "morada": "Fração \"N\", Lote 38, Rua Cândido Guerreiro, Nº 38, Montechoro 8200-103 Albufeira",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Albufeira",
+  "distrito": "Faro",
+  "cae": "46341",
+  "cae_desc": "Bebidas alcoólicas",
+  "atividade": "No âmbito de Bebidas alcoólicas"
+ },
  "504362755": {
   "checked": "2026-08-31",
   "slug": "unihidrica-tecnologias-de-tratamento-de-aguas-lda",
@@ -1038,6 +1198,34 @@
   "cae": "56101",
   "cae_desc": "Restaurantes tradicionais",
   "atividade": "No âmbito de Restaurantes tradicionais"
+ },
+ "504363409": {
+  "checked": "2026-08-31",
+  "slug": "cateugrita-empresa-de-montagens-lda-sociedade-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Cateugrita - Empresa de Montagens Lda - Sociedade Em Liquidação",
+  "morada": "R 27 de Maio 4420-193 Gondomar",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Gondomar",
+  "distrito": "Porto",
+  "cae": "43290",
+  "cae_desc": "Outras instalações em construções",
+  "atividade": "No âmbito de Outras instalações em construções"
+ },
+ "504364090": {
+  "checked": "2026-08-31",
+  "slug": "albutaxis-lda",
+  "estado": "Em Atividade",
+  "nome": "Albutaxis Lda",
+  "morada": "Av. do Ténis, 13 8200 Albufeira",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Albufeira",
+  "distrito": "Faro",
+  "cae": "49320",
+  "cae_desc": "Táxis",
+  "atividade": "No âmbito de Táxis"
  },
  "504364669": {
   "checked": "2026-08-31",
@@ -1196,6 +1384,19 @@
  "504369970": {
   "checked": "2026-08-31"
  },
+ "504370480": {
+  "checked": "2026-08-31",
+  "slug": "construcoes-santo-isidoro-limitada",
+  "estado": "Encerrada",
+  "nome": "Construções Santo Isidoro Limitada",
+  "morada": "Rua de Santo Isidoro, Nº 68 4635-266 Livração",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.486,77",
+  "concelho": "Marco de Canaveses",
+  "distrito": "Porto",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
  "504370774": {
   "checked": "2026-08-31",
   "slug": "pezinho-comercio-de-calcado-e-afins-unipessoal-lda-em-liquidacao",
@@ -1209,6 +1410,19 @@
   "cae": "47721",
   "cae_desc": "Comércio a retalho de Calçado",
   "atividade": "No âmbito de Comércio a retalho de Calçado"
+ },
+ "504370804": {
+  "checked": "2026-08-31",
+  "slug": "aroport-rent-a-car-ld",
+  "estado": "Encerrada",
+  "nome": "Aroport - Rent A Car, Ldª",
+  "morada": "Rua Alves Redol, 1, Embra 2430-107 Marinha Grande",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 175.000,00",
+  "concelho": "Marinha Grande",
+  "distrito": "Leiria",
+  "cae": "77110",
+  "cae_desc": "Automóveis"
  },
  "504370944": {
   "checked": "2026-08-31",
@@ -1316,6 +1530,19 @@
   "cae": "87301",
   "cae_desc": "Pessoas idosas",
   "atividade": "No âmbito de Pessoas idosas"
+ },
+ "504375245": {
+  "checked": "2026-08-31",
+  "slug": "antonio-j-p-silva-construcao-civil-lda",
+  "estado": "Em Atividade",
+  "nome": "Antonio J.P. Silva - Construção Civil Lda",
+  "morada": "Rua do Pinhal-Fanqueiro 2670 Loures",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Loures",
+  "distrito": "Lisboa",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
  },
  "504375474": {
   "checked": "2026-08-31",
@@ -1438,6 +1665,17 @@
   "cae": "38321",
   "cae_desc": "Valorização de resíduos metálicos",
   "atividade": "No âmbito de Valorização de resíduos metálicos"
+ },
+ "504380680": {
+  "checked": "2026-08-31",
+  "slug": "cocicop-sociedade-de-construcoes-lda",
+  "estado": "Encerrada",
+  "nome": "Cocicop - Sociedade de Construções, Lda",
+  "morada": "Rua das Oliveiras, 361 4425 Maia",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 25.500,00",
+  "concelho": "Maia",
+  "distrito": "Porto"
  },
  "504380702": {
   "checked": "2026-08-31",
@@ -1833,6 +2071,33 @@
   "cae": "49410",
   "cae_desc": "Transportes rodoviários de mercadorias",
   "atividade": "No âmbito de Transportes rodoviários de mercadorias"
+ },
+ "504394738": {
+  "checked": "2026-08-31",
+  "slug": "cruz-alta-agricultura-lda",
+  "estado": "Em Atividade",
+  "nome": "Cruz Alta Agricultura Lda",
+  "morada": "R do Índico, Edificio Altis, 3 R, Cerro da Alagoa 8200-139 Albufeira",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.002,94",
+  "concelho": "Albufeira",
+  "distrito": "Faro",
+  "cae": "1192",
+  "cae_desc": "Outras culturas temporárias"
+ },
+ "504395157": {
+  "checked": "2026-08-31",
+  "slug": "earthouse-gestao-imobiliaria-s-a",
+  "estado": "Em Atividade",
+  "nome": "Earthouse - Gestão Imobiliária S.A",
+  "morada": "Urb Vale da Cabrita, Lt 35, Fracção A/ B 2350-774 Torres Novas",
+  "forma": "Sociedade Anónima",
+  "capital": "Não disponível",
+  "concelho": "Leiria",
+  "distrito": "Leiria",
+  "cae": "68100",
+  "cae_desc": "Compra e venda de bens imobiliários",
+  "atividade": "No âmbito de Compra e venda de bens imobiliários"
  },
  "504395432": {
   "checked": "2026-08-31",
