@@ -23,7 +23,9 @@ import json
 import os
 import re
 import sys
+import threading
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date
 
 import requests
@@ -59,30 +61,54 @@ DISTRITOS = {
 
 
 class Racius:
-    def __init__(self):
-        self.s = requests.Session()
-        self.s.headers.update({"User-Agent": UA, "Accept-Language": "pt-PT,pt;q=0.9"})
+    """Thread-safe client with a global request-rate limiter.
+
+    Requests from all workers are spaced at least `1/rps` apart; any 403/429/5xx
+    pushes the whole pool back 30s so we slow down instead of getting banned.
+    """
+
+    def __init__(self, rps: float = 1.5):
+        self.min_interval = 1.0 / rps
+        self._lock = threading.Lock()
+        self._next = 0.0
+        self._local = threading.local()
         self.failures = 0
+
+    def _session(self) -> requests.Session:
+        if not hasattr(self._local, "s"):
+            s = requests.Session()
+            s.headers.update({"User-Agent": UA, "Accept-Language": "pt-PT,pt;q=0.9"})
+            self._local.s = s
+        return self._local.s
+
+    def _wait_slot(self, penalty: float = 0.0):
+        with self._lock:
+            now = time.monotonic()
+            slot = max(self._next, now) + penalty
+            self._next = slot + self.min_interval
+        time.sleep(max(0.0, slot - time.monotonic()))
 
     def get(self, url: str) -> str | None:
         for attempt in range(4):
+            self._wait_slot()
             try:
-                r = self.s.get(url, timeout=60)
+                r = self._session().get(url, timeout=60)
             except requests.RequestException:
-                time.sleep(5 * (attempt + 1))
                 continue
             if r.status_code == 200:
-                self.failures = 0
-                time.sleep(DELAY)
+                with self._lock:
+                    self.failures = 0
                 return r.text
             if r.status_code == 404:
-                time.sleep(DELAY)
                 return None
-            # 403/429/5xx: back off hard — don't hammer their WAF
-            self.failures += 1
-            if self.failures >= 10:
-                raise RuntimeError(f"Too many consecutive failures (last: HTTP {r.status_code})")
-            time.sleep(30 * (attempt + 1))
+            # 403/429/5xx: push the whole pool back — don't hammer their WAF
+            with self._lock:
+                self.failures += 1
+                if self.failures >= 20:
+                    raise RuntimeError(
+                        f"Too many consecutive failures (last: HTTP {r.status_code})"
+                    )
+            self._wait_slot(penalty=30.0 * (attempt + 1))
         return None
 
 
@@ -160,6 +186,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, default=0, help="max companies to fetch this run")
     ap.add_argument("--nipc", help="comma-separated NIPCs to (re)fetch, ignoring the done-set")
+    ap.add_argument("--workers", type=int, default=1, help="concurrent fetchers")
+    ap.add_argument("--rps", type=float, default=1.5, help="max requests per second (global)")
     args = ap.parse_args()
 
     shards = load_shards()
@@ -174,37 +202,50 @@ def main():
         if args.limit:
             todo = todo[: args.limit]
 
-    racius = Racius()
+    racius = Racius(rps=args.rps)
     today = date.today().isoformat()
     processed = 0
+    started = time.monotonic()
+    state_lock = threading.Lock()
     dirty: set[str] = set()
 
     def flush():
-        for prefix in dirty:
+        with state_lock:
+            pending = list(dirty)
+            dirty.clear()
+        for prefix in pending:
             save_shard(prefix, shards[prefix])
-        dirty.clear()
+
+    def fetch(nipc: int) -> dict:
+        entry: dict = {"checked": today}
+        search = racius.get(SEARCH_URL.format(nipc=nipc))
+        if search and (m := RESULT_LINK_RE.search(search)):
+            slug = m.group(1)
+            entry["slug"] = slug.strip("/")
+            if em := ESTADO_RE.search(re.sub(r"\s+", " ", search)):
+                estado = html.unescape(em.group(1)).strip()
+                entry["estado"] = {"Encerradas": "Encerrada"}.get(estado, estado)
+            profile = racius.get(BASE + slug)
+            if profile:
+                entry.update(parse_profile(profile))
+        return entry
 
     try:
-        for nipc, _ in todo:
-            prefix = str(nipc)[:4]
-            shard = shards.setdefault(prefix, {})
-            search = racius.get(SEARCH_URL.format(nipc=nipc))
-            entry: dict = {"checked": today}
-            if search and (m := RESULT_LINK_RE.search(search)):
-                slug = m.group(1)
-                entry["slug"] = slug.strip("/")
-                if em := ESTADO_RE.search(re.sub(r"\s+", " ", search)):
-                    estado = html.unescape(em.group(1)).strip()
-                    entry["estado"] = {"Encerradas": "Encerrada"}.get(estado, estado)
-                profile = racius.get(BASE + slug)
-                if profile:
-                    entry.update(parse_profile(profile))
-            shard[str(nipc)] = entry
-            dirty.add(prefix)
-            processed += 1
-            if processed % 100 == 0:
-                flush()
-                print(f"  {processed}/{len(todo)} (last: {nipc} {'ok' if 'slug' in entry else 'not found'})")
+        with ThreadPoolExecutor(max_workers=args.workers) as pool:
+            futures = {pool.submit(fetch, nipc): nipc for nipc, _ in todo}
+            for fut in as_completed(futures):
+                nipc = futures[fut]
+                entry = fut.result()  # propagate hard failures and stop the run
+                prefix = str(nipc)[:4]
+                with state_lock:
+                    shards.setdefault(prefix, {})[str(nipc)] = entry
+                    dirty.add(prefix)
+                    processed += 1
+                    count = processed
+                if count % 200 == 0:
+                    flush()
+                    rate = count / (time.monotonic() - started)
+                    print(f"  {count}/{len(todo)} ({rate:.1f}/s)", flush=True)
     finally:
         flush()
     print(f"Done: {processed} companies enriched this run")
