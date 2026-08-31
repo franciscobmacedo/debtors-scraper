@@ -93,6 +93,19 @@
   "cae_desc": "Construção de edifícios",
   "atividade": "No âmbito de Construção de edifícios"
  },
+ "501905626": {
+  "checked": "2026-08-31",
+  "slug": "nebar-texteis-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Nebar Texteis Lda, Em Liquidação",
+  "morada": "Rua Adriano Eiras N 24 4590-410 Paços de Ferreira",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 24.939,90",
+  "concelho": "Paços de Ferreira",
+  "distrito": "Porto",
+  "cae": "14140",
+  "cae_desc": "Confecção de vestuário interior"
+ },
  "501906266": {
   "checked": "2026-08-31",
   "slug": "construcoes-jorgemilar-lda",
@@ -193,11 +206,36 @@
   "cae_desc": "Desporto, campismo e lazer",
   "atividade": "No âmbito de Desporto, campismo e lazer"
  },
+ "501911286": {
+  "checked": "2026-08-31",
+  "slug": "licores-malandrice-lda",
+  "estado": "Encerrada",
+  "nome": "Licores Malandrice, Lda",
+  "morada": "Rua Coronel Ribeiro Viana, N 25, 1 Dt",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa"
+ },
  "501911413": {
   "checked": "2026-08-31"
  },
  "501912193": {
   "checked": "2026-08-31"
+ },
+ "501912304": {
+  "checked": "2026-08-31",
+  "slug": "litec-projectos-e-instalacoes-especiais-lda",
+  "estado": "Encerrada",
+  "nome": "Litec-Projectos e Instalações Especiais Lda",
+  "morada": "Calç da Rinchoa 57 Letra A - Rinchoa 2635-312 Rinchoa",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 44.891,81",
+  "concelho": "Sintra",
+  "distrito": "Lisboa",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
  },
  "501912401": {
   "checked": "2026-08-31",
@@ -211,6 +249,17 @@
   "distrito": "Castelo Branco",
   "cae": "13203",
   "cae_desc": "Tecelagem de fio do tipo seda e de outros têxteis"
+ },
+ "501912452": {
+  "checked": "2026-08-31",
+  "slug": "magosil-comercio-e-industria-de-madeiras-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Magosil-Comércio e Indústria de Madeiras Lda, Em Liquidação",
+  "morada": "Castanheira, Coz 2400-194 Leiria",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 99.759,58",
+  "concelho": "Alcobaça",
+  "distrito": "Leiria"
  },
  "501912797": {
   "checked": "2026-08-31"
@@ -471,6 +520,20 @@
  "501922857": {
   "checked": "2026-08-31"
  },
+ "501924736": {
+  "checked": "2026-08-31",
+  "slug": "mario-teixeira-cardoso-lda-2",
+  "estado": "Encerrada",
+  "nome": "Mário Teixeira & Cardoso Lda",
+  "morada": "Rua Mouzinho da Silveira, N.º 70 4050-415 Porto",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Porto",
+  "distrito": "Porto",
+  "cae": "56102",
+  "cae_desc": "Restaurantes com lugares ao balcão",
+  "atividade": "No âmbito de Restaurantes com lugares ao balcão"
+ },
  "501926810": {
   "checked": "2026-08-31"
  },
@@ -492,6 +555,20 @@
  },
  "501927930": {
   "checked": "2026-08-31"
+ },
+ "501929126": {
+  "checked": "2026-08-31",
+  "slug": "h-a-habitacao-algarvia-lda",
+  "estado": "Encerrada",
+  "nome": "H.A.habitação Algarvia Lda",
+  "morada": "Arrochela 8400-456 Porches",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 200.000,00",
+  "concelho": "Silves",
+  "distrito": "Faro",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
  },
  "501929762": {
   "checked": "2026-08-31",
@@ -658,6 +735,19 @@
  },
  "501937196": {
   "checked": "2026-08-31"
+ },
+ "501938575": {
+  "checked": "2026-08-31",
+  "slug": "metalurgica-cardoso-boavida-lda",
+  "estado": "Encerrada",
+  "nome": "Metalurgica Cardoso & Boavida Lda",
+  "morada": "Rua Marquês de Pombal, Lote C-2º Dtº 2735-312 Cacém",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 125.000,00",
+  "concelho": "Sintra",
+  "distrito": "Lisboa",
+  "cae": "25992",
+  "cae_desc": "Outros produtos metálicos diversos"
  },
  "501939105": {
   "checked": "2026-08-31",
@@ -942,6 +1032,20 @@
  "501954953": {
   "checked": "2026-08-31"
  },
+ "501955771": {
+  "checked": "2026-08-31",
+  "slug": "gilconstroi-sociedade-imobiliaria-e-construcao-civil-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Gilconstroi-Sociedade Imobiliaria e Construção Civil Lda - Em Liquidação",
+  "morada": "Rua Infante D. Henrique Edifício Infante, Cave, Lado, Esq. 8500-381 Portimão",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Portimão",
+  "distrito": "Faro",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
+ },
  "501956875": {
   "checked": "2026-08-31",
   "slug": "quatro-l-empresa-de-confeccoes-lda-em-liquidacao",
@@ -1047,6 +1151,17 @@
   "cae_desc": "Tecelagem de fio do tipo algodão",
   "atividade": "No âmbito de Tecelagem de fio do tipo algodão"
  },
+ "501962441": {
+  "checked": "2026-08-31",
+  "slug": "grafissaco-industria-de-impressao-de-embalagens-lda",
+  "estado": "Encerrada",
+  "nome": "Grafissaco-Industria de Impressão de Embalagens Lda",
+  "morada": "Travessa de Fernão de Magalhães, N 168 4300 Porto",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 1.000.000,00",
+  "concelho": "Porto",
+  "distrito": "Porto"
+ },
  "501963731": {
   "checked": "2026-08-31",
   "slug": "transportes-de-carga-do-avenal-lda",
@@ -1101,6 +1216,20 @@
   "distrito": "Porto",
   "cae": "46493",
   "cae_desc": "Brinquedos, jogos e artigos de desporto"
+ },
+ "501965190": {
+  "checked": "2026-08-31",
+  "slug": "mp4-construcao-civil-e-obras-publicas-lda",
+  "estado": "Em Insolvência",
+  "nome": "Mp4-Construção Civil e Obras Publicas Lda",
+  "morada": "Urbanização Quinta da Bemposta, Lote 55 8500 Alvor",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.500,00",
+  "concelho": "Portimão",
+  "distrito": "Faro",
+  "cae": "43390",
+  "cae_desc": "Outras actividades de acabamento em edifícios",
+  "atividade": "No âmbito de Outras actividades de acabamento em edifícios"
  },
  "501965360": {
   "checked": "2026-08-31",
@@ -1401,6 +1530,9 @@
  "501980610": {
   "checked": "2026-08-31"
  },
+ "501981209": {
+  "checked": "2026-08-31"
+ },
  "501981845": {
   "checked": "2026-08-31",
   "slug": "ecopaisagem-jardins-decoracoes-e-silvicultura-lda",
@@ -1414,6 +1546,17 @@
   "cae": "81300",
   "cae_desc": "Actividades de plantação e manutenção de jardins",
   "atividade": "No âmbito de Actividades de plantação e manutenção de jardins"
+ },
+ "501982701": {
+  "checked": "2026-08-31",
+  "slug": "m-e-montagens-electricas-lda",
+  "estado": "Em Atividade",
+  "nome": "M.E. - Montagens Eléctricas Lda",
+  "morada": "Rua Gomes Eanes de Zurara, N 44, 10 4100 Porto",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Porto",
+  "distrito": "Porto"
  },
  "501984038": {
   "checked": "2026-08-31"
@@ -1473,6 +1616,20 @@
   "cae_desc": "Pastelarias e casas de chá",
   "atividade": "No âmbito de Pastelarias e casas de chá"
  },
+ "501985930": {
+  "checked": "2026-08-31",
+  "slug": "lousaferro-industria-e-comercio-de-ferro-e-materiais-de-construcao-civil-lda",
+  "estado": "Em Insolvência",
+  "nome": "Lousaferro-Industria e Comercio de Ferro e Materiais de Construção Civil Lda",
+  "morada": "Lugar da Juía 4620 Lousada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 45.000.000,00",
+  "concelho": "Lousada",
+  "distrito": "Porto",
+  "cae": "25931",
+  "cae_desc": "Produtos de arame",
+  "atividade": "No âmbito de Produtos de arame"
+ },
  "501987940": {
   "checked": "2026-08-31",
   "slug": "metalurgica-ideal-alentejana-lda",
@@ -1500,6 +1657,20 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios",
   "atividade": "No âmbito de Construção de edifícios"
+ },
+ "501988947": {
+  "checked": "2026-08-31",
+  "slug": "marina-rocha-turismo-e-hotelaria-s-a-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Marina Rocha-Turismo e Hotelaria S.A. - Em Liquidação",
+  "morada": "Rua das Oliveiras, Edifício Bingo, R/C, Sala Dois 8500-768 Portimão",
+  "forma": "Sociedade Anónima",
+  "capital": "Não disponível",
+  "concelho": "Portimão",
+  "distrito": "Faro",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais",
+  "atividade": "No âmbito de Restaurantes tradicionais"
  },
  "501989900": {
   "checked": "2026-08-31"

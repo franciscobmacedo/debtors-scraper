@@ -61,6 +61,20 @@
   "cae": "86901",
   "cae_desc": "Laboratórios de análises clínicas"
  },
+ "500904642": {
+  "checked": "2026-08-31",
+  "slug": "j-martins-de-oliveira-filhos-lda",
+  "estado": "Em Insolvência",
+  "nome": "J. Martins de Oliveira & Filhos Lda",
+  "morada": "Avenida 25 de Abril, N 100, 3 4760-101 Vila Nova de Famalicão",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Vila Nova de Famalicão",
+  "distrito": "Braga",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
+ },
  "500905495": {
   "checked": "2026-08-31",
   "slug": "jose-teixeira-carneiro-lda",
@@ -114,6 +128,9 @@
   "atividade": "No âmbito de Outras actividades especializadas de construção diversas"
  },
  "500907188": {
+  "checked": "2026-08-31"
+ },
+ "500908176": {
   "checked": "2026-08-31"
  },
  "500908214": {
@@ -267,6 +284,20 @@
   "cae_desc": "Actividades de preparação da impressão e de produtos media",
   "atividade": "No âmbito de Actividades de preparação da impressão e de produtos media"
  },
+ "500922900": {
+  "checked": "2026-08-31",
+  "slug": "joaquim-gomes-da-costa-herdeiros-limitada",
+  "estado": "Em Insolvência",
+  "nome": "Joaquim Gomes da Costa, Herdeiros, Limitada",
+  "morada": "Lugar de Gesteira 4520-608 São João de Ver",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Santa Maria da Feira",
+  "distrito": "Aveiro",
+  "cae": "25720",
+  "cae_desc": "Fechaduras e dobradiças",
+  "atividade": "No âmbito de Fechaduras e dobradiças"
+ },
  "500925526": {
   "checked": "2026-08-31",
   "slug": "p-m-c-tecnologia-industrial-lda",
@@ -414,6 +445,17 @@
   "cae": "45200",
   "cae_desc": "Manutenção e reparação",
   "atividade": "No âmbito de Manutenção e reparação"
+ },
+ "500936722": {
+  "checked": "2026-08-31",
+  "slug": "leal-rosas-ca-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Leal, Rosas & Ca Lda - Em Liquidação",
+  "morada": "Rua de Santo Ildefonso, N 51 4000-390 Porto",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 59.855,75",
+  "concelho": "Porto",
+  "distrito": "Porto"
  },
  "500937265": {
   "checked": "2026-08-31",
@@ -585,6 +627,20 @@
   "cae": "45110",
   "cae_desc": "Automóveis ligeiros"
  },
+ "500946701": {
+  "checked": "2026-08-31",
+  "slug": "francisco-de-oliveira-e-filhos-lda",
+  "estado": "Em Atividade",
+  "nome": "Francisco de Oliveira e Filhos Lda",
+  "morada": "Lugar de São Geães, Edifício Novo Horizonte, 4 Esq 5100-191 Lamego",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Lamego",
+  "distrito": "Viseu",
+  "cae": "47770",
+  "cae_desc": "Relógios, ourivesaria e joalharia",
+  "atividade": "No âmbito de Relógios, ourivesaria e joalharia"
+ },
  "500949360": {
   "checked": "2026-08-31",
   "slug": "escola-latino-coelho-lda",
@@ -691,6 +747,19 @@
   "concelho": "Vila Nova de Gaia",
   "distrito": "Porto"
  },
+ "500954712": {
+  "checked": "2026-08-31",
+  "slug": "gomes-fumega-lda-sociedade-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Gomes & Fumega Lda - Sociedade Em Liquidação",
+  "morada": "Rua Heróis de França, Nº. 375 4450-101 Porto",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 50.000,00",
+  "concelho": "Matosinhos",
+  "distrito": "Porto",
+  "cae": "45200",
+  "cae_desc": "Manutenção e reparação"
+ },
  "500954739": {
   "checked": "2026-08-31",
   "slug": "manuel-maria-unipessoal-limitada",
@@ -718,6 +787,19 @@
   "cae": "22220",
   "cae_desc": "Embalagens de plástico",
   "atividade": "No âmbito de Embalagens de plástico"
+ },
+ "500955646": {
+  "checked": "2026-08-31",
+  "slug": "jose-reis-duarte-ca-lda",
+  "estado": "Em Atividade",
+  "nome": "Jose Reis Duarte & Ca Lda",
+  "morada": "Campo das Hortas, Nº 60, Sala 19 4700-443 Braga (Sé)",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 125.000,00",
+  "concelho": "Braga",
+  "distrito": "Braga",
+  "cae": "49410",
+  "cae_desc": "Transportes rodoviários de mercadorias"
  },
  "500956294": {
   "checked": "2026-08-31",
@@ -772,6 +854,19 @@
   "distrito": "Porto",
   "cae": "82990",
   "cae_desc": "Outras actividades de serviços de apoio prestados às empresas"
+ },
+ "500959129": {
+  "checked": "2026-08-31",
+  "slug": "isonovapor-lda",
+  "estado": "Em Atividade",
+  "nome": "Isonovapor Lda",
+  "morada": "Bairro Duarte Pacheco, Rua das Mimosas, N 55 4710-368 Braga",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 7.500,00",
+  "concelho": "Braga",
+  "distrito": "Braga",
+  "cae": "43290",
+  "cae_desc": "Outras instalações em construções"
  },
  "500961220": {
   "checked": "2026-08-31",
@@ -934,6 +1029,20 @@
   "cae": "88990",
   "cae_desc": "Outras actividades",
   "atividade": "No âmbito de Outras actividades"
+ },
+ "500971773": {
+  "checked": "2026-08-31",
+  "slug": "jobrauto-acessorios-para-automoveis-e-camioes-lda",
+  "estado": "Em Atividade",
+  "nome": "Jobrauto-Acessorios Para Automoveis e Camiões Lda",
+  "morada": "R João Pinto Ribeiro 97 B-Olivais 1800-233 Lisboa",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "45310",
+  "cae_desc": "Peças e acessórios - por grosso",
+  "atividade": "No âmbito de Peças e acessórios - por grosso"
  },
  "500972524": {
   "checked": "2026-08-31",
@@ -1124,6 +1233,19 @@
   "cae_desc": "Calçado - fabricantes",
   "atividade": "No âmbito de Calçado - fabricantes"
  },
+ "500982767": {
+  "checked": "2026-08-31",
+  "slug": "ferreira-leite-companhia-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Ferreira Leite & Companhia Lda - Em Liquidação",
+  "morada": "Lugar do Bicho 4745-210 Trofa",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 2.500.000,00",
+  "concelho": "Trofa",
+  "distrito": "Porto",
+  "cae": "14131",
+  "cae_desc": "Confecção de outro vestuário exterior em série"
+ },
  "500983542": {
   "checked": "2026-08-31",
   "slug": "o-balao-azul-pro-ensino-lda-em-liquidacao",
@@ -1136,6 +1258,19 @@
   "distrito": "Lisboa",
   "cae": "85100",
   "cae_desc": "Educação pré-escolar"
+ },
+ "500985766": {
+  "checked": "2026-08-31",
+  "slug": "manuel-da-silva-marques-filhos-lda",
+  "estado": "Em Insolvência",
+  "nome": "Manuel da Silva Marques & Filhos Lda",
+  "morada": "Parque Industrial de Cabanas 4420 Gondomar",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 199.520,00",
+  "concelho": "Gondomar",
+  "distrito": "Porto",
+  "cae": "23120",
+  "cae_desc": "Moldagem e transformação de vidro plano"
  },
  "500987505": {
   "checked": "2026-08-31",
@@ -1356,6 +1491,17 @@
   "cae": "45200",
   "cae_desc": "Manutenção e reparação"
  },
+ "500997721": {
+  "checked": "2026-08-31",
+  "slug": "mario-moreira-construcao-civil-e-terraplanagens-lda",
+  "estado": "Encerrada",
+  "nome": "Mario Moreira-Construção Civil e Terraplanagens Lda",
+  "morada": "R General Carmona, N 108 4475-465 Maia",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 1.995,19",
+  "concelho": "Maia",
+  "distrito": "Porto"
+ },
  "500998884": {
   "checked": "2026-08-31",
   "slug": "csl-2-transportes-lda",
@@ -1366,5 +1512,19 @@
   "capital": "Não disponível",
   "concelho": "Viseu",
   "distrito": "Viseu"
+ },
+ "500999422": {
+  "checked": "2026-08-31",
+  "slug": "evereste-limpeza-a-seco-lda",
+  "estado": "Em Atividade",
+  "nome": "Evereste-Limpeza A Seco Lda",
+  "morada": "Calçada da Ajuda, N 189 A 193",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "96010",
+  "cae_desc": "Lavagem e limpeza a seco de têxteis e peles",
+  "atividade": "No âmbito de Lavagem e limpeza a seco de têxteis e peles"
  }
 }

@@ -1,4 +1,18 @@
 {
+ "500200157": {
+  "checked": "2026-08-31",
+  "slug": "n-belchior-lda",
+  "estado": "Em Atividade",
+  "nome": "N.belchior Lda",
+  "morada": "Av Vidreiro 45 2430-309 Marinha Grande",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 250.000,00",
+  "concelho": "Marinha Grande",
+  "distrito": "Leiria",
+  "cae": "46900",
+  "cae_desc": "Comércio por grosso não especializado",
+  "atividade": "No âmbito de Comércio por grosso não especializado"
+ },
  "500200440": {
   "checked": "2026-08-31",
   "slug": "narciso-machado-companhia-s-a",
@@ -379,6 +393,20 @@
   "cae": "52291",
   "cae_desc": "Organização do transporte",
   "atividade": "No âmbito de Organização do transporte"
+ },
+ "500214190": {
+  "checked": "2026-08-31",
+  "slug": "moveis-pedrosas-s-a-sociedade-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Móveis Pedrosas S.A., Sociedade Em Liquidação",
+  "morada": "R da Nazare 134-Amieirinha 2430-309 Marinha Grande",
+  "forma": "Sociedade Anónima",
+  "capital": "Não disponível",
+  "concelho": "Marinha Grande",
+  "distrito": "Leiria",
+  "cae": "31091",
+  "cae_desc": "Mobiliário de madeira para outros fins - fabricantes",
+  "atividade": "No âmbito de Mobiliário de madeira para outros fins - fabricantes"
  },
  "500214379": {
   "checked": "2026-08-31",
@@ -1190,6 +1218,19 @@
   "distrito": "Lisboa",
   "cae": "46690",
   "cae_desc": "Outras máquinas e equipamentos"
+ },
+ "500256551": {
+  "checked": "2026-08-31",
+  "slug": "figueiredo-justinos-construcoes-lda",
+  "estado": "Encerrada",
+  "nome": "Figueiredo & Justinos Construções Lda",
+  "morada": "R Fontes Pereira de Melo 3 B-Damaia 2720-233 Amadora",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 15.000,00",
+  "concelho": "Amadora",
+  "distrito": "Lisboa",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
  },
  "500256934": {
   "checked": "2026-08-31",
