@@ -1,4 +1,44 @@
 {
+ "512000387": {
+  "checked": "2026-08-31",
+  "slug": "tipografia-micaelense-lda",
+  "estado": "Em Atividade",
+  "nome": "Tipografia Micaelense Lda",
+  "morada": "Rua do Castilho, 33 A, Matriz, Ponta Delgada 9500-042 Ponta Delgada (Acores)",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "18120",
+  "cae_desc": "Outra impressão",
+  "atividade": "No âmbito de Outra impressão"
+ },
+ "512000425": {
+  "checked": "2026-08-31",
+  "slug": "sociedade-tecnica-acoreana-lda-em-liquidacao-2",
+  "estado": "Em Insolvência",
+  "nome": "Sociedade Técnica Açoreana Lda - Em Liquidação",
+  "morada": "R Marquês da Praia e Monforte 28 9500-089 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 1.000.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
+ "512000514": {
+  "checked": "2026-08-31",
+  "slug": "ava-agencia-de-viagens-dos-acores-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Ava - Agência de Viagens dos Açores Lda - Em Liquidação",
+  "morada": "Rua Hintze Ribeiro, 30 e 32, Matriz, Ponta Delgada 9500-049 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "79110",
+  "cae_desc": "Agências de viagem"
+ },
  "512000719": {
   "checked": "2026-08-31",
   "slug": "nobrega-raposo-lda",
@@ -9,6 +49,33 @@
   "capital": "€ 14.963,94",
   "concelho": "Ponta Delgada",
   "distrito": "Açores"
+ },
+ "512000778": {
+  "checked": "2026-08-31",
+  "slug": "miranda-ca-lda",
+  "estado": "Em Insolvência",
+  "nome": "Miranda & Ca Lda",
+  "morada": "Rua Machado dos Santos, 38, R/ C S. Sebastião 9500 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "47770",
+  "cae_desc": "Relógios, ourivesaria e joalharia",
+  "atividade": "No âmbito de Relógios, ourivesaria e joalharia"
+ },
+ "512001448": {
+  "checked": "2026-08-31",
+  "slug": "belchior-eloi-borges-ribeiro-filho-lda",
+  "estado": "Em Insolvência",
+  "nome": "Belchior Eloi Borges Ribeiro & Filho Lda",
+  "morada": "Boa Vista S/ N , Apartado 38 - Santa Cruz 9760-557 Praia da Vitoria",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Praia da Vitória",
+  "distrito": "Açores",
+  "cae": "47521",
+  "cae_desc": "Ferragens e vidro plano"
  },
  "512001642": {
   "checked": "2026-08-31",
@@ -22,6 +89,20 @@
   "distrito": "Açores",
   "cae": "45110",
   "cae_desc": "Automóveis ligeiros"
+ },
+ "512001731": {
+  "checked": "2026-08-31",
+  "slug": "artur-nascimento-armelim-companhia-lda",
+  "estado": "Em Atividade",
+  "nome": "Artur Nascimento Armelim & Companhia Lda",
+  "morada": "Largo de Santo Antão 9875-061 Santo Antão",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Calheta (São Jorge)",
+  "distrito": "Açores",
+  "cae": "47112",
+  "cae_desc": "Outros estabelecimentos de produtos alimentares, bebidas ou tabaco",
+  "atividade": "No âmbito de Outros estabelecimentos de produtos alimentares, bebidas ou tabaco"
  },
  "512002444": {
   "checked": "2026-08-31",
@@ -103,6 +184,9 @@
   "cae_desc": "Actividades fotográficas",
   "atividade": "No âmbito de Actividades fotográficas"
  },
+ "512003548": {
+  "checked": "2026-08-31"
+ },
  "512004609": {
   "checked": "2026-08-31",
   "slug": "tipografia-acor-limitada",
@@ -116,6 +200,19 @@
   "cae": "18120",
   "cae_desc": "Outra impressão",
   "atividade": "No âmbito de Outra impressão"
+ },
+ "512004625": {
+  "checked": "2026-08-31",
+  "slug": "electracor-sociedade-acoreana-de-materiais-electricos-s-a-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Electraçor - Sociedade Açoreana de Materiais Eléctricos, S.A. - Em Liquidação",
+  "morada": "Avenida Antero de Quental 51 - A 9500-160 Ponta Delgada",
+  "forma": "Sociedade Anónima",
+  "capital": "€ 980.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "46180",
+  "cae_desc": "Agentes especializados do comércio por grosso de outros produtos"
  },
  "512004650": {
   "checked": "2026-08-31",
@@ -171,6 +268,17 @@
   "cae_desc": "Impressão de jornais",
   "atividade": "No âmbito de Impressão de jornais"
  },
+ "512006199": {
+  "checked": "2026-08-31",
+  "slug": "f-matias-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "F. Matias Lda - Em Liquidação",
+  "morada": "Rua dos Manaias, 5, S. Sebastião 9500 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 199.519,15",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores"
+ },
  "512006229": {
   "checked": "2026-08-31",
   "slug": "delca-construtora-comercial-acoreana-lda-em-liquidacao",
@@ -225,6 +333,20 @@
   "cae": "23630",
   "cae_desc": "Betão pronto"
  },
+ "512008230": {
+  "checked": "2026-08-31",
+  "slug": "transportadora-e-serragem-micaelense-lda",
+  "estado": "Em Atividade",
+  "nome": "Transportadora e Serragem Micaelense Lda",
+  "morada": "Rua das Laranjeiras, 31, Armazém 40 9500-075 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "49410",
+  "cae_desc": "Transportes rodoviários de mercadorias",
+  "atividade": "No âmbito de Transportes rodoviários de mercadorias"
+ },
  "512008744": {
   "checked": "2026-08-31",
   "slug": "walter-oliveira-da-ponte-lda-em-liquidacao",
@@ -238,6 +360,20 @@
   "cae": "46460",
   "cae_desc": "Produtos farmacêuticos",
   "atividade": "No âmbito de Produtos farmacêuticos"
+ },
+ "512008779": {
+  "checked": "2026-08-31",
+  "slug": "pereira-carreiro-raposo-ca-lda",
+  "estado": "Encerrada",
+  "nome": "Pereira, Carreiro, Raposo & Ca Lda",
+  "morada": "Rua de São Gonçalo, 38, S. Pedro 9500-110 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 49.879,79",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "45200",
+  "cae_desc": "Manutenção e reparação",
+  "atividade": "No âmbito de Manutenção e reparação"
  },
  "512009228": {
   "checked": "2026-08-31",
@@ -405,6 +541,36 @@
   "cae_desc": "Estruturas metálicas",
   "atividade": "No âmbito de Estruturas metálicas"
  },
+ "512013080": {
+  "checked": "2026-08-31",
+  "slug": "edmundo-raposo-de-lima-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Edmundo Raposo de Lima Lda - Em Liquidação",
+  "morada": "Rua do Melo, 14 A 16 9500-091 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 500.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "47721",
+  "cae_desc": "Comércio a retalho de Calçado",
+  "atividade": "No âmbito de Comércio a retalho de Calçado"
+ },
+ "512013888": {
+  "checked": "2026-08-31"
+ },
+ "512013934": {
+  "checked": "2026-08-31",
+  "slug": "teofilo-s-a",
+  "estado": "Em Insolvência",
+  "nome": "Teófilo, S.A",
+  "morada": "Rua José Azevedo ( Peter), N 2 1800-107 Lisboa",
+  "forma": "Sociedade Anónima",
+  "capital": "€ 2.325.000,00",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "46732",
+  "cae_desc": "Materiais de construção (excepto madeira) e equipamento sanitário"
+ },
  "512013942": {
   "checked": "2026-08-31",
   "slug": "leonardos-distribuicao-alimentar-s-a",
@@ -417,6 +583,59 @@
   "distrito": "Açores",
   "cae": "46382",
   "cae_desc": "Comércio por grosso de outros produtos alimentares"
+ },
+ "512014035": {
+  "checked": "2026-08-31",
+  "slug": "joao-h-t-camara-lda",
+  "estado": "Encerrada",
+  "nome": "João H.T.camara Lda",
+  "morada": "Rua Infante Sagres, N 19 9650-422 Povoacao",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 80.000,00",
+  "concelho": "Povoação",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
+ },
+ "512014175": {
+  "checked": "2026-08-31",
+  "slug": "daniel-raposo-de-sousa-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Daniel Raposo de Sousa Lda, Em Liquidação",
+  "morada": "Avª D. João III, 8-A R/C Ponta Delgada 9500-107 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 200.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "46460",
+  "cae_desc": "Produtos farmacêuticos"
+ },
+ "512014345": {
+  "checked": "2026-08-31",
+  "slug": "velastrafego-agencia-de-navegacao-e-transitos-lda",
+  "estado": "Em Atividade",
+  "nome": "Velastrafego-Agência de Navegação e Transitos Lda",
+  "morada": "Velas 9800-000 Velas",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Velas",
+  "distrito": "Açores",
+  "cae": "52291",
+  "cae_desc": "Organização do transporte",
+  "atividade": "No âmbito de Organização do transporte"
+ },
+ "512014388": {
+  "checked": "2026-08-31",
+  "slug": "cooperativa-agricola-de-nordeste-crl",
+  "estado": "Em Insolvência",
+  "nome": "Cooperativa Agricola de Nordeste Crl",
+  "morada": "R das Courelas 1 9630-000 Achada",
+  "forma": "Cooperativa",
+  "capital": "Não disponível",
+  "cae": "46211",
+  "cae_desc": "Alimentos para animais",
+  "atividade": "No âmbito de Alimentos para animais"
  },
  "512014809": {
   "checked": "2026-08-31",
@@ -432,6 +651,48 @@
   "cae_desc": "Estradas e pistas de aeroportos",
   "atividade": "No âmbito de Estradas e pistas de aeroportos"
  },
+ "512014973": {
+  "checked": "2026-08-31",
+  "slug": "manuel-da-silva-sousa-filhos-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Manuel da Silva Sousa & Filhos Lda - Em Liquidação",
+  "morada": "Rua da Boavista 9880-360 Santa Cruz da Graciosa",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Santa Cruz da Graciosa",
+  "distrito": "Açores",
+  "cae": "47192",
+  "cae_desc": "Outros estabelecimentos",
+  "atividade": "No âmbito de Outros estabelecimentos"
+ },
+ "512014981": {
+  "checked": "2026-08-31",
+  "slug": "martinho-grilo-coelho-ca-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Martinho Grilo Coelho & Ca Lda - Em Liquidação",
+  "morada": "Rua Machado dos Santos, 74, R/ C 9500-083 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 15.500,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "47782",
+  "cae_desc": "Material óptico, fotográfico, cinematográfico e instrumentos de precisão",
+  "atividade": "No âmbito de Material óptico, fotográfico, cinematográfico e instrumentos de precisão"
+ },
+ "512015244": {
+  "checked": "2026-08-31",
+  "slug": "jose-c-batista-companhia-lda",
+  "estado": "Em Insolvência",
+  "nome": "José C. Batista & Companhia Lda",
+  "morada": "Vila do Porto 9580-529 Vila do Porto",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Vila do Porto",
+  "distrito": "Açores",
+  "cae": "47111",
+  "cae_desc": "Supermercados e hipermercados",
+  "atividade": "No âmbito de Supermercados e hipermercados"
+ },
  "512016070": {
   "checked": "2026-08-31",
   "slug": "discoteca-vasco-correia-sociedade-unipessoal-lda",
@@ -444,6 +705,20 @@
   "distrito": "Açores",
   "cae": "47630",
   "cae_desc": "Discos, CD, DVD, cassetes e similares"
+ },
+ "512016143": {
+  "checked": "2026-08-31",
+  "slug": "zimodas-estabelecimentos-de-pronto-a-vestir-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Zimodas-Estabelecimentos de Pronto A Vestir Lda - Em Liquidação",
+  "morada": "R da Praça 20 R/C D 9900-401 Horta",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 14.963,94",
+  "concelho": "Horta",
+  "distrito": "Açores",
+  "cae": "47711",
+  "cae_desc": "Vestuário para adultos",
+  "atividade": "No âmbito de Vestuário para adultos"
  },
  "512016305": {
   "checked": "2026-08-31",
@@ -472,6 +747,17 @@
   "cae": "47592",
   "cae_desc": "Louças e cutelaria",
   "atividade": "No âmbito de Louças e cutelaria"
+ },
+ "512016968": {
+  "checked": "2026-08-31",
+  "slug": "henrique-pimentel-de-andrade-filhos-lda",
+  "estado": "Encerrada",
+  "nome": "Henrique Pimentel de Andrade & Filhos Lda",
+  "morada": "Caminho do Matadouro, Ponta Delgada 9500-182 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 8.978,32",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores"
  },
  "512016976": {
   "checked": "2026-08-31",
@@ -541,6 +827,33 @@
   "cae_desc": "Automóveis ligeiros",
   "atividade": "No âmbito de Automóveis ligeiros"
  },
+ "512019215": {
+  "checked": "2026-08-31",
+  "slug": "m-gil-oliveira-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "M.gil & Oliveira Lda - Em Liquidação",
+  "morada": "R da Cruz 40 9600-134 Ribeira Grande",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Ribeira Grande",
+  "distrito": "Açores",
+  "cae": "46381",
+  "cae_desc": "Peixe, crustáceos e moluscos",
+  "atividade": "No âmbito de Peixe, crustáceos e moluscos"
+ },
+ "512019355": {
+  "checked": "2026-08-31",
+  "slug": "luis-furtado-filhos-limitada",
+  "estado": "Em Atividade",
+  "nome": "Luis Furtado & Filhos, Limitada",
+  "morada": "Rua Vasco Bensaúde, N 53 9675-055 Furnas",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Povoação",
+  "distrito": "Açores",
+  "cae": "47191",
+  "cae_desc": "Comércio a retalho em grandes armazéns e similares"
+ },
  "512020108": {
   "checked": "2026-08-31",
   "slug": "a-m-furtado-s-a-em-liquidacao",
@@ -594,6 +907,34 @@
   "cae_desc": "Hotéis apartamentos",
   "atividade": "No âmbito de Hotéis apartamentos"
  },
+ "512021805": {
+  "checked": "2026-08-31",
+  "slug": "fotografia-corvelo-limitada",
+  "estado": "Encerrada",
+  "nome": "Fotografia Corvelo, Limitada",
+  "morada": "Rua Nicolau Anastacio Bettencourt, N.º 59 9700-178 Angra do Heroismo",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "47782",
+  "cae_desc": "Material óptico, fotográfico, cinematográfico e instrumentos de precisão",
+  "atividade": "No âmbito de Material óptico, fotográfico, cinematográfico e instrumentos de precisão"
+ },
+ "512021988": {
+  "checked": "2026-08-31",
+  "slug": "ferreira-camara-lda",
+  "estado": "Encerrada",
+  "nome": "Ferreira & Camara Lda",
+  "morada": "Rua de São Miguel, 36 A, São José 9500-244 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 112.968,74",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "25120",
+  "cae_desc": "Portas e janelas em metal",
+  "atividade": "No âmbito de Portas e janelas em metal"
+ },
  "512022291": {
   "checked": "2026-08-31",
   "slug": "construcoes-couto-couto-lda-em-liquidacao",
@@ -607,6 +948,17 @@
   "cae": "42990",
   "cae_desc": "Outras obras de engenharia civil",
   "atividade": "No âmbito de Outras obras de engenharia civil"
+ },
+ "512023026": {
+  "checked": "2026-08-31",
+  "slug": "sociedade-de-despachantes-oficiais-aduaneiros-marino-alvaro-lemos-teves-lda",
+  "estado": "Encerrada",
+  "nome": "Sociedade de Despachantes Oficiais Aduaneiros Marino, Alvaro Lemos & Teves Lda",
+  "morada": "Rua Luís Soares de Sousa, 46, S. José 9500-217 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.500.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores"
  },
  "512023042": {
   "checked": "2026-08-31",
@@ -650,6 +1002,20 @@
   "cae_desc": "Moldagem e transformação de vidro plano",
   "atividade": "No âmbito de Moldagem e transformação de vidro plano"
  },
+ "512024421": {
+  "checked": "2026-08-31",
+  "slug": "talho-amigo-de-paulo-silva-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Talho Amigo de Paulo Silva Lda - Em Liquidação",
+  "morada": "Mercado Duque de Bragança 9700-160 Angra do Heroismo",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "47220",
+  "cae_desc": "Comércio a retalho de carne e produtos à base de carne",
+  "atividade": "No âmbito de Comércio a retalho de carne e produtos à base de carne"
+ },
  "512024499": {
   "checked": "2026-08-31",
   "slug": "jaime-cruz-artes-graficas-lda",
@@ -663,6 +1029,33 @@
   "cae": "18120",
   "cae_desc": "Outra impressão"
  },
+ "512024693": {
+  "checked": "2026-08-31",
+  "slug": "ciclo-agro-pecuario-de-sao-jorge-lda",
+  "estado": "Em Atividade",
+  "nome": "Ciclo Agro-Pecuario de São Jorge Lda",
+  "morada": "Avenida do Livramento 9800-522 Velas",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 59.855,75",
+  "concelho": "Velas",
+  "distrito": "Açores",
+  "cae": "46750",
+  "cae_desc": "Produtos químicos"
+ },
+ "512025258": {
+  "checked": "2026-08-31",
+  "slug": "pedro-ataide-pavao-lda",
+  "estado": "Em Atividade",
+  "nome": "Pedro & Ataide Pavão, Lda",
+  "morada": "À Igreja 9700-661 Angra do Heroismo",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "1410",
+  "cae_desc": "Bovinos para produção de leite",
+  "atividade": "No âmbito de Bovinos para produção de leite"
+ },
  "512025584": {
   "checked": "2026-08-31",
   "slug": "meireles-coelho-lda",
@@ -675,6 +1068,33 @@
   "distrito": "Porto",
   "cae": "14131",
   "cae_desc": "Confecção de outro vestuário exterior em série"
+ },
+ "512025754": {
+  "checked": "2026-08-31",
+  "slug": "lavacor-comercio-por-grosso-e-retalho-produtos-higiene-e-limpezas-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Lavaçor-Comercio Por Grosso e Retalho Produtos Higiene e Limpezas Lda - Em Liquidação",
+  "morada": "R Pedro Homem 42 9500-099 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 24.939,90",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "46442",
+  "cae_desc": "Produtos de limpeza"
+ },
+ "512026068": {
+  "checked": "2026-08-31",
+  "slug": "primhotel-equipamentos-para-hotelaria-e-industria-alimentar-lda",
+  "estado": "Em Atividade",
+  "nome": "Primhotel - Equipamentos Para Hotelaria e Industria Alimentar, Lda",
+  "morada": "Rua António Feliciano Castilho, N 180 2870-020 Montijo",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Montijo",
+  "distrito": "Setúbal",
+  "cae": "47784",
+  "cae_desc": "Outros produtos novos",
+  "atividade": "No âmbito de Outros produtos novos"
  },
  "512026106": {
   "checked": "2026-08-31",
@@ -703,6 +1123,20 @@
   "cae_desc": "Material óptico, fotográfico, cinematográfico e instrumentos de precisão",
   "atividade": "No âmbito de Material óptico, fotográfico, cinematográfico e instrumentos de precisão"
  },
+ "512026513": {
+  "checked": "2026-08-31",
+  "slug": "telaco-telecomunicacoes-e-electronica-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Telaco - Telecomunicações e Electrónica Lda - Em Liquidação",
+  "morada": "Rua José Barbosa, 54 4450-099 Matosinhos",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "46520",
+  "cae_desc": "Equipamentos electrónicos, de telecomunicações e suas partes",
+  "atividade": "No âmbito de Equipamentos electrónicos, de telecomunicações e suas partes"
+ },
  "512026521": {
   "checked": "2026-08-31",
   "slug": "lectrificacoes-martinho-sousa-filhos-lda-em-liquidacao",
@@ -716,6 +1150,20 @@
   "cae": "47781",
   "cae_desc": "Máquinas e outro material de escritório",
   "atividade": "No âmbito de Máquinas e outro material de escritório"
+ },
+ "512026777": {
+  "checked": "2026-08-31",
+  "slug": "armindo-c-dias-lda",
+  "estado": "Em Insolvência",
+  "nome": "Armindo C.dias Lda",
+  "morada": "R do Avião 9760-257 Praia da Vitoria",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Praia da Vitória",
+  "distrito": "Açores",
+  "cae": "25120",
+  "cae_desc": "Portas e janelas em metal",
+  "atividade": "No âmbito de Portas e janelas em metal"
  },
  "512026947": {
   "checked": "2026-08-31",
@@ -731,6 +1179,33 @@
   "cae_desc": "Serração de madeira",
   "atividade": "No âmbito de Serração de madeira"
  },
+ "512026963": {
+  "checked": "2026-08-31",
+  "slug": "carreiro-morais-sociedade-unipessoal-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Carreiro & Morais, Sociedade Unipessoal, Lda, Em Liquidação",
+  "morada": "R da Pranchinha 46 - São Pedro 9500-331 Ponta Delgada",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 109.735,54",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "47784",
+  "cae_desc": "Outros produtos novos"
+ },
+ "512026971": {
+  "checked": "2026-08-31",
+  "slug": "renato-resendes-lda",
+  "estado": "Em Insolvência",
+  "nome": "Renato Resendes, Lda",
+  "morada": "Rua do Brum, Nº. 44 9500-036 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "46460",
+  "cae_desc": "Produtos farmacêuticos",
+  "atividade": "No âmbito de Produtos farmacêuticos"
+ },
  "512027137": {
   "checked": "2026-08-31",
   "slug": "naviangra-navegacao-aviacao-e-transitos-lda",
@@ -744,6 +1219,20 @@
   "cae": "52291",
   "cae_desc": "Organização do transporte",
   "atividade": "No âmbito de Organização do transporte"
+ },
+ "512027641": {
+  "checked": "2026-08-31",
+  "slug": "labao-garcia-lda",
+  "estado": "Em Insolvência",
+  "nome": "Labão & Garcia Lda",
+  "morada": "Rua Carvalho Araújo, 24, Matriz, Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "47770",
+  "cae_desc": "Relógios, ourivesaria e joalharia",
+  "atividade": "No âmbito de Relógios, ourivesaria e joalharia"
  },
  "512027765": {
   "checked": "2026-08-31",
@@ -787,6 +1276,45 @@
   "cae_desc": "Automóveis",
   "atividade": "No âmbito de Automóveis"
  },
+ "512028257": {
+  "checked": "2026-08-31",
+  "slug": "carlos-orlando-sequeira-de-melo-lda",
+  "estado": "Encerrada",
+  "nome": "Carlos Orlando Sequeira de Melo, Lda",
+  "morada": "Rua Padre Xavier Madruga 9930 Lajes do Pico",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Lajes do Pico",
+  "distrito": "Açores"
+ },
+ "512028320": {
+  "checked": "2026-08-31",
+  "slug": "construcoes-b-santos-limitada",
+  "estado": "Em Atividade",
+  "nome": "Construções B.santos, Limitada",
+  "morada": "Rua Diogo de Teive, N. 54",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
+ },
+ "512029091": {
+  "checked": "2026-08-31",
+  "slug": "toste-rego-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Toste Rego Lda - Em Liquidação",
+  "morada": "Canada Francisco Cabral N 10 9500-604 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 500.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "43320",
+  "cae_desc": "Montagem de trabalhos de carpintaria e de caixilharia",
+  "atividade": "No âmbito de Montagem de trabalhos de carpintaria e de caixilharia"
+ },
  "512029490": {
   "checked": "2026-08-31",
   "slug": "suma-comunicacao-e-merchandising-lda-em-liquidacao",
@@ -801,6 +1329,20 @@
   "cae_desc": "Estudos de mercado e sondagens de opinião",
   "atividade": "No âmbito de Estudos de mercado e sondagens de opinião"
  },
+ "512029504": {
+  "checked": "2026-08-31",
+  "slug": "jocosta-contabilidade-e-organizacao-de-empresas-lda",
+  "estado": "Encerrada",
+  "nome": "Jocosta-Contabilidade e Organização de Empresas Lda",
+  "morada": "Rua Manuel Inácio Correia, 73, 2 Dt , S. Sebastião 9500-087 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "69200",
+  "cae_desc": "Contabilidade, auditoria e consultoria fiscal",
+  "atividade": "No âmbito de Contabilidade, auditoria e consultoria fiscal"
+ },
  "512029717": {
   "checked": "2026-08-31",
   "slug": "samacor-britas-e-inertes-de-santa-maria-lda",
@@ -810,6 +1352,20 @@
   "forma": "Sociedade por Quotas",
   "capital": "Não disponível",
   "concelho": "Vila do Porto",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
+ },
+ "512030189": {
+  "checked": "2026-08-31",
+  "slug": "jose-da-cunha-filhos-lda",
+  "estado": "Em Atividade",
+  "nome": "José da Cunha & Filhos Lda",
+  "morada": "2ª Rua do Terreiro, 39, São Roque 9500-713 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Ponta Delgada",
   "distrito": "Açores",
   "cae": "41200",
   "cae_desc": "Construção de edifícios",
@@ -829,6 +1385,9 @@
   "cae_desc": "Salões de cabeleireiro",
   "atividade": "No âmbito de Salões de cabeleireiro"
  },
+ "512030413": {
+  "checked": "2026-08-31"
+ },
  "512030570": {
   "checked": "2026-08-31",
   "slug": "avitoste-lda",
@@ -841,6 +1400,20 @@
   "distrito": "Açores",
   "cae": "1470",
   "cae_desc": "Avicultura"
+ },
+ "512030715": {
+  "checked": "2026-08-31",
+  "slug": "som-moveis-lajense-comercializacao-de-material-electrico-e-moveis-lda",
+  "estado": "Em Atividade",
+  "nome": "Som-Moveis-Lajense-Comercialização de Material Electrico e Moveis Lda",
+  "morada": "R do Cruzeiro 183 9760-314 Cruzeiro",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Praia da Vitória",
+  "distrito": "Açores",
+  "cae": "47591",
+  "cae_desc": "Mobiliário e artigos de iluminação",
+  "atividade": "No âmbito de Mobiliário e artigos de iluminação"
  },
  "512030839": {
   "checked": "2026-08-31",
@@ -855,6 +1428,19 @@
   "cae": "10712",
   "cae_desc": "Pastelaria",
   "atividade": "No âmbito de Pastelaria"
+ },
+ "512030863": {
+  "checked": "2026-08-31",
+  "slug": "alicor-comercio-alimentar-lda",
+  "estado": "Encerrada",
+  "nome": "Aliçor-Comercio Alimentar Lda",
+  "morada": "R S.francisco 69 9600-537 Ribeira Grande",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 99.760,00",
+  "concelho": "Ribeira Grande",
+  "distrito": "Açores",
+  "cae": "47112",
+  "cae_desc": "Outros estabelecimentos de produtos alimentares, bebidas ou tabaco"
  },
  "512030898": {
   "checked": "2026-08-31",
@@ -882,6 +1468,20 @@
   "distrito": "Açores",
   "cae": "47740",
   "cae_desc": "Produtos médicos e ortopédicos"
+ },
+ "512031240": {
+  "checked": "2026-08-31",
+  "slug": "teixeira-teixeira-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Teixeira & Teixeira Lda - Em Liquidação",
+  "morada": "Rua Calço da Má Cara, 21, Matriz, Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 400.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores"
+ },
+ "512031266": {
+  "checked": "2026-08-31"
  },
  "512031622": {
   "checked": "2026-08-31",
@@ -913,6 +1513,20 @@
  "512032181": {
   "checked": "2026-08-31"
  },
+ "512032351": {
+  "checked": "2026-08-31",
+  "slug": "manpower-acores-servicos-de-recursos-humanos-empresa-de-trabalho-temporario-lda",
+  "estado": "Encerrada",
+  "nome": "Manpower Açores-Serviços de Recursos Humanos (Empresa de Trabalho Temporário) Lda",
+  "morada": "Av D João Iii 10, 2 E, F 9500-310 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "78100",
+  "cae_desc": "Selecção e colocação de pessoal",
+  "atividade": "No âmbito de Selecção e colocação de pessoal"
+ },
  "512032653": {
   "checked": "2026-08-31",
   "slug": "mobiladora-lajense-sociedade-industrial-e-comercial-lda",
@@ -926,6 +1540,33 @@
   "cae": "47591",
   "cae_desc": "Mobiliário e artigos de iluminação",
   "atividade": "No âmbito de Mobiliário e artigos de iluminação"
+ },
+ "512032670": {
+  "checked": "2026-08-31",
+  "slug": "pereira-pereira-filhos-limitada",
+  "estado": "Em Atividade",
+  "nome": "Pereira & Pereira Filhos Limitada",
+  "morada": "Quinta da Achada - Cabrito 9700-368 Angra do Heroismo",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "43991",
+  "cae_desc": "Aluguer de equipamento de construção e de demolição, com operador",
+  "atividade": "No âmbito de Aluguer de equipamento de construção e de demolição, com operador"
+ },
+ "512032742": {
+  "checked": "2026-08-31",
+  "slug": "freitas-braga-braga-lda",
+  "estado": "Em Insolvência",
+  "nome": "Freitas Braga & Braga Lda",
+  "morada": "Rua do Boqueirão 9970-390 Santa Cruz das Flores",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 100.000,00",
+  "concelho": "Santa Cruz das Flores",
+  "distrito": "Açores",
+  "cae": "47112",
+  "cae_desc": "Outros estabelecimentos de produtos alimentares, bebidas ou tabaco"
  },
  "512032769": {
   "checked": "2026-08-31",
@@ -981,6 +1622,17 @@
   "cae_desc": "Vestuário para adultos",
   "atividade": "No âmbito de Vestuário para adultos"
  },
+ "512033501": {
+  "checked": "2026-08-31",
+  "slug": "serfibras-fabrica-de-fibra-de-vidro-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Serfibras-Fabrica de Fibra de Vidro Lda - Em Liquidação",
+  "morada": "Rua Senhora da Rosa, 3, Fajã de Baixo 9500-450 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 30.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores"
+ },
  "512033730": {
   "checked": "2026-08-31",
   "slug": "balcacaria-actividade-hoteleiras-e-similares-limitada",
@@ -995,6 +1647,19 @@
   "cae_desc": "Restaurantes com lugares ao balcão",
   "atividade": "No âmbito de Restaurantes com lugares ao balcão"
  },
+ "512033870": {
+  "checked": "2026-08-31",
+  "slug": "super-mercado-barraca-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Super Mercado Barraca, Lda - Em Liquidaçâo",
+  "morada": "R Padre João de Medeiros 1 9650-403 Povoação",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 74.819,68",
+  "concelho": "Povoação",
+  "distrito": "Açores",
+  "cae": "47112",
+  "cae_desc": "Outros estabelecimentos de produtos alimentares, bebidas ou tabaco"
+ },
  "512034109": {
   "checked": "2026-08-31",
   "slug": "radio-ilha-lda",
@@ -1008,6 +1673,19 @@
   "cae": "60100",
   "cae_desc": "Actividades de rádio",
   "atividade": "No âmbito de Actividades de rádio"
+ },
+ "512034508": {
+  "checked": "2026-08-31",
+  "slug": "jose-miguel-serpa-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "José Miguel Serpa Lda - Em Liquidação",
+  "morada": "Rua do Negrão, 62, S. Pedro 9500-334 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 50.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "47711",
+  "cae_desc": "Vestuário para adultos"
  },
  "512034575": {
   "checked": "2026-08-31",
@@ -1037,6 +1715,87 @@
   "cae_desc": "Engenharia e técnicas afins",
   "atividade": "No âmbito de Engenharia e técnicas afins"
  },
+ "512034796": {
+  "checked": "2026-08-31",
+  "slug": "292-comercio-automovel-lda",
+  "estado": "Em Insolvência",
+  "nome": "292 - Comércio Automóvel Lda",
+  "morada": "Quinhões 9900-371 Horta",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Horta",
+  "distrito": "Açores",
+  "cae": "45110",
+  "cae_desc": "Automóveis ligeiros",
+  "atividade": "No âmbito de Automóveis ligeiros"
+ },
+ "512035067": {
+  "checked": "2026-08-31",
+  "slug": "raiz-quadrada-recursos-humanos-e-consultadoria-lda",
+  "estado": "Em Atividade",
+  "nome": "Raiz Quadrada-Recursos Humanos e Consultadoria Lda",
+  "morada": "Estrada da Ribeira Grande, 1019-1023, S. Roque 9500-702 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "70220",
+  "cae_desc": "Outras actividades de consultoria para os negócios e a gestão",
+  "atividade": "No âmbito de Outras actividades de consultoria para os negócios e a gestão"
+ },
+ "512035547": {
+  "checked": "2026-08-31",
+  "slug": "angelo-silva-filhos-lda",
+  "estado": "Em Atividade",
+  "nome": "Angelo Silva & Filhos Lda",
+  "morada": "Lugar do Barreiro",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Calheta (São Jorge)",
+  "distrito": "Açores",
+  "cae": "56301",
+  "cae_desc": "Cafés",
+  "atividade": "No âmbito de Cafés"
+ },
+ "512035776": {
+  "checked": "2026-08-31",
+  "slug": "escola-de-conducao-atlantida-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Escola de Condução Atlântida, Lda - Em Liquidação",
+  "morada": "Avenida Gago Coutinho e Sacadura Cabral, Nº 4-A 9900-062 Horta",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Horta",
+  "distrito": "Açores",
+  "cae": "85530",
+  "cae_desc": "Escolas de condução e pilotagem",
+  "atividade": "No âmbito de Escolas de condução e pilotagem"
+ },
+ "512035997": {
+  "checked": "2026-08-31",
+  "slug": "iberia-mota-representacoes-e-servicos-lda",
+  "estado": "Encerrada",
+  "nome": "Iberia & Mota-Representações e Serviços Lda",
+  "morada": "Rua Dr Filipe da Cunha Álvares Cabral, 54, S. José 9500-247 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 20.000.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores"
+ },
+ "512036047": {
+  "checked": "2026-08-31",
+  "slug": "anselmo-tavares-lda",
+  "estado": "Encerrada",
+  "nome": "Anselmo & Tavares Lda",
+  "morada": "Rua do Poço Velho, São Roque 9500-996 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 99.759,58",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "46130",
+  "cae_desc": "Agentes do comércio por grosso de madeira e materiais de construção",
+  "atividade": "No âmbito de Agentes do comércio por grosso de madeira e materiais de construção"
+ },
  "512036144": {
   "checked": "2026-08-31",
   "slug": "machado-tavares-limitada",
@@ -1061,6 +1820,20 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios",
   "atividade": "No âmbito de Construção de edifícios"
+ },
+ "512036721": {
+  "checked": "2026-08-31",
+  "slug": "indupan-industria-de-panificacao-do-nordeste-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Indupan - Indústria de Panificação do Nordeste Lda - Em Liquidação",
+  "morada": "Est Regional 1-Barreiros 9630-103 Nordeste",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Nordeste",
+  "distrito": "Açores",
+  "cae": "10711",
+  "cae_desc": "Panificação",
+  "atividade": "No âmbito de Panificação"
  },
  "512036802": {
   "checked": "2026-08-31",
@@ -1143,6 +1916,20 @@
   "cae_desc": "Actividades fotográficas",
   "atividade": "No âmbito de Actividades fotográficas"
  },
+ "512037434": {
+  "checked": "2026-08-31",
+  "slug": "setacor-artes-graficas-lda",
+  "estado": "Em Atividade",
+  "nome": "Setaçor - Artes Graficas Lda",
+  "morada": "Rua Cruz Dourada, N. 5",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "18120",
+  "cae_desc": "Outra impressão",
+  "atividade": "No âmbito de Outra impressão"
+ },
  "512037485": {
   "checked": "2026-08-31",
   "slug": "oliveira-morgado-lda",
@@ -1157,6 +1944,20 @@
   "cae_desc": "Máquinas agrícolas",
   "atividade": "No âmbito de Máquinas agrícolas"
  },
+ "512037558": {
+  "checked": "2026-08-31",
+  "slug": "aluminoferragens-comercio-de-ferragens-e-utilidades-s-goncalves-ca-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Aluminoferragens - Comércio de Ferragens e Utilidades S.gonçalves & Ca. Lda - Em Liquidação",
+  "morada": "Zona Industrial de Madalena 9950-321 Madalena",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 160.000,00",
+  "concelho": "Madalena",
+  "distrito": "Açores",
+  "cae": "47521",
+  "cae_desc": "Ferragens e vidro plano",
+  "atividade": "No âmbito de Ferragens e vidro plano"
+ },
  "512037817": {
   "checked": "2026-08-31",
   "slug": "gestao-corrente-consultores-de-gestao-e-contabilidade-lda",
@@ -1170,6 +1971,34 @@
   "cae": "69200",
   "cae_desc": "Contabilidade, auditoria e consultoria fiscal",
   "atividade": "No âmbito de Contabilidade, auditoria e consultoria fiscal"
+ },
+ "512037850": {
+  "checked": "2026-08-31",
+  "slug": "blocovila-ventura-veloso-filhos-lda",
+  "estado": "Em Insolvência",
+  "nome": "Blocovila - Ventura, Veloso & Filhos, Lda",
+  "morada": "Parque Industrial de Vila Franca do Campo 9680 Vila Franca do Campo",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Vila Franca do Campo",
+  "distrito": "Açores",
+  "cae": "23610",
+  "cae_desc": "Produtos de betão para a construção",
+  "atividade": "No âmbito de Produtos de betão para a construção"
+ },
+ "512037876": {
+  "checked": "2026-08-31",
+  "slug": "w-o-p-produtos-farmaceuticos-lda",
+  "estado": "Em Insolvência",
+  "nome": "W.O.P. - Produtos Farmaceuticos, Lda",
+  "morada": "Rua do Salinas, N. S 14 e 18 9700-172 Angra do Heroismo",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "46460",
+  "cae_desc": "Produtos farmacêuticos",
+  "atividade": "No âmbito de Produtos farmacêuticos"
  },
  "512037922": {
   "checked": "2026-08-31",
@@ -1255,6 +2084,20 @@
   "cae_desc": "Pesca marítima",
   "atividade": "No âmbito de Pesca marítima"
  },
+ "512039003": {
+  "checked": "2026-08-31",
+  "slug": "mantop-sociedade-de-investimentos-e-representacoes-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Mantop - Sociedade de Investimentos e Representações Lda, Em Liquidação",
+  "morada": "R Eng Jaime de Sousa Lima, 18, Lagoa 9560-119 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 50.000,00",
+  "concelho": "Lagoa (São Miguel)",
+  "distrito": "Açores",
+  "cae": "46342",
+  "cae_desc": "Bebidas não alcoólicas",
+  "atividade": "No âmbito de Bebidas não alcoólicas"
+ },
  "512039348": {
   "checked": "2026-08-31",
   "slug": "henrique-machado-industria-de-carnes-lda",
@@ -1265,6 +2108,9 @@
   "capital": "€ 129.687,45",
   "concelho": "Ponta Delgada",
   "distrito": "Açores"
+ },
+ "512039518": {
+  "checked": "2026-08-31"
  },
  "512039526": {
   "checked": "2026-08-31",
@@ -1294,6 +2140,34 @@
   "cae_desc": "Actividades de limpeza geral em edifícios",
   "atividade": "No âmbito de Actividades de limpeza geral em edifícios"
  },
+ "512039577": {
+  "checked": "2026-08-31",
+  "slug": "mgs-marcos-garcia-soares-lda",
+  "estado": "Em Atividade",
+  "nome": "Mgs - Marcos, Garcia, Soares Lda",
+  "morada": "Madalena 9950 Madalena (Pico)",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Madalena",
+  "distrito": "Açores",
+  "cae": "56102",
+  "cae_desc": "Restaurantes com lugares ao balcão",
+  "atividade": "No âmbito de Restaurantes com lugares ao balcão"
+ },
+ "512039623": {
+  "checked": "2026-08-31",
+  "slug": "jose-domingos-da-silveira-herdeiros-lda",
+  "estado": "Encerrada",
+  "nome": "José Domingos da Silveira Herdeiros Lda",
+  "morada": "Rua Direita, N.ºS 111/113 9700-066 Angra do Heroismo",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 11.500.000,00",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "47593",
+  "cae_desc": "Outros artigos para o lar",
+  "atividade": "No âmbito de Outros artigos para o lar"
+ },
  "512039690": {
   "checked": "2026-08-31",
   "slug": "quimac-a-r-w-construcao-civil-e-actividades-imobiliarias-lda",
@@ -1307,6 +2181,20 @@
   "cae": "68100",
   "cae_desc": "Compra e venda de bens imobiliários",
   "atividade": "No âmbito de Compra e venda de bens imobiliários"
+ },
+ "512040265": {
+  "checked": "2026-08-31",
+  "slug": "foto-azevedo-lda",
+  "estado": "Em Atividade",
+  "nome": "Foto Azevedo Lda",
+  "morada": "Rua de São João, N . 11 9800-539 Velas",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Velas",
+  "distrito": "Açores",
+  "cae": "74200",
+  "cae_desc": "Actividades fotográficas",
+  "atividade": "No âmbito de Actividades fotográficas"
  },
  "512040796": {
   "checked": "2026-08-31",
@@ -1332,6 +2220,34 @@
   "cae": "80100",
   "cae_desc": "Actividades de segurança privada"
  },
+ "512040842": {
+  "checked": "2026-08-31",
+  "slug": "cafe-cervejaria-restaurante-francisco-da-luz-filhos-lda",
+  "estado": "Encerrada",
+  "nome": "Café-Cervejaria/Restaurante - Francisco da Luz & Filhos Lda",
+  "morada": "Largo da Fonte 1, Fajã de Cima 9500-506 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 65.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais",
+  "atividade": "No âmbito de Restaurantes tradicionais"
+ },
+ "512040850": {
+  "checked": "2026-08-31",
+  "slug": "micaelense-agencia-de-viagens-e-turismo-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Micaelense - Agência de Viagens e Turismo Lda - Em Liquidação",
+  "morada": "R Ernesto do Canto 52-São Pedro 9500-312 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 20.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "79110",
+  "cae_desc": "Agências de viagem",
+  "atividade": "No âmbito de Agências de viagem"
+ },
  "512040940": {
   "checked": "2026-08-31",
   "slug": "restaurante-a-arvore-lda",
@@ -1346,6 +2262,19 @@
   "cae_desc": "Restaurantes tradicionais",
   "atividade": "No âmbito de Restaurantes tradicionais"
  },
+ "512041652": {
+  "checked": "2026-08-31",
+  "slug": "servicos-tecnico-electricos-moniz-moniz-unipessoal-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Serviços Técnico-Eléctricos Moniz & Moniz, Unipessoal Lda - Em Liquidação",
+  "morada": "R Teófilo Braga 67-B 9500-247 Ponta Delgada",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 100.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "43210",
+  "cae_desc": "Instalação eléctrica"
+ },
  "512041687": {
   "checked": "2026-08-31",
   "slug": "construcoes-meneses-mcfadden-lda-em-liquidacao",
@@ -1359,6 +2288,30 @@
   "cae": "42110",
   "cae_desc": "Estradas e pistas de aeroportos",
   "atividade": "No âmbito de Estradas e pistas de aeroportos"
+ },
+ "512041695": {
+  "checked": "2026-08-31",
+  "slug": "marcolino-da-costa-camilo-filhos-lda",
+  "estado": "Em Atividade",
+  "nome": "Marcolino da Costa Camilo & Filhos Lda",
+  "morada": "R.dos Pinheiros 2 9500-761 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "46731",
+  "cae_desc": "Madeira em bruto"
+ },
+ "512041741": {
+  "checked": "2026-08-31",
+  "slug": "creche-e-jardim-de-infancia-o-ninho-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Creche e Jardim de Infância - O Ninho Lda - Em Liquidação",
+  "morada": "R.dos Capas 52 S. José 9500 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 400.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores"
  },
  "512041750": {
   "checked": "2026-08-31",
@@ -1429,6 +2382,20 @@
   "cae": "3111",
   "cae_desc": "Pesca marítima",
   "atividade": "No âmbito de Pesca marítima"
+ },
+ "512043175": {
+  "checked": "2026-08-31"
+ },
+ "512043388": {
+  "checked": "2026-08-31",
+  "slug": "auto-moniz-sociedade-representacoes-e-reparacoes-auto-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Auto Moniz, Sociedade Representações e Reparações Auto, Lda - Em Liquidação",
+  "morada": "Rua da Quintã, N. 13 9560-067 Lagoa",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 400.000,00",
+  "concelho": "Lagoa (São Miguel)",
+  "distrito": "Açores"
  },
  "512043507": {
   "checked": "2026-08-31",
@@ -1567,6 +2534,12 @@
   "cae_desc": "Turismo rural",
   "atividade": "No âmbito de Turismo rural"
  },
+ "512045089": {
+  "checked": "2026-08-31"
+ },
+ "512045240": {
+  "checked": "2026-08-31"
+ },
  "512045267": {
   "checked": "2026-08-31"
  },
@@ -1688,6 +2661,17 @@
   "concelho": "Ponta Delgada",
   "distrito": "Açores"
  },
+ "512047898": {
+  "checked": "2026-08-31",
+  "slug": "lima-pimentel-ld",
+  "estado": "Em Insolvência",
+  "nome": "Lima & Pimentel, Ld",
+  "morada": "Estrada Regional, N. 21",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Vila Franca do Campo",
+  "distrito": "Açores"
+ },
  "512048193": {
   "checked": "2026-08-31",
   "slug": "construcoes-fernando-terceira-lda",
@@ -1730,6 +2714,20 @@
   "cae_desc": "Construção de edifícios",
   "atividade": "No âmbito de Construção de edifícios"
  },
+ "512048819": {
+  "checked": "2026-08-31",
+  "slug": "coopescaacor-cooperativa-de-comercializacao-de-pescado-e-aprestes-maritimos-crl",
+  "estado": "Encerrada",
+  "nome": "Coopescaaçor - Cooperativa de Comercialização de Pescado e Aprestes Maritimos Crl",
+  "morada": "1 Rua de Santa Clara, 35 A, S. José 9500-241 Ponta Delgada",
+  "forma": "Cooperativa",
+  "capital": "€ 2.500,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "47230",
+  "cae_desc": "Comércio a retalho de peixe, crustáceos e moluscos",
+  "atividade": "No âmbito de Comércio a retalho de peixe, crustáceos e moluscos"
+ },
  "512048835": {
   "checked": "2026-08-31",
   "slug": "jose-m-pacheco-bastos-lda",
@@ -1767,6 +2765,33 @@
   "concelho": "Ponta Delgada",
   "distrito": "Açores"
  },
+ "512050139": {
+  "checked": "2026-08-31",
+  "slug": "horta-cetaceos-actividades-maritimo-turisticas-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Horta Cetáceos - Actividades Marítimo-Turísticas, Unipessoal, Lda",
+  "morada": "Alameda Barão de Roches, 35, R/ C Esq . Matriz 9900-104 Horta",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 45.000,00",
+  "concelho": "Horta",
+  "distrito": "Açores",
+  "cae": "50102",
+  "cae_desc": "Transportes costeiros e locais de passageiros"
+ },
+ "512050449": {
+  "checked": "2026-08-31",
+  "slug": "leonardo-pescados-importacao-e-exportacao-de-peixe-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Leonardo Pescados - Importação e Exportação de Peixe, Unipessoal Lda",
+  "morada": "Rua do Baldio, Nº 2-S. Bras 9760-651 Praia da Vitoria",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 6.000,00",
+  "concelho": "Praia da Vitória",
+  "distrito": "Açores",
+  "cae": "46381",
+  "cae_desc": "Peixe, crustáceos e moluscos",
+  "atividade": "No âmbito de Peixe, crustáceos e moluscos"
+ },
  "512050473": {
   "checked": "2026-08-31",
   "slug": "pizzaria-manjiare-pacheco-costa-lda",
@@ -1780,6 +2805,33 @@
   "cae": "56106",
   "cae_desc": "Confecção de refeições prontas a levar para casa",
   "atividade": "No âmbito de Confecção de refeições prontas a levar para casa"
+ },
+ "512050481": {
+  "checked": "2026-08-31",
+  "slug": "alves-pinheiro-lda",
+  "estado": "Em Atividade",
+  "nome": "Alves & Pinheiro Lda",
+  "morada": "Avenida D. João Iii, 16-A, 2 Dt , S. Pedro 9500-310 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "47510",
+  "cae_desc": "Comércio a retalho de Têxteis",
+  "atividade": "No âmbito de Comércio a retalho de Têxteis"
+ },
+ "512050570": {
+  "checked": "2026-08-31",
+  "slug": "mareocidental-transportes-maritimos-lda",
+  "estado": "Em Atividade",
+  "nome": "Mareocidental - Transportes Marítimos Lda",
+  "morada": "Rua Dr. Armas da Silveira, N. 32 9970-331 Santa Cruz das Flores",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Santa Cruz das Flores",
+  "distrito": "Açores",
+  "cae": "50200",
+  "cae_desc": "Transportes marítimos de mercadorias"
  },
  "512050945": {
   "checked": "2026-08-31",
@@ -1822,6 +2874,47 @@
   "cae_desc": "Construção de edifícios",
   "atividade": "No âmbito de Construção de edifícios"
  },
+ "512051690": {
+  "checked": "2026-08-31",
+  "slug": "acorconsulte-servicos-de-consultadoria-projectos-formacao-e-equipamentos-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Açorconsulte - Serviços de Consultadoria, Projectos, Formação e Equipamentos Lda - Em Liquidação",
+  "morada": "Rua Coronel Miranda, 12, S. José 9500-174 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Sintra",
+  "distrito": "Lisboa",
+  "cae": "70220",
+  "cae_desc": "Outras actividades de consultoria para os negócios e a gestão",
+  "atividade": "No âmbito de Outras actividades de consultoria para os negócios e a gestão"
+ },
+ "512051887": {
+  "checked": "2026-08-31",
+  "slug": "soterlac-sociedade-terceirense-de-lacticinios-lda",
+  "estado": "Em Insolvência",
+  "nome": "Soterlac - Sociedade Terceirense de Lacticínios, Lda",
+  "morada": "Canada Pateira - Vinha Brava 9700-211 Angra do Heroísmo",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "46460",
+  "cae_desc": "Produtos farmacêuticos"
+ },
+ "512052034": {
+  "checked": "2026-08-31",
+  "slug": "l-g-p-capital-companhia-de-consultadoria-e-servicos-lda",
+  "estado": "Em Atividade",
+  "nome": "L.G.P. - Capital - Companhia de Consultadoria e Serviços Lda",
+  "morada": "Travessa do Arco, 19 - Matriz 9500 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "69200",
+  "cae_desc": "Contabilidade, auditoria e consultoria fiscal",
+  "atividade": "No âmbito de Contabilidade, auditoria e consultoria fiscal"
+ },
  "512052174": {
   "checked": "2026-08-31",
   "slug": "paulina-da-estrela-filhas-lda",
@@ -1863,6 +2956,20 @@
   "cae": "42220",
   "cae_desc": "Redes de transporte e distribuição de electricidade e redes de telecomunicações"
  },
+ "512052476": {
+  "checked": "2026-08-31",
+  "slug": "irmaos-pereira-comercio-de-bordados-lda",
+  "estado": "Em Atividade",
+  "nome": "Irmãos Pereira - Comércio de Bordados Lda",
+  "morada": "Sitio da Fonte Fria",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Ribeira Brava",
+  "distrito": "Madeira",
+  "cae": "47510",
+  "cae_desc": "Comércio a retalho de Têxteis",
+  "atividade": "No âmbito de Comércio a retalho de Têxteis"
+ },
  "512052883": {
   "checked": "2026-08-31",
   "slug": "davide-marcos-escritorio-de-servicos-de-gestao-e-auditoria-unipessoal-lda",
@@ -1876,6 +2983,20 @@
   "cae": "70220",
   "cae_desc": "Outras actividades de consultoria para os negócios e a gestão",
   "atividade": "No âmbito de Outras actividades de consultoria para os negócios e a gestão"
+ },
+ "512053030": {
+  "checked": "2026-08-31",
+  "slug": "angraohm-servicos-de-electricidade-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Angraohm - Serviços de Electricidade Lda - Em Liquidação",
+  "morada": "Quinta das Almas 9700-015 Angra do Heroísmo",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "43210",
+  "cae_desc": "Instalação eléctrica",
+  "atividade": "No âmbito de Instalação eléctrica"
  },
  "512053120": {
   "checked": "2026-08-31",
@@ -1918,6 +3039,58 @@
   "cae": "29200",
   "cae_desc": "Carroçarias, reboques e semi-reboques - fabricantes",
   "atividade": "No âmbito de Carroçarias, reboques e semi-reboques - fabricantes"
+ },
+ "512054096": {
+  "checked": "2026-08-31",
+  "slug": "ponto-e-costura-comercio-e-reparacao-de-electrodomesticos-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Ponto e Costura - Comércio e Reparação de Electrodomésticos Lda - Em Liquidação",
+  "morada": "R António Joaquim Nunes da Silva - 34 9500-022 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 7.481,96",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "95220",
+  "cae_desc": "Reparação de Electrodomésticos",
+  "atividade": "No âmbito de Reparação de Electrodomésticos"
+ },
+ "512054126": {
+  "checked": "2026-08-31",
+  "slug": "a-h-m-empreendimentos-imobiliarios-e-turisticos-unipessoal-lda",
+  "estado": "Em Insolvência",
+  "nome": "A.H.M. - Empreendimentos Imobiliários e Turísticos, Unipessoal Lda",
+  "morada": "Avenida Pedro Àlvares Cabral 37-A Amadora 2700-647 Amadora",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 683.353,12",
+  "concelho": "Amadora",
+  "distrito": "Lisboa"
+ },
+ "512054460": {
+  "checked": "2026-08-31",
+  "slug": "joribor-acores-borrachas-e-acessorios-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Joribor - Açores - Borrachas e Acessórios Lda - Em Liquidação",
+  "morada": "Estrada 25 de Abril, N 29-A 2910-738 Setúbal",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Odivelas",
+  "distrito": "Lisboa",
+  "cae": "45320",
+  "cae_desc": "Peças e acessórios",
+  "atividade": "No âmbito de Peças e acessórios"
+ },
+ "512054495": {
+  "checked": "2026-08-31",
+  "slug": "escaleira-radiadores-lda",
+  "estado": "Encerrada",
+  "nome": "Escaleira Radiadores Lda",
+  "morada": "R Mãe de Deus 58 A-S.pedro 9500-321 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "45200",
+  "cae_desc": "Manutenção e reparação"
  },
  "512054576": {
   "checked": "2026-08-31",
@@ -2095,6 +3268,20 @@
  "512057931": {
   "checked": "2026-08-31"
  },
+ "512058059": {
+  "checked": "2026-08-31",
+  "slug": "prudencio-prudencio-lda-2",
+  "estado": "Em Atividade",
+  "nome": "Prudêncio & Prudêncio Lda",
+  "morada": "Canada de São Vicente 8-Juncal-Santa Cruz 9760 Praia da Vitoria",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Praia da Vitória",
+  "distrito": "Açores",
+  "cae": "45200",
+  "cae_desc": "Manutenção e reparação",
+  "atividade": "No âmbito de Manutenção e reparação"
+ },
  "512058164": {
   "checked": "2026-08-31",
   "slug": "jonasgo-pinturas-e-construcoes-do-pico-lda",
@@ -2108,6 +3295,34 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios",
   "atividade": "No âmbito de Construção de edifícios"
+ },
+ "512058830": {
+  "checked": "2026-08-31",
+  "slug": "paiva-lourenco-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Paiva & Lourenço Lda - Em Liquidação",
+  "morada": "Rua Gil Montalverne Sequeira 4 9500-199 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 25.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "47191",
+  "cae_desc": "Comércio a retalho em grandes armazéns e similares",
+  "atividade": "No âmbito de Comércio a retalho em grandes armazéns e similares"
+ },
+ "512059187": {
+  "checked": "2026-08-31",
+  "slug": "artur-moniz-janeiro-lda",
+  "estado": "Encerrada",
+  "nome": "Artur Moniz Janeiro Lda",
+  "morada": "R do Ramal 23 9625-420 Ribeira Grande",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 12.000,00",
+  "concelho": "Ribeira Grande",
+  "distrito": "Açores",
+  "cae": "25120",
+  "cae_desc": "Portas e janelas em metal",
+  "atividade": "No âmbito de Portas e janelas em metal"
  },
  "512059209": {
   "checked": "2026-08-31",
@@ -2136,6 +3351,45 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios",
   "atividade": "No âmbito de Construção de edifícios"
+ },
+ "512059829": {
+  "checked": "2026-08-31",
+  "slug": "pescajovem-comercio-de-peixe-lda",
+  "estado": "Encerrada",
+  "nome": "Pescajovem - Comércio de Peixe Lda",
+  "morada": "Canada do Patrimonio dos Pobres S/ N, apartado 8 9600-093 Ribeira Grande",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 75.000,00",
+  "concelho": "Ribeira Grande",
+  "distrito": "Açores"
+ },
+ "512059888": {
+  "checked": "2026-08-31",
+  "slug": "cimeteg-comercio-e-instalacao-de-materiais-de-telecomunicacoes-electricidade-e-gas-s-a",
+  "estado": "Em Insolvência",
+  "nome": "Cimeteg - Comércio e Instalação de Materiais de Telecomunicações, Electricidade e Gás S.A",
+  "morada": "Zona Comercial dos Valados, Rua F, 11, Relva 9500 Ponta Delgada",
+  "forma": "Sociedade Anónima",
+  "capital": "Não disponível",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "47784",
+  "cae_desc": "Outros produtos novos",
+  "atividade": "No âmbito de Outros produtos novos"
+ },
+ "512059900": {
+  "checked": "2026-08-31",
+  "slug": "framelo-servicos-de-restauracao-lda",
+  "estado": "Em Atividade",
+  "nome": "Framelo - Serviços de Restauração Lda",
+  "morada": "R da Corujeira 3 9500 Relva",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "56107",
+  "cae_desc": "Restaurantes",
+  "atividade": "No âmbito de Restaurantes"
  },
  "512059950": {
   "checked": "2026-08-31",
@@ -2179,6 +3433,20 @@
   "cae_desc": "Transportes costeiros e locais de passageiros",
   "atividade": "No âmbito de Transportes costeiros e locais de passageiros"
  },
+ "512061319": {
+  "checked": "2026-08-31",
+  "slug": "angrinvest-empreendimentos-hoteleiros-unipessoal-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Angrinvest - Empreendimentos Hoteleiros, Unipessoal, Lda - Em Liquidação",
+  "morada": "Rua Príncipe de Mónaco, N 64 9700-171 Angra do Heroísmo",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "56107",
+  "cae_desc": "Restaurantes",
+  "atividade": "No âmbito de Restaurantes"
+ },
  "512061394": {
   "checked": "2026-08-31",
   "slug": "o-espelho-cabeleireiros-lda",
@@ -2189,6 +3457,20 @@
   "capital": "Não disponível",
   "concelho": "Ponta Delgada",
   "distrito": "Açores"
+ },
+ "512061459": {
+  "checked": "2026-08-31",
+  "slug": "xtempo-arquitectura-design-e-publicidade-lda",
+  "estado": "Encerrada",
+  "nome": "Xtempo - Arquitectura, Design e Publicidade Lda",
+  "morada": "Rua Vitorino Nemésio, 6, S. Pedro 9500-348 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.010,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "82990",
+  "cae_desc": "Outras actividades de serviços de apoio prestados às empresas",
+  "atividade": "No âmbito de Outras actividades de serviços de apoio prestados às empresas"
  },
  "512061750": {
   "checked": "2026-08-31",
@@ -2243,6 +3525,17 @@
   "cae_desc": "SGPS não financeiras",
   "atividade": "No âmbito de SGPS não financeiras"
  },
+ "512061971": {
+  "checked": "2026-08-31",
+  "slug": "docaria-praiense-fabrico-de-pao-e-doces-lda",
+  "estado": "Em Atividade",
+  "nome": "Doçaria Praiense - Fabrico de Pão e Doces Lda",
+  "morada": "Arruamento B, N. 81",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores"
+ },
  "512062137": {
   "checked": "2026-08-31",
   "slug": "construcoes-iolanda-furtado-sociedade-unipessoal-lda-em-liquidacao",
@@ -2256,6 +3549,31 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios",
   "atividade": "No âmbito de Construção de edifícios"
+ },
+ "512062170": {
+  "checked": "2026-08-31",
+  "slug": "joaquim-parreira-de-jesus-filhos-lda",
+  "estado": "Encerrada",
+  "nome": "Joaquim Parreira de Jesus & Filhos, Lda",
+  "morada": "Rua Dr. José Pacheco Vieira, N.º 7 9560-096 Lagoa",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Lagoa (São Miguel)",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
+ },
+ "512062269": {
+  "checked": "2026-08-31",
+  "slug": "eduardo-raposo-sociedade-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Eduardo Raposo - Sociedade Unipessoal Lda",
+  "morada": "R João da Horta 87 9600-561 Ribeira Grande",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 10.000,00",
+  "concelho": "Ribeira Grande",
+  "distrito": "Açores"
  },
  "512062277": {
   "checked": "2026-08-31",
@@ -2299,6 +3617,20 @@
   "cae_desc": "Administração de imóveis por conta de outrem",
   "atividade": "No âmbito de Administração de imóveis por conta de outrem"
  },
+ "512062595": {
+  "checked": "2026-08-31",
+  "slug": "bandarra-correia-instalacoes-electricas-lda",
+  "estado": "Em Atividade",
+  "nome": "Bandarra & Correia - Instalações Eléctricas Lda",
+  "morada": "Rua Padre João de Medeiros, N 6-A 9650-403 Povoação",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Povoação",
+  "distrito": "Açores",
+  "cae": "43210",
+  "cae_desc": "Instalação eléctrica",
+  "atividade": "No âmbito de Instalação eléctrica"
+ },
  "512062609": {
   "checked": "2026-08-31",
   "slug": "classica-publicacoes-publicidade-marketing-e-formacao-lda-em-liquidacao",
@@ -2336,6 +3668,20 @@
   "forma": "Sociedade por Quotas",
   "capital": "€ 100.000,00",
   "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
+ },
+ "512062927": {
+  "checked": "2026-08-31",
+  "slug": "sociedade-de-construcoes-rocha-reis-lda",
+  "estado": "Encerrada",
+  "nome": "Sociedade de Construções Rocha & Reis Lda",
+  "morada": "Canada da Fita, Nº 22 9560-031 Lagoa",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Lagoa (São Miguel)",
   "distrito": "Açores",
   "cae": "41200",
   "cae_desc": "Construção de edifícios",
@@ -2411,6 +3757,23 @@
   "cae_desc": "Construção de edifícios",
   "atividade": "No âmbito de Construção de edifícios"
  },
+ "512063818": {
+  "checked": "2026-08-31"
+ },
+ "512063850": {
+  "checked": "2026-08-31",
+  "slug": "martins-martins-comercio-de-motociclos-lda",
+  "estado": "Encerrada",
+  "nome": "Martins & Martins - Comércio de Motociclos, Lda",
+  "morada": "Rua de Lisboa, 38 9500-216 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 20.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "45402",
+  "cae_desc": "Manutenção e reparação de motociclos, peças e acessórios",
+  "atividade": "No âmbito de Manutenção e reparação de motociclos, peças e acessórios"
+ },
  "512063931": {
   "checked": "2026-08-31",
   "slug": "domingos-nuno-vasconcelos-lda",
@@ -2438,6 +3801,47 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios",
   "atividade": "No âmbito de Construção de edifícios"
+ },
+ "512064032": {
+  "checked": "2026-08-31",
+  "slug": "hortabloco-construcao-e-carpintaria-limitada",
+  "estado": "Em Insolvência",
+  "nome": "Hortabloco - Construção e Carpintaria, Limitada",
+  "morada": "Rua do Capitão, N 18-B",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Horta",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
+ },
+ "512064334": {
+  "checked": "2026-08-31",
+  "slug": "moises-garcia-viveiros-sociedade-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Moisés Garcia Viveiros, Sociedade Unipessoal Lda",
+  "morada": "Estrada Regional, 29 9500-559 Ponta Delgada",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 50.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "49410",
+  "cae_desc": "Transportes rodoviários de mercadorias",
+  "atividade": "No âmbito de Transportes rodoviários de mercadorias"
+ },
+ "512064369": {
+  "checked": "2026-08-31",
+  "slug": "filipe-funchinho-unipessoal-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Filipe Funchinho, Unipessoal, Lda - Em Liquidação",
+  "morada": "Rua do Caminho Velho N 19 9560-205 Água de Pau",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Lagoa (São Miguel)",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
  },
  "512064504": {
   "checked": "2026-08-31",
@@ -2480,6 +3884,37 @@
   "cae": "28300",
   "cae_desc": "Máquinas e tractores para a agricultura, pecuária e silvicultura",
   "atividade": "No âmbito de Máquinas e tractores para a agricultura, pecuária e silvicultura"
+ },
+ "512064970": {
+  "checked": "2026-08-31",
+  "slug": "electroflamenguense-instalacoes-electricas-lda",
+  "estado": "Encerrada",
+  "nome": "Electroflamenguense, Instalações Eléctricas Lda",
+  "morada": "Praça Nova Artista Flamenguense N 29-Flamengos 9900-401 Horta",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 27.000,00",
+  "concelho": "Horta",
+  "distrito": "Açores",
+  "cae": "43210",
+  "cae_desc": "Instalação eléctrica",
+  "atividade": "No âmbito de Instalação eléctrica"
+ },
+ "512065012": {
+  "checked": "2026-08-31"
+ },
+ "512065080": {
+  "checked": "2026-08-31",
+  "slug": "ln-produtos-hospitalares-lda",
+  "estado": "Em Insolvência",
+  "nome": "Ln - Produtos Hospitalares Lda",
+  "morada": "Rua do Meio de São Pedro, N 16 9700-120 Angra do Heroismo",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "46460",
+  "cae_desc": "Produtos farmacêuticos",
+  "atividade": "No âmbito de Produtos farmacêuticos"
  },
  "512065659": {
   "checked": "2026-08-31",
@@ -2554,6 +3989,37 @@
  "512066515": {
   "checked": "2026-08-31"
  },
+ "512066531": {
+  "checked": "2026-08-31",
+  "slug": "unicamara-comercio-de-materiais-de-construcao-civil-lda",
+  "estado": "Encerrada",
+  "nome": "Unicâmara - Comércio de Materiais de Construção Civil Lda",
+  "morada": "Rua das Cabaças, 19-A 9500-299 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "46732",
+  "cae_desc": "Materiais de construção (excepto madeira) e equipamento sanitário",
+  "atividade": "No âmbito de Materiais de construção (excepto madeira) e equipamento sanitário"
+ },
+ "512066752": {
+  "checked": "2026-08-31"
+ },
+ "512066787": {
+  "checked": "2026-08-31",
+  "slug": "jose-f-nunes-construcoes-lda",
+  "estado": "Encerrada",
+  "nome": "José F. Nunes - Construções Lda",
+  "morada": "Lugar das Pedras Brancas 9960-999 Lajes das Flores",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Lajes das Flores",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
+ },
  "512066884": {
   "checked": "2026-08-31",
   "slug": "alvaro-tavares-silva-filhos-lda",
@@ -2617,6 +4083,20 @@
   "cae": "42990",
   "cae_desc": "Outras obras de engenharia civil",
   "atividade": "No âmbito de Outras obras de engenharia civil"
+ },
+ "512067279": {
+  "checked": "2026-08-31",
+  "slug": "duarte-cabral-electricidade-e-manutencao-electrica-lda",
+  "estado": "Em Atividade",
+  "nome": "Duarte Cabral - Electricidade e Manutenção Eléctrica Lda",
+  "morada": "Entre Grutões",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Açores",
+  "distrito": "Açores",
+  "cae": "43210",
+  "cae_desc": "Instalação eléctrica",
+  "atividade": "No âmbito de Instalação eléctrica"
  },
  "512067473": {
   "checked": "2026-08-31",
@@ -2685,6 +4165,20 @@
   "concelho": "Praia da Vitória",
   "distrito": "Açores"
  },
+ "512068844": {
+  "checked": "2026-08-31",
+  "slug": "electrideia-comercio-e-servicos-de-electricidade-lda",
+  "estado": "Encerrada",
+  "nome": "Electrideia - Comércio e Serviços de Electricidade, Lda",
+  "morada": "Rua Teófilo Braga, N.º 114 9680-180 Vila Franca do Campo",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 40.000,00",
+  "concelho": "Vila Franca do Campo",
+  "distrito": "Açores",
+  "cae": "43210",
+  "cae_desc": "Instalação eléctrica",
+  "atividade": "No âmbito de Instalação eléctrica"
+ },
  "512069018": {
   "checked": "2026-08-31",
   "slug": "jormede-construcao-e-transportes-lda",
@@ -2712,6 +4206,20 @@
   "cae_desc": "Peixe, crustáceos e moluscos",
   "atividade": "No âmbito de Peixe, crustáceos e moluscos"
  },
+ "512069590": {
+  "checked": "2026-08-31",
+  "slug": "paulo-lima-sociedade-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Paulo Lima - Sociedade Unipessoal Lda",
+  "morada": "Canada Nova, Nº 7 9760-211 Fontinhas",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Praia da Vitória",
+  "distrito": "Açores",
+  "cae": "46690",
+  "cae_desc": "Outras máquinas e equipamentos",
+  "atividade": "No âmbito de Outras máquinas e equipamentos"
+ },
  "512069638": {
   "checked": "2026-08-31",
   "slug": "nitorplus-higiene-conservacao-e-limpeza-sociedade-unipessoal-lda",
@@ -2722,6 +4230,34 @@
   "capital": "€ 5.000,00",
   "concelho": "Ribeira Grande",
   "distrito": "Açores"
+ },
+ "512069999": {
+  "checked": "2026-08-31",
+  "slug": "idealider-de-carlota-roque-filhas-limpeza-industrial-lda",
+  "estado": "Encerrada",
+  "nome": "Idealider de Carlota Roque & Filhas, Limpeza Industrial Lda",
+  "morada": "Rua do Pasteleiro; N . 17 9900-069 Horta",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Horta",
+  "distrito": "Açores",
+  "cae": "81210",
+  "cae_desc": "Actividades de limpeza geral em edifícios",
+  "atividade": "No âmbito de Actividades de limpeza geral em edifícios"
+ },
+ "512070237": {
+  "checked": "2026-08-31",
+  "slug": "construcoes-e-acabamentos-j-m-s-almeida-lda",
+  "estado": "Encerrada",
+  "nome": "Construções e Acabamentos - J. M. S. Almeida, Lda",
+  "morada": "R Jose Pacheco Vieira 49 9560-096 Lagoa",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 10.000,00",
+  "concelho": "Lagoa (São Miguel)",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
  },
  "512070342": {
   "checked": "2026-08-31",
@@ -2751,6 +4287,17 @@
   "cae_desc": "Automóveis ligeiros",
   "atividade": "No âmbito de Automóveis ligeiros"
  },
+ "512070431": {
+  "checked": "2026-08-31",
+  "slug": "camara-rego-lda",
+  "estado": "Encerrada",
+  "nome": "Câmara & Rego Lda",
+  "morada": "R. do Aeroporto 68, Santana 9600-158 Ribeira Grande",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Ribeira Grande",
+  "distrito": "Açores"
+ },
  "512070741": {
   "checked": "2026-08-31",
   "slug": "medeiros-goncalves-limpezas-domesticas-lda-em-liquidacao",
@@ -2765,8 +4312,36 @@
   "cae_desc": "Actividades de limpeza geral em edifícios",
   "atividade": "No âmbito de Actividades de limpeza geral em edifícios"
  },
+ "512071128": {
+  "checked": "2026-08-31",
+  "slug": "santos-pereira-lda-3",
+  "estado": "Encerrada",
+  "nome": "Santos & Pereira Lda",
+  "morada": "Largo D.joão I, Nºs 3 e 5 9650-412 Povoação",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Povoação",
+  "distrito": "Açores",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais",
+  "atividade": "No âmbito de Restaurantes tradicionais"
+ },
  "512071365": {
   "checked": "2026-08-31"
+ },
+ "512071411": {
+  "checked": "2026-08-31",
+  "slug": "goncalves-chaves-lda",
+  "estado": "Encerrada",
+  "nome": "Gonçalves & Chaves Lda",
+  "morada": "Abelheira de Baixo, 4 9500-701 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 25.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "56305",
+  "cae_desc": "Estabelecimentos de bebidas com espaço de dança",
+  "atividade": "No âmbito de Estabelecimentos de bebidas com espaço de dança"
  },
  "512071675": {
   "checked": "2026-08-31",
@@ -2810,6 +4385,33 @@
   "cae_desc": "Construção de edifícios",
   "atividade": "No âmbito de Construção de edifícios"
  },
+ "512071870": {
+  "checked": "2026-08-31",
+  "slug": "j-chups-produtos-alimentares-lda",
+  "estado": "Em Atividade",
+  "nome": "J. Chup'S - Produtos Alimentares Lda",
+  "morada": "Rua Bairro Dona Amélia, N . 7 9560-302 Lagoa",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Lagoa (São Miguel)",
+  "distrito": "Açores",
+  "cae": "46382",
+  "cae_desc": "Comércio por grosso de outros produtos alimentares",
+  "atividade": "No âmbito de Comércio por grosso de outros produtos alimentares"
+ },
+ "512071926": {
+  "checked": "2026-08-31",
+  "slug": "horta-porto-alegre-restauracao-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Horta Porto Alegre, Restauração Lda - Em Liquidação",
+  "morada": "R Ilha Azul 2, Bloco A 9900-039 Angústias Horta",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Horta",
+  "distrito": "Açores",
+  "cae": "56305",
+  "cae_desc": "Estabelecimentos de bebidas com espaço de dança"
+ },
  "512072035": {
   "checked": "2026-08-31",
   "slug": "pizzaria-donatello-verissimo-verissimo-unipessoal-lda",
@@ -2823,6 +4425,19 @@
   "cae": "56107",
   "cae_desc": "Restaurantes",
   "atividade": "No âmbito de Restaurantes"
+ },
+ "512072205": {
+  "checked": "2026-08-31",
+  "slug": "jose-francisco-pimentel-sousa-sociedade-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "José Francisco Pimentel Sousa - Sociedade Unipessoal, Lda",
+  "morada": "R de S. José - 27 9560-550 Lagoa",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 7.000,00",
+  "concelho": "Lagoa (São Miguel)",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
  },
  "512072329": {
   "checked": "2026-08-31",
@@ -2852,6 +4467,20 @@
   "cae_desc": "Outros transportes terrestres de passageiros diversos",
   "atividade": "No âmbito de Outros transportes terrestres de passageiros diversos"
  },
+ "512072639": {
+  "checked": "2026-08-31",
+  "slug": "construcoes-belpra-sociedade-unipessoal-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Construções Belpra, Sociedade Unipessoal, Lda - Em Liquidação",
+  "morada": "Rua Eng José Cordeiro, 59 9500-311 Ponta Delgada",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 50.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
+ },
  "512072655": {
   "checked": "2026-08-31",
   "slug": "efeitos-praticos-servicos-de-artes-graficas-lda",
@@ -2880,6 +4509,37 @@
   "cae_desc": "Valorização de resíduos não metálicos",
   "atividade": "No âmbito de Valorização de resíduos não metálicos"
  },
+ "512073112": {
+  "checked": "2026-08-31"
+ },
+ "512073171": {
+  "checked": "2026-08-31",
+  "slug": "joao-manuel-dutra-goncalves-unipessoal-lda",
+  "estado": "Em Insolvência",
+  "nome": "João Manuel Dutra Gonçalves, Unipessoal Lda",
+  "morada": "Rua de S. João, N 33 9800-539 Velas",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Velas",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
+ },
+ "512073899": {
+  "checked": "2026-08-31",
+  "slug": "dutra-dutra-sociedade-de-restauracao-lda",
+  "estado": "Encerrada",
+  "nome": "Dutra & Dutra - Sociedade de Restauração Lda",
+  "morada": "Rua Machado dos Santos, 102, Ponta Delgada 9500-083 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "56107",
+  "cae_desc": "Restaurantes",
+  "atividade": "No âmbito de Restaurantes"
+ },
  "512073902": {
   "checked": "2026-08-31",
   "slug": "fernando-m-c-ferreira-reparacoes-auto-lda",
@@ -2894,6 +4554,20 @@
   "cae_desc": "Manutenção e reparação",
   "atividade": "No âmbito de Manutenção e reparação"
  },
+ "512073937": {
+  "checked": "2026-08-31",
+  "slug": "joao-manuel-mota-medeiros-sociedade-unipessoal-lda-2",
+  "estado": "Encerrada",
+  "nome": "João Manuel Mota Medeiros, Sociedade Unipessoal Lda",
+  "morada": "Rua do Brum, 36, Matriz, Ponta Delgada 9500-036 Ponta Delgada",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "56102",
+  "cae_desc": "Restaurantes com lugares ao balcão",
+  "atividade": "No âmbito de Restaurantes com lugares ao balcão"
+ },
  "512073970": {
   "checked": "2026-08-31",
   "slug": "guida-costa-sociedade-unipessoal-lda",
@@ -2907,6 +4581,34 @@
   "cae": "47711",
   "cae_desc": "Vestuário para adultos",
   "atividade": "No âmbito de Vestuário para adultos"
+ },
+ "512074526": {
+  "checked": "2026-08-31",
+  "slug": "caixilharia-sousa-flamenguense-lda",
+  "estado": "Encerrada",
+  "nome": "Caixilharia Sousa Flamenguense Lda",
+  "morada": "R Lomba Cruz do Bravo 40 9900-401 Flamengos",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Horta",
+  "distrito": "Açores",
+  "cae": "43320",
+  "cae_desc": "Montagem de trabalhos de carpintaria e de caixilharia",
+  "atividade": "No âmbito de Montagem de trabalhos de carpintaria e de caixilharia"
+ },
+ "512075263": {
+  "checked": "2026-08-31",
+  "slug": "espaco-do-lavrador-comercio-de-alimentos-e-acessorios-para-animais-lda",
+  "estado": "Em Atividade",
+  "nome": "Espaço do Lavrador - Comércio de Alimentos e Acessórios Para Animais Lda",
+  "morada": "Rua de Santo Espirito, 11 9700-178 Angra do Heroísmo",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "47762",
+  "cae_desc": "Animais de companhia e respectivos alimentos",
+  "atividade": "No âmbito de Animais de companhia e respectivos alimentos"
  },
  "512075298": {
   "checked": "2026-08-31",
@@ -2966,6 +4668,20 @@
  "512076065": {
   "checked": "2026-08-31"
  },
+ "512076103": {
+  "checked": "2026-08-31",
+  "slug": "joaquim-toste-branco-lda",
+  "estado": "Encerrada",
+  "nome": "Joaquim Toste Branco Lda",
+  "morada": "Canada do Serra, 26-A 9760 Praia da Vitoria",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Praia da Vitória",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
+ },
  "512076375": {
   "checked": "2026-08-31",
   "slug": "martins-oliveira-aluminios-e-marcenaria-lda",
@@ -2979,6 +4695,89 @@
   "cae": "25120",
   "cae_desc": "Portas e janelas em metal",
   "atividade": "No âmbito de Portas e janelas em metal"
+ },
+ "512076405": {
+  "checked": "2026-08-31",
+  "slug": "carlos-brilhante-sociedade-unipessoal-lda",
+  "estado": "Em Insolvência",
+  "nome": "Carlos Brilhante - Sociedade Unipessoal Lda",
+  "morada": "Av Cecilia Meireles-R Timor Lorosae 21 9500-508 Ponta Delgada",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 100.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "56301",
+  "cae_desc": "Cafés",
+  "atividade": "No âmbito de Cafés"
+ },
+ "512076421": {
+  "checked": "2026-08-31",
+  "slug": "joao-fernando-rego-rocha-sociedade-unipessoal-lda",
+  "estado": "Em Insolvência",
+  "nome": "João Fernando Rego Rocha - Sociedade Unipessoal, Lda",
+  "morada": "R Francisco Amaral Almeida N 25 9560-104 Lagoa",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Lagoa (São Miguel)",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
+ },
+ "512076456": {
+  "checked": "2026-08-31",
+  "slug": "joao-manuel-da-silva-alexandre-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "João Manuel da Silva Alexandre, Unipessoal Lda",
+  "morada": "Alto das Covas, 4 - 2º C 9700-220 Angra do Heroísmo",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
+ },
+ "512076529": {
+  "checked": "2026-08-31",
+  "slug": "alumiceram-aluminios-e-ceramicas-sociedade-unipessoal-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Alumiceram-Alumínios e Cerâmicas, Sociedade Unipessoal Lda-Em Liquidação",
+  "morada": "São Roque do Pico 9940-355 São Roque do Pico",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "São Roque do Pico",
+  "distrito": "Açores",
+  "cae": "47523",
+  "cae_desc": "Material de bricolage, equipamento sanitário, ladrilhos e materiais similares",
+  "atividade": "No âmbito de Material de bricolage, equipamento sanitário, ladrilhos e materiais similares"
+ },
+ "512076537": {
+  "checked": "2026-08-31",
+  "slug": "tecnoexplosivo-fabricacao-de-explosivos-s-a",
+  "estado": "Encerrada",
+  "nome": "Tecnoexplosivo - Fabricação de Explosivos S.A",
+  "morada": "Estrada Regional N 26, Letra A, Lombinha da Maia 9625-305 Maia",
+  "forma": "Sociedade Anónima",
+  "capital": "€ 150.000,00",
+  "concelho": "Ribeira Grande",
+  "distrito": "Açores",
+  "cae": "20510",
+  "cae_desc": "Explosivos e artigos de pirotecnia"
+ },
+ "512076790": {
+  "checked": "2026-08-31",
+  "slug": "ermacor-cofragens-de-construcao-civil-lda",
+  "estado": "Em Atividade",
+  "nome": "Ermaçor - Cofragens de Construção Civil Lda",
+  "morada": "Rua das Laranjeiras, S/ N, Quinta do Ribeiro 9500 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
  },
  "512077029": {
   "checked": "2026-08-31",
@@ -3021,6 +4820,32 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios",
   "atividade": "No âmbito de Construção de edifícios"
+ },
+ "512077460": {
+  "checked": "2026-08-31",
+  "slug": "ouriversaria-amarante-de-lucia-de-fatima-dos-santos-pereira-rosado-amarante-e-filhos-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Ouriversaria Amarante, de Lucia de Fatima dos Santos Pereira Rosado Amarante e Filhos, Lda - Em Liquidação",
+  "morada": "Rua da Sé N. 68 9700-191 Angra do Heroísmo",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "47770",
+  "cae_desc": "Relógios, ourivesaria e joalharia"
+ },
+ "512077495": {
+  "checked": "2026-08-31",
+  "slug": "carvaresttur-servicos-de-restauracao-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Carvaresttur - Serviços de Restauração, Unipessoal Lda",
+  "morada": "Rua Arrifes, 2 9700-557 Angra do Heroísmo",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 80.000,00",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais"
  },
  "512077517": {
   "checked": "2026-08-31"
@@ -3093,6 +4918,20 @@
   "cae_desc": "Restaurantes",
   "atividade": "No âmbito de Restaurantes"
  },
+ "512077894": {
+  "checked": "2026-08-31",
+  "slug": "eduardo-veloso-aluguer-camionagem-sociedade-unipessoal-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Eduardo Veloso - Aluguer Camionagem, Sociedade Unipessoal, Lda - Em Liquidação",
+  "morada": "Rua Visconde da Palmeira, N.º 12 9680-188 Vila Franca do Campo",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Vila Franca do Campo",
+  "distrito": "Açores",
+  "cae": "49410",
+  "cae_desc": "Transportes rodoviários de mercadorias",
+  "atividade": "No âmbito de Transportes rodoviários de mercadorias"
+ },
  "512078041": {
   "checked": "2026-08-31",
   "slug": "victacores-construcoes-unipessoal-lda",
@@ -3120,6 +4959,47 @@
   "cae": "56101",
   "cae_desc": "Restaurantes tradicionais",
   "atividade": "No âmbito de Restaurantes tradicionais"
+ },
+ "512078343": {
+  "checked": "2026-08-31",
+  "slug": "salao-cabeleireiro-crinela-sociedade-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Salão Cabeleireiro - Crinela, Sociedade Unipessoal Lda",
+  "morada": "R Dr. Aristides Moreira da Mota 23 9500-075 Ponta Delgada",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "96021",
+  "cae_desc": "Salões de cabeleireiro",
+  "atividade": "No âmbito de Salões de cabeleireiro"
+ },
+ "512078637": {
+  "checked": "2026-08-31",
+  "slug": "j-e-c-sociedade-de-restauracao-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "J e C - Sociedade de Restauração Lda - Em Liquidação",
+  "morada": "Estrada de S. Gonçalo N 235 - S. Pedro 9500-110 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 50.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "56105",
+  "cae_desc": "Restaurantes com espaço de dança",
+  "atividade": "No âmbito de Restaurantes com espaço de dança"
+ },
+ "512078670": {
+  "checked": "2026-08-31",
+  "slug": "avila-goncalves-sociedade-de-construcao-civil-lda",
+  "estado": "Encerrada",
+  "nome": "Ávila & Gonçalves, Sociedade de Construção Civil Lda",
+  "morada": "R de Santo António, 79 9760-211 Praia da Vitória",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Praia da Vitória",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
  },
  "512079196": {
   "checked": "2026-08-31",
@@ -3149,6 +5029,31 @@
   "cae_desc": "Desenvolvimento de projectos de edifícios",
   "atividade": "No âmbito de Desenvolvimento de projectos de edifícios"
  },
+ "512079420": {
+  "checked": "2026-08-31",
+  "slug": "invest-a-cores-restuaracao-e-turismo-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Invest A Cores - Restuaração e Turismo, Lda - Em Liquidação",
+  "morada": "Rua Juventude Parque Atlântico, S/ N Loja 1039 Ponta Delgada 9500-211 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 50.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores"
+ },
+ "512079730": {
+  "checked": "2026-08-31",
+  "slug": "porto-dos-carneiros-comercio-investimentos-imobiliarios-restauracao-e-servicos-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Porto dos Carneiros - Comércio, Investimentos Imobiliários, Restauração e Serviços, Unipessoal Lda",
+  "morada": "Estrada da Ribeira Grande, 1019 e 1021-S. Roque 9500-702 Ponta Delgada",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 265.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais",
+  "atividade": "No âmbito de Restaurantes tradicionais"
+ },
  "512079862": {
   "checked": "2026-08-31",
   "slug": "representacores-construcao-civil-unipessoal-lda",
@@ -3159,6 +5064,33 @@
   "capital": "€ 5.000,00",
   "concelho": "Ribeira Grande",
   "distrito": "Açores"
+ },
+ "512079919": {
+  "checked": "2026-08-31",
+  "slug": "capitalpoc-empresa-de-contabilidade-e-informatica-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Capitalpoc - Empresa de Contabilidade e Informática, Unipessoal Lda",
+  "morada": "R do Laureano 440 9600-534 Ribeira Grande",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Ribeira Grande",
+  "distrito": "Açores",
+  "cae": "69200",
+  "cae_desc": "Contabilidade, auditoria e consultoria fiscal"
+ },
+ "512080429": {
+  "checked": "2026-08-31",
+  "slug": "chali-restauracao-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Chali - Restauração, Lda - Em Liquidação",
+  "morada": "Rua Moinho de Vento, 71, S. Pedro, Ponta Delgada 9500-092 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "56102",
+  "cae_desc": "Restaurantes com lugares ao balcão",
+  "atividade": "No âmbito de Restaurantes com lugares ao balcão"
  },
  "512080518": {
   "checked": "2026-08-31",
@@ -3215,6 +5147,20 @@
   "cae_desc": "Agências de publicidade",
   "atividade": "No âmbito de Agências de publicidade"
  },
+ "512080712": {
+  "checked": "2026-08-31",
+  "slug": "patricia-rodrigues-melo-festas-para-criancas-lda",
+  "estado": "Encerrada",
+  "nome": "Patrícia Rodrigues & Melo - Festas Para Crianças Lda",
+  "morada": "Bandeirinhas-Estrada da Lagoa do Fogo-Conceição 9600-568 Ribeira Grande",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Ribeira Grande",
+  "distrito": "Açores"
+ },
+ "512080763": {
+  "checked": "2026-08-31"
+ },
  "512080895": {
   "checked": "2026-08-31",
   "slug": "jmta-gabinete-de-contabilidade-e-consultoria-de-gestao-sociedade-unipessoal-lda",
@@ -3229,6 +5175,20 @@
   "cae_desc": "Contabilidade, auditoria e consultoria fiscal",
   "atividade": "No âmbito de Contabilidade, auditoria e consultoria fiscal"
  },
+ "512081182": {
+  "checked": "2026-08-31",
+  "slug": "saul-benedette-sociedade-de-construcao-civil-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Saúl Benedette - Sociedade de Construção Civil, Unipessoal Lda",
+  "morada": "R de Jesus, 15 9900-128 Horta",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 7.000,00",
+  "concelho": "Horta",
+  "distrito": "Açores",
+  "cae": "42990",
+  "cae_desc": "Outras obras de engenharia civil",
+  "atividade": "No âmbito de Outras obras de engenharia civil"
+ },
  "512081247": {
   "checked": "2026-08-31",
   "slug": "panificadora-nossa-senhora-dos-milagres-lda",
@@ -3242,6 +5202,20 @@
   "cae": "10711",
   "cae_desc": "Panificação",
   "atividade": "No âmbito de Panificação"
+ },
+ "512081506": {
+  "checked": "2026-08-31",
+  "slug": "agencia-funeraria-toste-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Agência Funerária Toste Lda - Em Liquidação",
+  "morada": "Estrada Principe Alberto de Monaco 9900-038 Horta",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Horta",
+  "distrito": "Açores",
+  "cae": "96030",
+  "cae_desc": "Funerárias",
+  "atividade": "No âmbito de Funerárias"
  },
  "512081930": {
   "checked": "2026-08-31",
@@ -3296,6 +5270,76 @@
   "cae_desc": "Agentes aduaneiros e similares de apoio ao transporte",
   "atividade": "No âmbito de Agentes aduaneiros e similares de apoio ao transporte"
  },
+ "512082731": {
+  "checked": "2026-08-31",
+  "slug": "cesar-a-r-silva-aluguer-de-maquinas-e-equipamentos-e-producao-de-inertes-sociedade-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "César A. R. Silva - Aluguer de Máquinas e Equipamentos e Produção de Inertes, Sociedade Unipessoal Lda",
+  "morada": "Norte Pequeno, N 10 9900-305 Horta",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Horta",
+  "distrito": "Açores",
+  "cae": "77320",
+  "cae_desc": "Máquinas de construção e engenharia civil",
+  "atividade": "No âmbito de Máquinas de construção e engenharia civil"
+ },
+ "512082898": {
+  "checked": "2026-08-31",
+  "slug": "viduplacor-sao-miguel-transformacao-e-distribuicao-de-vidro-lda",
+  "estado": "Encerrada",
+  "nome": "Viduplaçor (São Miguel) - Transformação e Distribuição de Vidro Lda",
+  "morada": "Rua 4, Lote 10, Valados, Relva, Ponta Delgada 9500-652 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "23120",
+  "cae_desc": "Moldagem e transformação de vidro plano",
+  "atividade": "No âmbito de Moldagem e transformação de vidro plano"
+ },
+ "512082901": {
+  "checked": "2026-08-31",
+  "slug": "miguel-almeida-sociedade-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Miguel Almeida - Sociedade Unipessoal, Lda",
+  "morada": "Rua Teófilo Braga, N.º 15 9680-150 Vila Franca do Campo",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 200.000,00",
+  "concelho": "Vila Franca do Campo",
+  "distrito": "Açores",
+  "cae": "56107",
+  "cae_desc": "Restaurantes",
+  "atividade": "No âmbito de Restaurantes"
+ },
+ "512082979": {
+  "checked": "2026-08-31",
+  "slug": "aquaemotion-restauracao-marketing-promocao-e-organizacao-de-eventos-lda",
+  "estado": "Em Atividade",
+  "nome": "Aquaemotion - Restauração, Marketing, Promoção e Organização de Eventos Lda",
+  "morada": "Rua da Sé, 86 e 88",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais",
+  "atividade": "No âmbito de Restaurantes tradicionais"
+ },
+ "512083290": {
+  "checked": "2026-08-31",
+  "slug": "wophorta-especialidades-farmaceuticas-lda",
+  "estado": "Em Insolvência",
+  "nome": "Wophorta - Especialidades Farmacêuticas Lda",
+  "morada": "R Conselheiro Medeiros, 44 9900-000 Horta",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Horta",
+  "distrito": "Açores",
+  "cae": "46460",
+  "cae_desc": "Produtos farmacêuticos",
+  "atividade": "No âmbito de Produtos farmacêuticos"
+ },
  "512083460": {
   "checked": "2026-08-31",
   "slug": "viriato-moura-construcoes-sociedade-unipessoal-lda",
@@ -3323,6 +5367,48 @@
   "cae": "46211",
   "cae_desc": "Alimentos para animais",
   "atividade": "No âmbito de Alimentos para animais"
+ },
+ "512083916": {
+  "checked": "2026-08-31",
+  "slug": "fragoso-soares-lda",
+  "estado": "Em Atividade",
+  "nome": "Fragoso & Soares Lda",
+  "morada": "Rua da Misericordia, 51, Matriz, Ponta Delgada 9500-093 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 210.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "56104",
+  "cae_desc": "Restaurantes típicos",
+  "atividade": "No âmbito de Restaurantes típicos"
+ },
+ "512084300": {
+  "checked": "2026-08-31",
+  "slug": "rosa-bettencourt-limitada",
+  "estado": "Encerrada",
+  "nome": "Rosa & Bettencourt Limitada",
+  "morada": "Conceição 9900-080 Horta",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 15.000,00",
+  "concelho": "Horta",
+  "distrito": "Açores",
+  "cae": "46382",
+  "cae_desc": "Comércio por grosso de outros produtos alimentares",
+  "atividade": "No âmbito de Comércio por grosso de outros produtos alimentares"
+ },
+ "512084440": {
+  "checked": "2026-08-31",
+  "slug": "laureano-manuel-vicente-cabral-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Laureano Manuel Vicente Cabral, Unipessoal Lda",
+  "morada": "Rua do Lajedo, 34-D, Lajes 9760-280 Lajes Vpv",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Praia da Vitória",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
  },
  "512084645": {
   "checked": "2026-08-31",
@@ -3363,6 +5449,20 @@
   "distrito": "Açores",
   "cae": "23701",
   "cae_desc": "Artigos de mármore e de rochas similares"
+ },
+ "512085447": {
+  "checked": "2026-08-31",
+  "slug": "anfibios-atelier-de-solucoes-informaticas-lda",
+  "estado": "Encerrada",
+  "nome": "Anfíbios, Atelier de Soluções Informáticas Lda",
+  "morada": "Rua do Melo 23, Ponta Delgada 9500-246 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "58290",
+  "cae_desc": "Programas informáticos",
+  "atividade": "No âmbito de Programas informáticos"
  },
  "512085579": {
   "checked": "2026-08-31",
@@ -3405,6 +5505,20 @@
   "cae": "41100",
   "cae_desc": "Desenvolvimento de projectos de edifícios",
   "atividade": "No âmbito de Desenvolvimento de projectos de edifícios"
+ },
+ "512086052": {
+  "checked": "2026-08-31",
+  "slug": "nunes-oliveira-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Nunes & Oliveira - Unipessoal Lda",
+  "morada": "Macela, 58 9700-446 Ribeirinha Agh",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 32.000,00",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "43120",
+  "cae_desc": "Preparação dos locais de construção",
+  "atividade": "No âmbito de Preparação dos locais de construção"
  },
  "512086133": {
   "checked": "2026-08-31",
@@ -3515,6 +5629,20 @@
   "cae_desc": "Compra e venda de bens imobiliários",
   "atividade": "No âmbito de Compra e venda de bens imobiliários"
  },
+ "512087644": {
+  "checked": "2026-08-31",
+  "slug": "luis-carlos-moniz-da-camara-sociedade-de-construcao-civil-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Luís Carlos Moniz da Câmara - Sociedade de Construção Civil, Unipessoal Lda",
+  "morada": "R dos Lourenços, N . 18 9940-364 São Roque do Pico",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 14.000,00",
+  "concelho": "São Roque do Pico",
+  "distrito": "Açores",
+  "cae": "43992",
+  "cae_desc": "Outras actividades especializadas de construção diversas",
+  "atividade": "No âmbito de Outras actividades especializadas de construção diversas"
+ },
  "512087822": {
   "checked": "2026-08-31",
   "slug": "a-polizzi-comercializacao-de-design-italiano-astor-unipessoal-lda",
@@ -3569,6 +5697,61 @@
   "cae": "43210",
   "cae_desc": "Instalação eléctrica"
  },
+ "512088250": {
+  "checked": "2026-08-31",
+  "slug": "engivector-gabinete-de-projectos-de-engenharia-e-representacao-de-produtos-unipessoal-lda",
+  "estado": "Em Insolvência",
+  "nome": "Engivector - Gabinete de Projectos de Engenharia e Representação de Produtos, Unipessoal Lda",
+  "morada": "Rua da Estrela, N 26, Santa Cruz 9760-000 Praia da Vitória",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Praia da Vitória",
+  "distrito": "Açores",
+  "cae": "71120",
+  "cae_desc": "Engenharia e técnicas afins",
+  "atividade": "No âmbito de Engenharia e técnicas afins"
+ },
+ "512088586": {
+  "checked": "2026-08-31",
+  "slug": "electrificacoes-martinho-sousa-filhos-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Electrificações Martinho Sousa & Filhos Lda - Em Liquidação",
+  "morada": "Rua do Marujo, N 19, Vila das Capelas - Ponta Delgada 9545-139 Capelas",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 15.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "43210",
+  "cae_desc": "Instalação eléctrica"
+ },
+ "512088888": {
+  "checked": "2026-08-31",
+  "slug": "manilha-imobiliaria-e-construcoes-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Manilha - Imobiliária e Construções, Unipessoal Lda",
+  "morada": "Canadinhas 9900-362 Horta",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 15.000,00",
+  "concelho": "Horta",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
+ },
+ "512089000": {
+  "checked": "2026-08-31",
+  "slug": "quatro-a-ocidente-restaurante-lda",
+  "estado": "Em Atividade",
+  "nome": "Quatro A Ocidente, Restaurante Lda",
+  "morada": "Rua da Esperança",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Santa Cruz das Flores",
+  "distrito": "Açores",
+  "cae": "56105",
+  "cae_desc": "Restaurantes com espaço de dança",
+  "atividade": "No âmbito de Restaurantes com espaço de dança"
+ },
  "512089019": {
   "checked": "2026-08-31",
   "slug": "urpav-sociedade-imobiliaria-s-a",
@@ -3611,6 +5794,20 @@
   "cae_desc": "Outros produtos novos",
   "atividade": "No âmbito de Outros produtos novos"
  },
+ "512089272": {
+  "checked": "2026-08-31",
+  "slug": "comulares-comunicacoes-insulares-e-publicidade-s-a-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Comulares - Comunicações Insulares e Publicidade, S.A. - Em Liquidação",
+  "morada": "Rua Manuel da Ponte, 51",
+  "forma": "Sociedade Anónima",
+  "capital": "Não disponível",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "82990",
+  "cae_desc": "Outras actividades de serviços de apoio prestados às empresas",
+  "atividade": "No âmbito de Outras actividades de serviços de apoio prestados às empresas"
+ },
  "512089370": {
   "checked": "2026-08-31",
   "slug": "antonio-jorge-monteiro-instalacoes-electricas-sociedade-unipessoal-lda",
@@ -3624,6 +5821,62 @@
   "cae": "43210",
   "cae_desc": "Instalação eléctrica",
   "atividade": "No âmbito de Instalação eléctrica"
+ },
+ "512089507": {
+  "checked": "2026-08-31",
+  "slug": "antonio-silveira-sociedade-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "António Silveira, Sociedade Unipessoal Lda",
+  "morada": "Encruzilhadas, Nº13 9900-429 Horta",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Horta",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
+ },
+ "512089639": {
+  "checked": "2026-08-31",
+  "slug": "joao-borges-servicos-de-pintura-de-construcao-civil-e-mobiliario-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "João Borges - Serviços de Pintura de Construção Civil e Mobiliário, Unipessoal Lda",
+  "morada": "Charco da Cruz, 45",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Santa Cruz da Graciosa",
+  "distrito": "Açores",
+  "cae": "43340",
+  "cae_desc": "Pintura e colocação de vidros",
+  "atividade": "No âmbito de Pintura e colocação de vidros"
+ },
+ "512089701": {
+  "checked": "2026-08-31",
+  "slug": "farol-da-baia-actividades-hoteleiras-lda",
+  "estado": "Em Insolvência",
+  "nome": "Farol da Baía - Actividades Hoteleiras, Lda",
+  "morada": "Rua Dr. José Bruno Carreiro, N. 13 9700-109 Angra do Heroísmo",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Porto",
+  "distrito": "Porto",
+  "cae": "56302",
+  "cae_desc": "Bares",
+  "atividade": "No âmbito de Bares"
+ },
+ "512089736": {
+  "checked": "2026-08-31"
+ },
+ "512089990": {
+  "checked": "2026-08-31",
+  "slug": "primus-alternativa-comercio-de-mobiliario-lda",
+  "estado": "Encerrada",
+  "nome": "Primus Alternativa - Comércio de Mobiliário, Lda",
+  "morada": "Bicas de Cabo Verde, N . 18 - Armazém N . 5 9700-217 Angra do Heroísmo",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 20.000,00",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores"
  },
  "512090122": {
   "checked": "2026-08-31",
@@ -3652,6 +5905,19 @@
   "cae": "55124",
   "cae_desc": "Outros estabelecimentos hoteleiros sem restaurante",
   "atividade": "No âmbito de Outros estabelecimentos hoteleiros sem restaurante"
+ },
+ "512091137": {
+  "checked": "2026-08-31",
+  "slug": "estufimacores-comercializacao-de-flores-lda",
+  "estado": "Em Atividade",
+  "nome": "Estufimaçores - Comercialização de Flores Lda",
+  "morada": "Rua do Passal N 24 9500-096 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "47761",
+  "cae_desc": "Flores, plantas, sementes e fertilizantes"
  },
  "512091161": {
   "checked": "2026-08-31",
@@ -3708,6 +5974,9 @@
   "cae_desc": "Gestão de instalações desportivas",
   "atividade": "No âmbito de Gestão de instalações desportivas"
  },
+ "512091641": {
+  "checked": "2026-08-31"
+ },
  "512091757": {
   "checked": "2026-08-31",
   "slug": "freitacores-construcao-civil-lda-em-liquidacao",
@@ -3720,6 +5989,20 @@
   "distrito": "Açores",
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
+ },
+ "512091803": {
+  "checked": "2026-08-31",
+  "slug": "emanuel-c-silva-construcao-civil-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Emanuel C. Silva - Construção Civil, Unipessoal, Lda",
+  "morada": "Rua Dr. José Pacheco Vieira, Nº 109-C",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Lagoa (São Miguel)",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
  },
  "512091854": {
   "checked": "2026-08-31",
@@ -3760,6 +6043,20 @@
   "cae": "43210",
   "cae_desc": "Instalação eléctrica"
  },
+ "512092117": {
+  "checked": "2026-08-31",
+  "slug": "rui-lopes-restauracao-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Rui Lopes - Restauração, Unipessoal Lda",
+  "morada": "Rua Conselheiro Terra Pinheiro, N. 5 9950-329 Madalena",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 25.000,00",
+  "concelho": "Madalena",
+  "distrito": "Açores",
+  "cae": "56107",
+  "cae_desc": "Restaurantes",
+  "atividade": "No âmbito de Restaurantes"
+ },
  "512092206": {
   "checked": "2026-08-31",
   "slug": "astrigildo-vicente-costa-sociedade-unipessoal-lda",
@@ -3772,6 +6069,46 @@
   "distrito": "Açores",
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
+ },
+ "512092885": {
+  "checked": "2026-08-31",
+  "slug": "bar-mandila-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Bar Mandila - Unipessoal Lda",
+  "morada": "Rua de Valverde, 79 9500-087 Ponta Delgada",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "56305",
+  "cae_desc": "Estabelecimentos de bebidas com espaço de dança",
+  "atividade": "No âmbito de Estabelecimentos de bebidas com espaço de dança"
+ },
+ "512092907": {
+  "checked": "2026-08-31",
+  "slug": "indio-bem-estar-lda",
+  "estado": "Em Atividade",
+  "nome": "Indio - Bem Estar Lda",
+  "morada": "R Bento José Morais N 41 9500-772 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 145.500,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "96022",
+  "cae_desc": "Institutos de beleza"
+ },
+ "512093229": {
+  "checked": "2026-08-31",
+  "slug": "ferreira-ferreira-lda-2",
+  "estado": "Encerrada",
+  "nome": "Ferreira & Ferreira Lda",
+  "morada": "Rua da Palha, 66 9700-144 Angra do Heroísmo",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "47782",
+  "cae_desc": "Material óptico, fotográfico, cinematográfico e instrumentos de precisão"
  },
  "512093237": {
   "checked": "2026-08-31",
@@ -3812,6 +6149,19 @@
   "cae": "43992",
   "cae_desc": "Outras actividades especializadas de construção diversas"
  },
+ "512093989": {
+  "checked": "2026-08-31",
+  "slug": "crismonica-auto-comercio-e-reparacao-de-automoveis-lda",
+  "estado": "Em Atividade",
+  "nome": "Crismónica - Auto Comércio e Reparação de Automóveis, Lda",
+  "morada": "Ribeira do Nabo 9800-404 Urzelina",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Velas",
+  "distrito": "Açores",
+  "cae": "45200",
+  "cae_desc": "Manutenção e reparação"
+ },
  "512094004": {
   "checked": "2026-08-31",
   "slug": "real-quality-housing-s-a",
@@ -3825,6 +6175,46 @@
   "cae": "41100",
   "cae_desc": "Desenvolvimento de projectos de edifícios"
  },
+ "512094179": {
+  "checked": "2026-08-31",
+  "slug": "a-damiao-melo-ii-empreiteiros-lda",
+  "estado": "Em Insolvência",
+  "nome": "A. Damião Melo II, Empreiteiros, Lda",
+  "morada": "R da Pedra, Nº 7 9500-449 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 135.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "68100",
+  "cae_desc": "Compra e venda de bens imobiliários"
+ },
+ "512094187": {
+  "checked": "2026-08-31",
+  "slug": "bota-k-tem-de-fernando-fausto-silva-cristovam-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Bota K' Tem de Fernando Fausto Silva Cristovam, Unipessoal Lda",
+  "morada": "Estrada Regional, Urzelina, Velas 9800-432 Urzelina",
+  "forma": "Sociedade Unipessoal",
+  "capital": "Não disponível",
+  "concelho": "Velas",
+  "distrito": "Açores",
+  "cae": "56107",
+  "cae_desc": "Restaurantes",
+  "atividade": "No âmbito de Restaurantes"
+ },
+ "512094225": {
+  "checked": "2026-08-31",
+  "slug": "nutriveg-unipessoal-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Nutriveg, Unipessoal Lda - Em Liquidação",
+  "morada": "Rua do Foral, 61 9600-071 Ribeira Grande",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Ribeira Grande",
+  "distrito": "Açores",
+  "cae": "47762",
+  "cae_desc": "Animais de companhia e respectivos alimentos"
+ },
  "512094454": {
   "checked": "2026-08-31",
   "slug": "carlos-alberto-melo-rodrigues-sociedade-unipessoal-lda-em-liquidacao",
@@ -3837,6 +6227,32 @@
   "distrito": "Açores",
   "cae": "43221",
   "cae_desc": "Instalação de canalizações"
+ },
+ "512094497": {
+  "checked": "2026-08-31",
+  "slug": "tecnimassas-construcoes-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Tecnimassas Construções - Unipessoal Lda",
+  "morada": "Quinta das Almas, N. 26",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "43390",
+  "cae_desc": "Outras actividades de acabamento em edifícios"
+ },
+ "512094624": {
+  "checked": "2026-08-31",
+  "slug": "villa-dos-passos-centro-de-recuperacao-e-tratamento-de-alcoolicos-e-toxicodependentes-lda",
+  "estado": "Em Atividade",
+  "nome": "Villa dos Passos - Centro de Recuperação e Tratamento de Alcoólicos e Toxicodependentes, Lda",
+  "morada": "Largo D. João Iii, N. 27",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Lagoa (São Miguel)",
+  "distrito": "Açores",
+  "cae": "87902",
+  "cae_desc": "Apoio social com alojamento"
  },
  "512094683": {
   "checked": "2026-08-31",
@@ -3877,6 +6293,32 @@
   "cae": "10711",
   "cae_desc": "Panificação"
  },
+ "512094993": {
+  "checked": "2026-08-31",
+  "slug": "construcoes-monte-brasil-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Construções Monte Brasil, Unipessoal, Lda",
+  "morada": "Canada da Pateira N. 12 9700-236 Angra do Heroísmo",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 10.000,00",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
+ "512095213": {
+  "checked": "2026-08-31",
+  "slug": "experiencia-construcoes-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Experiência Construções, Unipessoal Lda",
+  "morada": "Rua das Laranjeiras, N.º 25 9680-131 Vila Franca do Campo",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Vila Franca do Campo",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
  "512095329": {
   "checked": "2026-08-31",
   "slug": "pinheiro-bolarinho-producao-e-comercio-de-bovinos-lda",
@@ -3889,6 +6331,19 @@
   "distrito": "Açores",
   "cae": "1410",
   "cae_desc": "Bovinos para produção de leite"
+ },
+ "512095485": {
+  "checked": "2026-08-31",
+  "slug": "volumes-expressoes-construcao-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Volumes & Expressões - Construção, Lda - Em Liquidação",
+  "morada": "Avenida 5 de Agosto N 17 9500-651 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 75.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
  },
  "512095655": {
   "checked": "2026-08-31",
@@ -3929,6 +6384,19 @@
   "cae": "96093",
   "cae_desc": "Outras actividades de serviços pessoais diversas"
  },
+ "512095949": {
+  "checked": "2026-08-31",
+  "slug": "carlos-toste-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Carlos Toste, Unipessoal Lda",
+  "morada": "Canada do João Caminho, N. 23 9700-363 Porto Judeu",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "43210",
+  "cae_desc": "Instalação eléctrica"
+ },
  "512096414": {
   "checked": "2026-08-31",
   "slug": "banda-com-jorge-p-moniz-sociedade-unipessoal-lda",
@@ -3941,6 +6409,19 @@
   "distrito": "Açores",
   "cae": "90010",
   "cae_desc": "Actividades das artes do espectáculo"
+ },
+ "512096686": {
+  "checked": "2026-08-31",
+  "slug": "carpintaria-j-nuno-lda",
+  "estado": "Em Atividade",
+  "nome": "Carpintaria - J. Nuno, Lda",
+  "morada": "Rua de São Lázaro, N 36 9680 Vila Franca do Campo",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Vila Franca do Campo",
+  "distrito": "Açores",
+  "cae": "16230",
+  "cae_desc": "Outras obras de carpintaria para a construção"
  },
  "512096724": {
   "checked": "2026-08-31",
@@ -3967,6 +6448,19 @@
   "distrito": "Açores",
   "cae": "69200",
   "cae_desc": "Contabilidade, auditoria e consultoria fiscal"
+ },
+ "512097070": {
+  "checked": "2026-08-31",
+  "slug": "unica-comunicacao-edicao-de-publicacoes-lda",
+  "estado": "Em Atividade",
+  "nome": "Única Comunicação - Edição de Publicações, Lda",
+  "morada": "Ponta Delgada 9500-343 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "58140",
+  "cae_desc": "Revistas e periódicos"
  },
  "512097330": {
   "checked": "2026-08-31",
@@ -4020,6 +6514,19 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
  },
+ "512097682": {
+  "checked": "2026-08-31",
+  "slug": "ferreira-feleja-restauracao-lda",
+  "estado": "Encerrada",
+  "nome": "Ferreira & Feleja - Restauração Lda",
+  "morada": "Rua da Saúde 132, Arrifes 9500-363 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "56102",
+  "cae_desc": "Restaurantes com lugares ao balcão"
+ },
  "512097828": {
   "checked": "2026-08-31",
   "slug": "jp-camioes-de-aluguer-lda",
@@ -4032,6 +6539,45 @@
   "distrito": "Açores",
   "cae": "49410",
   "cae_desc": "Transportes rodoviários de mercadorias"
+ },
+ "512098107": {
+  "checked": "2026-08-31",
+  "slug": "torres-pereira-oficinas-lda",
+  "estado": "Encerrada",
+  "nome": "Torres & Pereira Oficinas, Lda",
+  "morada": "Rua Dr. António Câmara N 39-E, Fajã de Baixo 9500-454 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "45200",
+  "cae_desc": "Manutenção e reparação"
+ },
+ "512098301": {
+  "checked": "2026-08-31",
+  "slug": "luis-furtado-contabilidade-gestao-sociedade-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Luís Furtado - Contabilidade & Gestão, Sociedade Unipessoal Lda",
+  "morada": "R Monsenhor José Batista Ferreira, 33 L Ponta Delgada 9500 Ponta Delgada",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 16.500,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "69200",
+  "cae_desc": "Contabilidade, auditoria e consultoria fiscal"
+ },
+ "512098310": {
+  "checked": "2026-08-31",
+  "slug": "auto-cabido-comercio-automovel-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Auto Cabido - Comércio Automóvel, Unipessoal Lda",
+  "morada": "Rua dos Cavalos 21, Fenais da Luz 9545-217 Ponta Delgada",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "45110",
+  "cae_desc": "Automóveis ligeiros"
  },
  "512098352": {
   "checked": "2026-08-31",
@@ -4046,6 +6592,45 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
  },
+ "512098360": {
+  "checked": "2026-08-31",
+  "slug": "construcoes-jose-carlos-ramos-sociedade-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Construções José Carlos Ramos, Sociedade Unipessoal Lda",
+  "morada": "Rua Walter Bensaúde, 21 9900-142 Horta",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Horta",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
+ "512098603": {
+  "checked": "2026-08-31",
+  "slug": "auto-aristides-reparacao-de-automoveis-lda",
+  "estado": "Encerrada",
+  "nome": "Auto-Aristides - Reparação de Automóveis, Lda",
+  "morada": "Parque Industrial 9760-100 Praia da Vitoria",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 10.000,00",
+  "concelho": "Praia da Vitória",
+  "distrito": "Açores",
+  "cae": "45200",
+  "cae_desc": "Manutenção e reparação"
+ },
+ "512098611": {
+  "checked": "2026-08-31",
+  "slug": "auto-aristides-comercio-de-automoveis-lda",
+  "estado": "Em Atividade",
+  "nome": "Auto-Aristides - Comércio de Automóveis, Lda",
+  "morada": "Aos Remédios, N 68 9760 Praia da Vitoria",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 25.000,00",
+  "concelho": "Praia da Vitória",
+  "distrito": "Açores",
+  "cae": "45110",
+  "cae_desc": "Automóveis ligeiros"
+ },
  "512098794": {
   "checked": "2026-08-31",
   "slug": "gabi-eduardo-produtos-alimentares-lda-em-liquidacao",
@@ -4058,6 +6643,19 @@
   "distrito": "Açores",
   "cae": "47784",
   "cae_desc": "Outros produtos novos"
+ },
+ "512099650": {
+  "checked": "2026-08-31",
+  "slug": "congelfruta-comercio-e-distribuicao-alimentar-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Congelfruta - Comércio e Distribuição Alimentar, Lda - Em Liquidação",
+  "morada": "Rua da Igreja, 59 9900-361 Horta",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 25.000,00",
+  "concelho": "Horta",
+  "distrito": "Açores",
+  "cae": "46311",
+  "cae_desc": "Fruta e produtos hortícolas, excepto batata"
  },
  "512099766": {
   "checked": "2026-08-31",
@@ -4084,5 +6682,31 @@
   "distrito": "Açores",
   "cae": "46771",
   "cae_desc": "Sucatas e desperdícios metálicos"
+ },
+ "512099880": {
+  "checked": "2026-08-31",
+  "slug": "vanri-sociedade-fabricacao-caixilharia-de-aluminios-e-estores-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Vanri - Sociedade Fabricação Caixilharia de Alumínios e Estores, Lda - Em Liquidação",
+  "morada": "Rua São Miguel Arcanjo, N 11 9760-306 Praia da Vitoria",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Praia da Vitória",
+  "distrito": "Açores",
+  "cae": "25120",
+  "cae_desc": "Portas e janelas em metal"
+ },
+ "512099995": {
+  "checked": "2026-08-31",
+  "slug": "paulo-antonio-cota-silva-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Paulo António Cota Silva, Unipessoal Lda",
+  "morada": "Canada Padre Joaquim Borges Meneses, N. 25 9700-579 Angra do Heroísmo",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 62.000,00",
+  "concelho": "Angra do Heroísmo",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
  }
 }
