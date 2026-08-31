@@ -1,4 +1,30 @@
 {
+ "518016510": {
+  "checked": "2026-08-31",
+  "slug": "prado-expedito-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Prado Expedito Unipessoal Lda",
+  "morada": "Rua Alexandre Herculano, 34/36 7630-147 Odemira",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 20.000,00",
+  "concelho": "Odemira",
+  "distrito": "Beja",
+  "cae": "68100",
+  "cae_desc": "Compra e venda de bens imobiliários"
+ },
+ "518022900": {
+  "checked": "2026-08-31",
+  "slug": "azafama-caprichosa-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Azáfama Caprichosa - Unipessoal Lda",
+  "morada": "Fazendas do Pontal, Quinta das Oliveiras 2985-204 Montijo",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 8.000,00",
+  "concelho": "Montijo",
+  "distrito": "Setúbal",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
  "518024580": {
   "checked": "2026-08-31",
   "slug": "buzio-volatil-unipessoal-lda",
@@ -11,6 +37,19 @@
   "distrito": "Lisboa",
   "cae": "1610",
   "cae_desc": "Serviços para agricultura"
+ },
+ "518028291": {
+  "checked": "2026-08-31",
+  "slug": "fantasia-cromatica-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Fantasia Cromática - Unipessoal Lda",
+  "morada": "Rua 25 de Abril, Nº. 23 R/C Frt 2605-219 Sintra",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Sintra",
+  "distrito": "Lisboa",
+  "cae": "1192",
+  "cae_desc": "Outras culturas temporárias"
  },
  "518029824": {
   "checked": "2026-08-31",
@@ -38,6 +77,32 @@
   "cae": "1610",
   "cae_desc": "Serviços para agricultura"
  },
+ "518035174": {
+  "checked": "2026-08-31",
+  "slug": "dialogasombra-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Dialogàsombra Unipessoal Lda",
+  "morada": "Rua do Estadio Lote A-19, Apartamento 208 Albufeira 8200-127 Albufeira",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Albufeira",
+  "distrito": "Faro",
+  "cae": "49320",
+  "cae_desc": "Táxis"
+ },
+ "518038823": {
+  "checked": "2026-08-31",
+  "slug": "bravuressencial-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Bravuressencial - Unipessoal Lda",
+  "morada": "Estrada A Loucos, Nº 25, Esq., Alhandra 2600-428 Alhandra",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 2.000,00",
+  "concelho": "Vila Franca de Xira",
+  "distrito": "Lisboa",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
  "518043630": {
   "checked": "2026-08-31",
   "slug": "supreme-chronicles-unipessoal-lda",
@@ -48,6 +113,19 @@
   "capital": "€ 500,00",
   "concelho": "Odivelas",
   "distrito": "Lisboa",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "518045765": {
+  "checked": "2026-08-31",
+  "slug": "exemplos-parabolas-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Exemplos & Parábolas Unipessoal Lda",
+  "morada": "Rua Camilo Castelo Branco, Nº 68, 4º Dtº 2870-015 Montijo",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Montijo",
+  "distrito": "Setúbal",
   "cae": "1610",
   "cae_desc": "Serviços para agricultura"
  },
@@ -76,5 +154,18 @@
   "distrito": "Faro",
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
+ },
+ "518079694": {
+  "checked": "2026-08-31",
+  "slug": "planeta-plissado-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Planeta Plissado - Unipessoal Lda",
+  "morada": "Rua da Indústria, N.º 22, R/C Direito 1300-305 Lisboa",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 1.000,00",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
  }
 }

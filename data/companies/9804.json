@@ -44,6 +44,32 @@
   "cae": "78300",
   "cae_desc": "Outro fornecimento de recursos humanos"
  },
+ "980430437": {
+  "checked": "2026-08-31",
+  "slug": "patamar-gest-corp-sucursal-em-portugal",
+  "estado": "Em Insolvência",
+  "nome": "Patamar Gest Corp - Sucursal Em Portugal",
+  "morada": "Avenida Dr. Antunes Guimarães, N 178 4100-073 Porto",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 1.000.000,00",
+  "concelho": "Porto",
+  "distrito": "Porto",
+  "cae": "46190",
+  "cae_desc": "Agentes do comércio por grosso misto sem predominância"
+ },
+ "980450896": {
+  "checked": "2026-08-31",
+  "slug": "green-network-technology-research-ltd-sucursal-em-portugal",
+  "estado": "Em Atividade",
+  "nome": "Green Network Technology Research Ltd - Sucursal Em Portugal",
+  "morada": "Rua Rodrigo da Fonseca, N 24, 5 Dt 1250-193 Lisboa",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "62020",
+  "cae_desc": "Actividades de consultoria em informática"
+ },
  "980459524": {
   "checked": "2026-08-31",
   "slug": "atlantic-new-business-corp-sucursal-em-portugal",
@@ -56,6 +82,19 @@
   "distrito": "Lisboa",
   "cae": "46900",
   "cae_desc": "Comércio por grosso não especializado"
+ },
+ "980462444": {
+  "checked": "2026-08-31",
+  "slug": "rotas-aleatorias-limited-sucursal-em-portugal",
+  "estado": "Em Insolvência",
+  "nome": "Rotas Aleatorias Limited - Sucursal Em Portugal",
+  "morada": "Rua Nova N .2, Lugar de Feteira 2530-687 São Bartolomeu dos Galegos",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 2.000,00",
+  "concelho": "Lourinhã",
+  "distrito": "Lisboa",
+  "cae": "49410",
+  "cae_desc": "Transportes rodoviários de mercadorias"
  },
  "980464986": {
   "checked": "2026-08-31",
@@ -117,5 +156,18 @@
   "morada": "Alameda Manuel Van-Dúnem, N 308/ 310, Luanda, Angola",
   "forma": "Sociedade por Quotas",
   "capital": "Não disponível"
+ },
+ "980484871": {
+  "checked": "2026-08-31",
+  "slug": "nicerice-ltd-sucursal-em-portugal",
+  "estado": "Em Atividade",
+  "nome": "Nicerice, Ltd - Sucursal Em Portugal",
+  "morada": "Rua José Cardoso Pires, 1-C, Loja 3 1750-430 Lisboa",
+  "forma": "Representação Permanente",
+  "capital": "Não disponível",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "1120",
+  "cae_desc": "Arroz"
  }
 }

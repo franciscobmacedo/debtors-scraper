@@ -25,6 +25,19 @@
   "cae": "49320",
   "cae_desc": "Táxis"
  },
+ "517408970": {
+  "checked": "2026-08-31",
+  "slug": "cosmicfield-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Cosmicfield, Unipessoal Lda",
+  "morada": "Monte da Portalinha, Portas de Transval 7630-208 Odemira",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 2.000,00",
+  "concelho": "Odemira",
+  "distrito": "Beja",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
  "517413035": {
   "checked": "2026-08-31",
   "slug": "obedientaspect-unipessoal-lda",
@@ -35,6 +48,110 @@
   "capital": "€ 4.000,00",
   "concelho": "Moura",
   "distrito": "Beja",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "517413140": {
+  "checked": "2026-08-31",
+  "slug": "credible-mermaid-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Credible Mermaid Lda - Em Liquidação",
+  "morada": "Avenida Dr. Sérgio Moreira da Cunha, Nº 17 4620-309 Lousada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 1.000,00",
+  "concelho": "Lousada",
+  "distrito": "Porto",
+  "cae": "13910",
+  "cae_desc": "Tecidos de malha"
+ },
+ "517423359": {
+  "checked": "2026-08-31",
+  "slug": "aspeto-destemido-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Aspeto Destemido - Unipessoal Lda",
+  "morada": "Calçada Santo André, N.º 48, R/C 1100-495 São Vicente",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 10.000,00",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "1300",
+  "cae_desc": "Materiais de propagação vegetativa"
+ },
+ "517423863": {
+  "checked": "2026-08-31",
+  "slug": "hexagono-desenvolto-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Hexágono Desenvolto - Unipessoal Lda",
+  "morada": "Praceta José da Silva Chagas Azevedo, Nº 1, Loja 1 2735-046 Agualva-Cacem",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Sintra",
+  "distrito": "Lisboa",
+  "cae": "47112",
+  "cae_desc": "Outros estabelecimentos de produtos alimentares, bebidas ou tabaco"
+ },
+ "517434229": {
+  "checked": "2026-08-31",
+  "slug": "futurenredo-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Futurenredo Unipessoal Lda",
+  "morada": "Rua António Fortunato de Sousa, N.º 83 2870-054 Montijo",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 10.000,00",
+  "concelho": "Montijo",
+  "distrito": "Setúbal",
+  "cae": "78100",
+  "cae_desc": "Selecção e colocação de pessoal"
+ },
+ "517435500": {
+  "checked": "2026-08-31",
+  "slug": "varzeas-e-atalhos-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Várzeas e Atalhos - Unipessoal Lda",
+  "morada": "Lugar Foros do Galeado, Lote 241, R/C 7645-036 Vila Nova de Milfontes",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Odemira",
+  "distrito": "Beja",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "517437090": {
+  "checked": "2026-08-31",
+  "slug": "purple-sardine-lda",
+  "estado": "Em Atividade",
+  "nome": "Purple Sardine Lda",
+  "morada": "Monte da Portelinha S/N Portas de Transval Odemira 7630-208 Odemira",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 2.000,00",
+  "concelho": "Odemira",
+  "distrito": "Beja",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "517437635": {
+  "checked": "2026-08-31",
+  "slug": "seara-esbelta-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Seara Esbelta Unipessoal Lda",
+  "morada": "Rua Bartolomeu Dias, Nº 39 Ferreira do Alentejo 7900-589 Beja",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Ferreira do Alentejo",
+  "distrito": "Beja",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "517443619": {
+  "checked": "2026-08-31",
+  "slug": "zebracrobata-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Zebracrobata Unipessoal Lda",
+  "morada": "Avenida Nacional, Nº 13, Tzr 4920-001 Viana do Castelo",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 2.500,00",
+  "concelho": "Vila Nova de Cerveira",
+  "distrito": "Viana do Castelo",
   "cae": "1610",
   "cae_desc": "Serviços para agricultura"
  },
@@ -63,6 +180,32 @@
   "distrito": "Leiria",
   "cae": "1610",
   "cae_desc": "Serviços para agricultura"
+ },
+ "517449005": {
+  "checked": "2026-08-31",
+  "slug": "fluffy-cottage-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Fluffy Cottage Unipessoal Lda",
+  "morada": "Rua da Amoreira , nº 12 1º Esq Camarate 2680-132 Camarate",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 25.000,00",
+  "concelho": "Loures",
+  "distrito": "Lisboa",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "517449285": {
+  "checked": "2026-08-31",
+  "slug": "impulsive-kindness-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Impulsive Kindness - Unipessoal Lda",
+  "morada": "Rua 5 de Outubro, N.º 78 7630-145 Odemira",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Odemira",
+  "distrito": "Beja",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
  },
  "517452871": {
   "checked": "2026-08-31",
@@ -103,6 +246,19 @@
   "cae": "81220",
   "cae_desc": "Outras actividades de limpeza em edifícios e em equipamentos industriais"
  },
+ "517458322": {
+  "checked": "2026-08-31",
+  "slug": "utopia-geometria-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Utopia & Geometria - Unipessoal Lda",
+  "morada": "Loteamento de Sousa, 100 Bi-B, R/C Centro 4490-024 Aver-O-Mar",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 50.000,00",
+  "concelho": "Póvoa de Varzim",
+  "distrito": "Porto",
+  "cae": "46410",
+  "cae_desc": "Comércio por grosso de têxteis"
+ },
  "517462214": {
   "checked": "2026-08-31",
   "slug": "grupo-antonio-rodrigues-lda",
@@ -129,6 +285,19 @@
   "cae": "10110",
   "cae_desc": "Abate de gado"
  },
+ "517466155": {
+  "checked": "2026-08-31",
+  "slug": "padrao-credivel-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Padrão Credível - Unipessoal, Lda",
+  "morada": "Rua Dom João Mascaranhas, Nº. 11, 2º. Esqº. 2720-172 Amadora",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 8.000,00",
+  "concelho": "Amadora",
+  "distrito": "Lisboa",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
  "517468360": {
   "checked": "2026-08-31",
   "slug": "masterlion-lda",
@@ -142,6 +311,19 @@
   "cae": "78100",
   "cae_desc": "Selecção e colocação de pessoal"
  },
+ "517471302": {
+  "checked": "2026-08-31",
+  "slug": "lovely-tribute-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Lovely Tribute, Unipessoal Lda",
+  "morada": "Avenida Nacional, Nº 13 H, 17 Tzr 4920-001 Viana do Castelo",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 2.500,00",
+  "concelho": "Vila Nova de Cerveira",
+  "distrito": "Viana do Castelo",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
  "517474751": {
   "checked": "2026-08-31",
   "slug": "genios-obstinados-unipessoal-lda",
@@ -154,6 +336,19 @@
   "distrito": "Lisboa",
   "cae": "1500",
   "cae_desc": "Agricultura e produção animal combinadas"
+ },
+ "517477793": {
+  "checked": "2026-08-31",
+  "slug": "friendly-corner-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Friendly Corner - Unipessoal Lda",
+  "morada": "Avenida das Descobertas, Lote 6, 8º Dto 2910-710 Setúbal",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 50.000,00",
+  "concelho": "Setúbal",
+  "distrito": "Setúbal",
+  "cae": "49320",
+  "cae_desc": "Táxis"
  },
  "517486806": {
   "checked": "2026-08-31",

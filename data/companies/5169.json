@@ -1,4 +1,15 @@
 {
+ "516901419": {
+  "checked": "2026-08-31",
+  "slug": "libertamagia-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Libertamagia Unipessoal Lda",
+  "morada": "Travessa do Outeiro, Nº 1, R/C 3680-102 Oliveira de Frades",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Oliveira de Frades",
+  "distrito": "Viseu"
+ },
  "516908731": {
   "checked": "2026-08-31",
   "slug": "duelos-dazul-unipessoal-lda",
@@ -103,6 +114,32 @@
   "cae": "46130",
   "cae_desc": "Agentes do comércio por grosso de madeira e materiais de construção"
  },
+ "516929720": {
+  "checked": "2026-08-31",
+  "slug": "always-sunny-lda",
+  "estado": "Em Insolvência",
+  "nome": "Always Sunny, Lda",
+  "morada": "Calçada do Monte, 2 A, Apt 2B 1100-362 Lisboa",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 120.000,00",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais"
+ },
+ "516929992": {
+  "checked": "2026-08-31",
+  "slug": "acordo-frutado-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Acordo Frutado - Unipessoal Lda",
+  "morada": "Rua do Vale, N.º 1 A 7630-033 Boavista dos Pinheiros",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Odemira",
+  "distrito": "Beja",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
  "516946587": {
   "checked": "2026-08-31",
   "slug": "rizomaflux-unipessoal-lda",
@@ -126,6 +163,19 @@
   "capital": "€ 5.000,00",
   "concelho": "Montijo",
   "distrito": "Setúbal",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "516950843": {
+  "checked": "2026-08-31",
+  "slug": "msgpt-international-lda",
+  "estado": "Em Atividade",
+  "nome": "Msgpt, International, Lda",
+  "morada": "Rua Sacadura Cabral, Nº 23 2600-182 Vila Franca de Xira",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Vila Franca de Xira",
+  "distrito": "Lisboa",
   "cae": "1610",
   "cae_desc": "Serviços para agricultura"
  },
@@ -154,6 +204,19 @@
   "distrito": "Setúbal",
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
+ },
+ "516953931": {
+  "checked": "2026-08-31",
+  "slug": "colsas-metals-lda",
+  "estado": "Em Atividade",
+  "nome": "Colsas Metals, Lda",
+  "morada": "Rua António Gomes Soares Pereira, N.º 88 4470-139 Maia",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 6.000,00",
+  "concelho": "Maia",
+  "distrito": "Porto",
+  "cae": "46720",
+  "cae_desc": "Minérios e metais"
  },
  "516966022": {
   "checked": "2026-08-31",
@@ -220,6 +283,19 @@
   "cae": "81210",
   "cae_desc": "Actividades de limpeza geral em edifícios"
  },
+ "516972723": {
+  "checked": "2026-08-31",
+  "slug": "tropicalnumbers-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Tropicalnumbers - Unipessoal Lda",
+  "morada": "Rua 30, N.º 27 7565-211 Ermidas Sado",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Santiago do Cacém",
+  "distrito": "Setúbal",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
  "516973096": {
   "checked": "2026-08-31",
   "slug": "deepangle-unipessoal-lda",
@@ -232,6 +308,32 @@
   "distrito": "Setúbal",
   "cae": "56301",
   "cae_desc": "Cafés"
+ },
+ "516974157": {
+  "checked": "2026-08-31",
+  "slug": "rui-espirito-santo-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Rui Espirito Santo, Unipessoal Lda",
+  "morada": "Rua Engenheiro Francisco Pimentel, Lote 19, 2º Esq. 3510-201 Viseu",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 1.000,00",
+  "concelho": "Viseu",
+  "distrito": "Viseu",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais"
+ },
+ "516975552": {
+  "checked": "2026-08-31",
+  "slug": "tecnicax-construcoes-lda",
+  "estado": "Em Atividade",
+  "nome": "Técnicax Construções, Lda",
+  "morada": "Lugar Foros do Locário - Cci 5403, Bric 2 7540-402 Setúbal",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Santiago do Cacém",
+  "distrito": "Setúbal",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
  },
  "516976605": {
   "checked": "2026-08-31",
@@ -258,6 +360,45 @@
   "distrito": "Beja",
   "cae": "1610",
   "cae_desc": "Serviços para agricultura"
+ },
+ "516983270": {
+  "checked": "2026-08-31",
+  "slug": "vestigios-epicos-lda",
+  "estado": "Em Atividade",
+  "nome": "Vestígios Épicos Lda",
+  "morada": "Avenida Engenheiro Arantes e Oliveira, Número 3, R/C 1900-221 Lisboa",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 1.000,00",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
+ "516987186": {
+  "checked": "2026-08-31",
+  "slug": "sublimenredo-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Sublimenredo - Unipessoal Lda",
+  "morada": "Avenida de Roma, Nº 16, 3º Dto 1000-265 Lisboa",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 1.000,00",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "47910",
+  "cae_desc": "Comércio a retalho por correspondência ou via Internet"
+ },
+ "516987208": {
+  "checked": "2026-08-31",
+  "slug": "atitude-volumosa-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Atitude Volumosa Unipessoal Lda",
+  "morada": "Avenida 5 de Outubro, N.º 37-39, Broega 2870-516 Sarilhos Grandes",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 2.000,00",
+  "concelho": "Montijo",
+  "distrito": "Setúbal",
+  "cae": "70100",
+  "cae_desc": "Sedes sociais"
  },
  "516991221": {
   "checked": "2026-08-31",

@@ -1,4 +1,30 @@
 {
+ "517702274": {
+  "checked": "2026-08-31",
+  "slug": "melody-boat-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Melody Boat - Unipessoal Lda",
+  "morada": "Rua Margarida Malheiros, Nº 2, Loja C 2605-292 Sintra",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 10.000,00",
+  "concelho": "Sintra",
+  "distrito": "Lisboa",
+  "cae": "49320",
+  "cae_desc": "Táxis"
+ },
+ "517703122": {
+  "checked": "2026-08-31",
+  "slug": "talent-revival-lda",
+  "estado": "Em Atividade",
+  "nome": "Talent Revival - Lda",
+  "morada": "Rua das Dunas, Bloco 12 B, Loja 6, Vila Nova de Santo André 7500-190 Vila Nova de Santo André",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Santiago do Cacém",
+  "distrito": "Setúbal",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
  "517710994": {
   "checked": "2026-08-31",
   "slug": "binary-bee-unipessoal-lda",
@@ -10,6 +36,19 @@
   "concelho": "Lisboa",
   "distrito": "Lisboa"
  },
+ "517713390": {
+  "checked": "2026-08-31",
+  "slug": "costadi-construcoes-e-servicos-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Costadi Construções e Serviços, Unipessoal Lda",
+  "morada": "Rua do Moinho, Nº 78, Loja B 2725-095 Mem Martins",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Sintra",
+  "distrito": "Lisboa",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
  "517714329": {
   "checked": "2026-08-31",
   "slug": "laco-primaveril-unipessoal-lda",
@@ -20,6 +59,84 @@
   "capital": "€ 1.000,00",
   "concelho": "Lisboa",
   "distrito": "Lisboa",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "517714825": {
+  "checked": "2026-08-31",
+  "slug": "mountain-spark-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Mountain Spark - Unipessoal Lda",
+  "morada": "Rua Velha do Barreiro, Nº 23, Reliquias 7630-392 Reliquias",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Odemira",
+  "distrito": "Beja",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "517715880": {
+  "checked": "2026-08-31",
+  "slug": "krypton-binary-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Krypton Binary - Unipessoal Lda",
+  "morada": "Rua do Diário de Notícias, Nº 23 1200-141 Lisboa",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 25.000,00",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais"
+ },
+ "517717115": {
+  "checked": "2026-08-31",
+  "slug": "quilos-outonais-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Quilos Outonais Unipessoal Lda",
+  "morada": "Rua Cabinda, Número 105 , R/C, Ermesinde 4445-359 Ermesinde",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Valongo",
+  "distrito": "Porto",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "517717999": {
+  "checked": "2026-08-31",
+  "slug": "sulrapido-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Sulrapido, Unipessoal Lda",
+  "morada": "Rua Conselheiro Sousa Macedo, Nº 236, Moinho de Vento 3510-049 Viseu",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Viseu",
+  "distrito": "Viseu",
+  "cae": "45320",
+  "cae_desc": "Peças e acessórios"
+ },
+ "517727269": {
+  "checked": "2026-08-31",
+  "slug": "semente-metodica-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Semente Metódica - Unipessoal Lda",
+  "morada": "Rua Joaquim Marques da Silva, Cci 1517, Lagoa do Calvo 2965-234 Poceirão",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 10.000,00",
+  "concelho": "Palmela",
+  "distrito": "Setúbal",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "517728370": {
+  "checked": "2026-08-31",
+  "slug": "primavera-refrescante-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Primavera Refrescante Unipessoal Lda",
+  "morada": "Rua Foros das Passarinhas, Cci 23207 2965-291 Poceirão",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Palmela",
+  "distrito": "Setúbal",
   "cae": "1610",
   "cae_desc": "Serviços para agricultura"
  },
@@ -35,6 +152,19 @@
   "distrito": "Lisboa",
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
+ },
+ "517740508": {
+  "checked": "2026-08-31",
+  "slug": "christos-asteriadis-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Christos Asteriadis, Unipessoal Lda",
+  "morada": "Rua dos Fanqueiros, Nº 234, 2º Dtº 1100-619 Lisboa",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 10.000,00",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "47111",
+  "cae_desc": "Supermercados e hipermercados"
  },
  "517741695": {
   "checked": "2026-08-31",
@@ -61,6 +191,84 @@
   "distrito": "Lisboa",
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
+ },
+ "517750368": {
+  "checked": "2026-08-31",
+  "slug": "acentos-ambarinos-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Acentos Ambarinos - Unipessoal Lda",
+  "morada": "Rua Arneiro do Gregório, Nº 55 1.º Esq 7645-223 Vila Nova de Milfontes",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 3.000,00",
+  "concelho": "Odemira",
+  "distrito": "Beja",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "517751518": {
+  "checked": "2026-08-31",
+  "slug": "pretty-intuition-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Pretty Intuition - Unipessoal Lda",
+  "morada": "Rua Coronel Figueiredo - Lagoa Business Center, Loja 5, Lagoa 8400-306 Lagoa",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 100,00",
+  "concelho": "Lagoa (Algarve)",
+  "distrito": "Faro",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "517757745": {
+  "checked": "2026-08-31",
+  "slug": "varzea-graciosa-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Várzea Graciosa Unipessoal Lda",
+  "morada": "Lugar Casa Nova do Bemparece, Portas do Transval, Odemira 7630-208 Odemira",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 1.000,00",
+  "concelho": "Odemira",
+  "distrito": "Beja",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "517759357": {
+  "checked": "2026-08-31",
+  "slug": "celamim-arrojado-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Celamim Arrojado Unipessoal Lda",
+  "morada": "Rua 25 de Abril , Nº 11 8670-320 Odeceixe",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Aljezur",
+  "distrito": "Faro",
+  "cae": "47111",
+  "cae_desc": "Supermercados e hipermercados"
+ },
+ "517760240": {
+  "checked": "2026-08-31",
+  "slug": "varzea-aprumada-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Várzea Aprumada - Unipessoal Lda",
+  "morada": "Lugar Foros do Galeado, Lote 2412, R/C 7645-036 Vila Nova de Milfontes",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 600,00",
+  "concelho": "Odemira",
+  "distrito": "Beja",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "517762366": {
+  "checked": "2026-08-31",
+  "slug": "limao-d-encanto-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Limão D Encanto Unipessoal Lda",
+  "morada": "Rua Cidade de Lisboa, Nº 32, C Camarate 2680-037 Camarate",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Loures",
+  "distrito": "Lisboa",
+  "cae": "1130",
+  "cae_desc": "Horticultura"
  },
  "517771195": {
   "checked": "2026-08-31",
@@ -125,6 +333,19 @@
   "concelho": "Odivelas",
   "distrito": "Lisboa"
  },
+ "517780259": {
+  "checked": "2026-08-31",
+  "slug": "vestigios-atarefados-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Vestígios Atarefados Unipessoal Lda",
+  "morada": "Sítio da Igreja, Caixa Postal 671 G 8800-112 Faro",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 1.000,00",
+  "concelho": "Tavira",
+  "distrito": "Faro",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
  "517786737": {
   "checked": "2026-08-31",
   "slug": "vigente-persistente-unipessoal-lda",
@@ -137,6 +358,32 @@
   "distrito": "Lisboa",
   "cae": "81210",
   "cae_desc": "Actividades de limpeza geral em edifícios"
+ },
+ "517794454": {
+  "checked": "2026-08-31",
+  "slug": "impactobjetivo-unipessoal-lda",
+  "estado": "Em Insolvência",
+  "nome": "Impactobjetivo - Unipessoal Lda",
+  "morada": "Rua Faustino Ferrador, Nº 5, Hab. 604 4710-244 Braga",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Braga",
+  "distrito": "Braga",
+  "cae": "10110",
+  "cae_desc": "Abate de gado"
+ },
+ "517795221": {
+  "checked": "2026-08-31",
+  "slug": "caderno-silvestre-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Caderno Silvestre - Unipessoal Lda",
+  "morada": "Avenida General Roçadas, N.º 141, 2º Esq.º 1170-158 Lisboa",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
  },
  "517795329": {
   "checked": "2026-08-31",
@@ -163,5 +410,18 @@
   "distrito": "Leiria",
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
+ },
+ "517796775": {
+  "checked": "2026-08-31",
+  "slug": "cornucopia-franzina-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Cornucópia Franzina, Unipessoal Lda",
+  "morada": "Avenida Dom Nuno Álvares Pereira, N.º 55, 2.º Esqº 2735-149 Agualva-Cacém",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 1.000,00",
+  "concelho": "Sintra",
+  "distrito": "Lisboa",
+  "cae": "49320",
+  "cae_desc": "Táxis"
  }
 }

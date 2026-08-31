@@ -38,6 +38,45 @@
   "cae": "49410",
   "cae_desc": "Transportes rodoviários de mercadorias"
  },
+ "508206120": {
+  "checked": "2026-08-31",
+  "slug": "certificacao-mais-sociedade-portuguesa-de-certificacao-de-edificios-lda",
+  "estado": "Encerrada",
+  "nome": "Certificação Mais - Sociedade Portuguesa de Certificação de Edifícios, Lda",
+  "morada": "Praceta das Fábricas, Nº2, 1º A, Outurela 2794-064 Carnaxide",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 105.000,00",
+  "concelho": "Oeiras",
+  "distrito": "Lisboa",
+  "cae": "71200",
+  "cae_desc": "Ensaios e análises técnicas"
+ },
+ "508207134": {
+  "checked": "2026-08-31",
+  "slug": "restrur-s-a",
+  "estado": "Em Insolvência",
+  "nome": "Restrur S.A",
+  "morada": "Avenida de Sabóia N 839, C, Monte do Estoril, Estoril 2765-581 Estoril",
+  "forma": "Sociedade Anónima",
+  "capital": "€ 50.000,00",
+  "concelho": "Cascais",
+  "distrito": "Lisboa",
+  "cae": "68100",
+  "cae_desc": "Compra e venda de bens imobiliários"
+ },
+ "508207703": {
+  "checked": "2026-08-31",
+  "slug": "bd-systems-2-office-equipments-lda",
+  "estado": "Encerrada",
+  "nome": "Bd Systems 2 - Office Equipments Lda",
+  "morada": "Rua dos Oleiros, Nº 30, Lote B, 1º, Esc. 4, 3000-302 Coimbra",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 10.000,00",
+  "concelho": "Coimbra",
+  "distrito": "Coimbra",
+  "cae": "46660",
+  "cae_desc": "Outras máquinas e material de escritório"
+ },
  "508208270": {
   "checked": "2026-08-31",
   "slug": "fermolda-s-a-em-liquidacao",
@@ -50,6 +89,19 @@
   "distrito": "Santarém",
   "cae": "46130",
   "cae_desc": "Agentes do comércio por grosso de madeira e materiais de construção"
+ },
+ "508211336": {
+  "checked": "2026-08-31",
+  "slug": "azultotal-distribuicao-de-publicidade-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Azultotal - Distribuição de Publicidade Unipessoal Lda",
+  "morada": "Praceta Raúl Brandão, N.º 12, 3.º Dt.º 2725-424 Mem Martins",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Sintra",
+  "distrito": "Lisboa",
+  "cae": "73110",
+  "cae_desc": "Agências de publicidade"
  },
  "508211743": {
   "checked": "2026-08-31",
@@ -88,6 +140,32 @@
   "cae": "47781",
   "cae_desc": "Máquinas e outro material de escritório"
  },
+ "508214459": {
+  "checked": "2026-08-31",
+  "slug": "soldadinho-de-chumbo-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Soldadinho de Chumbo - Unipessoal Lda",
+  "morada": "Rua do Sacristão, Nº 6, Poças 3200-106 Lousã",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 10.000,00",
+  "concelho": "Lousã",
+  "distrito": "Coimbra",
+  "cae": "56107",
+  "cae_desc": "Restaurantes"
+ },
+ "508215650": {
+  "checked": "2026-08-31",
+  "slug": "pastelinho-de-trigo-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Pastelinho de Trigo, Unipessoal Lda",
+  "morada": "Rua do Mirante, N 11 1685-588 Caneças",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Odivelas",
+  "distrito": "Lisboa",
+  "cae": "10712",
+  "cae_desc": "Pastelaria"
+ },
  "508217466": {
   "checked": "2026-08-31",
   "slug": "miniscente-ensino-de-linguas-estrangeiras-lda",
@@ -101,6 +179,32 @@
   "cae": "85591",
   "cae_desc": "Formação profissional"
  },
+ "508218284": {
+  "checked": "2026-08-31",
+  "slug": "viciusteus-unipessoal-lda",
+  "estado": "Em Insolvência",
+  "nome": "Viciusteus, Unipessoal Lda",
+  "morada": "Rua de Revinhade, Nº. 272 (Zona Industrial de Pedras Agudas) 4650-376 Revinhade",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Felgueiras",
+  "distrito": "Porto",
+  "cae": "15201",
+  "cae_desc": "Calçado - fabricantes"
+ },
+ "508219850": {
+  "checked": "2026-08-31",
+  "slug": "mente-frontal-industria-de-mobiliario-unipessoal-lda",
+  "estado": "Em Insolvência",
+  "nome": "Mente Frontal - Indústria de Mobiliário, Unipessoal Lda",
+  "morada": "Rua Trevoares, 117 - Vandoma 4585-781 Vandoma",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Paredes",
+  "distrito": "Porto",
+  "cae": "31091",
+  "cae_desc": "Mobiliário de madeira para outros fins - fabricantes"
+ },
  "508221900": {
   "checked": "2026-08-31",
   "slug": "semear-emocoes-unipessoal-lda",
@@ -113,6 +217,58 @@
   "distrito": "Porto",
   "cae": "10711",
   "cae_desc": "Panificação"
+ },
+ "508222923": {
+  "checked": "2026-08-31",
+  "slug": "bellissima-acessorios-de-moda-lda",
+  "estado": "Em Revitalização",
+  "nome": "Béllissima, Acessórios de Moda, Lda",
+  "morada": "Rua Nossa Senhora do Amparo, Nº 82 C 18 4435-350 Rio Tinto",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 25.000,00",
+  "concelho": "Gondomar",
+  "distrito": "Porto",
+  "cae": "47784",
+  "cae_desc": "Outros produtos novos"
+ },
+ "508223091": {
+  "checked": "2026-08-31",
+  "slug": "obrivertical-pavimentos-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Obrivertical - Pavimentos Unipessoal Lda",
+  "morada": "Olival da Misericórdia, Estrada da Ponte das Hortas, Apartado 142 7350-225 Elvas",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Elvas",
+  "distrito": "Portalegre",
+  "cae": "43330",
+  "cae_desc": "Revestimento de pavimentos e de paredes"
+ },
+ "508224500": {
+  "checked": "2026-08-31",
+  "slug": "moreijo-construcoes-unipessoal-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Moreijo - Construções, Unipessoal Lda - Em Liquidação",
+  "morada": "Rua Dom Sisnando 4625-714 Marco de Canaveses",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Marco de Canaveses",
+  "distrito": "Porto",
+  "cae": "42990",
+  "cae_desc": "Outras obras de engenharia civil"
+ },
+ "508227496": {
+  "checked": "2026-08-31",
+  "slug": "archipergola-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Archipérgola - Unipessoal Lda",
+  "morada": "Rua Santo António da Glória, N.º 95, R/C 1250-216 Lisboa",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 29.000,00",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
  },
  "508228298": {
   "checked": "2026-08-31",
@@ -140,6 +296,19 @@
   "cae": "14131",
   "cae_desc": "Confecção de outro vestuário exterior em série"
  },
+ "508233089": {
+  "checked": "2026-08-31",
+  "slug": "brito-carneiro-imobiliaria-lda",
+  "estado": "Em Insolvência",
+  "nome": "Brito & Carneiro Imobiliária, Lda",
+  "morada": "Rua Central, N 1491 4825-264 Santo Tirso",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 60.000,00",
+  "concelho": "Santo Tirso",
+  "distrito": "Porto",
+  "cae": "68100",
+  "cae_desc": "Compra e venda de bens imobiliários"
+ },
  "508234247": {
   "checked": "2026-08-31",
   "slug": "cortikuito-lda",
@@ -165,6 +334,19 @@
   "distrito": "Coimbra",
   "cae": "45110",
   "cae_desc": "Automóveis ligeiros"
+ },
+ "508241553": {
+  "checked": "2026-08-31",
+  "slug": "spotvaga-confeccoes-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Spotvaga - Confecções, Unipessoal Lda",
+  "morada": "Rua São Bento das Peras, 68, 2.º Apartº.127 4435-432 Gondomar",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Gondomar",
+  "distrito": "Porto",
+  "cae": "14131",
+  "cae_desc": "Confecção de outro vestuário exterior em série"
  },
  "508242894": {
   "checked": "2026-08-31",
@@ -192,6 +374,19 @@
   "cae": "81220",
   "cae_desc": "Outras actividades de limpeza em edifícios e em equipamentos industriais"
  },
+ "508246415": {
+  "checked": "2026-08-31",
+  "slug": "qsombra-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Qsombra, Unipessoal Lda",
+  "morada": "Rua da Azenha, S/ N, Casal do Pedregulho 2665-308 Milharado",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Mafra",
+  "distrito": "Lisboa",
+  "cae": "46410",
+  "cae_desc": "Comércio por grosso de têxteis"
+ },
  "508246954": {
   "checked": "2026-08-31",
   "slug": "norsolda-montagens-e-reparacoes-industriais-unipessoal-lda",
@@ -205,6 +400,19 @@
   "cae": "25620",
   "cae_desc": "Mecânica geral"
  },
+ "508249066": {
+  "checked": "2026-08-31",
+  "slug": "nad-design-solutions-s-a",
+  "estado": "Em Atividade",
+  "nome": "Nad Design Solutions, S.A",
+  "morada": "Rua de São Manços, N. 19 7000-932 Évora",
+  "forma": "Sociedade Anónima",
+  "capital": "€ 20.000,00",
+  "concelho": "Évora",
+  "distrito": "Évora",
+  "cae": "74100",
+  "cae_desc": "Actividades de design"
+ },
  "508250242": {
   "checked": "2026-08-31",
   "slug": "movimentus-ibericos-transportes-aluguer-maquinas-e-equipamentos-lda",
@@ -217,6 +425,19 @@
   "distrito": "Lisboa",
   "cae": "49410",
   "cae_desc": "Transportes rodoviários de mercadorias"
+ },
+ "508250439": {
+  "checked": "2026-08-31",
+  "slug": "raqcat-health-sports-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Raqcat - Health & Sports, Lda - Em Liquidação",
+  "morada": "Rua de Santos Pousada, 751 4000-488 Porto",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Porto",
+  "distrito": "Porto",
+  "cae": "93130",
+  "cae_desc": "Ginásios (fitness)"
  },
  "508250510": {
   "checked": "2026-08-31",
@@ -244,6 +465,32 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
  },
+ "508251249": {
+  "checked": "2026-08-31",
+  "slug": "dedal-azul-unipessoal-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Dedal Azul, Unipessoal Lda-Em Liquidação",
+  "morada": "Quinta da Longra, Lote 21, Cave 3510-147 Viseu",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Viseu",
+  "distrito": "Viseu",
+  "cae": "14131",
+  "cae_desc": "Confecção de outro vestuário exterior em série"
+ },
+ "508252199": {
+  "checked": "2026-08-31",
+  "slug": "scurev-seguranca-consultoria-e-formacao-lda",
+  "estado": "Em Insolvência",
+  "nome": "Scurev - Segurança, Consultoria e Formação, Lda",
+  "morada": "Rua António José de Almeida, Nº 20-A, 2º Esqº 2650-381 Amadora",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 250.000,00",
+  "concelho": "Amadora",
+  "distrito": "Lisboa",
+  "cae": "80100",
+  "cae_desc": "Actividades de segurança privada"
+ },
  "508254051": {
   "checked": "2026-08-31",
   "slug": "golfotir-transportes-s-a-em-liquidacao",
@@ -257,6 +504,32 @@
   "cae": "49410",
   "cae_desc": "Transportes rodoviários de mercadorias"
  },
+ "508256488": {
+  "checked": "2026-08-31",
+  "slug": "feleca-metalurgica-europeia-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Feleca - Metalúrgica Europeia, Lda - Em Liquidação",
+  "morada": "Rua dos Goivos, Ccomercial Avc, Loja 26 4480-797 Vila do Conde",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Vila do Conde",
+  "distrito": "Porto",
+  "cae": "25620",
+  "cae_desc": "Mecânica geral"
+ },
+ "508256887": {
+  "checked": "2026-08-31",
+  "slug": "quattrino-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Quattrino, Lda - Em Liquidação",
+  "morada": "Quinta do Paizinho, Nº 2, Piso Menos 1, Loja A 2790-237 Carnaxide",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 10.000,00",
+  "concelho": "Oeiras",
+  "distrito": "Lisboa",
+  "cae": "56103",
+  "cae_desc": "Restaurantes sem serviço de mesa"
+ },
  "508258600": {
   "checked": "2026-08-31",
   "slug": "montestrutura-construcoes-lda-sociedade-em-liquidacao",
@@ -269,6 +542,84 @@
   "distrito": "Coimbra",
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
+ },
+ "508258979": {
+  "checked": "2026-08-31",
+  "slug": "ziparblue-lda",
+  "estado": "Em Insolvência",
+  "nome": "Ziparblue, Lda",
+  "morada": "Lugar de Vale do Grou, S/ N 3750-064 Aguada de Cima",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 70.000,00",
+  "concelho": "Águeda",
+  "distrito": "Aveiro",
+  "cae": "23312",
+  "cae_desc": "Ladrilhos, mosaicos e placas de cerâmica"
+ },
+ "508259541": {
+  "checked": "2026-08-31",
+  "slug": "i-zone-sgps-s-a-2",
+  "estado": "Em Insolvência",
+  "nome": "I-Zone - SGPS S.A",
+  "morada": "Rua de Timor, N 14 3800-271 Aveiro",
+  "forma": "Sociedade Gestora de Participações Sociais",
+  "capital": "€ 1.000.000,00",
+  "concelho": "Aveiro",
+  "distrito": "Aveiro",
+  "cae": "64202",
+  "cae_desc": "SGPS não financeiras"
+ },
+ "508262330": {
+  "checked": "2026-08-31",
+  "slug": "folha-franzida-confeccao-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Folha Franzida - Confecçao, Unipessoal Lda",
+  "morada": "Rua 26 de Junho, Zona Industrial da São Paio, pav. 16 4815-587 São Paio Vizela",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000.000,00",
+  "concelho": "Vizela",
+  "distrito": "Braga",
+  "cae": "14190",
+  "cae_desc": "Confecção de outros artigos e acessórios de vestuário"
+ },
+ "508262410": {
+  "checked": "2026-08-31",
+  "slug": "tradicao-radical-unipessoal-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Tradição Radical, Unipessoal Lda - Em Liquidação",
+  "morada": "Parque Empresarial Quimiparque, N 15 3860-680 Estarreja",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Estarreja",
+  "distrito": "Aveiro",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
+ "508262569": {
+  "checked": "2026-08-31",
+  "slug": "sugestoes-de-verao-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Sugestões de Verão - Lda - Em Liquidação",
+  "morada": "Sítio das Pedras Pretas 9400-075 Porto Santo",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 6.000,00",
+  "concelho": "Porto Santo",
+  "distrito": "Madeira",
+  "cae": "56107",
+  "cae_desc": "Restaurantes"
+ },
+ "508263166": {
+  "checked": "2026-08-31",
+  "slug": "sandbrook-2-sociedade-de-mediacao-imobiliaria-lda",
+  "estado": "Encerrada",
+  "nome": "Sandbrook 2 - Sociedade de Mediação Imobiliária, Lda",
+  "morada": "Urbanização Quinta da Praia, Lote 4, Loja 4 8500-013 Alvor",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Portimão",
+  "distrito": "Faro",
+  "cae": "68311",
+  "cae_desc": "Mediação imobiliária"
  },
  "508265088": {
   "checked": "2026-08-31",
@@ -296,6 +647,19 @@
   "cae": "56303",
   "cae_desc": "Pastelarias e casas de chá"
  },
+ "508268184": {
+  "checked": "2026-08-31",
+  "slug": "branco-subtil-churrasqueira-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Branco Subtil - Churrasqueira, Unipessoal Lda",
+  "morada": "Avenida Conde de Vizela, N 106 4795-004 Aves",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Santo Tirso",
+  "distrito": "Porto",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais"
+ },
  "508268591": {
   "checked": "2026-08-31",
   "slug": "life-go-comercio-servicos-e-imobiliaria-lda",
@@ -308,6 +672,19 @@
   "distrito": "Madeira",
   "cae": "68100",
   "cae_desc": "Compra e venda de bens imobiliários"
+ },
+ "508269768": {
+  "checked": "2026-08-31",
+  "slug": "salera-lda",
+  "estado": "Encerrada",
+  "nome": "Salera, Lda",
+  "morada": "Praceta Cristovão Falcão, N 103, R/ C Esq 4465-114 S. Mamede de Infesta",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 10.000,00",
+  "concelho": "Matosinhos",
+  "distrito": "Porto",
+  "cae": "70220",
+  "cae_desc": "Outras actividades de consultoria para os negócios e a gestão"
  },
  "508270430": {
   "checked": "2026-08-31",
@@ -387,6 +764,19 @@
   "cae": "46421",
   "cae_desc": "Vestuário e acessórios"
  },
+ "508275873": {
+  "checked": "2026-08-31",
+  "slug": "climatorres-ii-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Climatorres II, Lda - Em Liquidação",
+  "morada": "Rua Rómulo de Carvalho, Nº 1, Loja 2745-373 Queluz",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 25.000,00",
+  "concelho": "Sintra",
+  "distrito": "Lisboa",
+  "cae": "43221",
+  "cae_desc": "Instalação de canalizações"
+ },
  "508276519": {
   "checked": "2026-08-31",
   "slug": "lua-de-verao-lda",
@@ -413,6 +803,32 @@
   "cae": "14131",
   "cae_desc": "Confecção de outro vestuário exterior em série"
  },
+ "508279550": {
+  "checked": "2026-08-31",
+  "slug": "terra-sonica-terraplanagens-construcao-civil-lda",
+  "estado": "Em Revitalização",
+  "nome": "Terra Sónica - Terraplanagens, Construção Civil Lda",
+  "morada": "Casais do Quintão, Lote 1 2005-326 Santarém",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 50.000,00",
+  "concelho": "Santarém",
+  "distrito": "Santarém",
+  "cae": "77320",
+  "cae_desc": "Máquinas de construção e engenharia civil"
+ },
+ "508280001": {
+  "checked": "2026-08-31",
+  "slug": "amber-star-mediacao-imobiliaria-lda",
+  "estado": "Encerrada",
+  "nome": "Amber Star - Mediação Imobiliária Lda",
+  "morada": "Avenida Gil Vicente, N.º 583, Mafamude 4400-166 Vila Nova de Gaia",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Vila Nova de Gaia",
+  "distrito": "Porto",
+  "cae": "68311",
+  "cae_desc": "Mediação imobiliária"
+ },
  "508285658": {
   "checked": "2026-08-31",
   "slug": "minimal-projects-lda",
@@ -425,6 +841,32 @@
   "distrito": "Porto",
   "cae": "71110",
   "cae_desc": "Arquitectura"
+ },
+ "508295297": {
+  "checked": "2026-08-31",
+  "slug": "paulo-vieira-unipessoal-lda",
+  "estado": "Em Insolvência",
+  "nome": "Paulo Vieira, Unipessoal Lda",
+  "morada": "Lugar do Monte 4830-437 Póvoa de Lanhoso",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 8.000,00",
+  "concelho": "Póvoa de Lanhoso",
+  "distrito": "Braga",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
+ "508295904": {
+  "checked": "2026-08-31",
+  "slug": "brunoliv-serralharia-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Brunoliv - Serralharia, Unipessoal Lda",
+  "morada": "Travessa Santo André, Nº 103 4795-152 Aves",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Santo Tirso",
+  "distrito": "Porto",
+  "cae": "43992",
+  "cae_desc": "Outras actividades especializadas de construção diversas"
  },
  "508296234": {
   "checked": "2026-08-31",
@@ -451,6 +893,19 @@
   "distrito": "Lisboa",
   "cae": "87301",
   "cae_desc": "Pessoas idosas"
+ },
+ "508297710": {
+  "checked": "2026-08-31",
+  "slug": "nvs-sociedade-de-mediacao-de-seguros-lda",
+  "estado": "Em Insolvência",
+  "nome": "Nvs - Sociedade de Mediação de Seguros, Lda",
+  "morada": "Rua Francisco Ferrer, N 4 B 1500-461 Lisboa",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 250.000,00",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "66220",
+  "cae_desc": "Mediadores de seguros"
  },
  "508298210": {
   "checked": "2026-08-31",

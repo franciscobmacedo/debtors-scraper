@@ -1,4 +1,30 @@
 {
+ "512100390": {
+  "checked": "2026-08-31",
+  "slug": "vieiracores-lda",
+  "estado": "Em Atividade",
+  "nome": "Vieiraçores Lda",
+  "morada": "Rua Praia dos Santos, 61 9500-706 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 50.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais"
+ },
+ "512100756": {
+  "checked": "2026-08-31",
+  "slug": "delifood-servicos-lda",
+  "estado": "Encerrada",
+  "nome": "Delifood Serviços Lda",
+  "morada": "Zona Industrial do Cabouco Lote 5 9560-301 Cabouco",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Lagoa (São Miguel)",
+  "distrito": "Açores",
+  "cae": "56303",
+  "cae_desc": "Pastelarias e casas de chá"
+ },
  "512101450": {
   "checked": "2026-08-31",
   "slug": "helder-j-m-carreiro-sociedade-unipessoal-lda-em-liquidacao",
@@ -11,6 +37,32 @@
   "distrito": "Açores",
   "cae": "43340",
   "cae_desc": "Pintura e colocação de vidros"
+ },
+ "512103038": {
+  "checked": "2026-08-31",
+  "slug": "construcoes-vista-do-vale-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Construções Vista do Vale, Unipessoal Lda",
+  "morada": "R Senador André de Freitas 22 Fajã Grande 9960-030 Lajes das Flores",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Lajes das Flores",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
+ "512104760": {
+  "checked": "2026-08-31",
+  "slug": "construcao-civil-simao-vieira-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Construção Civil - Simão & Vieira, Lda - Em Liquidação",
+  "morada": "Rua da Misericórdia Nº 42 2º 9500-093 Ponta Delgada",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
  },
  "512104883": {
   "checked": "2026-08-31",
@@ -37,5 +89,31 @@
   "distrito": "Açores",
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
+ },
+ "512108129": {
+  "checked": "2026-08-31",
+  "slug": "v-p-martins-construcoes-lda",
+  "estado": "Encerrada",
+  "nome": "V.P. Martins - Construções, Lda",
+  "morada": "Travessa dos Moinhos, N.º 9 9680-323 Vila Franca do Campo",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Vila Franca do Campo",
+  "distrito": "Açores",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
+ "512108757": {
+  "checked": "2026-08-31",
+  "slug": "quimicacor-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Quimicaçor, Lda - Em Liquidação",
+  "morada": "Zona Industrial dos Portões Vermelhos Armazém 7 Lagoa 9560-450 Lagoa",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 65.500,00",
+  "concelho": "Lagoa (São Miguel)",
+  "distrito": "Açores",
+  "cae": "46750",
+  "cae_desc": "Produtos químicos"
  }
 }

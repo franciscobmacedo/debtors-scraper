@@ -1,4 +1,17 @@
 {
+ "514200740": {
+  "checked": "2026-08-31",
+  "slug": "esquema-de-temperos-restauracao-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Esquema de Temperos - Restauração, Unipessoal Lda",
+  "morada": "Rua Dom Afonso Henriques, Nº 35, R/C 4700-030 Braga",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 1,00",
+  "concelho": "Braga",
+  "distrito": "Braga",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais"
+ },
  "514203404": {
   "checked": "2026-08-31",
   "slug": "ideias-doutono-unipessoal-lda-2",
@@ -25,6 +38,19 @@
   "cae": "47591",
   "cae_desc": "Mobiliário e artigos de iluminação"
  },
+ "514206195": {
+  "checked": "2026-08-31",
+  "slug": "albea-lda",
+  "estado": "Em Atividade",
+  "nome": "Albea, Lda",
+  "morada": "Avenida Doutor Domingos Gonçalves de Sá, Nº 414, R/C Lj F 4435-213 Rio Tinto",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 125.000,00",
+  "concelho": "Gondomar",
+  "distrito": "Porto",
+  "cae": "49410",
+  "cae_desc": "Transportes rodoviários de mercadorias"
+ },
  "514208325": {
   "checked": "2026-08-31",
   "slug": "lrns-quality-prestacao-de-servicos-lda-em-liquidacao",
@@ -37,6 +63,19 @@
   "distrito": "Lisboa",
   "cae": "82922",
   "cae_desc": "Outras actividades de embalagem"
+ },
+ "514213485": {
+  "checked": "2026-08-31",
+  "slug": "favorito-colossal-construcoes-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Favorito Colossal Construções Unipessoal Lda",
+  "morada": "Rua António Moreira Cabral, 26 4580-046 Paredes",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Paredes",
+  "distrito": "Porto",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
  },
  "514214147": {
   "checked": "2026-08-31",
@@ -64,6 +103,19 @@
   "cae": "46762",
   "cae_desc": "Comércio por grosso de outros bens intermédios"
  },
+ "514219890": {
+  "checked": "2026-08-31",
+  "slug": "r2b2-ensino-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "R2B2 - Ensino, Unipessoal Lda",
+  "morada": "Largo da Lagoa, 2 C 2795-116 Linda-A-Velha",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Oeiras",
+  "distrito": "Lisboa",
+  "cae": "85201",
+  "cae_desc": "Ensino básico (1º ciclo)"
+ },
  "514220813": {
   "checked": "2026-08-31",
   "slug": "kontornomania-montagens-e-acabamentos-lda",
@@ -76,6 +128,19 @@
   "distrito": "Porto",
   "cae": "43390",
   "cae_desc": "Outras actividades de acabamento em edifícios"
+ },
+ "514223251": {
+  "checked": "2026-08-31",
+  "slug": "black-taurus-invest-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Black Taurus Invest, Unipessoal Lda",
+  "morada": "Avenida da República 679 3º Matosinhos 4450-242 Matosinhos",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 50.000,00",
+  "concelho": "Matosinhos",
+  "distrito": "Porto",
+  "cae": "70220",
+  "cae_desc": "Outras actividades de consultoria para os negócios e a gestão"
  },
  "514224185": {
   "checked": "2026-08-31",
@@ -90,6 +155,71 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
  },
+ "514225033": {
+  "checked": "2026-08-31",
+  "slug": "nova-calcada-s-a",
+  "estado": "Em Insolvência",
+  "nome": "Nova Calçada, S.A",
+  "morada": "Rua de Fernando Marques Dias, Nº 125 4470-391 Maia",
+  "forma": "Sociedade Anónima",
+  "capital": "€ 539.912,00",
+  "concelho": "Maia",
+  "distrito": "Porto",
+  "cae": "17230",
+  "cae_desc": "Artigos de papel para papelaria"
+ },
+ "514225327": {
+  "checked": "2026-08-31",
+  "slug": "13hedgehogs-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "13Hedgehogs, Unipessoal Lda",
+  "morada": "Rua Vasco da Gama, N. 135 2890-114 Alcochete",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 400,00",
+  "concelho": "Alcochete",
+  "distrito": "Setúbal",
+  "cae": "62020",
+  "cae_desc": "Actividades de consultoria em informática"
+ },
+ "514229926": {
+  "checked": "2026-08-31",
+  "slug": "verao-drapeado-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Verão Drapeado, Unipessoal Lda",
+  "morada": "Rua de Penas, N.º 231, Penas 4730-491 Santiago Carreiras",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Vila Verde",
+  "distrito": "Braga",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "514234083": {
+  "checked": "2026-08-31",
+  "slug": "dourado-matinal-lda",
+  "estado": "Em Atividade",
+  "nome": "Dourado Matinal Lda",
+  "morada": "Rua Custódio Brás Pacheco, Nº 38-A 7645-252 Vila Nova de Milfontes",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Odemira",
+  "distrito": "Beja",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "514236124": {
+  "checked": "2026-08-31",
+  "slug": "triomphe-immobilier-investissements-lda",
+  "estado": "Em Atividade",
+  "nome": "Triomphe Immobilier & Investissements , Lda",
+  "morada": "Avenida da Liberdade 110 1º 1269-046 Lisboa",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "68311",
+  "cae_desc": "Mediação imobiliária"
+ },
  "514240318": {
   "checked": "2026-08-31",
   "slug": "discretos-e-simbolicos-unipessoal-lda",
@@ -100,6 +230,106 @@
   "capital": "€ 1.000,00",
   "concelho": "São João da Madeira",
   "distrito": "Aveiro",
+  "cae": "14131",
+  "cae_desc": "Confecção de outro vestuário exterior em série"
+ },
+ "514241241": {
+  "checked": "2026-08-31",
+  "slug": "all-things-lda",
+  "estado": "Em Atividade",
+  "nome": "All Things, Lda",
+  "morada": "Travessa da Avenida da Praia, Nº 18 - 1º Esqº 4740-066 Esposende",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Esposende",
+  "distrito": "Braga",
+  "cae": "86906",
+  "cae_desc": "Outras actividades de saúde humana"
+ },
+ "514241357": {
+  "checked": "2026-08-31",
+  "slug": "wiki-alphabet-lda",
+  "estado": "Em Atividade",
+  "nome": "Wiki Alphabet, Lda",
+  "morada": "Rua Brito e Cunha, Nº 254, 5º Esqº 4450-082 Matosinhos",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 1.883.700,00",
+  "concelho": "Matosinhos",
+  "distrito": "Porto",
+  "cae": "62020",
+  "cae_desc": "Actividades de consultoria em informática"
+ },
+ "514243350": {
+  "checked": "2026-08-31",
+  "slug": "a-semente-de-mostarda-associacao-de-apoio-local-para-reinsercao-social-e-erradicacao-da-pobreza",
+  "estado": "Em Atividade",
+  "nome": "A Semente de Mostarda ? Associação de Apoio Local Para Reinserção Social e Erradicação da Pobreza",
+  "morada": "Faro - Lagos",
+  "forma": "Associação",
+  "capital": "Não disponível"
+ },
+ "514244976": {
+  "checked": "2026-08-31",
+  "slug": "david-macanita-construcoes-lda",
+  "estado": "Em Atividade",
+  "nome": "David Maçanita - Construções, Lda",
+  "morada": "Largo Engº Sárrea Prado, Edificios Cp de Portimão 8500-534 Portimão",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 60.000,00",
+  "concelho": "Portimão",
+  "distrito": "Faro",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
+ "514245077": {
+  "checked": "2026-08-31",
+  "slug": "tangente-aleatoria-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Tangente Aleatória Unipessoal Lda",
+  "morada": "Travessa Júlio Brandão, 3E, 1ºC, Fogueteiro 2845-173 Amora",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Seixal",
+  "distrito": "Setúbal",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
+ "514245476": {
+  "checked": "2026-08-31",
+  "slug": "baias-e-castelos-mediacao-imobiliaria-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Baías e Castelos - Mediação Imobiliária, Unipessoal Lda",
+  "morada": "Avenida Francisco Sá Carneiro, Lote 29 - 1º F 8900-307 Vila Real de Santo António",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 200,00",
+  "concelho": "Vila Real de Santo António",
+  "distrito": "Faro",
+  "cae": "68311",
+  "cae_desc": "Mediação imobiliária"
+ },
+ "514247568": {
+  "checked": "2026-08-31",
+  "slug": "tso-transportes-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Tso Transportes, Lda - Em Liquidação",
+  "morada": "Rua Relva da Mata, S/N, Santa Maria de Lamas 4535-365 Santa Maria de Lamas",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 25.000,00",
+  "concelho": "Santa Maria da Feira",
+  "distrito": "Aveiro",
+  "cae": "49410",
+  "cae_desc": "Transportes rodoviários de mercadorias"
+ },
+ "514249714": {
+  "checked": "2026-08-31",
+  "slug": "urbanmagic-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Urbanmagic, Unipessoal Lda",
+  "morada": "Avenida Dr. Avelino Sousa Soares, Nº 294 4560-755 Rans",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Penafiel",
+  "distrito": "Porto",
   "cae": "14131",
   "cae_desc": "Confecção de outro vestuário exterior em série"
  },
@@ -155,6 +385,19 @@
   "cae": "45200",
   "cae_desc": "Manutenção e reparação"
  },
+ "514256230": {
+  "checked": "2026-08-31",
+  "slug": "experiencia-crescente-lda",
+  "estado": "Em Atividade",
+  "nome": "Experiência Crescente, Lda",
+  "morada": "Estrada Nacional 109, N.º 414, Pedros 3080-759 Bom Sucesso - Figueira da Foz",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 7.500,00",
+  "concelho": "Figueira da Foz",
+  "distrito": "Coimbra",
+  "cae": "43992",
+  "cae_desc": "Outras actividades especializadas de construção diversas"
+ },
  "514259264": {
   "checked": "2026-08-31",
   "slug": "gabarito-genuino-unipessoal-lda",
@@ -167,6 +410,19 @@
   "distrito": "Bragança",
   "cae": "45110",
   "cae_desc": "Automóveis ligeiros"
+ },
+ "514259884": {
+  "checked": "2026-08-31",
+  "slug": "palpites-instantaneos-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Palpites Instantâneos Unipessoal Lda",
+  "morada": "Rua do Paraíso 33 Paraíso 2500-372 Alvorninha",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Caldas da Rainha",
+  "distrito": "Leiria",
+  "cae": "43210",
+  "cae_desc": "Instalação eléctrica"
  },
  "514263881": {
   "checked": "2026-08-31",
@@ -181,6 +437,19 @@
   "cae": "45110",
   "cae_desc": "Automóveis ligeiros"
  },
+ "514264608": {
+  "checked": "2026-08-31",
+  "slug": "arquipelagos-e-peninsulas-lda",
+  "estado": "Em Atividade",
+  "nome": "Arquipélagos e Penínsulas, Lda",
+  "morada": "Avenida Jorge Correia, N 484 4410-342 Arcozelo",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 1.000,00",
+  "concelho": "Vila Nova de Gaia",
+  "distrito": "Porto",
+  "cae": "47910",
+  "cae_desc": "Comércio a retalho por correspondência ou via Internet"
+ },
  "514265728": {
   "checked": "2026-08-31",
   "slug": "velocidade-cosmica-comercio-de-automoveis-lda",
@@ -193,6 +462,19 @@
   "distrito": "Porto",
   "cae": "45110",
   "cae_desc": "Automóveis ligeiros"
+ },
+ "514265809": {
+  "checked": "2026-08-31",
+  "slug": "pingos-democoes-lda",
+  "estado": "Em Atividade",
+  "nome": "Pingos D'emoções - Lda",
+  "morada": "Rua Quinta do Feital, Lote 36 4715-398 Braga",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 2,00",
+  "concelho": "Braga",
+  "distrito": "Braga",
+  "cae": "56303",
+  "cae_desc": "Pastelarias e casas de chá"
  },
  "514270152": {
   "checked": "2026-08-31",
@@ -220,6 +502,45 @@
   "cae": "14131",
   "cae_desc": "Confecção de outro vestuário exterior em série"
  },
+ "514271795": {
+  "checked": "2026-08-31",
+  "slug": "afm-drive-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Afm Drive, Unipessoal Lda",
+  "morada": "Rua Faria Guimarães, N 1193 4200-293 Porto",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Porto",
+  "distrito": "Porto",
+  "cae": "45110",
+  "cae_desc": "Automóveis ligeiros"
+ },
+ "514272570": {
+  "checked": "2026-08-31",
+  "slug": "pegston-frio-industrial-lda",
+  "estado": "Em Atividade",
+  "nome": "Pegston - Frio Industrial, Lda",
+  "morada": "Rua Américo Vigário, Nº 1-B 2665-224 Malveira",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 100.000,00",
+  "concelho": "Mafra",
+  "distrito": "Lisboa",
+  "cae": "28250",
+  "cae_desc": "Equipamento não doméstico para refrigeração e ventilação"
+ },
+ "514274646": {
+  "checked": "2026-08-31",
+  "slug": "cortepig-lda",
+  "estado": "Em Atividade",
+  "nome": "Cortepig, Lda",
+  "morada": "Rua dos Cravos Vermelhos, N.º 87, Sala F, Montijo 2870-313 Montijo",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 50.000,00",
+  "concelho": "Montijo",
+  "distrito": "Setúbal",
+  "cae": "10110",
+  "cae_desc": "Abate de gado"
+ },
  "514276290": {
   "checked": "2026-08-31",
   "slug": "pedacos-cruzados-unipessoal-lda",
@@ -232,6 +553,45 @@
   "distrito": "Faro",
   "cae": "56101",
   "cae_desc": "Restaurantes tradicionais"
+ },
+ "514276525": {
+  "checked": "2026-08-31",
+  "slug": "sopro-de-detalhes-confecoes-lda",
+  "estado": "Em Atividade",
+  "nome": "Sopro de Detalhes Confeções Lda",
+  "morada": "Rua do Desenvolvimento, 178, Parque Industrial Gême 4730-290 Mós Vvd",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Vila Verde",
+  "distrito": "Braga",
+  "cae": "14131",
+  "cae_desc": "Confecção de outro vestuário exterior em série"
+ },
+ "514276550": {
+  "checked": "2026-08-31",
+  "slug": "atomos-e-arestas-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Átomos e Arestas Unipessoal Lda",
+  "morada": "Avenida Capitão Elísio de Azevedo, 49 - 1º Esq. 4860-041 Cabeceiras de Basto",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 1.350,00",
+  "concelho": "Cabeceiras de Basto",
+  "distrito": "Braga",
+  "cae": "22292",
+  "cae_desc": "Outros artigos de plástico"
+ },
+ "514282169": {
+  "checked": "2026-08-31",
+  "slug": "riscos-e-asteriscos-unipessoal-lda",
+  "estado": "Em Insolvência",
+  "nome": "Riscos e Asteriscos, Unipessoal Lda",
+  "morada": "Avenida Rio de Janeiro, Nº 176, Cave Esq. 4810-009 Guimarães",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 100,00",
+  "concelho": "Guimarães",
+  "distrito": "Braga",
+  "cae": "15201",
+  "cae_desc": "Calçado - fabricantes"
  },
  "514283076": {
   "checked": "2026-08-31",
@@ -246,6 +606,19 @@
   "cae": "46720",
   "cae_desc": "Minérios e metais"
  },
+ "514283459": {
+  "checked": "2026-08-31",
+  "slug": "claudemir-vieira-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Claudemir Vieira, Unipessoal Lda",
+  "morada": "Rua Dom Afonso Henriques, Nº 97, 1º 3060-137 Coimbra",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 400,00",
+  "concelho": "Cantanhede",
+  "distrito": "Coimbra",
+  "cae": "2200",
+  "cae_desc": "Exploração florestal"
+ },
  "514283920": {
   "checked": "2026-08-31",
   "slug": "palavra-dinamica-unipessoal-lda",
@@ -258,6 +631,58 @@
   "distrito": "Porto",
   "cae": "46430",
   "cae_desc": "Electrodomésticos, aparelhos de rádio e de televisão"
+ },
+ "514287055": {
+  "checked": "2026-08-31",
+  "slug": "matriz-vaidosa-lda",
+  "estado": "Em Atividade",
+  "nome": "Matriz Vaidosa Lda",
+  "morada": "Rua do Desenvolvimento, Nº 188, Parque Industrial de Gême, Mós 4470-716 Vila Nova da Telha",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 2.000,00",
+  "concelho": "Vila Verde",
+  "distrito": "Braga",
+  "cae": "46900",
+  "cae_desc": "Comércio por grosso não especializado"
+ },
+ "514292369": {
+  "checked": "2026-08-31",
+  "slug": "minuciosa-vantagem-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Minuciosa Vantagem, Lda. - Em Liquidação",
+  "morada": "Rua Jornal Sambrazense, Loja 2 N.º 4, Lote 4B, Rc 8150-134 S. Brás de Alportel",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 2.000,00",
+  "concelho": "São Brás de Alportel",
+  "distrito": "Faro",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "514292482": {
+  "checked": "2026-08-31",
+  "slug": "surprise-guest-texteis-lda",
+  "estado": "Encerrada",
+  "nome": "Surprise Guest Texteis Lda",
+  "morada": "Rua da Industria, Lote 3, Mosteiró 4485-921 Mosteiró",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 500,00",
+  "concelho": "Vila do Conde",
+  "distrito": "Porto",
+  "cae": "14131",
+  "cae_desc": "Confecção de outro vestuário exterior em série"
+ },
+ "514293357": {
+  "checked": "2026-08-31",
+  "slug": "catarina-lopes-ferreira-unipessoal-lda-em-liquidacao",
+  "estado": "Em Insolvência",
+  "nome": "Catarina Lopes Ferreira, Unipessoal Lda - Em Liquidaçâo",
+  "morada": "Rua 25 de Abril, S/N, Vilela 3500-900 Viseu",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 50.000,00",
+  "concelho": "Viseu",
+  "distrito": "Viseu",
+  "cae": "49410",
+  "cae_desc": "Transportes rodoviários de mercadorias"
  },
  "514293896": {
   "checked": "2026-08-31",
@@ -297,5 +722,18 @@
   "distrito": "Porto",
   "cae": "47770",
   "cae_desc": "Relógios, ourivesaria e joalharia"
+ },
+ "514298421": {
+  "checked": "2026-08-31",
+  "slug": "desafios-exemplares-tanoaria-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Desafios Exemplares - Tanoaria Unipessoal Lda",
+  "morada": "Avenida Central Norte, Nº 471 4500-501 Espinho",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Espinho",
+  "distrito": "Aveiro",
+  "cae": "16240",
+  "cae_desc": "Embalagens de madeira - fabricantes"
  }
 }

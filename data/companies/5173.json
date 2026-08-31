@@ -1,4 +1,30 @@
 {
+ "517305275": {
+  "checked": "2026-08-31",
+  "slug": "abastado-capitel-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Abastado Capitel Unipessoal Lda",
+  "morada": "Rua D. Afonso Henriques, Nº 33 2620-090 Póvoa de Santo Adrião",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Odivelas",
+  "distrito": "Lisboa",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais"
+ },
+ "517311895": {
+  "checked": "2026-08-31",
+  "slug": "brisas-e-enseadas-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Brisas e Enseadas - Unipessoal Lda",
+  "morada": "Travessa do Jordão, N.º 14, 1º Esq.º 1100-295 Lisboa",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 1.000,00",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "53200",
+  "cae_desc": "Outras actividades postais e de courier"
+ },
  "517322404": {
   "checked": "2026-08-31",
   "slug": "furor-altruista-unipessoal-lda",
@@ -51,6 +77,32 @@
   "cae": "82110",
   "cae_desc": "Serviços administrativos"
  },
+ "517344394": {
+  "checked": "2026-08-31",
+  "slug": "sparkle-salut-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Sparkle Salut - Unipessoal Lda",
+  "morada": "Praça Martin Moniz - Centro Comercial Martim Moniz, Loja D 11, 1.º 1100-341 Lisboa",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "49320",
+  "cae_desc": "Táxis"
+ },
+ "517345188": {
+  "checked": "2026-08-31",
+  "slug": "soberba-simetria-lda",
+  "estado": "Em Insolvência",
+  "nome": "Soberba Simetria Lda",
+  "morada": "Rua Jacinta Marto, Nº 165, Edificio Avenida Shopping Center, Loja 2, R/C 2495-450 Fátima",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Ourém",
+  "distrito": "Santarém",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
  "517351404": {
   "checked": "2026-08-31",
   "slug": "varzea-refinada-unipessoal-lda",
@@ -63,6 +115,84 @@
   "distrito": "Beja",
   "cae": "1610",
   "cae_desc": "Serviços para agricultura"
+ },
+ "517361078": {
+  "checked": "2026-08-31",
+  "slug": "ambito-positivo-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Âmbito Positivo - Unipessoal Lda",
+  "morada": "Avenida do Comércio, Lote 43 7630-033 Boavista dos Pinheiros",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 1.000,00",
+  "concelho": "Odemira",
+  "distrito": "Beja",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "517373807": {
+  "checked": "2026-08-31",
+  "slug": "pedra-insolita-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Pedra Insólita - Unipessoal Lda",
+  "morada": "Travessa do Cavaco, Nº 26 7000-841 Évora",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 10.000,00",
+  "concelho": "Évora",
+  "distrito": "Évora",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
+ "517374684": {
+  "checked": "2026-08-31",
+  "slug": "sparkle-coast-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Sparkle Coast Unipessoal Lda",
+  "morada": "1ª Rua do Sete e Meio, Nº 40 Moura 7860-102 Moura",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Moura",
+  "distrito": "Beja",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "517377861": {
+  "checked": "2026-08-31",
+  "slug": "friendship-platoon-lda",
+  "estado": "Em Atividade",
+  "nome": "Friendship Platoon Lda",
+  "morada": "1.ª Rua do Sete e Meio, Nº 40 7860-102 Moura",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Moura",
+  "distrito": "Beja",
+  "cae": "49320",
+  "cae_desc": "Táxis"
+ },
+ "517377993": {
+  "checked": "2026-08-31",
+  "slug": "semente-tatuada-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Semente Tatuada - Unipessoal Lda",
+  "morada": "Travessa da Madalena, Nº 2 7800-830 Beja",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 1.000,00",
+  "concelho": "Beja",
+  "distrito": "Beja",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "517378043": {
+  "checked": "2026-08-31",
+  "slug": "nobre-cenario-abate-de-animais-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Nobre Cenário - Abate de Animais, Unipessoal Lda",
+  "morada": "Rua da Sofia, Nº 42 4705-453 Celeirós Brg",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Braga",
+  "distrito": "Braga",
+  "cae": "10110",
+  "cae_desc": "Abate de gado"
  },
  "517382695": {
   "checked": "2026-08-31",
@@ -89,5 +219,57 @@
   "distrito": "Setúbal",
   "cae": "95220",
   "cae_desc": "Reparação de Electrodomésticos"
+ },
+ "517390191": {
+  "checked": "2026-08-31",
+  "slug": "camilla-tavares-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Camilla Tavares, Unipessoal Lda",
+  "morada": "Rua das Lages, Nº 51, Póvoa de Abraveses 3515-473 Viseu",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 10.000,00",
+  "concelho": "Viseu",
+  "distrito": "Viseu",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
+ "517396254": {
+  "checked": "2026-08-31",
+  "slug": "alvos-seletivos-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Alvos Seletivos - Unipessoal Lda",
+  "morada": "Rua Ferreira de Castro, N.º 7, 3.º Ft 2610-073 Amadora",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 20.000,00",
+  "concelho": "Amadora",
+  "distrito": "Lisboa",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "517398974": {
+  "checked": "2026-08-31",
+  "slug": "argumento-abastado-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Argumento Abastado - Unipessoal Lda",
+  "morada": "Rua Principal, Lote 173, Frt. 2675-257 Odivelas",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Odivelas",
+  "distrito": "Lisboa",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "517399326": {
+  "checked": "2026-08-31",
+  "slug": "exotic-waves-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Exotic Waves - Unipessoal Lda",
+  "morada": "Rua Dom Afonso Henriques, Nº 33 e 2620-090 Póvoa de Santo Adrião",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 1.000,00",
+  "concelho": "Odivelas",
+  "distrito": "Lisboa",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
  }
 }
