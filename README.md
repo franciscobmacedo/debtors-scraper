@@ -1,55 +1,37 @@
 # Debtors Scraper
 
-The Portuguese Tax Authority holds a list of all of it's debtors, from singular individuals to colective entities here:
+The Portuguese Tax Authority (AT) publishes its list of debtors — from individuals to companies — as a set of PDFs:
 
 https://static.portaldasfinancas.gov.pt/app/devedores_static/de-devedores.html
 
-This information is presented in a set of PDFs, making it hard to search, analyse or actually find someone in it.
+That format makes it hard to search or analyse. This scraper fetches the PDFs, parses them, and publishes a single JSON file that works as a read-only API:
 
-This is a scraper that fetches this data, parses the PDF files, and joins them together in json files. 
+```
+https://raw.githubusercontent.com/franciscobmacedo/debtors-scraper/main/data/debtors.json
+```
 
-Everyday, github actions run the scraper and update the main [json file](./data/debtors.json), that works as a JSON API for the frontend version of this project:
+It powers the frontend at https://debtors.fmacedo.com ([code](https://github.com/franciscobmacedo/debtors)) and the PowerBI dashboards embedded there. **The path `data/debtors.json` and its schema are a stable contract — don't move or rename it.**
 
-https://debtors.fmacedo.com
+## Schema
 
-The code for the frontend can be found [here](https://github.com/franciscobmacedo/debtors).
+```json
+{
+  "singular_debtors": [{ "name": "...", "nif": 123456789, "step": { "start": 7500, "end": 25000 } }],
+  "colective_debtors": [{ "name": "...", "nipc": 500000000, "step": { "start": 1000000, "end": null } }],
+  "last_updated": "2026-08-30"
+}
+```
 
-The entire platform runs free of charge, using github actions to update the backend service, github to serve the json data and cloudflare pages to host the frontend.
-## Contributing
+`step` is the debt bracket (escalão); `end: null` means open-ended ("mais de X €").
 
-Contributions are welcome.  Feel free to open an issue or submit a pull request. If you're not sure where to start, mention me in the comments!
+## Running
 
+Requires [uv](https://docs.astral.sh/uv/) — dependencies are declared inline in the script:
 
-## Installation
+```shell
+uv run scraper.py
+```
 
-1. Clone the repository:
+## Updates
 
-    ```shell
-    git clone https://github.com/franciscomacedo/debtors-scraper.git
-    ```
-
-2. Install the required dependencies:
-
-    ```shell
-    poetry install
-    ```
-
-## Usage
-
-1. Navigate to the project directory:
-
-    ```shell
-    cd debtors-scraper
-    ```
-
-2. Run the `run.py` script:
-
-    ```shell
-    python run.py
-    ```
-
-    This will execute the `main()` function, which sets up the configuration, fetches data, parses files, and joins them together.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+A daily cron job runs the scraper and commits the refreshed `data/debtors.json` to this repository.
