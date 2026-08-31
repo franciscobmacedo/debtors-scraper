@@ -16,6 +16,7 @@ Run with: uv run ss_scraper.py
 
 import html as htmllib
 import json
+import math
 import re
 import sys
 import time
@@ -176,10 +177,12 @@ def parse_escaloes(xml: str) -> dict[str, dict]:
     for code, label in ESC_OPTION_RE.findall(xml):
         label = htmllib.unescape(label).replace(".", "").replace("\xa0", " ").strip()
         nums = [float(n.replace(",", ".")) for n in re.findall(r"\d+(?:,\d+)?", label)]
+        # Match the AT convention: "25000,01 a 50000" -> 25001-50000,
+        # ">= 1000000,01" -> open bracket starting at 1000000.
         if ">=" in label and nums:
             out[code] = {"start": int(nums[0]), "end": None}
         elif len(nums) >= 2:
-            out[code] = {"start": int(nums[0]), "end": int(nums[1])}
+            out[code] = {"start": math.ceil(nums[0]), "end": int(nums[1])}
     return out
 
 
