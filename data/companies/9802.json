@@ -44,6 +44,14 @@
  "980227143": {
   "checked": "2026-08-31"
  },
+ "980240190": {
+  "checked": "2026-08-31",
+  "slug": "vilamour-investments-limited",
+  "estado": "Em Atividade",
+  "nome": "Vilamour Investments Limited",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível"
+ },
  "980240816": {
   "checked": "2026-08-31",
   "slug": "cradin-investiments-limited-sucursal-em-portugal",
@@ -81,6 +89,17 @@
   "cae_desc": "Vestuário para adultos",
   "atividade": "No âmbito de Vestuário para adultos"
  },
+ "980249198": {
+  "checked": "2026-08-31",
+  "slug": "planet-holiday-international-ltd",
+  "estado": "Em Atividade",
+  "nome": "Planet Holiday (International), Ltd.",
+  "morada": "Gibraltar Local da representação: Rua de Espanha, edifício Fontes Romanas, Vilamoura Loulé",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Loulé",
+  "distrito": "Faro"
+ },
  "980254183": {
   "checked": "2026-08-31"
  },
@@ -94,6 +113,9 @@
   "checked": "2026-08-31"
  },
  "980257034": {
+  "checked": "2026-08-31"
+ },
+ "980268788": {
   "checked": "2026-08-31"
  },
  "980272203": {
@@ -148,5 +170,33 @@
   "cae": "52291",
   "cae_desc": "Organização do transporte",
   "atividade": "No âmbito de Organização do transporte"
+ },
+ "980297842": {
+  "checked": "2026-08-31",
+  "slug": "auto-marketing-limited-portugal",
+  "estado": "Em Atividade",
+  "nome": "Auto-Marketing Limited - Portugal",
+  "morada": "Rua da Harmonia, 3-E, Loja B 2975-381 Quinta do Conde",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Sesimbra",
+  "distrito": "Setúbal",
+  "cae": "45110",
+  "cae_desc": "Automóveis ligeiros",
+  "atividade": "No âmbito de Automóveis ligeiros"
+ },
+ "980298024": {
+  "checked": "2026-08-31",
+  "slug": "dacs-ltd-portugal",
+  "estado": "Em Atividade",
+  "nome": "Dacs Ltd Portugal",
+  "morada": "Av Casal Ribeiro, N 50, 6 1000-093 Lisboa",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "43210",
+  "cae_desc": "Instalação eléctrica",
+  "atividade": "No âmbito de Instalação eléctrica"
  }
 }

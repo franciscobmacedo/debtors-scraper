@@ -12,6 +12,19 @@
   "cae": "78100",
   "cae_desc": "Selecção e colocação de pessoal"
  },
+ "518506045": {
+  "checked": "2026-08-31",
+  "slug": "blessedfrequency-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Blessedfrequency, Unipessoal Lda",
+  "morada": "Rua do Grilo, N.º 85, 2º 1950-145 Lisboa",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 100.000,00",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "45110",
+  "cae_desc": "Automóveis ligeiros"
+ },
  "518510808": {
   "checked": "2026-08-31",
   "slug": "melodia-audaz-lda",
@@ -25,6 +38,19 @@
   "cae": "10110",
   "cae_desc": "Abate de gado"
  },
+ "518515060": {
+  "checked": "2026-08-31",
+  "slug": "cottageselection-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Cottageselection Unipessoal Lda",
+  "morada": "Rua Maria, Nº 6 3º D 1170-211 Lisboa",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 2.000,00",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
  "518517730": {
   "checked": "2026-08-31",
   "slug": "crenca-temeraria-unipessoal-lda",
@@ -37,5 +63,57 @@
   "distrito": "Braga",
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
+ },
+ "518528952": {
+  "checked": "2026-08-31",
+  "slug": "primaverilomega-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Primaverilómega Unipessoal Lda",
+  "morada": "Rua Sacadura Cabral, Nº 7 A 1495-709 Cruz Quebrada",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Oeiras",
+  "distrito": "Lisboa",
+  "cae": "96021",
+  "cae_desc": "Salões de cabeleireiro"
+ },
+ "518530400": {
+  "checked": "2026-08-31",
+  "slug": "destino-torneado-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Destino Torneado - Unipessoal Lda",
+  "morada": "Rua Frei Cipriano da Cruz, Nº 124, 1º 4705-113 Braga",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Braga",
+  "distrito": "Braga",
+  "cae": "10110",
+  "cae_desc": "Abate de gado"
+ },
+ "518547108": {
+  "checked": "2026-08-31",
+  "slug": "eccentric-adrenaline-lda",
+  "estado": "Em Atividade",
+  "nome": "Eccentric Adrenaline - Lda",
+  "morada": "Avenida Luís de Camões, Número 35, 1º Dto, miratejo 2855-122 Corroios",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 10.000,00",
+  "concelho": "Seixal",
+  "distrito": "Setúbal",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais"
+ },
+ "518547248": {
+  "checked": "2026-08-31",
+  "slug": "wolf-soul-lda",
+  "estado": "Em Atividade",
+  "nome": "Wolf Soul Lda",
+  "morada": "Bairro da Caixa D' Água, Nº 6, 2º Esquerdo S, Silves 8300-012 Silves",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 500,00",
+  "concelho": "Silves",
+  "distrito": "Faro",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
  }
 }
