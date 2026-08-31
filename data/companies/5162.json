@@ -51,6 +51,19 @@
   "cae": "78200",
   "cae_desc": "Trabalho temporário"
  },
+ "516203177": {
+  "checked": "2026-08-31",
+  "slug": "supply-it-lda",
+  "estado": "Em Atividade",
+  "nome": "Supply It, Lda",
+  "morada": "Avenida da Liberdade, Nº 747, 2º 4710-251 Braga",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 1.500,00",
+  "concelho": "Braga",
+  "distrito": "Braga",
+  "cae": "70220",
+  "cae_desc": "Outras actividades de consultoria para os negócios e a gestão"
+ },
  "516203452": {
   "checked": "2026-08-31",
   "slug": "friopeniche-unipessoal-lda",
@@ -63,6 +76,19 @@
   "distrito": "Leiria",
   "cae": "10201",
   "cae_desc": "Produtos da pesca e da aquicultura - preparação"
+ },
+ "516206745": {
+  "checked": "2026-08-31",
+  "slug": "postura-valente-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Postura Valente - Unipessoal Lda",
+  "morada": "Travessa dos Patos, Nº 4 3105-295 Tinto - Pelariga",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 1.000,00",
+  "concelho": "Pombal",
+  "distrito": "Leiria",
+  "cae": "38212",
+  "cae_desc": "Tratamento e eliminação de outros resíduos não perigosos"
  },
  "516207172": {
   "checked": "2026-08-31",
@@ -181,6 +207,19 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
  },
+ "516212800": {
+  "checked": "2026-08-31",
+  "slug": "sucesso-assumido-construcoes-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Sucesso Assumido - Construções, Unipessoal Lda",
+  "morada": "Rua Retiro, Nº 659, R/C 4820-239 Fafe",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 10.000,00",
+  "concelho": "Fafe",
+  "distrito": "Braga",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
  "516213059": {
   "checked": "2026-08-31",
   "slug": "pak-tempo-lda",
@@ -271,6 +310,19 @@
   "distrito": "Faro",
   "cae": "82990",
   "cae_desc": "Outras actividades de serviços de apoio prestados às empresas"
+ },
+ "516216643": {
+  "checked": "2026-08-31",
+  "slug": "seafreeze-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Seafreeze, Unipessoal Lda",
+  "morada": "Rua Eça de Queirós, Nº 647 , 3º B 4760-141 Vila Nova de Famalicão",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Vila Nova de Famalicão",
+  "distrito": "Braga",
+  "cae": "46170",
+  "cae_desc": "Agentes do comércio por grosso de produtos alimentares, bebidas e tabaco"
  },
  "516218050": {
   "checked": "2026-08-31",
@@ -610,6 +662,19 @@
   "cae": "81210",
   "cae_desc": "Actividades de limpeza geral em edifícios"
  },
+ "516247859": {
+  "checked": "2026-08-31",
+  "slug": "orlando-figueiredo-pinturas-e-remodelacoes-sociedade-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Orlando Figueiredo - Pinturas e Remodelações, Sociedade Unipessoal Lda",
+  "morada": "Rua da Fonte, Nº 12, Coto 2500-432 Coto",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 7.500,00",
+  "concelho": "Caldas da Rainha",
+  "distrito": "Leiria",
+  "cae": "42220",
+  "cae_desc": "Redes de transporte e distribuição de electricidade e redes de telecomunicações"
+ },
  "516248855": {
   "checked": "2026-08-31",
   "slug": "versatil-didatico-unipessoal-lda",
@@ -675,6 +740,32 @@
   "cae": "68311",
   "cae_desc": "Mediação imobiliária"
  },
+ "516254073": {
+  "checked": "2026-08-31",
+  "slug": "v-m-a-furniture-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "V.M.A. Furniture, Unipessoal Lda",
+  "morada": "Rua Alto de Gilde S/N Ferreira - Paços de Ferreira 4590-803 Ferreira - Paços de Ferreira",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 2.500,00",
+  "concelho": "Paços de Ferreira",
+  "distrito": "Porto",
+  "cae": "31091",
+  "cae_desc": "Mobiliário de madeira para outros fins - fabricantes"
+ },
+ "516254871": {
+  "checked": "2026-08-31",
+  "slug": "tjcm-opticas-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Tjcm Opticas, Unipessoal Lda",
+  "morada": "Alain Afflelou Óptico, Cc E. Leclerc Galeria Comercial Loja 17 Quinta do Salgado 2500-915 Caldas da Rainha",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 1.000,00",
+  "concelho": "Caldas da Rainha",
+  "distrito": "Leiria",
+  "cae": "47782",
+  "cae_desc": "Material óptico, fotográfico, cinematográfico e instrumentos de precisão"
+ },
  "516255932": {
   "checked": "2026-08-31",
   "slug": "buy4u-cars-lda",
@@ -727,6 +818,19 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
  },
+ "516259180": {
+  "checked": "2026-08-31",
+  "slug": "satelitaudaz-telecomunicacoes-lda",
+  "estado": "Em Atividade",
+  "nome": "Satelitaudaz - Telecomunicações Lda",
+  "morada": "Rua Professor Machado Vilela, Nº 192, 8º B 4715-045 Braga",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 4.500,00",
+  "concelho": "Braga",
+  "distrito": "Braga",
+  "cae": "33200",
+  "cae_desc": "Instalação de máquinas e de equipamentos industriais"
+ },
  "516260308": {
   "checked": "2026-08-31",
   "slug": "melodia-exemplar-unipessoal-lda",
@@ -776,6 +880,19 @@
   "distrito": "Castelo Branco",
   "cae": "62010",
   "cae_desc": "Actividades de programação informática"
+ },
+ "516265954": {
+  "checked": "2026-08-31",
+  "slug": "rigor-urbano-lda",
+  "estado": "Em Atividade",
+  "nome": "Rigor Urbano Lda",
+  "morada": "Travessa Dr. Carlos Felgueiras, Nº12, 6º Andar, Sala A.2 4470-158 Maia",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 3.000,00",
+  "concelho": "Maia",
+  "distrito": "Porto",
+  "cae": "81100",
+  "cae_desc": "Actividades combinadas de apoio aos edifícios"
  },
  "516266390": {
   "checked": "2026-08-31",
@@ -1050,6 +1167,32 @@
   "cae": "61900",
   "cae_desc": "Outras telecomunicações"
  },
+ "516288482": {
+  "checked": "2026-08-31",
+  "slug": "unanime-contexto-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Unânime Contexto - Unipessoal Lda",
+  "morada": "Rua de Camões, Fr. B, Nº 117 4805-019 Brito",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 100,00",
+  "concelho": "Guimarães",
+  "distrito": "Braga",
+  "cae": "82922",
+  "cae_desc": "Outras actividades de embalagem"
+ },
+ "516288520": {
+  "checked": "2026-08-31",
+  "slug": "optiuseful-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Optiuseful - Unipessoal Lda",
+  "morada": "Rua Bonjardim, Nº 711 4000-128 Porto",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Porto",
+  "distrito": "Porto",
+  "cae": "47260",
+  "cae_desc": "Comércio a retalho de Tabaco"
+ },
  "516289225": {
   "checked": "2026-08-31",
   "slug": "orbita-eximia-unipessoal-lda",
@@ -1088,6 +1231,19 @@
   "distrito": "Lisboa",
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
+ },
+ "516290274": {
+  "checked": "2026-08-31",
+  "slug": "saavedra-brandao-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Saavedra Brandão, Unipessoal Lda",
+  "morada": "Rua Via Militar Romana, N.º 407 Trás 3720-356 Vila de Cucujães",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 1.000,00",
+  "concelho": "Oliveira de Azeméis",
+  "distrito": "Aveiro",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais"
  },
  "516292790": {
   "checked": "2026-08-31",
@@ -1192,5 +1348,18 @@
   "distrito": "Viseu",
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
+ },
+ "516298330": {
+  "checked": "2026-08-31",
+  "slug": "tec2system-tecnologias-e-sistemas-lda",
+  "estado": "Em Atividade",
+  "nome": "Tec2System - Tecnologias e Sistemas, Lda",
+  "morada": "Rua da Quinta Nova, Nº 85 4470-358 Maia",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 1.000,00",
+  "concelho": "Maia",
+  "distrito": "Porto",
+  "cae": "43210",
+  "cae_desc": "Instalação eléctrica"
  }
 }

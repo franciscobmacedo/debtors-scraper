@@ -25,6 +25,19 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
  },
+ "515300659": {
+  "checked": "2026-08-31",
+  "slug": "ultimate-prodigy-lda",
+  "estado": "Em Atividade",
+  "nome": "Ultimate Prodigy Lda",
+  "morada": "Praceta Quinta de São João, Nº 9, R/C Fte, Arrentela 2840-210 Seixal",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 1.000,00",
+  "concelho": "Seixal",
+  "distrito": "Setúbal",
+  "cae": "49320",
+  "cae_desc": "Táxis"
+ },
  "515301507": {
   "checked": "2026-08-31",
   "slug": "infinitoceano-lda",
@@ -38,6 +51,19 @@
   "cae": "47750",
   "cae_desc": "Cosmética e higiene"
  },
+ "515302686": {
+  "checked": "2026-08-31",
+  "slug": "thunderdiagram-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Thunderdiagram Unipessoal Lda",
+  "morada": "Rua Formosa, Nº98, 3º Esq., Viseu 3500-134 Viseu",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 2.500,00",
+  "concelho": "Viseu",
+  "distrito": "Viseu",
+  "cae": "62010",
+  "cae_desc": "Actividades de programação informática"
+ },
  "515303380": {
   "checked": "2026-08-31",
   "slug": "momentos-d-aldeia-unipessoal-lda",
@@ -50,6 +76,19 @@
   "distrito": "Setúbal",
   "cae": "56101",
   "cae_desc": "Restaurantes tradicionais"
+ },
+ "515303496": {
+  "checked": "2026-08-31",
+  "slug": "petalas-tolerantes-limpezas-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Pétalas Tolerantes Limpezas Unipessoal Lda",
+  "morada": "Rua Comendador Sá Couto, Nº 20, Loja 10 4520-192 Santa Maria da Feira",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Santa Maria da Feira",
+  "distrito": "Aveiro",
+  "cae": "81300",
+  "cae_desc": "Actividades de plantação e manutenção de jardins"
  },
  "515303712": {
   "checked": "2026-08-31",
@@ -76,6 +115,19 @@
   "distrito": "Porto",
   "cae": "56107",
   "cae_desc": "Restaurantes"
+ },
+ "515304581": {
+  "checked": "2026-08-31",
+  "slug": "rui-alcacer-marques-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Rui Alcacer Marques, Unipessoal Lda",
+  "morada": "Rua do Deposito da Água, Nº 85 - Craveira do Norte 2985-259 Pegões",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Montijo",
+  "distrito": "Setúbal",
+  "cae": "2400",
+  "cae_desc": "Serviços para silvicultura e exploração florestal"
  },
  "515304832": {
   "checked": "2026-08-31",
@@ -128,6 +180,19 @@
   "distrito": "Açores",
   "cae": "81210",
   "cae_desc": "Actividades de limpeza geral em edifícios"
+ },
+ "515308943": {
+  "checked": "2026-08-31",
+  "slug": "teenspirit-fashion-company-lda",
+  "estado": "Em Atividade",
+  "nome": "Teenspirit Fashion Company, Lda",
+  "morada": "Rua Padre Joaquim Correia Ferreira, N.º 5 4765-013 Bairro Vila Nova de Famalicão",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 10.000,00",
+  "concelho": "Vila Nova de Famalicão",
+  "distrito": "Braga",
+  "cae": "14131",
+  "cae_desc": "Confecção de outro vestuário exterior em série"
  },
  "515309036": {
   "checked": "2026-08-31",
@@ -298,6 +363,19 @@
   "cae": "45310",
   "cae_desc": "Peças e acessórios - por grosso"
  },
+ "515313785": {
+  "checked": "2026-08-31",
+  "slug": "paulo-duarte-fernandes-lda",
+  "estado": "Em Atividade",
+  "nome": "Paulo Duarte Fernandes, Lda",
+  "morada": "Estrada En 101, Avenida Barros e Soares, Nº 423 4715-214 Braga",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 125.000,00",
+  "concelho": "Braga",
+  "distrito": "Braga",
+  "cae": "77120",
+  "cae_desc": "Camiões"
+ },
  "515314269": {
   "checked": "2026-08-31",
   "slug": "amazingorange-lda",
@@ -336,6 +414,19 @@
   "distrito": "Lisboa",
   "cae": "56301",
   "cae_desc": "Cafés"
+ },
+ "515315222": {
+  "checked": "2026-08-31",
+  "slug": "reoxstar-sociedade-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Reoxstar, Sociedade Unipessoal Lda",
+  "morada": "Rua Quinta da Praia, Lote 9, 3º Dtº 2890-230 Samouco",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Alcochete",
+  "distrito": "Setúbal",
+  "cae": "49320",
+  "cae_desc": "Táxis"
  },
  "515315729": {
   "checked": "2026-08-31",
@@ -441,6 +532,45 @@
   "cae": "45200",
   "cae_desc": "Manutenção e reparação"
  },
+ "515321230": {
+  "checked": "2026-08-31",
+  "slug": "territorio-brasileiro-lda",
+  "estado": "Em Atividade",
+  "nome": "Território Brasileiro, Lda",
+  "morada": "Rua Cardoso Avelino, Nº 21, Lotes 71 e 72 4700-212 Braga",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Braga",
+  "distrito": "Braga",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais"
+ },
+ "515321532": {
+  "checked": "2026-08-31",
+  "slug": "volumabstrato-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Volumabstrato, Unipessoal Lda",
+  "morada": "Rua Raimundo de Carvalho, N.º 171, 5.º, Sala 57 4430-186 Vila Nova de Gaia",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Vila Nova de Gaia",
+  "distrito": "Porto",
+  "cae": "70220",
+  "cae_desc": "Outras actividades de consultoria para os negócios e a gestão"
+ },
+ "515322083": {
+  "checked": "2026-08-31",
+  "slug": "opulentstatus-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Opulentstatus - Unipessoal Lda",
+  "morada": "Rua Rodrigues de Freitas, Nº 61 4890-235 Celorico de Basto",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 100,00",
+  "concelho": "Celorico de Basto",
+  "distrito": "Braga",
+  "cae": "46762",
+  "cae_desc": "Comércio por grosso de outros bens intermédios"
+ },
  "515322849": {
   "checked": "2026-08-31",
   "slug": "alpendre-curioso-lda",
@@ -532,6 +662,32 @@
   "cae": "82990",
   "cae_desc": "Outras actividades de serviços de apoio prestados às empresas"
  },
+ "515327077": {
+  "checked": "2026-08-31",
+  "slug": "trilhobediente-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Trilhobediente - Unipessoal Lda",
+  "morada": "Travessa da Pedra Alta, Nº 1, Lavra 4455-181 Lavra",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 125.000,00",
+  "concelho": "Matosinhos",
+  "distrito": "Porto",
+  "cae": "49410",
+  "cae_desc": "Transportes rodoviários de mercadorias"
+ },
+ "515327212": {
+  "checked": "2026-08-31",
+  "slug": "trevo-moderno-lda",
+  "estado": "Em Atividade",
+  "nome": "Trevo Moderno - Lda",
+  "morada": "Praça Mouzinho de Albuquerque, 113, Loja 45 4100-359 Porto",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 10.000,00",
+  "concelho": "Porto",
+  "distrito": "Porto",
+  "cae": "43390",
+  "cae_desc": "Outras actividades de acabamento em edifícios"
+ },
  "515327670": {
   "checked": "2026-08-31",
   "slug": "razaosingela-lda",
@@ -557,6 +713,32 @@
   "distrito": "Braga",
   "cae": "82990",
   "cae_desc": "Outras actividades de serviços de apoio prestados às empresas"
+ },
+ "515329177": {
+  "checked": "2026-08-31",
+  "slug": "podermajestoso-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Podermajestoso - Unipessoal Lda",
+  "morada": "Rua Garcia de Orta, Nº 60, 1º 4435-263 Rio Tinto",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 2.500,00",
+  "concelho": "Gondomar",
+  "distrito": "Porto",
+  "cae": "81210",
+  "cae_desc": "Actividades de limpeza geral em edifícios"
+ },
+ "515329568": {
+  "checked": "2026-08-31",
+  "slug": "violetconquest-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Violetconquest - Unipessoal Lda",
+  "morada": "Rua Professor Bento de Jesus Caraça, N.º 248, 1.º, Sala 2 4200-128 Porto",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 100,00",
+  "concelho": "Porto",
+  "distrito": "Porto",
+  "cae": "45310",
+  "cae_desc": "Peças e acessórios - por grosso"
  },
  "515330132": {
   "checked": "2026-08-31",
@@ -584,6 +766,32 @@
   "cae": "43330",
   "cae_desc": "Revestimento de pavimentos e de paredes"
  },
+ "515330825": {
+  "checked": "2026-08-31",
+  "slug": "seiva-cerne-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Seiva&Cerne Unipessoal Lda",
+  "morada": "Rua de Recarei, Nº 326 4465-726 Leça do Balio",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Matosinhos",
+  "distrito": "Porto",
+  "cae": "47112",
+  "cae_desc": "Outros estabelecimentos de produtos alimentares, bebidas ou tabaco"
+ },
+ "515332640": {
+  "checked": "2026-08-31",
+  "slug": "pagina-imponente-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Página Imponente Unipessoal Lda",
+  "morada": "Rua da Liberdade, Nº 32-B, Edifício Diamante 2800-149 Almada",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 1.000,00",
+  "concelho": "Almada",
+  "distrito": "Setúbal",
+  "cae": "70220",
+  "cae_desc": "Outras actividades de consultoria para os negócios e a gestão"
+ },
  "515332798": {
   "checked": "2026-08-31",
   "slug": "potentialforever-lda",
@@ -609,6 +817,19 @@
   "distrito": "Faro",
   "cae": "56101",
   "cae_desc": "Restaurantes tradicionais"
+ },
+ "515333379": {
+  "checked": "2026-08-31",
+  "slug": "sunday-dynasty-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Sunday Dynasty Unipessoal Lda",
+  "morada": "Rua Prof. Bento Jesus Caraça, Nº 21-C 2860-483 Moita",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Moita",
+  "distrito": "Setúbal",
+  "cae": "45110",
+  "cae_desc": "Automóveis ligeiros"
  },
  "515334103": {
   "checked": "2026-08-31",
@@ -674,6 +895,19 @@
   "cae": "56302",
   "cae_desc": "Bares"
  },
+ "515337781": {
+  "checked": "2026-08-31",
+  "slug": "sandra-leonor-cardoso-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Sandra Leonor Cardoso, Unipessoal Lda",
+  "morada": "Rua da Marinha, Nº 837 4405-761 Vila Nova de Gaia",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Vila Nova de Gaia",
+  "distrito": "Porto",
+  "cae": "46720",
+  "cae_desc": "Minérios e metais"
+ },
  "515337870": {
   "checked": "2026-08-31",
   "slug": "planuras-e-relevos-unipessoal-lda",
@@ -686,6 +920,19 @@
   "distrito": "Porto",
   "cae": "47192",
   "cae_desc": "Outros estabelecimentos"
+ },
+ "515338125": {
+  "checked": "2026-08-31",
+  "slug": "nivel-intenso-construcoes-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Nível Intenso - Construções Unipessoal Lda",
+  "morada": "Caminho da Herdade, Nº 283, Caixa 601 4690-106 Espadanedo Cnf",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Cinfães",
+  "distrito": "Viseu",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
  },
  "515339474": {
   "checked": "2026-08-31",
@@ -738,6 +985,19 @@
   "distrito": "Braga",
   "cae": "15201",
   "cae_desc": "Calçado - fabricantes"
+ },
+ "515342793": {
+  "checked": "2026-08-31",
+  "slug": "rubroflorescente-lda",
+  "estado": "Em Atividade",
+  "nome": "Rubroflorescente, Lda",
+  "morada": "Avenida da Igreja, N.º 41 4730-246 Vila Verde",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Vila Verde",
+  "distrito": "Braga",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais"
  },
  "515343021": {
   "checked": "2026-08-31",
@@ -817,6 +1077,19 @@
   "cae": "68311",
   "cae_desc": "Mediação imobiliária"
  },
+ "515345814": {
+  "checked": "2026-08-31",
+  "slug": "ophiussa-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Ophiussa, Lda - Em Liquidação",
+  "morada": "Rua Morgado Mateus, N.º 49 4000-334 Porto",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Porto",
+  "distrito": "Porto",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais"
+ },
  "515346187": {
   "checked": "2026-08-31",
   "slug": "ba-ba-ba-global-services-lda",
@@ -856,6 +1129,19 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
  },
+ "515347450": {
+  "checked": "2026-08-31",
+  "slug": "princesas-e-mordomias-lda",
+  "estado": "Em Atividade",
+  "nome": "Princesas e Mordomias, Lda",
+  "morada": "Avenida de Gil Vicente, N.º 671, 4.º, Fração Q 4400-166 Vila Nova de Gaia",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 500,00",
+  "concelho": "Vila Nova de Gaia",
+  "distrito": "Porto",
+  "cae": "47711",
+  "cae_desc": "Vestuário para adultos"
+ },
  "515348074": {
   "checked": "2026-08-31",
   "slug": "stefan-jurca-unipessoal-lda",
@@ -868,6 +1154,19 @@
   "distrito": "Setúbal",
   "cae": "47112",
   "cae_desc": "Outros estabelecimentos de produtos alimentares, bebidas ou tabaco"
+ },
+ "515350508": {
+  "checked": "2026-08-31",
+  "slug": "supremuniverso-lda",
+  "estado": "Em Atividade",
+  "nome": "Supremuniverso - Lda",
+  "morada": "Rua Aureliano Lima, Nº 319, 3º Dto 4430-020 Vila Nova de Gaia",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Vila Nova de Gaia",
+  "distrito": "Porto",
+  "cae": "49320",
+  "cae_desc": "Táxis"
  },
  "515351334": {
   "checked": "2026-08-31",
@@ -972,6 +1271,19 @@
   "distrito": "Porto",
   "cae": "93294",
   "cae_desc": "Outras actividades de diversão e recreativas"
+ },
+ "515357227": {
+  "checked": "2026-08-31",
+  "slug": "privilegio-dourado-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Privilégio Dourado Unipessoal Lda",
+  "morada": "Rua do Brum, Nº. 31 9500-036 Ponta Delgada",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Ponta Delgada",
+  "distrito": "Açores",
+  "cae": "56305",
+  "cae_desc": "Estabelecimentos de bebidas com espaço de dança"
  },
  "515357928": {
   "checked": "2026-08-31",
@@ -1103,6 +1415,19 @@
   "cae": "47112",
   "cae_desc": "Outros estabelecimentos de produtos alimentares, bebidas ou tabaco"
  },
+ "515367630": {
+  "checked": "2026-08-31",
+  "slug": "opulento-merito-lda",
+  "estado": "Em Insolvência",
+  "nome": "Opulento Mérito - Lda",
+  "morada": "Rua dos Descobrimentos, Nº 87 3700-464 Arrifana",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 500,00",
+  "concelho": "Santa Maria da Feira",
+  "distrito": "Aveiro",
+  "cae": "15201",
+  "cae_desc": "Calçado - fabricantes"
+ },
  "515368040": {
   "checked": "2026-08-31",
   "slug": "luis-paulo-conceicao-da-fonte-lda",
@@ -1115,6 +1440,32 @@
   "distrito": "Faro",
   "cae": "56101",
   "cae_desc": "Restaurantes tradicionais"
+ },
+ "515368768": {
+  "checked": "2026-08-31",
+  "slug": "santos-felicio-gesso-e-placas-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Santos Felicio - Gesso e Placas, Unipessoal Lda",
+  "morada": "Sítio do Arneiro, Cxp 282 8005-412 Faro",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 250,00",
+  "concelho": "Faro",
+  "distrito": "Faro",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
+ "515368865": {
+  "checked": "2026-08-31",
+  "slug": "renaud-sassi-unipessoal-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Renaud Sassi - Unipessoal, Lda - Em Liquidação",
+  "morada": "Rua Nossa Senhora da Graça, Entrada 5, 2º Direito 4740-248 Esposende",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 10.000,00",
+  "concelho": "Esposende",
+  "distrito": "Braga",
+  "cae": "16230",
+  "cae_desc": "Outras obras de carpintaria para a construção"
  },
  "515369900": {
   "checked": "2026-08-31",
@@ -1324,6 +1675,19 @@
   "cae": "68100",
   "cae_desc": "Compra e venda de bens imobiliários"
  },
+ "515376280": {
+  "checked": "2026-08-31",
+  "slug": "sucesso-pertinente-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Sucesso Pertinente, Unipessoal Lda",
+  "morada": "Rua de São Gemil, Nº. 219 4805-317 Guimarães",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 1.000,00",
+  "concelho": "Guimarães",
+  "distrito": "Braga",
+  "cae": "70220",
+  "cae_desc": "Outras actividades de consultoria para os negócios e a gestão"
+ },
  "515376299": {
   "checked": "2026-08-31",
   "slug": "mundoracional-quinta-pedagogica-unipessoal-lda",
@@ -1336,6 +1700,19 @@
   "distrito": "Porto",
   "cae": "85593",
   "cae_desc": "Outras actividades educativas"
+ },
+ "515377171": {
+  "checked": "2026-08-31",
+  "slug": "observavertice-lda",
+  "estado": "Em Atividade",
+  "nome": "Observavértice Lda",
+  "morada": "Rua Vale de Lobos, Quinta de S. Venâncio, Lote 7, 3º Esqº 2410-078 Leiria",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 1.000,00",
+  "concelho": "Leiria",
+  "distrito": "Leiria",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
  },
  "515378682": {
   "checked": "2026-08-31",
@@ -1662,6 +2039,58 @@
   "cae": "1610",
   "cae_desc": "Serviços para agricultura"
  },
+ "515389722": {
+  "checked": "2026-08-31",
+  "slug": "value-egde-imobiliaria-s-a",
+  "estado": "Em Atividade",
+  "nome": "Value Egde Imobiliária, S.A",
+  "morada": "Rua de Santa Catarina, N.º 895, 1.º Dt.º 4000-455 Porto",
+  "forma": "Sociedade Anónima",
+  "capital": "€ 50.000,00",
+  "concelho": "Porto",
+  "distrito": "Porto",
+  "cae": "68100",
+  "cae_desc": "Compra e venda de bens imobiliários"
+ },
+ "515390011": {
+  "checked": "2026-08-31",
+  "slug": "sousa-goncalves-lda-4",
+  "estado": "Em Atividade",
+  "nome": "Sousa & Gonçalves, Lda",
+  "morada": "Praceta Estanco Louro, Nº 7, Lote 10, R/C, Quinta de Betunes 8100-231 Loulé",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 1.000,00",
+  "concelho": "Loulé",
+  "distrito": "Faro",
+  "cae": "81210",
+  "cae_desc": "Actividades de limpeza geral em edifícios"
+ },
+ "515390887": {
+  "checked": "2026-08-31",
+  "slug": "oktolimpix-lda",
+  "estado": "Em Atividade",
+  "nome": "Oktolimpix, Lda",
+  "morada": "Rua da Esparrinha, Nº 239 B 4750-147 Barcelos",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Barcelos",
+  "distrito": "Braga",
+  "cae": "81210",
+  "cae_desc": "Actividades de limpeza geral em edifícios"
+ },
+ "515391166": {
+  "checked": "2026-08-31",
+  "slug": "prisma-partilhado-lda",
+  "estado": "Em Atividade",
+  "nome": "Prisma Partilhado Lda",
+  "morada": "Bairro Cruz da Parteira A - Oco 1 R/C A 8500-424 Portimão",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Portimão",
+  "distrito": "Faro",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
  "515391875": {
   "checked": "2026-08-31",
   "slug": "bodegamilenar-lda",
@@ -1727,6 +2156,19 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
  },
+ "515394319": {
+  "checked": "2026-08-31",
+  "slug": "ptk-lda",
+  "estado": "Em Atividade",
+  "nome": "Ptk Lda",
+  "morada": "Porto - Maia 4475-112 Maia",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 40.000,00",
+  "concelho": "Braga",
+  "distrito": "Braga",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
  "515395102": {
   "checked": "2026-08-31",
   "slug": "absolute-words-unipessoal-lda",
@@ -1752,6 +2194,19 @@
   "distrito": "Braga",
   "cae": "55111",
   "cae_desc": "Hotéis"
+ },
+ "515395897": {
+  "checked": "2026-08-31",
+  "slug": "usefultaste-lda",
+  "estado": "Em Atividade",
+  "nome": "Usefultaste Lda",
+  "morada": "Urbanização Baía de Cristal - Rua José Gomes Ferreira, Lote 15 8600-305 Lagos",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 1.000,00",
+  "concelho": "Lagos",
+  "distrito": "Faro",
+  "cae": "56302",
+  "cae_desc": "Bares"
  },
  "515396320": {
   "checked": "2026-08-31",

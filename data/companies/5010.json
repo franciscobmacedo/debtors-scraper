@@ -50,6 +50,19 @@
   "concelho": "Caldas da Rainha",
   "distrito": "Leiria"
  },
+ "501050531": {
+  "checked": "2026-08-31",
+  "slug": "quintas-quelhas-ld-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Quintas & Quelhas, Ldª - Em Liquidação",
+  "morada": "Rua Dr. José Lencastre, N.º 44, 6º Andar, Traseiras 4590-506 Porto",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 1.432.920,37",
+  "concelho": "Paços de Ferreira",
+  "distrito": "Porto",
+  "cae": "46900",
+  "cae_desc": "Comércio por grosso não especializado"
+ },
  "501050540": {
   "checked": "2026-08-31",
   "slug": "joaquim-r-leal-mulher-lda",
@@ -103,6 +116,20 @@
   "cae": "3111",
   "cae_desc": "Pesca marítima",
   "atividade": "No âmbito de Pesca marítima"
+ },
+ "501053727": {
+  "checked": "2026-08-31",
+  "slug": "o-miau-infantario-e-jardim-escola-lda",
+  "estado": "Em Atividade",
+  "nome": "O Miau-Infantario e Jardim Escola Lda",
+  "morada": "R Pedro Alvares Cabral 11-Costa da Caparica 2825-384 Almada",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Almada",
+  "distrito": "Setúbal",
+  "cae": "85201",
+  "cae_desc": "Ensino básico (1º ciclo)",
+  "atividade": "No âmbito de Ensino básico (1º ciclo)"
  },
  "501053824": {
   "checked": "2026-08-31",
@@ -312,6 +339,20 @@
  },
  "501064605": {
   "checked": "2026-08-31"
+ },
+ "501065563": {
+  "checked": "2026-08-31",
+  "slug": "realsol-sociedade-de-mediacao-imobiliaria-lda",
+  "estado": "Encerrada",
+  "nome": "Realsol-Sociedade de Mediação Imobiliaria Lda",
+  "morada": "Rua Júdice Biker, N. 35, R/ C 8500-141 Portimão",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Portimão",
+  "distrito": "Faro",
+  "cae": "41100",
+  "cae_desc": "Desenvolvimento de projectos de edifícios",
+  "atividade": "No âmbito de Desenvolvimento de projectos de edifícios"
  },
  "501065610": {
   "checked": "2026-08-31",
@@ -715,6 +756,19 @@
   "cae_desc": "Construção de edifícios",
   "atividade": "No âmbito de Construção de edifícios"
  },
+ "501080430": {
+  "checked": "2026-08-31",
+  "slug": "silva-duarte-justino-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Silva, Duarte & Justino, Unipessoal, Lda",
+  "morada": "Largo da Igreja 2540-044 Bombarral",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 59.900,00",
+  "concelho": "Bombarral",
+  "distrito": "Leiria",
+  "cae": "56303",
+  "cae_desc": "Pastelarias e casas de chá"
+ },
  "501080856": {
   "checked": "2026-08-31",
   "slug": "subercor-corticas-de-portugal-s-a",
@@ -764,6 +818,34 @@
   "concelho": "Gondomar",
   "distrito": "Porto"
  },
+ "501082972": {
+  "checked": "2026-08-31",
+  "slug": "og-plasticos-do-futuro-limitada",
+  "estado": "Em Atividade",
+  "nome": "Og - Plásticos do Futuro, Limitada",
+  "morada": "R. Municipal, Letras J - L Ao Alto dos Toucinheiros 1900 Lisboa",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "46494",
+  "cae_desc": "Outro comércio por grosso de bens de consumo",
+  "atividade": "No âmbito de Outro comércio por grosso de bens de consumo"
+ },
+ "501083952": {
+  "checked": "2026-08-31",
+  "slug": "seixal-futebol-club",
+  "estado": "Em Atividade",
+  "nome": "Seixal Futebol Club",
+  "morada": "Rua D. Maria II, Nº 17 2840-510 Setúbal",
+  "forma": "Pessoa Colectiva de Utilidade Pública",
+  "capital": "Não disponível",
+  "concelho": "Seixal",
+  "distrito": "Setúbal",
+  "cae": "93192",
+  "cae_desc": "Outras actividades desportivas",
+  "atividade": "No âmbito de Outras actividades desportivas"
+ },
  "501084045": {
   "checked": "2026-08-31",
   "slug": "manuel-domingos-ramada-azevedo-lda",
@@ -801,6 +883,20 @@
   "distrito": "Viseu",
   "cae": "14131",
   "cae_desc": "Confecção de outro vestuário exterior em série"
+ },
+ "501089136": {
+  "checked": "2026-08-31",
+  "slug": "sociedade-agricola-a-guedes-lda",
+  "estado": "Em Atividade",
+  "nome": "Sociedade Agricola A. Guedes, Lda",
+  "morada": "Rua de Barboso, Nº 7 4600-790 Vila Caiz",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 50.000,00",
+  "concelho": "Amarante",
+  "distrito": "Porto",
+  "cae": "1500",
+  "cae_desc": "Agricultura e produção animal combinadas",
+  "atividade": "No âmbito de Agricultura e produção animal combinadas"
  },
  "501089225": {
   "checked": "2026-08-31",
@@ -870,6 +966,20 @@
  },
  "501094865": {
   "checked": "2026-08-31"
+ },
+ "501096434": {
+  "checked": "2026-08-31",
+  "slug": "tucahotel-industria-hoteleira-limitada",
+  "estado": "Em Atividade",
+  "nome": "Tucahotel - Industria Hoteleira, Limitada",
+  "morada": "Edifício Vilamar, Praça Bpa 8125-434 Quarteira",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Loulé",
+  "distrito": "Faro",
+  "cae": "55124",
+  "cae_desc": "Outros estabelecimentos hoteleiros sem restaurante",
+  "atividade": "No âmbito de Outros estabelecimentos hoteleiros sem restaurante"
  },
  "501096817": {
   "checked": "2026-08-31",
