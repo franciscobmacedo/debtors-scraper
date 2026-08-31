@@ -63,6 +63,48 @@
   "cae": "14131",
   "cae_desc": "Confecção de outro vestuário exterior em série"
  },
+ "501051660": {
+  "checked": "2026-08-31",
+  "slug": "neppach-importacoes-lda",
+  "estado": "Encerrada",
+  "nome": "Neppach, Importações Lda",
+  "morada": "Rua dos Cutileiros, 2684 4835-044 Guimarães",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Guimarães",
+  "distrito": "Braga",
+  "cae": "46900",
+  "cae_desc": "Comércio por grosso não especializado",
+  "atividade": "No âmbito de Comércio por grosso não especializado"
+ },
+ "501053824": {
+  "checked": "2026-08-31",
+  "slug": "uniguia-comercio-de-automoveis-limitada",
+  "estado": "Em Insolvência",
+  "nome": "Uniguia-Comércio de Automovéis, Limitada",
+  "morada": "Avenida Magalhães Coutinho, Zona 6, Lote 4, Loja 1 2675-654 Odivelas",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Odivelas",
+  "distrito": "Lisboa",
+  "cae": "45110",
+  "cae_desc": "Automóveis ligeiros",
+  "atividade": "No âmbito de Automóveis ligeiros"
+ },
+ "501054170": {
+  "checked": "2026-08-31",
+  "slug": "farescape-sociedade-reparadora-de-montagens-de-escapes-e-comercio-de-acessorios-lda",
+  "estado": "Encerrada",
+  "nome": "Farescape-Sociedade Reparadora de Montagens de Escapes e Comercio de Acessorios Lda",
+  "morada": "Rua Diogo Mendonça Corte Real, N 64 8005-105 Faro",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 24.939,90",
+  "concelho": "Faro",
+  "distrito": "Faro",
+  "cae": "45310",
+  "cae_desc": "Peças e acessórios - por grosso",
+  "atividade": "No âmbito de Peças e acessórios - por grosso"
+ },
  "501055142": {
   "checked": "2026-08-31",
   "slug": "fernando-rodrigues-alves-filhos-lda-sociedade-em-liquidacao",
@@ -145,6 +187,20 @@
   "cae_desc": "Materiais de construção (excepto madeira) e equipamento sanitário",
   "atividade": "No âmbito de Materiais de construção (excepto madeira) e equipamento sanitário"
  },
+ "501062343": {
+  "checked": "2026-08-31",
+  "slug": "silva-teixeiras-lima-lda",
+  "estado": "Em Atividade",
+  "nome": "Silva, Teixeiras & Lima Lda",
+  "morada": "Rua Costa Cabral, N.º 2.819 4200-234 Porto",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Porto",
+  "distrito": "Porto",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais",
+  "atividade": "No âmbito de Restaurantes tradicionais"
+ },
  "501062394": {
   "checked": "2026-08-31",
   "slug": "atrium-mobiliario-lda",
@@ -200,6 +256,20 @@
   "cae": "49410",
   "cae_desc": "Transportes rodoviários de mercadorias"
  },
+ "501069038": {
+  "checked": "2026-08-31",
+  "slug": "companhia-previdente-sociedade-de-controle-de-participacoes-financeiras-s-a",
+  "estado": "Em Atividade",
+  "nome": "Companhia Previdente ? Sociedade de Controle de Participações Financeiras, S.A",
+  "morada": "Lisboa - Lisboa 1200-112 Lisboa",
+  "forma": "Sociedade Anónima",
+  "capital": "€ 952.380,00",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "70100",
+  "cae_desc": "Sedes sociais",
+  "atividade": "No âmbito de Sedes sociais"
+ },
  "501069283": {
   "checked": "2026-08-31",
   "slug": "pharmasafe-solucoes-logisticas-unipessoal-lda",
@@ -223,6 +293,19 @@
   "capital": "€ 50.000,00",
   "concelho": "Porto",
   "distrito": "Porto"
+ },
+ "501070923": {
+  "checked": "2026-08-31",
+  "slug": "ensino-automobilistico-s-jose-lda",
+  "estado": "Em Insolvência",
+  "nome": "Ensino Automobilistico S.jose Lda",
+  "morada": "Praça Dr. Francisco Sá Carneiro, N 3 2750-350 Cascais",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 150.000,00",
+  "concelho": "Cascais",
+  "distrito": "Lisboa",
+  "cae": "85530",
+  "cae_desc": "Escolas de condução e pilotagem"
  },
  "501072101": {
   "checked": "2026-08-31",
@@ -291,6 +374,19 @@
   "cae_desc": "Construção de edifícios",
   "atividade": "No âmbito de Construção de edifícios"
  },
+ "501073833": {
+  "checked": "2026-08-31",
+  "slug": "anibal-carlos-lda",
+  "estado": "Em Insolvência",
+  "nome": "Anibal & Carlos Lda",
+  "morada": "Avelão-Ul 3720-583 Ul",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 100.000,00",
+  "concelho": "Oliveira de Azeméis",
+  "distrito": "Aveiro",
+  "cae": "15201",
+  "cae_desc": "Calçado - fabricantes"
+ },
  "501073876": {
   "checked": "2026-08-31",
   "slug": "mavirel-industrias-tecnico-quimicas-lda-sociedade-em-liquidacao",
@@ -345,6 +441,9 @@
   "cae_desc": "Ferragens e vidro plano",
   "atividade": "No âmbito de Ferragens e vidro plano"
  },
+ "501076450": {
+  "checked": "2026-08-31"
+ },
  "501077120": {
   "checked": "2026-08-31",
   "slug": "malas-princesa-de-goncalves-godinho-lda",
@@ -355,6 +454,34 @@
   "capital": "€ 15.000.000,00",
   "concelho": "Lisboa",
   "distrito": "Lisboa"
+ },
+ "501077200": {
+  "checked": "2026-08-31",
+  "slug": "ponte-da-coroa-restauracao-lda",
+  "estado": "Em Atividade",
+  "nome": "Ponte da Coroa, Restauração, Lda",
+  "morada": "Rua da Escola, Nº 13, Salmanha 3090-650 Figueira da Foz",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Figueira da Foz",
+  "distrito": "Coimbra",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais",
+  "atividade": "No âmbito de Restaurantes tradicionais"
+ },
+ "501077529": {
+  "checked": "2026-08-31",
+  "slug": "padaria-e-confeitaria-beta-de-eduardo-lino-sucessores-lda",
+  "estado": "Encerrada",
+  "nome": "Padaria e Confeitaria Beta de Eduardo Lino Sucessores Lda",
+  "morada": "R 5 de Outubro 1185 4445-310 Ermezinde",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Valongo",
+  "distrito": "Porto",
+  "cae": "10711",
+  "cae_desc": "Panificação",
+  "atividade": "No âmbito de Panificação"
  },
  "501078193": {
   "checked": "2026-08-31"
@@ -400,6 +527,41 @@
   "cae": "47750",
   "cae_desc": "Cosmética e higiene"
  },
+ "501079220": {
+  "checked": "2026-08-31",
+  "slug": "luis-alves-lda-2",
+  "estado": "Encerrada",
+  "nome": "Luis Alves Lda",
+  "morada": "Rua Direita, R/ C - Santa Catarina 2500 Caldas da Rainha",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 2.700.000,00",
+  "concelho": "Caldas da Rainha",
+  "distrito": "Leiria"
+ },
+ "501079319": {
+  "checked": "2026-08-31",
+  "slug": "rucha-silva-limitada",
+  "estado": "Em Insolvência",
+  "nome": "Rucha & Silva, Limitada",
+  "morada": "Largo Bernardino Machado, Santa Catarina, Alenquer 2580-394 Alenquer",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 249.398,94",
+  "concelho": "Alenquer",
+  "distrito": "Lisboa",
+  "cae": "45110",
+  "cae_desc": "Automóveis ligeiros"
+ },
+ "501079530": {
+  "checked": "2026-08-31",
+  "slug": "l-miranda-lda",
+  "estado": "Encerrada",
+  "nome": "L.miranda Lda",
+  "morada": "Largo Frederico Ferreira Pinto Basto, N .2, 1 . 2500-818 Caldas da Rainha",
+  "forma": "Sociedade por Quotas",
+  "capital": "Não disponível",
+  "concelho": "Caldas da Rainha",
+  "distrito": "Leiria"
+ },
  "501079840": {
   "checked": "2026-08-31",
   "slug": "abilio-fernandes-de-oliveira-lda",
@@ -412,6 +574,20 @@
   "distrito": "Santarém",
   "cae": "56101",
   "cae_desc": "Restaurantes tradicionais"
+ },
+ "501079866": {
+  "checked": "2026-08-31",
+  "slug": "e-i-n-empresa-infraestruturas-do-nordeste-limitada-2",
+  "estado": "Encerrada",
+  "nome": "E.I.N. - Empresa Infraestruturas do Nordeste, Limitada",
+  "morada": "Rua de S. João Baptista, N 3507 R/ C 4805-319 Guimarães",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 100.000,00",
+  "concelho": "Guimarães",
+  "distrito": "Braga",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios",
+  "atividade": "No âmbito de Construção de edifícios"
  },
  "501080856": {
   "checked": "2026-08-31",
@@ -426,6 +602,30 @@
   "cae": "16293",
   "cae_desc": "Indústria de preparação da cortiça",
   "atividade": "No âmbito de Indústria de preparação da cortiça"
+ },
+ "501081003": {
+  "checked": "2026-08-31",
+  "slug": "livrarte-livros-e-artes-lda",
+  "estado": "Encerrada",
+  "nome": "Livrarte - Livros e Artes Lda",
+  "morada": "Avenida do Uruguai, N . 13-A 1500-611 Lisboa",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 2.020,13",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa"
+ },
+ "501082336": {
+  "checked": "2026-08-31",
+  "slug": "valadares-irmaos-lda",
+  "estado": "Encerrada",
+  "nome": "Valadares - Irmãos Lda",
+  "morada": "Rua Costa Pinto, 111 A 119 2770-213 Oeiras",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Oeiras",
+  "distrito": "Lisboa",
+  "cae": "56303",
+  "cae_desc": "Pastelarias e casas de chá"
  },
  "501082581": {
   "checked": "2026-08-31",
@@ -452,6 +652,17 @@
   "cae_desc": "Bijutarias",
   "atividade": "No âmbito de Bijutarias"
  },
+ "501087770": {
+  "checked": "2026-08-31",
+  "slug": "santana-santana-terraplanagens-e-obras-publicas-limitada",
+  "estado": "Encerrada",
+  "nome": "Sant'ana & Sant'ana - Terraplanagens e Obras Públicas Limitada",
+  "morada": "Rua Francisco Grandela, Nº 8, 5º Esqº 1500-285 Lisboa",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 24.939,90",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa"
+ },
  "501088130": {
   "checked": "2026-08-31",
   "slug": "brioso-confeccoes-s-a-em-liquidacao",
@@ -465,6 +676,20 @@
   "cae": "14131",
   "cae_desc": "Confecção de outro vestuário exterior em série"
  },
+ "501089225": {
+  "checked": "2026-08-31",
+  "slug": "calado-e-lopes-lda-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Calado e Lopes Lda - Em Liquidação",
+  "morada": "Quinta da Verejeira, Lote A - 15, Miratejo. 2855-248 Corroios",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 5.000,00",
+  "concelho": "Seixal",
+  "distrito": "Setúbal",
+  "cae": "85201",
+  "cae_desc": "Ensino básico (1º ciclo)",
+  "atividade": "No âmbito de Ensino básico (1º ciclo)"
+ },
  "501091904": {
   "checked": "2026-08-31",
   "slug": "jose-moreira-rodrigues-lda-sociedade-em-liquidacao",
@@ -477,6 +702,20 @@
   "distrito": "Porto",
   "cae": "49410",
   "cae_desc": "Transportes rodoviários de mercadorias"
+ },
+ "501093850": {
+  "checked": "2026-08-31",
+  "slug": "ensino-de-conducao-moderna-cruz-limitada",
+  "estado": "Encerrada",
+  "nome": "Ensino de Condução Moderna, Cruz, Limitada",
+  "morada": "Avenida Professor Bettencourt, N 1 1600-189 Lisboa",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 74.819,68",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "85530",
+  "cae_desc": "Escolas de condução e pilotagem",
+  "atividade": "No âmbito de Escolas de condução e pilotagem"
  },
  "501094652": {
   "checked": "2026-08-31",
@@ -524,6 +763,17 @@
   "concelho": "Porto",
   "distrito": "Porto"
  },
+ "501098623": {
+  "checked": "2026-08-31",
+  "slug": "formadormi-comercio-de-moveis-lda",
+  "estado": "Em Atividade",
+  "nome": "Formadormi - Comércio de Móveis, Lda",
+  "morada": "Rua Bernardo Sequeira, N 50, 1 Andar, Sala 14 1100 Braga",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 49.879,79",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa"
+ },
  "501099158": {
   "checked": "2026-08-31",
   "slug": "quimivenda-fabrica-de-produtos-quimicos-de-manutencao-industrial-lda",
@@ -537,5 +787,18 @@
   "cae": "20594",
   "cae_desc": "Outros produtos químicos diversos",
   "atividade": "No âmbito de Outros produtos químicos diversos"
+ },
+ "501099883": {
+  "checked": "2026-08-31",
+  "slug": "vinomac-tecnica-mecanica-s-a-em-liquidacao",
+  "estado": "Encerrada",
+  "nome": "Vinomac - Técnica Mecânica, S.A. - Em Liquidação",
+  "morada": "Rua Duque de Loulé, 2464 4760-333 Vila Nova de Famalicão",
+  "forma": "Sociedade Anónima",
+  "capital": "€ 300.000,00",
+  "concelho": "Vila Nova de Famalicão",
+  "distrito": "Braga",
+  "cae": "28992",
+  "cae_desc": "Outras máquinas diversas para uso específico"
  }
 }

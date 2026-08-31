@@ -25,6 +25,19 @@
   "cae": "81210",
   "cae_desc": "Actividades de limpeza geral em edifícios"
  },
+ "515309435": {
+  "checked": "2026-08-31",
+  "slug": "silhueta-tranquila-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "Silhueta Tranquila Unipessoal Lda",
+  "morada": "Travessa da Bouça, 128, Cave 4580-591 Paredes",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Paredes",
+  "distrito": "Porto",
+  "cae": "14131",
+  "cae_desc": "Confecção de outro vestuário exterior em série"
+ },
  "515309729": {
   "checked": "2026-08-31",
   "slug": "logicalcaravel-lda",
@@ -155,6 +168,19 @@
   "cae": "15201",
   "cae_desc": "Calçado - fabricantes"
  },
+ "515327670": {
+  "checked": "2026-08-31",
+  "slug": "razaosingela-lda",
+  "estado": "Em Atividade",
+  "nome": "Razãosingela - Lda",
+  "morada": "Rua das Escadinhas 90 2620-011 Odivelas",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 100.000,00",
+  "concelho": "Odivelas",
+  "distrito": "Lisboa",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
  "515328812": {
   "checked": "2026-08-31",
   "slug": "fluffy-condition-unipessoal-lda",
@@ -233,6 +259,45 @@
   "cae": "53200",
   "cae_desc": "Outras actividades postais e de courier"
  },
+ "515337870": {
+  "checked": "2026-08-31",
+  "slug": "planuras-e-relevos-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Planuras e Relevos - Unipessoal Lda",
+  "morada": "Rua dos Terços, N.º 996 4410-236 Vila Nova de Gaia",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Vila Nova de Gaia",
+  "distrito": "Porto",
+  "cae": "47192",
+  "cae_desc": "Outros estabelecimentos"
+ },
+ "515339628": {
+  "checked": "2026-08-31",
+  "slug": "l-logistics-sociedade-unipessoal-lda",
+  "estado": "Encerrada",
+  "nome": "L-Logistics, Sociedade Unipessoal Lda",
+  "morada": "Avenida Carlos de Oliveira Campos 250 4º A 4475-690 Maia",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 125.000,00",
+  "concelho": "Maia",
+  "distrito": "Porto",
+  "cae": "49410",
+  "cae_desc": "Transportes rodoviários de mercadorias"
+ },
+ "515345415": {
+  "checked": "2026-08-31",
+  "slug": "simples-existencia-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Simples Existência Unipessoal Lda",
+  "morada": "Rua Augusto Rosa, Nº 79 4000-098 Porto",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Porto",
+  "distrito": "Porto",
+  "cae": "68311",
+  "cae_desc": "Mediação imobiliária"
+ },
  "515348074": {
   "checked": "2026-08-31",
   "slug": "stefan-jurca-unipessoal-lda",
@@ -258,6 +323,19 @@
   "distrito": "Lisboa",
   "cae": "47620",
   "cae_desc": "Jornais, revistas e artigos de papelaria"
+ },
+ "515354821": {
+  "checked": "2026-08-31",
+  "slug": "ponche-baldo-lda",
+  "estado": "Em Atividade",
+  "nome": "Ponche & Baldo, Lda",
+  "morada": "Avenida João Corte Real, Nº 256, 3º Esqº 3830-751 Gafanha da Nazaré",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 10.000,00",
+  "concelho": "Ílhavo",
+  "distrito": "Aveiro",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
  },
  "515356646": {
   "checked": "2026-08-31",
@@ -324,6 +402,32 @@
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
  },
+ "515369900": {
+  "checked": "2026-08-31",
+  "slug": "tributo-prodigio-fabricacao-de-calcado-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Tributo Prodígio - Fabricação de Calçado, Unipessoal Lda",
+  "morada": "Rua do Britêlo, Nº. 1321 4815-682 Vizela",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 250,00",
+  "concelho": "Vizela",
+  "distrito": "Braga",
+  "cae": "15201",
+  "cae_desc": "Calçado - fabricantes"
+ },
+ "515369926": {
+  "checked": "2026-08-31",
+  "slug": "perez-nivelamentos-a-laser-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Perez, Nivelamentos A Laser, Unipessoal Lda",
+  "morada": "Beco do Governador Abdallad, Nº 2, 1º T 8800-661 Tavira",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 3.000,00",
+  "concelho": "Tavira",
+  "distrito": "Faro",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
  "515372404": {
   "checked": "2026-08-31",
   "slug": "flamingo-requinte-unipessoal-lda",
@@ -376,6 +480,19 @@
   "cae": "68100",
   "cae_desc": "Compra e venda de bens imobiliários"
  },
+ "515378780": {
+  "checked": "2026-08-31",
+  "slug": "expoente-resistente-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Expoente Resistente - Unipessoal Lda",
+  "morada": "Av. Joaquim Oliveira e Silva, 362 3885-415 Esmoriz",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 6.000,00",
+  "concelho": "Ovar",
+  "distrito": "Aveiro",
+  "cae": "43992",
+  "cae_desc": "Outras actividades especializadas de construção diversas"
+ },
  "515380350": {
   "checked": "2026-08-31",
   "slug": "pinkeulogy-unipessoal-lda",
@@ -401,6 +518,19 @@
   "distrito": "Lisboa",
   "cae": "41200",
   "cae_desc": "Construção de edifícios"
+ },
+ "515381608": {
+  "checked": "2026-08-31",
+  "slug": "notavel-afirmacao-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Notável Afirmação - Unipessoal Lda",
+  "morada": "Travessa da Felga, N.º 357, Casa 4 4510-564 Fânzeres-Gondomar",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 100,00",
+  "concelho": "Gondomar",
+  "distrito": "Porto",
+  "cae": "53200",
+  "cae_desc": "Outras actividades postais e de courier"
  },
  "515382710": {
   "checked": "2026-08-31",
@@ -453,6 +583,19 @@
   "distrito": "Aveiro",
   "cae": "16294",
   "cae_desc": "Rolhas de cortiça - fabricantes"
+ },
+ "515387770": {
+  "checked": "2026-08-31",
+  "slug": "promaducel-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Promaducel - Unipessoal Lda",
+  "morada": "Avenida de Tibães, Nº 1199 4770-568 São Cosme do Vale",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 20.000,00",
+  "concelho": "Vila Nova de Famalicão",
+  "distrito": "Braga",
+  "cae": "2300",
+  "cae_desc": "Cortiça e resina"
  },
  "515388718": {
   "checked": "2026-08-31",
