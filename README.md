@@ -1,16 +1,18 @@
 # Debtors Scraper
 
-The Portuguese Tax Authority (AT) publishes its list of debtors — from individuals to companies — as a set of PDFs:
+Scrapers for Portugal's two public debtors lists, published as JSON:
 
-https://static.portaldasfinancas.gov.pt/app/devedores_static/de-devedores.html
+- **AT / Fisco** (`scraper.py`): the Tax Authority publishes its list as [a set of PDFs](https://static.portaldasfinancas.gov.pt/app/devedores_static/de-devedores.html). Output: `data/debtors.json`.
+- **Segurança Social** (`ss_scraper.py`): published only through [a session-bound JSF web app](https://www.seg-social.pt/ptss/sef/lista-devedores/consulta-lista-devedores); the scraper replays its AJAX pagination. Output: `data/ss-debtors.json`.
 
-That format makes it hard to search or analyse. This scraper fetches the PDFs, parses them, and publishes a single JSON file that works as a read-only API:
+Both files work as a read-only API:
 
 ```
 https://raw.githubusercontent.com/franciscobmacedo/debtors-scraper/main/data/debtors.json
+https://raw.githubusercontent.com/franciscobmacedo/debtors-scraper/main/data/ss-debtors.json
 ```
 
-It powers the frontend at https://debtors.fmacedo.com ([code](https://github.com/franciscobmacedo/debtors)) and the PowerBI dashboards embedded there. **The path `data/debtors.json` and its schema are a stable contract — don't move or rename it.**
+They power the frontend at https://debtors.fmacedo.com ([code](https://github.com/franciscobmacedo/debtors)) and the PowerBI dashboards embedded there. **These paths and their schema are a stable contract — don't move or rename them.**
 
 ## Schema
 

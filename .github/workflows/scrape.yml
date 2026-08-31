@@ -18,12 +18,15 @@ jobs:
 
       - uses: astral-sh/setup-uv@v5
 
-      - name: Run scraper
+      - name: Run AT scraper
         run: uv run scraper.py
+
+      - name: Run Segurança Social scraper
+        run: uv run ss_scraper.py
 
       - name: Commit updated data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: scrape
-          file_pattern: data/debtors.json
+          file_pattern: data/debtors.json data/ss-debtors.json
           commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
