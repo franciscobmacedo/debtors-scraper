@@ -39,6 +39,9 @@ UA = (
 )
 
 RESULT_LINK_RE = re.compile(r'href="(/[a-z0-9-]+/)" class="results__col-link"')
+# the search page's Estado facet leaks the activity state that the profile
+# page keeps behind the paywall; with exactly 1 result it is this company's
+ESTADO_RE = re.compile(r"Estado</legend>.{0,400}?f--700\">([^<]+)</a>\s*<span>\(1\)</span>", re.S)
 NO_RESULTS_RE = re.compile(r"\b0 resultados?\b")
 PAIR_RE = re.compile(
     r'detail__key-info">\s*([^<]+?)\s*</p>\s*<p class="t--d-blue">\s*([^<]+?)\s*</p>'
@@ -156,15 +159,20 @@ def company_universe() -> list[tuple[int, int]]:
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, default=0, help="max companies to fetch this run")
+    ap.add_argument("--nipc", help="comma-separated NIPCs to (re)fetch, ignoring the done-set")
     args = ap.parse_args()
 
     shards = load_shards()
-    done = {int(n) for shard in shards.values() for n in shard}
-    universe = company_universe()
-    todo = [(n, s) for n, s in universe if n not in done]
-    print(f"{len(universe)} companies, {len(done)} enriched, {len(todo)} to go")
-    if args.limit:
-        todo = todo[: args.limit]
+    if args.nipc:
+        todo = [(int(n.strip()), 0) for n in args.nipc.split(",")]
+        print(f"targeted run: {len(todo)} companies")
+    else:
+        done = {int(n) for shard in shards.values() for n in shard}
+        universe = company_universe()
+        todo = [(n, s) for n, s in universe if n not in done]
+        print(f"{len(universe)} companies, {len(done)} enriched, {len(todo)} to go")
+        if args.limit:
+            todo = todo[: args.limit]
 
     racius = Racius()
     today = date.today().isoformat()
@@ -185,6 +193,9 @@ def main():
             if search and (m := RESULT_LINK_RE.search(search)):
                 slug = m.group(1)
                 entry["slug"] = slug.strip("/")
+                if em := ESTADO_RE.search(re.sub(r"\s+", " ", search)):
+                    estado = html.unescape(em.group(1)).strip()
+                    entry["estado"] = {"Encerradas": "Encerrada"}.get(estado, estado)
                 profile = racius.get(BASE + slug)
                 if profile:
                     entry.update(parse_profile(profile))
