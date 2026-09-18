@@ -126089,14 +126089,6 @@
       "nif": 229258140
     },
     {
-      "name": "PEDRO JOEL RIBEIRO NETO",
-      "step": {
-        "start": 7500,
-        "end": 25000
-      },
-      "nif": 229276180
-    },
-    {
       "name": "PEDRO RICARDO SILVA BRANDÃO DE CARVALHO",
       "step": {
         "start": 7500,
@@ -141767,14 +141759,6 @@
         "end": 25000
       },
       "nif": 249022613
-    },
-    {
-      "name": "LEANDRO DA SILVA FAUSTINO",
-      "step": {
-        "start": 7500,
-        "end": 25000
-      },
-      "nif": 249071410
     },
     {
       "name": "YUE FANG ZHAO",
@@ -197657,6 +197641,14 @@
       "nif": 114374600
     },
     {
+      "name": "JOSÉ ANTÓNIO ALVES GONÇALVES",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nif": 114491712
+    },
+    {
       "name": "ARMANDO RAMOS",
       "step": {
         "start": 50001,
@@ -218137,14 +218129,6 @@
       "nif": 250859726
     },
     {
-      "name": "AMÁLIA SOCORRO DE PINA TEIXEIRA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nif": 251014959
-    },
-    {
       "name": "JOAO HONORATO SOUSA",
       "step": {
         "start": 50001,
@@ -221567,14 +221551,6 @@
         "end": 250000
       },
       "nif": 114469806
-    },
-    {
-      "name": "JOSÉ ANTÓNIO ALVES GONÇALVES",
-      "step": {
-        "start": 100001,
-        "end": 250000
-      },
-      "nif": 114491712
     },
     {
       "name": "ADOLFO ANTERO STUART DE VASCONCELOS MOURA RIBEIRO",
@@ -358531,6 +358507,14 @@
       "nipc": 507776542
     },
     {
+      "name": "RETURNCASH - CONSULTORIA, LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 507776607
+    },
+    {
       "name": "MASSA INSOLVENTE NEZITI CONFECÇÕES UNIPESSOAL, LDA",
       "step": {
         "start": 10000,
@@ -424209,6 +424193,14 @@
         "end": 50000
       },
       "nipc": 513924566
+    },
+    {
+      "name": "DAVID GOMES GONÇALVES, UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 513924710
     },
     {
       "name": "TERRAMOLDES - MAQUINAÇÕES, UNIPESSOAL LDA",
@@ -498419,6 +498411,14 @@
       "nipc": 508616590
     },
     {
+      "name": "MASSA INSOLVENTE DE CELOSTECELAGEM, LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 508619238
+    },
+    {
       "name": "COOK TECH LDA",
       "step": {
         "start": 50001,
@@ -508337,14 +508337,6 @@
         "end": 100000
       },
       "nipc": 513920498
-    },
-    {
-      "name": "DAVID GOMES GONÇALVES, UNIPESSOAL LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 513924710
     },
     {
       "name": "MURALHA DESTEMIDA UNIPESSOAL LDA",
@@ -565123,5 +565115,5 @@
       "nipc": 515760722
     }
   ],
-  "last_updated": "2026-09-17"
+  "last_updated": "2026-09-18"
 }
