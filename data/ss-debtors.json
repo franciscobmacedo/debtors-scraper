@@ -2505,14 +2505,6 @@
       "nif": 105695432
     },
     {
-      "name": "ALBERTO JORGE DE FIGUEIREDO GONÇALVES ALVES",
-      "step": {
-        "start": 7500,
-        "end": 25000
-      },
-      "nif": 105735094
-    },
-    {
       "name": "VITOR MANUEL FRANCO",
       "step": {
         "start": 7500,
@@ -9991,6 +9983,14 @@
         "end": 25000
       },
       "nif": 120697289
+    },
+    {
+      "name": "ISABEL DA CONCEIÇÃO GRAÇA ALVES ALBUQUERQUE",
+      "step": {
+        "start": 7500,
+        "end": 25000
+      },
+      "nif": 120715902
     },
     {
       "name": "FERNANDO DE JESUS FIGUEIREDO GONÇALVES",
@@ -20887,14 +20887,6 @@
         "end": 25000
       },
       "nif": 138828687
-    },
-    {
-      "name": "ANTÓNIO DA SILVA COSTA NOVO",
-      "step": {
-        "start": 7500,
-        "end": 25000
-      },
-      "nif": 138840180
     },
     {
       "name": "LUÍS MANUEL MESTRE",
@@ -35039,6 +35031,14 @@
         "end": 25000
       },
       "nif": 158665228
+    },
+    {
+      "name": "MARIA HELENA MADEIRA GUIMARÃES GOACHER",
+      "step": {
+        "start": 7500,
+        "end": 25000
+      },
+      "nif": 158666305
     },
     {
       "name": "FERNANDO DA CUNHA FARIA",
@@ -56433,6 +56433,14 @@
       "nif": 182142116
     },
     {
+      "name": "EDUARDO JORGE VAZ GONÇALVES",
+      "step": {
+        "start": 7500,
+        "end": 25000
+      },
+      "nif": 182142337
+    },
+    {
       "name": "MARIA ELISABETE ANDRADE PEREIRA",
       "step": {
         "start": 7500,
@@ -62127,6 +62135,14 @@
         "end": 25000
       },
       "nif": 186837917
+    },
+    {
+      "name": "JOÃO PAULO DA SILVA RIBEIRO",
+      "step": {
+        "start": 7500,
+        "end": 25000
+      },
+      "nif": 186838654
     },
     {
       "name": "JOÃO MANUEL GOMES MAXIMINO",
@@ -121137,14 +121153,6 @@
       "nif": 225553139
     },
     {
-      "name": "ANTÓNIO AMÍLCAR MARTINS QUARESMA NUNES",
-      "step": {
-        "start": 7500,
-        "end": 25000
-      },
-      "nif": 225553627
-    },
-    {
       "name": "LUÍS MIGUEL DO CARMO TRINDADE",
       "step": {
         "start": 7500,
@@ -134175,6 +134183,14 @@
         "end": 25000
       },
       "nif": 237886740
+    },
+    {
+      "name": "ROBERT PETER GOACHER",
+      "step": {
+        "start": 7500,
+        "end": 25000
+      },
+      "nif": 237909081
     },
     {
       "name": "RICARDO MIGUEL FERREIRA SANTOS",
@@ -173985,14 +174001,6 @@
       "nif": 189488336
     },
     {
-      "name": "ANABELA LEITE DA MOTA",
-      "step": {
-        "start": 25001,
-        "end": 50000
-      },
-      "nif": 189490802
-    },
-    {
       "name": "GENTIL MANUEL CASIMIRO MARQUES",
       "step": {
         "start": 25001,
@@ -199551,6 +199559,14 @@
         "end": 100000
       },
       "nif": 138706999
+    },
+    {
+      "name": "ANTÓNIO DA SILVA COSTA NOVO",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nif": 138840180
     },
     {
       "name": "ANTÓNIO ADALBERTO MACEDO CORREIA",
@@ -289633,14 +289649,6 @@
         "end": 50000
       },
       "nipc": 503988103
-    },
-    {
-      "name": "JOAO MOTA & CARMINDA LEITE LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 503988251
     },
     {
       "name": "GUINOTUBOS CANALIZACOES CLIMATIZACAO EQUIPAMENTOS LDA",
@@ -418115,6 +418123,14 @@
       "nipc": 513447253
     },
     {
+      "name": "GUIMARÃES & GOACHER, UNIPESSOAL, LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 513447970
+    },
+    {
       "name": "CONTORNO VANGUARDA - LDA",
       "step": {
         "start": 10000,
@@ -424649,6 +424665,14 @@
         "end": 50000
       },
       "nipc": 514080248
+    },
+    {
+      "name": "ESQUADRIA CORTESIA, UNIPESSOAL, LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 514080809
     },
     {
       "name": "MINDSHIRT - INDUSTRIA TEXTIL, LDA",
@@ -509107,6 +509131,14 @@
       "nipc": 514890207
     },
     {
+      "name": "LAST LAYER, UNIPESSOAL, LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 514893281
+    },
+    {
       "name": "SEGUEPRONT, LDA",
       "step": {
         "start": 50001,
@@ -563131,5 +563163,5 @@
       "nipc": 515760722
     }
   ],
-  "last_updated": "2026-09-27"
+  "last_updated": "2026-09-28"
 }
