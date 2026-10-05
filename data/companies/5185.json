@@ -25,6 +25,30 @@
   "cae": "78100",
   "cae_desc": "Selecção e colocação de pessoal"
  },
+ "518502414": {
+  "checked": "2026-10-05",
+  "slug": "predicado-boemio-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Predicado Boémio, Unipessoal Lda",
+  "morada": "Rua José Vargas, Nº 77 7800-611 Baleizão",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 3.000,00",
+  "concelho": "Beja",
+  "distrito": "Beja"
+ },
+ "518504298": {
+  "checked": "2026-10-05",
+  "slug": "fronteira-caprichosa-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Fronteira Caprichosa - Unipessoal Lda",
+  "morada": "Rua José Inácio Costa Martins (Capitão de Abril), Lote 2, Loja A R/C, Esquerdo, Aldeia Ruiva 8375-121 Sao Bartolomeu de Messines",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 1.000,00",
+  "concelho": "Silves",
+  "distrito": "Faro",
+  "cae": "49320",
+  "cae_desc": "Táxis"
+ },
  "518506045": {
   "checked": "2026-08-31",
   "slug": "blessedfrequency-unipessoal-lda",
@@ -181,6 +205,19 @@
   "cae": "1610",
   "cae_desc": "Serviços para agricultura"
  },
+ "518570355": {
+  "checked": "2026-10-05",
+  "slug": "rebeldepavao-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Rebeldepavão Unipessoal Lda",
+  "morada": "Monte da Choca, Número 5506, Choca 7630-577 São Teotónio",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 5.000,00",
+  "concelho": "Odemira",
+  "distrito": "Beja",
+  "cae": "1130",
+  "cae_desc": "Horticultura"
+ },
  "518576728": {
   "checked": "2026-09-12",
   "slug": "ratan-miah-unipessoal-lda",
@@ -219,5 +256,57 @@
   "distrito": "Santarém",
   "cae": "1610",
   "cae_desc": "Serviços para agricultura"
+ },
+ "518596273": {
+  "checked": "2026-10-05",
+  "slug": "cheeky-green-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Cheeky Green Unipessoal Lda",
+  "morada": "Estrada dos Pavorais Nº 1A 2510-325 A dos Negros",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 1.000,00",
+  "concelho": "Óbidos",
+  "distrito": "Leiria",
+  "cae": "1130",
+  "cae_desc": "Horticultura"
+ },
+ "518597130": {
+  "checked": "2026-10-05",
+  "slug": "brumas-altivas-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Brumas Altivas - Unipessoal Lda",
+  "morada": "Rua do Montinho, Nº 5 7645-212 Vila Nova de Milfontes",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 500,00",
+  "concelho": "Odemira",
+  "distrito": "Beja",
+  "cae": "1610",
+  "cae_desc": "Serviços para agricultura"
+ },
+ "518598608": {
+  "checked": "2026-10-05",
+  "slug": "parcelas-ambiciosas-unipessoal-lda",
+  "estado": "Em Atividade",
+  "nome": "Parcelas Ambiciosas - Unipessoal Lda",
+  "morada": "Rua Parque da República 116 4430-164 Vila Nova de Gaia",
+  "forma": "Sociedade Unipessoal",
+  "capital": "€ 1.000,00",
+  "concelho": "Vila Nova de Gaia",
+  "distrito": "Porto",
+  "cae": "41200",
+  "cae_desc": "Construção de edifícios"
+ },
+ "518599884": {
+  "checked": "2026-10-05",
+  "slug": "cosmic-street-lda",
+  "estado": "Em Atividade",
+  "nome": "Cosmic Street, Lda",
+  "morada": "Pátio do Carrasco, Nº 7, 2º 1100-078 Lisboa",
+  "forma": "Sociedade por Quotas",
+  "capital": "€ 4.000,00",
+  "concelho": "Lisboa",
+  "distrito": "Lisboa",
+  "cae": "56101",
+  "cae_desc": "Restaurantes tradicionais"
  }
 }
