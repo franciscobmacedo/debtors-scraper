@@ -28369,14 +28369,6 @@
       "nif": 151300941
     },
     {
-      "name": "PAULO CARLOS DIREITINHO LAVADINHO",
-      "step": {
-        "start": 7500,
-        "end": 25000
-      },
-      "nif": 151319847
-    },
-    {
       "name": "ANTÓNIO VICENTE PACIÊNCIA",
       "step": {
         "start": 7500,
@@ -430251,14 +430243,6 @@
       "nipc": 514789093
     },
     {
-      "name": "NEGODIAL - SERVIÇOS, UNIPESSOAL LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 514789204
-    },
-    {
       "name": "ADEQUATINGREDIENT LDA",
       "step": {
         "start": 10000,
@@ -491187,14 +491171,6 @@
       "nipc": 507546814
     },
     {
-      "name": "MAGICBAGS LDA",
-      "step": {
-        "start": 50001,
-        "end": 100000
-      },
-      "nipc": 507547098
-    },
-    {
       "name": "COSTURA MONTE DAS RUAS UNIPESSOAL LDA",
       "step": {
         "start": 50001,
@@ -533411,6 +533387,14 @@
       "nipc": 507546199
     },
     {
+      "name": "MAGICBAGS LDA",
+      "step": {
+        "start": 100001,
+        "end": 250000
+      },
+      "nipc": 507547098
+    },
+    {
       "name": "MJP SERRALHARIA DE CONSTRUÇÃO CIVIL LDª",
       "step": {
         "start": 100001,
@@ -561635,5 +561619,5 @@
       "nipc": 516826646
     }
   ],
-  "last_updated": "2026-10-25"
+  "last_updated": "2026-10-26"
 }
