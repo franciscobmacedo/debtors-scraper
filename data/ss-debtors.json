@@ -251179,6 +251179,14 @@
       "nipc": 500752184
     },
     {
+      "name": "TORRES & PARENTE S.A.",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 500753431
+    },
+    {
       "name": "STI SISTEMAS TECNICAS INDUSTRIAIS LD",
       "step": {
         "start": 10000,
@@ -384763,14 +384771,6 @@
       "nipc": 509036937
     },
     {
-      "name": "PÃO QUENTE AVÓ NELA, LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 509037143
-    },
-    {
       "name": "MANUEL BAPTISTA LOUSADO, UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -454811,6 +454811,14 @@
       "nipc": 516851101
     },
     {
+      "name": "PLANETPERSISTENCE UNIPESSOAL LDA",
+      "step": {
+        "start": 10000,
+        "end": 50000
+      },
+      "nipc": 516853112
+    },
+    {
       "name": "VÉRTICE LATERAL UNIPESSOAL LDA",
       "step": {
         "start": 10000,
@@ -462697,14 +462705,6 @@
         "end": 50000
       },
       "nipc": 517719967
-    },
-    {
-      "name": "UZBETRANSIT - TRANSPORTES LDA",
-      "step": {
-        "start": 10000,
-        "end": 50000
-      },
-      "nipc": 517720787
     },
     {
       "name": "EDENTOWN UNIPESSOAL LDA",
@@ -501977,6 +501977,14 @@
         "end": 100000
       },
       "nipc": 509034292
+    },
+    {
+      "name": "PÃO QUENTE AVÓ NELA, LDA",
+      "step": {
+        "start": 50001,
+        "end": 100000
+      },
+      "nipc": 509037143
     },
     {
       "name": "TEXWEAVE - TÊXTEIS, LDA",
@@ -567115,5 +567123,5 @@
       "nipc": 516826646
     }
   ],
-  "last_updated": "2026-11-08"
+  "last_updated": "2026-11-09"
 }
